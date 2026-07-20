@@ -1,16 +1,91 @@
-# Sample site navigation bar links
-
 - title: Home
   url: /
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
-# - title: Search
-#   url: /search/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html
+
+- title: Assuntos do Blog
+  url: "#"
+  children:
+    - title: Fisiologia para o autoconhecimento
+      url: /tags/#fisiologia-para-o-autoconhecimento
+    - title: Práticas Integrativas e Complementares
+      url: /tags/#práticas-integrativas-e-complementares
+    - title: Medicina Tradicional Chinesa
+      url: /tags/#medicina-tradicional-chinesa
+    - title: Fitoterapia
+      url: /tags/#fitoterapia
+    - title: Dietoterapia
+      url: /tags/#dietoterapia
+    - title: Psicanálise e Hipnoterapia
+      url: /tags/#psicanálise-e-hipnoterapia
+    - title: Neurociência e PNL
+      url: /tags/#neurociência-e-pnl
+    - title: Alquimia
+      url: /tags/#alquimia
+    - title: Filosofia Antiga
+      url: /tags/#filosofia-antiga
+    - title: Metafísica
+      url: /tags/#metafísica
+    - title: Hermetismo
+      url: /tags/#hermetismo
+    - title: Parapsicologia
+      url: /tags/#parapsicologia
+    - title: Musicoterapia
+      url: /tags/#musicoterapia
+
+- title: Mapeamento da Íris
+  url: "#"
+  children:
+    - title: Escolas
+      url: /tags/#escolas
+    - title: Autores
+      url: /tags/#autores
+    - title: História
+      url: /tags/#história
+    - title: Fundamentos
+      url: /tags/#fundamentos
+    - title: Livros
+      url: /tags/#livros
+    - title: Referências Científicas
+      url: /tags/#referências-científicas
+
+- title: Políticas
+  url: "#"
+  children:
+    - title: FAC
+      url: /fac/
+    - title: Políticas de Transparência
+      url: /politicas-de-transparencia/
+    - title: Política de Privacidade
+      url: /politica-de-privacidade/
+    - title: Política de Acessibilidade
+      url: /politica-de-acessibilidade/
+    - title: Termos e Condições
+      url: /termos-de-uso/
+    - title: Política de Cookies
+      url: /politica-de-cookies/
+    - title: Sobre Mim
+      url: /about/
+    - title: Contato
+      url: /contato/
+
+- title: Autora
+  url: "#"
+  children:
+    - title: Perfil
+      url: /about/
+    - title: Biolinks
+      url: "#"
+    - title: Curriculum
+      url: "#"
+    - title: Curriculum Lattes
+      url: http://lattes.cnpq.br/7481458793724724
+    - title: Certificados
+      url: "#"
+    - title: Researchgate
+      url: "#"
+    - title: Slides
+      url: "#"
+    - title: A IA como recurso complementar
+      url: "#"
+
+- title: Referências Científicas
+  url: /tags/#referência-científica

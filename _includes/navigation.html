@@ -4,12 +4,29 @@
     <nav id="primary-nav" class="site-nav animated drop">
       <ul>
         {%- for link in site.data.navigation -%}
-          {%- if link.url contains '://' -%}
+          {%- if link.url contains '://' or link.url == '#' -%}
             {%- assign url = link.url -%}
           {%- else -%}
             {%- assign url = link.url | relative_url -%}
           {%- endif -%}
-          <li><a href="{{ url }}">{{ link.title }}</a></li>
+          
+          {% if link.children %}
+            <li class="dropdown">
+              <a href="{{ url }}" class="dropdown-toggle" style="cursor: default;">{{ link.title }} <i class="fas fa-chevron-down" style="font-size: 0.7em;"></i></a>
+              <ul class="dropdown-menu">
+                {% for child in link.children %}
+                  {%- if child.url contains '://' or child.url == '#' -%}
+                    {%- assign child_url = child.url -%}
+                  {%- else -%}
+                    {%- assign child_url = child.url | relative_url -%}
+                  {%- endif -%}
+                  <li><a href="{{ child_url }}">{{ child.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
+            <li><a href="{{ url }}">{{ link.title }}</a></li>
+          {% endif %}
         {%- endfor -%}
       </ul>
     </nav>
