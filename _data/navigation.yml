@@ -1,16 +1,17 @@
-# Sample site navigation bar links
-
 - title: Home
   url: /
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
-# - title: Search
-#   url: /search/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html
+
+- title: Assuntos do Blog
+  url: /tags/
+
+- title: Mapeamento da Íris
+  url: /tags/#mapeamento-da-iris
+
+- title: Políticas
+  url: /politicas/
+
+- title: Autora
+  url: /about/
+
+- title: Referências Científicas
+  url: /tags/#referência-científica

@@ -17,8 +17,9 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Silviane Silvério"
+description: "Práticas Integrativas e Complementares e Tecnologias de Bem-estar Social, Desenvolvimento humano, existêncial e de propósito."
+copyright: "<p>&copy; 2026 Silviane Silvério. Todos os direitos reservados.</p>"
 baseurl: "/blog" # the subpath of your site, e.g. "/blog"
 url: "https://praticasdebemestarsocial.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -58,8 +59,8 @@ feed:
 search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -91,17 +92,59 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: "Silviane Silvério"
   picture:
   email:
   twitter:
   links:
-    - title:
-      url:
-      icon:
+    - title: WhatsApp
+      url: https://wa.me/5511960319637
+      icon: fab fa-whatsapp
+    - title: ORCID
+      url: https://orcid.org/0000-0001-6311-1195
+      icon: fab fa-orcid
+    - title: Lattes
+      url: http://lattes.cnpq.br/7481458793724724
+      icon: fas fa-graduation-cap
+    - title: SciProfiles
+      url: https://sciprofiles.com/profile/silvianesilverio
+      icon: fas fa-book
+    - title: Quora
+      url: https://pt.quora.com/profile/Silviane-Silv%C3%A9rio-2
+      icon: fab fa-quora
+    - title: Academia.edu
+      url: https://independent.academia.edu/Silv%C3%A9rioSilviane
+      icon: fas fa-university
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/silvianesilverio/
+      icon: fab fa-linkedin
+    - title: YouTube
+      url: https://www.youtube.com/@olhopreditivo
+      icon: fab fa-youtube
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: WhatsApp
+    url: https://wa.me/5511960319637
+    icon: fab fa-whatsapp
+  - title: ORCID
+    url: https://orcid.org/0000-0001-6311-1195
+    icon: fab fa-orcid
+  - title: Lattes
+    url: http://lattes.cnpq.br/7481458793724724
+    icon: fas fa-graduation-cap
+  - title: SciProfiles
+    url: https://sciprofiles.com/profile/silvianesilverio
+    icon: fas fa-book
+  - title: Quora
+    url: https://pt.quora.com/profile/Silviane-Silv%C3%A9rio-2
+    icon: fab fa-quora
+  - title: Academia.edu
+    url: https://independent.academia.edu/Silv%C3%A9rioSilviane
+    icon: fas fa-university
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/silvianesilverio/
+    icon: fab fa-linkedin
+  - title: YouTube
+    url: https://www.youtube.com/@olhopreditivo
+    icon: fab fa-youtube
