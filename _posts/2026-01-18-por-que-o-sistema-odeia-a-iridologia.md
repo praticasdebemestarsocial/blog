@@ -4,7 +4,7 @@ title: "Por que o sistema odeia a iridologia?"
 date: 2026-01-18T16:51:00.005Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: ".jpg "irisdiagnose").jpg)"
+description: ".jpg 'irisdiagnose').jpg)"
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheipFpBotUhCBTmDTGo34vlwWyeCGgofxEfdA6Lc060gxZeYl1eHagRCnd7-C58mYYwJHEksBVwWTI7NvLVO03kpdUmOhcbNhgKeg5TBkiGei6thu9Mj-w-JBeReGKxxagiQE483OXk9dtF6Re8Jki-gmWMqbWWxIv_xq0j95wBvTAka2Cat3W2d7ChMQ/w524-h293/crie%20imagem%20da%20antomia%20do%20olho%20em%20ambiente%20verde%20tecnologico%20(3"
 ---
 

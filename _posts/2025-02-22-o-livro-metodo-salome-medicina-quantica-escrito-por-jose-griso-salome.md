@@ -1,10 +1,10 @@
 ---
 layout: post
-title: " O livro "Método Salomé: Medicina Quântica" , escrito por José Griso Salomé?"
+title: " O livro 'Método Salomé: Medicina Quântica' , escrito por José Griso Salomé?"
 date: 2025-02-22T00:36:00.001Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
-description: "O livro "Método Salomé: Medicina Quântica" , escrito por José Griso Salomé?"
+description: "O livro 'Método Salomé: Medicina Quântica' , escrito por José Griso Salomé?"
 ---
 
 ## O livro "Método Salomé: Medicina Quântica" , escrito por José Griso Salomé?

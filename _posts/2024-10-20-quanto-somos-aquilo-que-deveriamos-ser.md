@@ -4,7 +4,7 @@ title: "Quanto somos aquilo que deveriamos ser?"
 date: 2024-10-20T21:14:00Z
 tags: []
 categories: ["bem-estar"]
-description: "A questão "Quando somos aquilo que devemos ser?" pode ser entendida sob várias"
+description: "A questão 'Quando somos aquilo que devemos ser?' pode ser entendida sob várias"
 ---
 
 A questão "Quando somos aquilo que devemos ser?" pode ser entendida sob várias

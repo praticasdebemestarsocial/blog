@@ -5,7 +5,7 @@ date: 2025-10-12T23:15:00.001Z
 tags: []
 categories: ["bem-estar"]
 description: "Título: Existe relação entre a pupila e o sistema nervoso e cognitivo? O que a"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiydI0u4Enxjh5ndJt4RvQvj7PWhkBfCA6SnrjQZwueB119CFhncJWtsGtmTYEsw7kbX14ZPBi4a_21xhgAx6MSf7O98pBN281ljL3t4KuAKRIy0Poyz1w3x5V5uV8u_DrnAIaVn6NC7KQc/w320-h193/o-que-e-um-poligrafo-4.jpg "iridologiatemposaude""
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiydI0u4Enxjh5ndJt4RvQvj7PWhkBfCA6SnrjQZwueB119CFhncJWtsGtmTYEsw7kbX14ZPBi4a_21xhgAx6MSf7O98pBN281ljL3t4KuAKRIy0Poyz1w3x5V5uV8u_DrnAIaVn6NC7KQc/w320-h193/o-que-e-um-poligrafo-4.jpg"
 ---
 
 Título: Existe relação entre a pupila e o sistema nervoso e cognitivo? O que a

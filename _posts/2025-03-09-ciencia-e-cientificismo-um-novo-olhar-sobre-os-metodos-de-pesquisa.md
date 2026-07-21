@@ -4,7 +4,7 @@ title: "Ciência é Cientificismo? Um Novo Olhar Sobre os Métodos de Pesquisa"
 date: 2025-03-09T22:10:00.001Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
-description: ""Ciência é Cientificismo? Um Novo Olhar Sobre os Métodos de Pesquisa""
+description: "'Ciência é Cientificismo? Um Novo Olhar Sobre os Métodos de Pesquisa'"
 image: "https://i.ibb.co/N6PW6chF/c27bfba62213.png"
 ---
 

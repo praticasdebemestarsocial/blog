@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Anatomia do Invisível: A Neurobiologia do "Sexto Sentido" e os Campos Bioenergéticos"
+title: "A Anatomia do Invisível: A Neurobiologia do 'Sexto Sentido' e os Campos Bioenergéticos"
 date: 2026-06-14T21:53:39.619Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]

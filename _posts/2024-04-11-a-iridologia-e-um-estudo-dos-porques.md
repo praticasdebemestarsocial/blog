@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "A iridologia é um estudo dos "porquês"?"
+title: "A iridologia é um estudo dos 'porquês'?"
 date: 2024-04-11T08:57:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "A iridologia é um estudo dos "porquês"?"
+description: "A iridologia é um estudo dos 'porquês'?"
 ---
 
 ## A iridologia é um estudo dos "porquês"?

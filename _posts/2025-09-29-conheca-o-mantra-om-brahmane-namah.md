@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Conheça O mantra "Oṃ Brahmaṇe Namaḥ"
+title: "Conheça O mantra 'Oṃ Brahmaṇe Namaḥ"
 date: 2025-09-29T03:13:00Z
 tags: ["musicoterapia"]
 categories: ["bem-estar"]
-description: "Conheça O mantra "Oṃ Brahmaṇe Namaḥ""
+description: "Conheça O mantra 'Oṃ Brahmaṇe Namaḥ'"
 ---
 
 # Conheça O mantra "Oṃ Brahmaṇe Namaḥ"

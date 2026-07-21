@@ -5,7 +5,7 @@ date: 2025-10-11T21:33:00Z
 tags: []
 categories: ["bem-estar"]
 description: "História da Iridologia"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWLTo6mbOtiVJWK-efw7Z-iBCKGxDsRrhm4iyKf68u4jR-Bk4K-MTe1WU5KU8ADIwRn5KHEyGs1Sacj9zcE8LNDJxKRnJiyLqCTNo_bIxfie5lYScwwrvly_WU3WFprXlyZ_WZKOawJCc/w597-h271/IRIS5.jpg "tempodesaudeiridologia""
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWLTo6mbOtiVJWK-efw7Z-iBCKGxDsRrhm4iyKf68u4jR-Bk4K-MTe1WU5KU8ADIwRn5KHEyGs1Sacj9zcE8LNDJxKRnJiyLqCTNo_bIxfie5lYScwwrvly_WU3WFprXlyZ_WZKOawJCc/w597-h271/IRIS5.jpg"
 ---
 
 ## História da Iridologia

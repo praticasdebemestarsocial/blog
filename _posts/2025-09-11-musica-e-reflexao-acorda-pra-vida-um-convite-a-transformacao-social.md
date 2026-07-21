@@ -1,10 +1,10 @@
 ---
 layout: post
-title: " Música e Reflexão: "Acorda pra Vida" – Um Convite à Transformação Social"
+title: " Música e Reflexão: 'Acorda pra Vida' – Um Convite à Transformação Social"
 date: 2025-09-11T16:36:00.002Z
 tags: ["musicoterapia"]
 categories: ["bem-estar"]
-description: "Música e Reflexão: "Acorda pra Vida" – Um Convite à Transformação Social"
+description: "Música e Reflexão: 'Acorda pra Vida' – Um Convite à Transformação Social"
 ---
 
 # Música e Reflexão: "Acorda pra Vida" – Um Convite à Transformação Social

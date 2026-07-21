@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Nature Cure: Philosophy & Practice" de Henry Lindlahr"
+title: "Nature Cure: Philosophy & Practice' de Henry Lindlahr"
 date: 2025-03-05T01:22:00.003Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
-description: ""Nature Cure: Philosophy & Practice" de Henry Lindlahr"
+description: "'Nature Cure: Philosophy & Practice' de Henry Lindlahr"
 ---
 
 ## "Nature Cure: Philosophy & Practice" de Henry Lindlahr

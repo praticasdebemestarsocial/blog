@@ -4,7 +4,7 @@ title: "O que fala o livro zonas reflexas?"
 date: 2024-04-11T07:00:00.010Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
-description: "O Que Fala o Livro "Zonas Reflexas"?"
+description: "O Que Fala o Livro 'Zonas Reflexas'?"
 image: "https://i.ibb.co/nqQJVy5s/0c5df54e13c5.png"
 ---
 

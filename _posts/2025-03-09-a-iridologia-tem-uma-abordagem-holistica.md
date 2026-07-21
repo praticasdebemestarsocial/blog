@@ -4,7 +4,7 @@ title: "A iridologia tem uma abordagem holística?"
 date: 2025-03-09T23:37:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: ""Iridologia e Saúde Holística: Uma Visão Integral do Bem-Estar""
+description: "'Iridologia e Saúde Holística: Uma Visão Integral do Bem-Estar'"
 ---
 
 ## "Iridologia e Saúde Holística: Uma Visão Integral do Bem-Estar"

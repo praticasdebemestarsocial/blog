@@ -4,7 +4,7 @@ title: "Renascimento 2.0: Estamos Viviendo uma Nova Era de Transformação?"
 date: 2025-03-10T00:48:00.006Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
-description: ""Renascimento 2.0: Estamos Viviendo uma Nova Era de Transformação?""
+description: "'Renascimento 2.0: Estamos Viviendo uma Nova Era de Transformação?'"
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix80hXKdsYh_mD26K6h_fjBME_Nz7l4fqAnUWC3Zf55VvERMmX7Od-vAR6TDiJG-1LaTs5MYyGLJ5pOD4ztkRx96hEt4ZzWgz6x80-CDuml8jaTFhuZ1eZ2ufUojVfhkSe3JFOAS6T4CM_arfCkSKK8By5MWiKLSZs4OpY3Uf-KG-snuHOGp-E1rlufLs/w637-h359/Renascimento_2.0_Estamos_Viviendo_uma_Nova_Era_de_Transforma%C3%A7%C3%A3o.png"
 ---
 

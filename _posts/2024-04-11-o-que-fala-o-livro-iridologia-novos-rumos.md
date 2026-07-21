@@ -4,7 +4,7 @@ title: "O que fala o livro Iridologia Novos Rumos?"
 date: 2024-04-11T05:22:00.002Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
-description: ""Iridologia - Novos Rumos: Entre a Tradição e a Modernidade""
+description: "'Iridologia - Novos Rumos: Entre a Tradição e a Modernidade'"
 image: "https://i.ibb.co/vvH3C7T6/58bccbe6e724.png"
 ---
 

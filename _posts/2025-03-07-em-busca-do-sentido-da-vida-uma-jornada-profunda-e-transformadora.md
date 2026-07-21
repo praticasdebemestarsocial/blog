@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Em Busca do Sentido da Vida" – Uma Jornada Profunda e Transformadora"
+title: "Em Busca do Sentido da Vida' – Uma Jornada Profunda e Transformadora"
 date: 2025-03-07T07:32:00.005Z
 tags: ["livros"]
 categories: ["bem-estar"]
-description: ""Em Busca do Sentido da Vida" – Uma Jornada Profunda e Transformadora"
+description: "'Em Busca do Sentido da Vida' – Uma Jornada Profunda e Transformadora"
 ---
 
 ## "Em Busca do Sentido da Vida" – Uma Jornada Profunda e Transformadora

@@ -4,7 +4,7 @@ title: "Cura Pela Água: A Nova Ciência de Equilibrar o Corpo de forma natural"
 date: 2025-03-09T09:29:00.001Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
-description: ""Cura Pela Água: A Nova Ciência de Equilibrar o Corpo sem Químicos""
+description: "'Cura Pela Água: A Nova Ciência de Equilibrar o Corpo sem Químicos'"
 image: "https://i.ibb.co/6JnW1f7S/2461e3455113.png"
 ---
 

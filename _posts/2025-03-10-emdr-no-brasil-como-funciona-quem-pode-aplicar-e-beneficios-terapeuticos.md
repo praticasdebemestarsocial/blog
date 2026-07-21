@@ -4,7 +4,7 @@ title: "EMDR no Brasil: Como Funciona, Quem Pode Aplicar e Benefícios Terapêut
 date: 2025-03-10T04:56:00.008Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
-description: ""EMDR : Como Funcionam e Sua Aplicação no Brasil""
+description: "'EMDR : Como Funcionam e Sua Aplicação no Brasil'"
 ---
 
 ## "EMDR : Como Funcionam e Sua Aplicação no Brasil"

@@ -4,7 +4,7 @@ title: "Mudança de paradigmas na educação. Bulling e os valores humanos."
 date: 2024-04-08T04:06:00.037Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
-description: ""Mudança de Paradigmas na Educação: Combatendo o Bullying com Valores Humanos""
+description: "'Mudança de Paradigmas na Educação: Combatendo o Bullying com Valores Humanos'"
 ---
 
 ## "Mudança de Paradigmas na Educação: Combatendo o Bullying com Valores Humanos"

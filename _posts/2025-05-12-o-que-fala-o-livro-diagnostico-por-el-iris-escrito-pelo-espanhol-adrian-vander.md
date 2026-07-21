@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "O que fala o livro "Diagnóstico por el Iris" , escrito pelo espanhol Adrián Vander ?"
+title: "O que fala o livro 'Diagnóstico por el Iris' , escrito pelo espanhol Adrián Vander ?"
 date: 2025-05-12T11:09:00.002Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
-description: "O que fala o livro "Diagnóstico por el Iris" , escrito pelo espanhol Adrián Vander ?"
+description: "O que fala o livro 'Diagnóstico por el Iris' , escrito pelo espanhol Adrián Vander ?"
 ---
 
 # O que fala o livro "Diagnóstico por el Iris" , escrito pelo espanhol Adrián Vander ?

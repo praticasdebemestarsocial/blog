@@ -4,7 +4,7 @@ title: "Iridogia Prática: Usando o Olho como um Guia para Riscos de Saúde e Be
 date: 2025-03-09T22:46:00.003Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
-description: ""Iridologia Prática: Descubra os Segredos da Saúde Através dos Olhos com Peter Jackson-Main""
+description: "'Iridologia Prática: Descubra os Segredos da Saúde Através dos Olhos com Peter Jackson-Main'"
 image: "https://i.ibb.co/p65rrPH3/326add028526.png"
 ---
 
