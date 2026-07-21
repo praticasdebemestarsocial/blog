@@ -1,63 +1,37 @@
-# Blog - Práticas de Bem-Estar Social
+# Práticas de Bem-Estar Social
 
-Este repositório contém o código-fonte do blog estático, migrado do Blogger para o **Jekyll**.
+Este é um blog construído com [Jekyll](https://jekyllrb.com/) utilizando uma estrutura baseada no tema [So Simple Theme](https://github.com/mmistakes/so-simple-theme). Ele foi migrado a partir do Blogger e otimizado para melhor performance e SEO.
 
-## Estrutura do Projeto
+## 🚀 Como rodar localmente
 
-- `_posts/`: Contém todos os artigos do blog em formato Markdown.
-- `assets/`: Arquivos estáticos (CSS, imagens, JavaScript).
-- `_layouts/` e `_includes/`: Estrutura HTML e templates do tema.
-- `migrar_posts.py`: Script em Python utilizado para converter o XML do Blogger e fazer o upload das imagens.
+Este projeto utiliza Ruby e Bundler para gerenciar as dependências do Jekyll. Não é necessário Docker.
 
-## Como Rodar Localmente
-
-Para testar o site na sua máquina e visualizar as alterações antes da publicação:
-
-### Pré-requisitos
-- **Ruby** (versão 2.7 ou superior)
-- **Bundler** (`gem install bundler`)
-
-### Instalação
-
-1. Clone o repositório e acesse a pasta:
+1. Instale o [Ruby](https://rubyinstaller.org/) (se estiver no Windows, use o RubyInstaller).
+2. Instale o Bundler executando:
    ```bash
-   git clone https://github.com/praticasdebemestarsocial/blog.git
-   cd blog
+   gem install bundler
    ```
-2. Instale as dependências listadas no `Gemfile`:
+3. Instale as dependências do projeto:
    ```bash
    bundle install
    ```
+4. Inicie o servidor local do Jekyll:
+   ```bash
+   bundle exec jekyll serve
+   ```
+5. Acesse no navegador: `http://localhost:4000/blog/`
 
-### Iniciando o Servidor
+## 🛠️ Modificações e Ferramentas de Migração
 
-Execute o comando abaixo para iniciar o Jekyll:
-```bash
-bundle exec jekyll serve
-```
-O blog ficará disponível em **http://localhost:4000**. As atualizações serão feitas automaticamente (live reload) sempre que você salvar um arquivo.
+- **Migração do Blogger:** 842 posts foram convertidos de XML/HTML para Markdown.
+- **Limpeza de Links:** URLs quebradas, imagens duplicadas e erros de parsing (ex: `.gif).gif)`) foram corrigidos em lote com scripts Python.
+- **Hospedagem de Imagens:** As imagens originais do Blogger foram migradas em parte para o **ImgBB** via API, e o restante foi baixado e hospedado localmente na pasta `assets/img/posts/`.
+- **Correção da Home:** A renderização da página inicial e tags foi otimizada para evitar a duplicação de imagens representativas e prevenir vazamentos de links, desabilitando globalmente os excertos automáticos.
 
-## Como Criar Novos Posts
+## 📂 Estrutura de Diretórios
 
-Os posts devem ser salvos na pasta `_posts/` seguindo o formato de nomeclatura `ANO-MES-DIA-titulo-do-post.md` (ex: `2024-05-10-dicas-de-saude.md`).
-
-Todo post deve começar com um **Frontmatter** em YAML. Exemplo:
-
-```yaml
----
-layout: post
-title: "Título do seu Post"
-date: 2024-05-10 14:00:00 -0300
-categories: ["Bem Estar", "Saúde"]
-image: "https://i.ibb.co/url-da-imagem.jpg"
----
-```
-
-Logo abaixo dos três traços (`---`), você pode escrever o conteúdo do seu post em Markdown.
-
-## Publicação e Deploy
-
-O blog utiliza o **GitHub Pages** (ou GitHub Actions). Sempre que um novo commit for feito no branch de produção, o Jekyll será compilado automaticamente e o site será atualizado.
-
----
-*Nota: Este projeto é baseado no tema [So Simple Jekyll Theme](https://mmistakes.github.io/so-simple-theme/). A documentação original do tema pode ser consultada na web caso precise de detalhes avançados sobre sua estilização.*
+- `_posts/` - Contém todos os posts em Markdown.
+- `_includes/` - Componentes de layout (ex: `entry.html`).
+- `assets/` - Imagens hospedadas localmente, CSS e JavaScript.
+- `*.py` - Scripts utilitários de limpeza e migração do conteúdo antigo.
+- `.planning/` - Logs gerados por agentes de automação do projeto.
