@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: ""As Bases da Iridologia Alemã: A Herança Científica e Artística do Dr. Celso Battello""
 ---
 
-[![](https://i.ibb.co/TDzFKY2m/dd23d6bfeca8.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJYoW5KXrPlU6DubwnPZ7ogr75sqJgnuq2KAeI8OuqB4i5Hmpz68IhAoC6tS35sTaS374P7UXBgydnZPkz2DCfszkIhFYJNOwgtvjJYE_vFicie7bna_dIH9VynIUIPTxfQQgZX2EBBTi1Iy3X4l1KHkb5LJWVkg3PlsKpw6ZL-DCoBMDCUTW8RUm8-pc/s1200/As_Bases_da_Iridologia_Alem%C3%A3.png)
+![](https://i.ibb.co/TDzFKY2m/dd23d6bfeca8.png)
 
 ## "As Bases da Iridologia Alemã: A Herança Científica e Artística do Dr. Celso Battello"
 

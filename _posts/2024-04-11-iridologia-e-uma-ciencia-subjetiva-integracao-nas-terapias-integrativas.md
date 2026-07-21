@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Qual a  Perspectiva da iridologia nas Ciências Subjetivas e sua Integração nas Terapias Integrativas?"
 ---
 
-[![](https://i.ibb.co/kgxqRrGT/c130d66c4e4b.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn7HDLJjPybWkq9j45V28ccQ3PskPRWu08vMX-XBkuFbD1ta8NpLxWSCxkSXMcYI8dN2cS9dSI0pTvaiJPsDIOU8xOWrXIbhNP-ifvVD4zxgXChF5ThOsZ9d7tuUgzVO4PPs9UicX8TwUd71p9I1Haw8DcdiU3sGpzRSnqWOEhxTBcOzKSnhs2wjgYNbs/s1200/Iridologia_%C3%A9_uma_Ci%C3%AAncia_Subjetiva_Integra%C3%A7%C3%A3o_nas_Terapias_Integrativas.png)
+![](https://i.ibb.co/kgxqRrGT/c130d66c4e4b.png)
 
 ## Qual a  Perspectiva da iridologia nas Ciências Subjetivas e sua Integração nas Terapias Integrativas?
 

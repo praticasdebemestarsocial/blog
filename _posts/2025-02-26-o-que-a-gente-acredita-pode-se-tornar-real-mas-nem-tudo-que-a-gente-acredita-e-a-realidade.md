@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que acreditamos pode influenciar nossa realidade, mas isso não significa que tudo o que acreditamos seja, de fato, a verdade absoluta."
 ---
 
-[![](https://i.ibb.co/BHpJrmKr/5e1e885786ed.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUlKuECP3e1LdNnhSTniTE9X67GLdlpbnqQn1i75X0Azher4A-ThgTUMAn0a3xpypofYKuFh6K1uMFq_0aZt3RL0TvvnYe4OcSuEAiXek7KCOD5pUKHJcEniXLLsl-9ZYokQfgJLGNqSVbMPTM3M8KlIyT0CZVyuo48w9qgNGng40RMCxcZUNw2bqEM-E/s1200/O%20que%20a%20gente%20acredita_pode%20se%20tornar%20real_mas%20nem%20tudo%20que_a%20gente%20acredita_%20%C3%A9%20a%20realidade.png)
+![](https://i.ibb.co/BHpJrmKr/5e1e885786ed.png)
 
   
 O que acreditamos **pode influenciar nossa realidade**, mas isso não significa que **tudo o que acreditamos seja, de fato, a verdade absoluta**.

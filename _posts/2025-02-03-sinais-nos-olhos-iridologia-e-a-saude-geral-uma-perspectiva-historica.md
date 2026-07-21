@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Sinais nos olhos, Iridologia e a Saúde Geral: Uma Perspectiva Histórica"
 ---
 
-[![](https://i.ibb.co/9kLB7xxr/f7e7a442aca2.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMyLB6td56r-KEomj-VwiHjceYiCetqIyB16rBN7Pua1cNegrBI_kVfWfdyCopWGugpMIlmUQ73XHgCFBzEFSY6Jz6Xv1_zusRYyYziKscZfuAJW3R-nyyiI0U-V6YDLIbo-LGk0AWn9RucxUK4e55nafUqf6M1gA4wJenaOKC_IzM8qIiKks_lniZ9dQ/s1200/Sinais_nos_olhos_Iridologia_e_a_Sa%C3%BAde_Geral_Uma_Perspectiva_Hist%C3%B3rica.png)
+![](https://i.ibb.co/9kLB7xxr/f7e7a442aca2.png)
 
 ## Sinais nos olhos, Iridologia e a Saúde Geral: Uma Perspectiva Histórica
 
@@ -76,7 +76,7 @@ entendimento da vida e da morte. O culto aos deuses e a crença na vida após a
 morte influenciaram muitos aspectos da vida cotidiana e da arte, refletindo um
 nível de pensamento filosófico que ainda não é totalmente compreendido.
 
-[![](https://i.ibb.co/WNR55Xdz/a2aae89ff218.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfv5_dffQyVNf1twi35XNEGelCHEY5aG8rab6hmtgAedKO22gGdlMzKIGyA0pu2gcCwsvJQeANR8lYLNxXm5HwgJual3NRGqOjqFcAETLc9vwf2PZrEmFq804oyHh76cRGSq0CsC_SB6XMoAQUVmGp1YehVKcG1b5vX2DSytEYPnSt2d-yrSB5VeekvWQ/s414/olho_de_h%C3%B3rus_udyat.jpg)
+![](https://i.ibb.co/WNR55Xdz/a2aae89ff218.jpg)
 
 #### O **Olho de Hórus:**mitologia, a saúde e a visão holística
 

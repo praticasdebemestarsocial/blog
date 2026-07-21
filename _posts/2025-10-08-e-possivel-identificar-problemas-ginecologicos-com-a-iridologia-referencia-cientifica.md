@@ -32,7 +32,7 @@ iridológica.
 
   
 
-[![](https://i.ibb.co/LzLVH8PR/cfde0047e18d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXX9DdKdQhCrSVoqzTKqS4uLz5MGpcdXwYyJJ8oFFS_cQpCmU8eEoojhSGDl8JRQ6wjNAEM8F4WgASfjawo7CqK5p_8Saik1XLmUsIUXAT9RZDmzKyIkftVjEYZwjeF8Pnwc8IaPRTWSo5alBeM0SwWiJHDM3lkOHuaXZCrMI6uRgX4N9vZfYw015AeLs/s1637/MAPA_BERNARD_JENSEN.jpg)
+![](https://i.ibb.co/LzLVH8PR/cfde0047e18d.jpg)
 
   
   

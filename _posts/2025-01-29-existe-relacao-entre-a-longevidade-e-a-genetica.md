@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Existe Relação Entre a Longevidade e a Genética?"
 ---
 
-[![](https://i.ibb.co/8DzLmLmW/5c936101f9b9.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSdQ5GtGYnsY7k0u5ZBIltuJaX6r7NQDiHyWBB9T1v1yKR6iRUelCLomVzBfQhEDHCuC4LZk7COxG5hSdzsR7LulfZ6v6s-FGiigg0xf96Ge3p-zcuKXHFbOde0KZFA81rwuE0xb1qRY1-ftl6mYwHgJyWjgfKv8_u169zY2oQrkIQR8aQy9n2zhHN3-c/s1200/Existe_rela%C3%A7%C3%A3o_entre_a_longevidade_e_a_gen%C3%A9tica.png)
+![](https://i.ibb.co/8DzLmLmW/5c936101f9b9.png)
 
   
 

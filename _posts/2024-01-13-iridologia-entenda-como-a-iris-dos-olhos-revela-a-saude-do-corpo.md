@@ -4,10 +4,10 @@ title: "Iridologia: Entenda Como a Íris dos Olhos Revela a Saúde do Corpo"
 date: 2024-01-13T04:17:00.012Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "!(https://i.ibb.co/Txp1q37J/db0b8d69a1b6.jpg)(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilFlWIeVMpJ-ymQh5N4mQn42qbJcp6rdEQFdxlMvYnEQ6..."
+description: "Iridologia: Entenda Como a Íris dos Olhos Revela a Saúde do Corpo"
 ---
 
-[![](https://i.ibb.co/Txp1q37J/db0b8d69a1b6.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilFlWIeVMpJ-ymQh5N4mQn42qbJcp6rdEQFdxlMvYnEQ6WQfzW586usbhe5YgxpUW5fRQQ0BqH77dQBatrKMqFTm5z9w3eIL3ZXlJ3h6fbFg2m7s44ybUSHYuGgpzwzGIx02qToYXOxTZ48ALJapEdTwtGAhPhD8miDWVet0IeF9W1LEN2XNIbWAkpfEc/s2240/Iridologia_%C3%8Dris_Olhos_Revela_Sa%C3%BAde.webp)
+![](https://i.ibb.co/Txp1q37J/db0b8d69a1b6.jpg)
 
 # Iridologia: Entenda Como a Íris dos Olhos Revela a Saúde do Corpo
 
@@ -67,7 +67,7 @@ Essas informações são especialmente valiosas em abordagens de prevenção e
 cuidado integrativo, pois revelam desequilíbrios antes que se transformem em
 sintomas mais severos.
 
-[![](https://i.ibb.co/Tq79ZV58/a6c1ba772974.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3q0aVeBFZXUd9wRD0UqbzZbXgsCto6Cp9rSa89JrsmcrJhmKGHSUP-vxHtFujz5R5RicKEQAH5jk8PNkpYXO2lDFMZ9XutwPhwu32hspUsuo7dJIVC0lV9fXpKFhXLABWUgHvvx7BUwuWk_4KBJaBTr4Wx4n4wwiN-dQ-yNPLJzRkk1b72H8AJiYIKPE/s356/images.png)
+![](https://i.ibb.co/Tq79ZV58/a6c1ba772974.png)
 
 ## Principais Sinais Identificados na Iridologia e Seus Significados
 
@@ -156,15 +156,15 @@ quanto nossa saúde interna. A Iridologia permite que essas observações sejam
 usadas de forma preventiva, ajudando a promover uma saúde mais equilibrada e
 consciente.
 
-[![](https://i.ibb.co/HfLgCc2x/5c2f68380f72.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiNeh-zvYijaR6G5ZuuQWZG5s-4apjE68IFSVfLVYqx0_uM_XGPdmDyBN4_MTqDn1dn2eBWa9FXa-aKJRAmdLh5RszYFwNIWyzbkMJAjaQPyGvrQ-FU8Bb6CGsvDuijoiXI51u8YAvHUxpkte-jo31W-tWDrxUXV7uoQcW5n81SVdM1Iia5AkAWiLA3EM/s441/Screenshot_104.png)
+![](https://i.ibb.co/HfLgCc2x/5c2f68380f72.png)
 
 Disfunções no sistema gastrointestinal e linfático que podem afetar a imunidade
 
-[![](https://i.ibb.co/ZR3g6DFc/81025d2a27b6.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPps2oRu_tvihRtjZbg1Dq5I6X6DWcQY3U78fKonrkfKCV6WjuirD1Q-g81bZwoisBXvIxZ7j5c_MDuWrFvGtDSu5cApHEnVF16S9lmkr07boiSheri0cn9_oB2CL-NvYUFr3p1x1A0d77dznPjLLYMfDYeYVdf-tbfLhHTlIenunsNNto7ZxBmNu0bdY/s329/Screenshot_106.png)
+![](https://i.ibb.co/ZR3g6DFc/81025d2a27b6.png)
 
 Desquilíbrio de ácidos e enzimas digestivas que podem vir a afetar o funcionamento gastrointestinal
 
-[![](https://i.ibb.co/ynP9Xkbx/ae8fd33eafa8.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBKYM-KyAC6MSfJaDU-pnX_pxNDoNyVG0Z8oRR8_72JyFR6WnLKi6iptVrI01xqCprVMSGlO57m9NoknJncCgfBIIQePzykB9wheO7LQgN73LC4MCltAm2HmEO885AekDayb-8-XLIzK4VbetcVnhN1Rgsyo2YP77TjrZQD-wzrMFDaR1IoENoEe5D-ec/s279/Screenshot_105.png)
+![](https://i.ibb.co/ynP9Xkbx/ae8fd33eafa8.png)
 
 Deficiência de nutrientes que podem afetar desde o sistema ósseo e a pele.
 
@@ -196,7 +196,7 @@ conteúdos como este!
 Compartilhe com amigos e familiares que buscam uma abordagem mais completa e
 holística da saúde.
 
-[![](https://i.ibb.co/m58WF4RH/273adf72cf1e.png).png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh2m3wSqF7xEhyylvrOSkhJ96ygeGBylNREKi18gD8kqzSDXi_9SZRSfhmVly-a66OWf8VOgyrfb2SGXwGIUHa2o8dgPnQ9O_AUk-r-IwWE8D8RNeGcDwnXPuz0tIbBd6vWu1-qj-_83nX5UuSne-I8gNQGfomQvIjzqkTNr0W6FzPCs00p9TtDMYFN2w/s412/Screenshot%20(4).png)  
+![](https://i.ibb.co/m58WF4RH/273adf72cf1e.png).png).png)  
   
 
 # Iridologia-Irisdiagnose: O que os olhos podem revelar

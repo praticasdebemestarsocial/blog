@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Qual a importância de fazer uma anamnese na consulta de saúde e da Iridologia?"
 ---
 
-[![](https://i.ibb.co/BSLVmBb/df5aef9c7c14.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYLDPUIGxy4-PrTxAfUJdWLIfpjrXodRl1dNu7vM1jD8q2pEmDHQ6JC0ihSDCAQNYXYQ5KjS_XTNp_GPoadOL5TvZnjk6ifFDX_K7l-X5z2f900QGwCMtqZlFg-ooiEqWtg5KH2DLLKtv8rA6XBPBZAxRhyGvCexl4VS1ZuoTi2yQ4EnYeyNfUJzQh-84/s1200/Qual_a_import%C3%A2ncia_de_fazer_uma_anamnese_na_consulta_de_sa%C3%BAde_e_da_Iridologia.png)
+![](https://i.ibb.co/BSLVmBb/df5aef9c7c14.png)
 
 ## Qual a importância de fazer uma anamnese na consulta de saúde e da Iridologia?
 

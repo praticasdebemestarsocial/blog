@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem é  Farida Sharan, fundadora da School of Natural Medicine International."
 ---
 
-[![](https://i.ibb.co/NnYkBtsf/c9dde7b0b941.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7UUB5A4yGbWd91rJIJNvPK32i0gZEGjvy-7oCyFvBNBZIz0R8EbC-7BuRXFdq0asLPbQU-9h5sqaIdoQjDuOKN5lNqu9RKIq88KPM6upNjzD7ss-RlixG7JsJq03IPmgnqbozfTt8B2ycMyMoG5i9Xv424OyQCZ1hFLhhdax7WY16N_slrUIs0lcJDjM/s1200/Quem_%C3%A9_Farida_Sharan_e_na_Iridologia.png)  
+![](https://i.ibb.co/NnYkBtsf/c9dde7b0b941.png)  
 
 ## Quem é  Farida Sharan, fundadora da School of Natural Medicine International.
 

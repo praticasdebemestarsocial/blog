@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem é Prof. Dr. Pr. Jean Alves Cabral?"
 ---
 
-[![](https://i.ibb.co/rGzpwqsJ/452657d2c6ab.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJrnv1GOn6Dm6yaMHXTsK5MHdXGLfWMTvZfLeUFtIlFhNm66wwGSwcIH57oS2Kyc935iWwUEIoT5fKetAIzWGfFj7N0veKUxg_YQPAJ-ajLDEMLSSXfOPZgYg_6qhjXJZ26A8yoVERyqtpdrmkTE1T5UmemI5MDhvxvHFFn4hskQMpkYMxYWBUh0aofz4/s1200/Quem_%C3%A9_Prof_Dr_Pr_Jean_Alves_Cabral.png)
+![](https://i.ibb.co/rGzpwqsJ/452657d2c6ab.png)
 
 ## Quem é Prof. Dr. Pr. Jean Alves Cabral?
 
@@ -33,15 +33,15 @@ tradição, responsável por formar inúmeros profissionais na área.
 Seu trabalho é pautado por uma visão cristã da vida e da realidade, enfatizando
 a importância da saúde integral e do bem-estar espiritual.  
 
-[![](https://i.ibb.co/jPH31Zm4/41c1c53ed084.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5fAlotrvS7li3uU0n2wQcCZTQ6r9h3iWwh4P50PYSfL9SsOzD_SURFZj_pLy8uBUK-8CXw3pLODdoPSV_R5IF1EzVeg5fYGSV8licUR4HzkyP2GyKf0hINK5fkS9jkNWrndEEny1hEdAdTo4oZoBnXzfqnDpx3wO4qjYZDCuW8fllAvAW1Ct-6H2rckY/s258/jean.jpg)
+![](https://i.ibb.co/jPH31Zm4/41c1c53ed084.jpg)
 
-[![](https://i.ibb.co/5WCy7B44/278f1cc7ca4d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBjEvmkteyVo_IMC6p38SeENGf2InZ4R6l3uL_hfIBhF5DDISdFahhvnhGx1Z0XxBYAJK2fF2ZQAVjKpzTpRQvt9_va3WgDl_WLN_8nCiXgnhAJM4ZZbqFuG4JUk_ZNuVqFcn0NxZmtwzaayYwN6t5REv_r-47fcb8fGpbvL7vqz_GT4z6uhfYopQyBjE/s1171/Screenshot_57.jpg)
+![](https://i.ibb.co/5WCy7B44/278f1cc7ca4d.jpg)
 
 Formatura do Curso de Naturologia Clínica em 2009
 
   
 
-[![](https://i.ibb.co/M51nyLD8/631d34cb13d0.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFbP7OmpjNlGriEr4-7fag5E0TqdCjzZpznYva3b5xt9qQLFJYULDpmU4me797AAabvl9C8FwUOoJAixy7d2QhVUSnkIyQhqH9yGVV7Nnr6lpV8o1UhRaa6cIG5QYlMvNGBpPiy6vScQ1jFZd8t5XK5tJZ77O494WBpCLdqK1Iu519pE_8xa_CCh5hU44/s751/Screenshot_56.jpg)
+![](https://i.ibb.co/M51nyLD8/631d34cb13d0.jpg)
 
 ### Referências Bibliográticas:
 

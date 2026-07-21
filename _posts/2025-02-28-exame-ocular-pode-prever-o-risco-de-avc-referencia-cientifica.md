@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Exame Ocular Pode Prever o Risco de AVC? Entenda o Novo Estudo Científico"
 ---
 
-[![](https://i.ibb.co/4wrLdPt9/4aaef5cf8a72.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSUBQNbeCpePXAFhB4yHT2lKq8ERI0CmqUM_LpfrRP4nSX2bdbVWVYq0jh3mvPt11lLFVLv-l19T1wjZRoLjrthG69tCeni-S8cxPp7I-pnpzlph7KjeHipnWnDVxrH1OIFqdxMLcnnqHU9Im9wyjvwAyi5RmDJXhRRSOtZ50mFvZEd4XrsZRdlaz52s8/s1200/Exame_Ocular_Pode_Prever_o_Risco_de_AVC_Entenda_o_Novo_Estudo_Cient%C3%ADfico.png)
+![](https://i.ibb.co/4wrLdPt9/4aaef5cf8a72.png)
 
   
 

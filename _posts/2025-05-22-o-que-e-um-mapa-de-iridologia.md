@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que é um Mapa de Iridologia?"
 ---
 
-[![](https://i.ibb.co/XkZZRL6W/9530e367b44b.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ9vVA3BjqjviGok4V9CI9tndfypfXZuaFB_ITVTuGHebleMvVHyT3BsWxCLDzXFkZtLOCqps3NzNc0liy3ydt3TJXpS67Yps7YE6tcDfDf8HGGwRMtlhZBifT575lcvgLDm0kV4xCU1GMHnXIkaAGfl07D0HQ-WWE4rIFHpz_ckZVUKr6wL1ESaxA3kw/s1200/O_que_%C3%A9_um_Mapa_de_Iridologia.png)
+![](https://i.ibb.co/XkZZRL6W/9530e367b44b.png)
 
   
 
@@ -18,7 +18,7 @@ da íris a diferentes órgãos e sistemas do corpo humano. Funciona como uma
 "janela" para a saúde geral, permitindo identificar desequilíbrios, fragilidades
 e potenciais toxinas por meio da análise das cores, texturas e marcas na íris.
 
-[![](https://i.ibb.co/xq1QNYvD/8b2a819a3723.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU-22VZTQeq65I-QL7QfqknL_meFVtI7FypnYdcXidWnaFKLn8q8_KDav_rIShoqPO2RHVlQIE4H7iINE-dSshPoyrPi2mUOdBJGffV60qzcNp1V7i_wftmLDrbr_FhnstFBlGozMNg6FXLXsYcv4FlxKHxTtplVsfsshTpXYckUCDSJprg21T1pOfppM/s922/Screenshot_48.jpg)
+![](https://i.ibb.co/xq1QNYvD/8b2a819a3723.jpg)
 
 ---
 
@@ -33,7 +33,7 @@ e potenciais toxinas por meio da análise das cores, texturas e marcas na íris.
 
 ---
 
-[![](https://i.ibb.co/Nk5CC0t/b004a458fc6c.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxqF2cUA_uw7BhEqf7nkausg7hB_cOJoxIqmO7qtRMNxy-D8-K5gJfhJOiK-3aIcSGDsF-jJdtNFGi7ykxXUvr8KHjzRt3037kqoXpV5sBRsvYDLJ6FeVaeBspGJOU9_pGTRhCGek8riE1NlS0tjcbWtSxtHEKAjpWeH4nWw4iDtDQCi-LuQy_c4q-4PE/s890/Screenshot_32.jpg)
+![](https://i.ibb.co/Nk5CC0t/b004a458fc6c.jpg)
 
   
 

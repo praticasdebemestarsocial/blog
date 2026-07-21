@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Arte de Pesquisar: Como Fazer Pesquisa Qualitativa em Ciências Sociais"
 ---
 
-[![](https://i.ibb.co/k2M68KhG/d509226ce06e.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2QXyCpmYLonzpfnWWmpdydRKXH36IdTkd1b39G0jf0Jlj1c3X5XPZX5bhNkUe8v65hHmhSCsWiAoYaT92SIz7tPxqlKokDguNMNtzlKyBV9KVAl5ja2rVTUn3qQC3MNiRQs74MOz0pMJE6r23ywSMRNK3uggVwjEIEQ80_PQHaQKtBudcdKzSbF-mOQo/s1200/A_Arte_de_Pesquisar_Como_Fazer_Pesquisa_Qualitativa.png)
+![](https://i.ibb.co/k2M68KhG/d509226ce06e.png)
 
   
 
@@ -117,7 +117,7 @@ significativos**.
 Afinal, **pesquisar não é apenas seguir regras, mas sim um exercício de
 curiosidade, criatividade e disciplina**.
 
-[![](https://i.ibb.co/YFgrPngH/5bb022c60d44.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnsg95mBFvcCVsmoa9yueuurT71lhzeKwXZE7VE4lVGjyn9hz2tPIgiJ2EsdTYkt0fq4v0-S3zmbdVBbwbZcG6aNhLh41v8Tu-15atmfcWlYhXcBUlDFeU71y6X6y5ONLFYUKn9rfTwkvr5CWFVHGwmSWRv0R5TekDezCYtSREJuWl6GdxUNvskUQMW1s/s582/Screenshot_31.jpg)
+![](https://i.ibb.co/YFgrPngH/5bb022c60d44.jpg)
 
 # A arte de pesquisar: Como fazer pesquisa qualitativa em ciências sociais
 

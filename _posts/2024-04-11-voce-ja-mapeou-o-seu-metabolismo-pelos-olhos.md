@@ -22,7 +22,7 @@ Essa técnica possibilita um rastreamento metabólico do seu organismo com uma a
 * **porque você come um determinado alimento e não se sente bem,**
 * **porque você vem fazendo tratamento não tem resultado.**
 
-[![](https://i.ibb.co/G4SXzQ7L/e1027df9a79b.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnZ-MnwThHQ-1TTQndNypsBSHA-d1-5Po_DFzrN5kaYOuCoITvAbrTgtx6nERADW7VelUvHC3WpYwcAYS1gykv8byXd6CmFzSDOrd35PXUM7neVVW9Ik-3TPe2PmNpGCJ1DXfKpQCujmoZKnoAzd-99Am3kZN6fYaWlDiKIr7kPttyX2LYDVy06BqFfC0/s1053/mapairidologia1.png)
+![](https://i.ibb.co/G4SXzQ7L/e1027df9a79b.png)
 
   
 
@@ -36,7 +36,7 @@ O que a iridologia pode revelar para você através de um exame simples rápido 
 
 E isso pode nortear um tratamento complementar para você ter mais eficácia na recuperação e promoção do bem estar.
 
-[![](https://i.ibb.co/QF0wYBP0/ce1b8294c359.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinWFDV_VcF9kPDeATqUIPtdEeecli9pI6PmXbRpD-sq-CH3XnIkoWdN_3mfMEHKL0vknSudULXBtxZQUPgiVYZ9A1c6wP_Gey9A6ioPRG8r4Zlyki66S8y9Wy2A8pIKHlUlKiDIz25pp-sz-8-jEQL2TsXXbQsRMKpmwq28nXmJgQRyjbd6zQjkFjMeio/s675/nervootico.png)
+![](https://i.ibb.co/QF0wYBP0/ce1b8294c359.png)
 
 ## 3- Como os olhos podem oferecer informações do nosso corpo?
 

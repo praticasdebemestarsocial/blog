@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: ""Iridologia - Novos Rumos: Entre a Tradição e a Modernidade""
 ---
 
-[![](https://i.ibb.co/vvH3C7T6/58bccbe6e724.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFEsjPWrS4lPchs6ey_-GIoy0Z2W76AqbdCBFrYRqoCFCzt7-fVaPicFTldgpdzOyTT_0_atKGRKJcxj5SU0fVkQ3u2FZOYFQ1t2oUFRdcxtm92DbioshXaToJBsC6BKWEqhWdYv4RoWiGpyqLXPAehAN-El8RYP52pfw-Cye-L164eqQ8yDmqhMF7rUs/s1200/O_que_fala_o_Livro_Iridologia_Novos_Rumos.png)
+![](https://i.ibb.co/vvH3C7T6/58bccbe6e724.png)
 
 ## "Iridologia - Novos Rumos: Entre a Tradição e a Modernidade"
 

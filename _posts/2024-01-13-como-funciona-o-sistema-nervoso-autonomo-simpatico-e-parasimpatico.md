@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O Que é o Sistema Nervoso Autônomo Simpático e Parasimpático?"
 ---
 
-[![](https://i.ibb.co/KpR1KKTk/3725d5e0f159.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZRx_RUTPir3FphVRbbE2-lx6kiuvdtweq-iNNtppo3Lgys36MmQJHg3WauGpOFvfinxEtW7NrNvOXzeJiPu8r7vERByBWwf-zWWNJowW9Jbvz8ymRoWLBgdiL2m_DJ_GCmZdMYzRO2S835wsSPeHve2POJK4BG88N9hGKK7GOy3Yj2hvuNMF_3eJijBU/s1200/funcionamento_sistema_nervoso_aut%C3%B4nomo_Simp%C3%A1tico_Parasimp%C3%A1tico.webp)
+![](https://i.ibb.co/KpR1KKTk/3725d5e0f159.jpg)
 
 # O Que é o Sistema Nervoso Autônomo Simpático e Parasimpático?
 

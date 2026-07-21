@@ -4,10 +4,10 @@ title: "A Espiritualidade Cura ou Adoece?"
 date: 2026-01-05T20:56:00.004Z
 tags: ["anatomia fisiologia", "medicina tradicional chinesa", "psicoespiritualidade"]
 categories: ["bem-estar"]
-description: "Como a Espiritualidade Pode Curar — ou Adoecer — o Sistema Cognitivo: o que Yeshua já sabia"
+description: ".jpg).jpg)"
 ---
 
-[![](https://i.ibb.co/5Xq033zR/19c2457b7030.jpg).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnMq2g7JxtbAeKlpBNlqw8QWXuEK0bR4_eSDUIIotgtcgCjw9sJ0yvhxbD9BALXd0tB5Nfu_nJmc_M6NcBsGxvhD7Rhw8_F3CNoVxnVM7_1NwLv37lnq8dvyVRTddNcBxVohpoz73XfPAQbr6d2FjAecEU5IE0bpSaLvxODa16ZyL9ck-q5jaIQWRYy8/s1600/cultura%20chinesa%20(1).jpg)
+![](https://i.ibb.co/5Xq033zR/19c2457b7030.jpg).jpg).jpg)
 
   
 Como a Espiritualidade Pode Curar — ou Adoecer — o Sistema Cognitivo: o que Yeshua já sabia

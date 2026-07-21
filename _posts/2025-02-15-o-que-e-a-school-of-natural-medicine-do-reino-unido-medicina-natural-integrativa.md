@@ -17,7 +17,7 @@ A School of Natural Medicine UK (Escola de Medicina Natural do Reino Unido)
 oferece uma abordagem profunda e transformadora à medicina naturopática e à
 iridologia.
 
-[![](https://i.ibb.co/F4d7fTkF/d6bdc79d63b5.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLOMpdjzvf55ti7_lWyhLEyhOxCJ5LtlBdR_z4BJiv-7pbDxMVu54bUw-ANsjL2cLJAHqEF6bEIw1TM9Y15h463itMQAubw-RwX4PYZweOhk97VBXTLDGaqub7Jb_43Vle1TcA5kc6_p7iMDlkoPA1u9-9ywR68VK7JQfAaVIVPbymq2L2PoSNFNqWrMo/s438/Screenshot_37.jpg)
+![](https://i.ibb.co/F4d7fTkF/d6bdc79d63b5.jpg)
 
   
 
@@ -28,7 +28,7 @@ Ela oferece uma variedade de cursos líderes do setor, tanto online quanto
 presenciais, todos profissionalmente credenciados e com orientação
 individualizada para cada aluno.
 
-[![](https://i.ibb.co/rfbfHgfR/011f8838870d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNPCsQFCsMMX3fOyiLhwYuXZNd0cnaT8a6DkHQGOB8NrdOTzmkOsdr8-ht_KaHFmtwW_rpZYGxg6WxFO2GJTOz-cR1e-Bwi8hfp1_O998aWIRvwOA_8EnQOfHJQFE4aLDb2GFFD73p7RJLSEngbIYnH6xI9BfgTrMJtYsS6SIDWEA1VgHSmpWnSseFYQ4/s595/Screenshot_35.jpg)
+![](https://i.ibb.co/rfbfHgfR/011f8838870d.jpg)
 
   
 

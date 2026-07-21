@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Para Sócrates, a ética e o autoconhecimento estão profundamente interligados."
 ---
 
-[![](https://i.ibb.co/zYt10WC/68b60a168d8b.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja3dMp4b5iJ6JTfzfs-9f8KJy_Aoxrsr0NyQG9xs2K697N6P8-3hmVgbTHwn1VoEujNTyGBeTCxdSE93YWIZO5M2ocdEHXq7KjkslNR6WQfCnzO2ydkq9_bUnfJO_I_xDH3oqxpDKI8nkghMiL_s6t9sjecKTtTvxQGh4BqQq10RdReiv6GN3Oi0g64Ac/s1200/Como%20podemos%20aplicar%20os%20conceitos%20de%20%C3%A9tica,%20autoconhecimento%20em%20nossa%20vida.png)
+![](https://i.ibb.co/zYt10WC/68b60a168d8b.png)
 
   
 Para Sócrates, a ética e o autoconhecimento estão profundamente interligados.

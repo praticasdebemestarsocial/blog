@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Língua como Espelho da Saúde: Onde a Tradição Milenar Encontra a Ciência Moderna"
 ---
 
-[![](https://i.ibb.co/yc9TN9CX/959a6fd00349.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj94Ckwb8F6mXZf2LqM04rXqehFMmYQux0VoUPn7WkHBOSkzCHXNHdz22EZpNp-1cVjsE6PriQVVfIlEm-BcGhuL9ByA5u0Lx2Fpk6TzbbcV7VWOB81_QFLSl25NsbUWb5lEB3uOzZ72aetL6bgbF6jLbCh_Q7povZP51jOzyrfCsPsh54vQVKH-DzbR4k/s1200/A_L%C3%ADngua_como_Espelho_da_Sa%C3%BAde_Onde_a_Tradi%C3%A7%C3%A3o%20Milenar_Encontra_a_Ci%C3%AAncia_Moderna.png)
+![](https://i.ibb.co/yc9TN9CX/959a6fd00349.png)
 
   
 

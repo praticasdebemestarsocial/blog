@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem foi Theodor Kriege?"
 ---
 
-[![](https://i.ibb.co/93kg9Kb1/192215b91783.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKZ-NPyXorechFryeEC8D8GVBUbM3tglVzGxHd7t1iXhZ_nJyth5Eb4GEJV-XhN9AvtFexJAriRScXRF5wPNoqXSbHyVKFH69Yc8MJJX2EHGBFS1laWID-IRaNKtZ-dDTtTKP_IScPFqPL4nA0PpgHyi1cUKKi-Pm3hCZSY2-LvVQQqUoKVkXsvHpatM/s1200/As_bases_fundamentais%20_Iridoscopia.png)
+![](https://i.ibb.co/93kg9Kb1/192215b91783.png)
 
 ## Quem foi Theodor Kriege?
 

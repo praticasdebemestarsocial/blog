@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem é o Padre Tadeu de Wiesent?"
 ---
 
-[![](https://i.ibb.co/1tt4wQNW/22cefd63a46e.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY_oPH-q2wzX6CxXRuHULaVguGH_0Sg1aONOVMTj5bNgI80DvshrAf7ZORX_ozUHho_WArl2huEXihlloJ8N-FqewTh3RrfWdZyYVQRnf_kQFQvAZnUIOqkTHThTNQUVRiAGBVvjQezNnocpkxikctYWqpQcqFCbbg0r12h270a3ZcXrjbuLFRNBSoOWM/s1200/Quem_%C3%A9_o_Padre_Tadeu_de_Wiesent.png)
+![](https://i.ibb.co/1tt4wQNW/22cefd63a46e.png)
 
 ## Quem é o Padre Tadeu de Wiesent?
 

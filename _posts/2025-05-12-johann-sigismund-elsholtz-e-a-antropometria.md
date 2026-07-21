@@ -35,7 +35,7 @@ aspectos referentes ao desenvolvimento do corpo humano e as relações existente
 entre os aspectos físicos e a performance, considerada também a “área-base” para
 o estudo do desenvolvimento corporal humano  
 
-[![](https://i.ibb.co/j92F8mfM/e5af72b5d840.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqURXfTuXuJTHgP7co1G9SMTM6Tz5SViGununwSUZHDmLDjvJLNImcfqD8clU7lhCczS9isdwm-2J9NbAKzs86I0DaYhVbHrGozLL-oXl_eAbzirs3PG9uU3EevseQywb2gRVLXvlB9uVkeAeld-dqfT2limfixKc82lTp2EQR1z-CTpyHaMM3Ha-zPlw/s300/Johann%20Sigismund%20Elsholtz_antropometria.jpg)
+![](https://i.ibb.co/j92F8mfM/e5af72b5d840.jpg)
 
 ## Contribuições de Elsholtz para a Iridologia:
 

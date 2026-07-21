@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Aristóteles contribui para  autoconhecimento, metafísica e ética como caminho para a evolução espiritual?"
 ---
 
-[![](https://i.ibb.co/KPfZ2Lc/dd41fd42f134.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6rXBlN260LqIXkj0UKbWL811qXE520lh-qm7V6nelb9vYLejWB4fko75zx4OETmlOlVNhn0E2TUsraNv4YJ45p9afnWuVx72RL7upuWMwsOhJkFAbF2EvsQNJdkoNxrXLkHvSMkRfbBLiao3VpDk4zCwuKy9PY1xvqgG9kGw-G77Yi7Vz6kbQ77Qa3Fg/s1200/Arist%C3%B3teles%20contribui%20para%20%20autoconhecimento,%20metaf%C3%ADsica%20e%20%C3%A9tica%20como%20caminho%20para%20a%20evolu%C3%A7%C3%A3o%20espiritual.png)
+![](https://i.ibb.co/KPfZ2Lc/dd41fd42f134.png)
 
 ## Aristóteles contribui para  autoconhecimento, metafísica e ética como caminho para a evolução espiritual?
 

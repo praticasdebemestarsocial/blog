@@ -25,7 +25,7 @@ Nesse centro, dedicou-se ao estudo das deformações pupilares e à análise dos
 pigmentos da íris, correlacionando suas cores e formas com estados fisiológicos
 e patológicos do organismo.
 
-[![](https://i.ibb.co/GQ4ds89X/86a2383cd324.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjP7I0BmB5gAsUtuPlVEMrrIO_DAQ33Cfs04jtBMD6482QMFootpy47Z9XQbJ1p1LzFW4DJa5VgBnHuyJrpJBbpPCt9axmxFPhA6QVruG3evH0ogOaT6ulWlbYP5lortvR4sSqaNYp036T_p2yEyUSKh8_wMfrrl7-yhose5aiT0cTY7uLC94GVHZzet4/s708/Rudolf_Schnabel_book.jpg)
+![](https://i.ibb.co/GQ4ds89X/86a2383cd324.jpg)
 
 Entre suas contribuições literárias, destaca-se o livro "Sintomas do Olho
 Externo em Doenças do Organismo", no qual explorou a relação entre alterações

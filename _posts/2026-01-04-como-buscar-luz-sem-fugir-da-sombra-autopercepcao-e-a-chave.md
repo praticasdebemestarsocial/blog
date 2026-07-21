@@ -4,10 +4,10 @@ title: "Como buscar  luz sem fugir da sombra?Autopercepção é a chave!"
 date: 2026-01-04T03:30:00.003Z
 tags: ["autoconhecimento", "autores", "autores da iridologia"]
 categories: ["bem-estar"]
-description: "Quando a Busca pela “Luz” Torna-se Fuga da Sombra: o perigo do espiritualismo tóxico"
+description: ".jpg).jpg)"
 ---
 
-[![](https://i.ibb.co/nsWjC3s9/401e2b7fc89f.jpg).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFKe7CeuL2y-ayyBpR7MnfBRygpDnNPF5-w_9HS4hJVs-1DuGSziNJGCf_cvVQd2W4Q2LURFyFk6HDqL77TYndE5B6jsXR-l5Jb9oLPa9rCX6kthGmAuJpDVRh8_R74k6exZrbFuo1J_wak_1VN66eKaxp8BsPME_4vcVgjRwHWYjBC3pxzWEMRnK5glM/s1600/Qual%20os%20perigos%20do%20espiritualismo%20t%C3%B3xico_%20(2).jpg)
+![](https://i.ibb.co/nsWjC3s9/401e2b7fc89f.jpg).jpg).jpg)
 
   
 Quando a Busca pela “Luz” Torna-se Fuga da Sombra: o perigo do espiritualismo tóxico

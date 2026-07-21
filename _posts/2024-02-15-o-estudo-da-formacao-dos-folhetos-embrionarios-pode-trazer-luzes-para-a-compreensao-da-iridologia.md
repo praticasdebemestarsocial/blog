@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O Ectoderma e a Iridologia: Como o Desenvolvimento Embrionário Pode Explicar a Conexão entre o Olho e o Corpo"
 ---
 
-[![](https://i.ibb.co/SXLWvC41/dac6b6d89b3f.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcUSv7uFzFq_GDjlTAd7ybDcWPc7nllhBklswSNXLFUrfygKQjT-hd64RytFa9gq3bVVP38ONrPuj9yCts2Rt_pjqgDNUC1QuPbJApvHAPFyh5D4E3BBU84OSiBjZW4jiG-XO0dNDlWFce16y_mBF5aBi_JlZU0Of2HdTwvtrvKW7Wbp354MVzVP8bZo4/s1200/folhetos_embrion%C3%A1rios_Iridologia.webp)
+![](https://i.ibb.co/SXLWvC41/dac6b6d89b3f.jpg)
 
   
 
@@ -349,7 +349,7 @@ cérebro, onde são processadas e interpretadas.  
 O sangue fornece oxigênio e nutrientes para os tecidos oculares e remove
 produtos residuais.
 
-[![](https://i.ibb.co/JwfwygBM/20dfa73d0dc0.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ1oeFnGb_Nkchnhi6gogMZ0yz4nk2u0lAAVOS0IryEyD6-JQXQLQ71csEiG5eSV1aBONIe_gjpUn-hOkvGrCGfmIE7cMjKWj2ytkrocrWnhUa8c_sbIojtxN7rnFoYarz7wiyNiu0G_MVCopAsAV2yfOyp0054Kk2vlotjUpe0lUcfP3zaTU1zJm7vtY/s1173/Screenshot_13.png)
+![](https://i.ibb.co/JwfwygBM/20dfa73d0dc0.png)
 
   
  

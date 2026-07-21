@@ -47,7 +47,7 @@ Isso não apenas muda nossa perspectiva, mas também pode influenciar nossas
 emoções, saúde e relacionamentos. Dispenza argumenta que, ao mudar nosso estado
 interno, podemos impactar positivamente o mundo ao nosso redor.
 
-[![](https://i.ibb.co/scQPqJQ/3dd31abe7d0a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Jp6GMVF4o7ziSDhiCrRPpL305r2pj85DJKqNboGugSTYsML6fl1qTGsx5cajzH39h9PGY9rDfysHIhbd6Tk-9KWOIJzLgmJ_ZNBB6_2_40uw1WfYdbBhgXq92hM5Re1WW5V8qmS6Q_Oi6OO4mNwVvH4fgkKRKqXs6HZ2KqymLZu3s2YuwHtuWX0TyjU/s425/Screenshot_33.jpg)
+![](https://i.ibb.co/scQPqJQ/3dd31abe7d0a.jpg)
 
 ### Sobre o Autor: [Dr. Joe Dispenza](https://tecnologiasdoautoconhecimento.blogspot.com/2025/03/dr-joe-dispenza-e-um-renomado-autor.html)
 

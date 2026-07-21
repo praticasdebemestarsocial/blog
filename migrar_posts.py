@@ -109,13 +109,18 @@ def process_file(filepath):
     
     def replace_image(m):
         alt_text = m.group(1)
-        url = m.group(2)
+        full_url = m.group(2)
+        url_match = re.match(r'^(\S+)(?:\s+.*)?$', full_url)
+        url = url_match.group(1) if url_match else full_url
+        rest = full_url[len(url):]
         if url.startswith('http'):
             new_url = upload_to_imgbb(url)
-            return f"![{alt_text}]({new_url})"
+            return f"![{alt_text}]({new_url}{rest})"
         return m.group(0)
 
     body = re.sub(r'!\[(.*?)\]\((.*?)\)', replace_image, body)
+    # Remove wrappers around markdown images
+    body = re.sub(r'\[(!\[.*?\]\(.*?\))\]\((?:https?:)?//(?:[a-zA-Z0-9-]+\.)?(?:blogspot\.com|blogger\.googleusercontent\.com).*?\)', r'\1', body)
     
     def replace_html_img(m):
         url = m.group(1)
@@ -125,6 +130,8 @@ def process_file(filepath):
         return m.group(0)
         
     body = re.sub(r'<img[^>]+src=["\'](.*?)["\']', replace_html_img, body)
+    # Remove wrappers around html images
+    body = re.sub(r'<a[^>]+href=["\'](?:https?:)?//(?:[a-zA-Z0-9-]+\.)?(?:blogspot\.com|blogger\.googleusercontent\.com).*?["\'][^>]*>\s*(<img[^>]+>)\s*</a>', r'\1', body)
     
     slug_date = "2024-01-01"
     formatted_date = date_str
@@ -142,9 +149,11 @@ def process_file(filepath):
     
     categories = ['bem-estar']
     
-    clean_body = re.sub(r'<.*?>', '', body)
+    clean_body = re.sub(r'!\[.*?\]\(.*?\)', '', body)
+    clean_body = re.sub(r'<img[^>]+>', '', clean_body)
+    clean_body = re.sub(r'<.*?>', '', clean_body)
     clean_body = re.sub(r'[#\*_\[\]]', '', clean_body)
-    desc_lines = [l.strip() for l in clean_body.split('\n') if l.strip() and not l.startswith('!')]
+    desc_lines = [l.strip() for l in clean_body.split('\n') if l.strip()]
     description = ""
     if desc_lines:
         description = desc_lines[0][:150] + "..." if len(desc_lines[0]) > 150 else desc_lines[0]

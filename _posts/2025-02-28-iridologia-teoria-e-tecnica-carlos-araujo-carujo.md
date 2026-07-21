@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Iridologia – Teoria e Técnica | Carlos Araujo Carujo"
 ---
 
-[![](https://i.ibb.co/ch5TtNyR/aa7fc6274c3a.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJdqmtX9M384ZaQ794vSHA166QUqgG-CMuJhvQsZcE2uWXEitweCoFhzsdSp88B1X6no4mYiywiVCTB8lvg6-CWwi-YgZtwGu9Dk9Jny-h_JdYC0wWFrfcFy4l6Cm-dR2VXQMx7Mhjm-ur1G9dEYryxQYsvlAjU9T0ESMPZpXkz_Fj-QcOXHRKdrzc0tk/s1200/Iridologia%20_Teoria_e_T%C3%A9cnica_Carlos_Araujo_Carujo.png)
+![](https://i.ibb.co/ch5TtNyR/aa7fc6274c3a.png)
 
   
 

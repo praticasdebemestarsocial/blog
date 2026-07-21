@@ -4,10 +4,10 @@ title: "Além do Visível: Neurobiologia, Bioenergia e os Limites da Percepção
 date: 2026-06-14T20:31:00.778Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
-description: "Além do Visível: Neurobiologia, Bioenergia e os Limites da Percepção Humana"
+description: ".jpg).jpg)"
 ---
 
-[![](https://i.ibb.co/84QGg5kW/fc4c13da85dd.jpg).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggJlzOo6f0J7MSchdse3l_VII6H9E9yHX-vfUxuK_78ofKRMikXayyKDFNhFAO_sYTPE-_iUYM2JH07iHdYq1n77m8dr6bYCJoQ00mJl_3ifFds5h0DiLCSU3kB7rAjhdIKcdNsd7fqGIaIK4nR07Av_okAJr5LxhhuKCUoy16rvUlhungYi6n2iWTs6s/s275/images%20(1).jpg)
+![](https://i.ibb.co/84QGg5kW/fc4c13da85dd.jpg).jpg).jpg)
 
   
 

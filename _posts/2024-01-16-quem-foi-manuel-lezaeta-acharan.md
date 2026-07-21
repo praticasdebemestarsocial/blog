@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem foi Lezaeta Acharan?"
 ---
 
-[![](https://i.ibb.co/FbvbHtP2/6092e3666d74.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKh-JrRHZuzXNbGwJ4j3VJpHMw90UZigYwROYXEKns_NMu6AnkyQ4Vzo2I9VtBoAET-vq8xrLZjLrMS9r_TqoRwhXC1csMCldJf7xySS734GdR9B7F2FF7-8R2soTXCoCH9pg88o3-gsyM66OpV-y0pkq0xjQcJCHNlT_Jlf3816F_IoBBbIMc1K2FoyY/s1200/Quem_foi_Manuel_Lezaeta_Acharan.png)
+![](https://i.ibb.co/FbvbHtP2/6092e3666d74.png)
 
   
 

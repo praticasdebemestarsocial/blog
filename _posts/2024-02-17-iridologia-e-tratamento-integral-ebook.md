@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Iridologia e Tratamento Integral: Uma Abordagem Completa para a Saúde"
 ---
 
-[![](https://i.ibb.co/dFC3DzH/df86df49ab54.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf1l9158WwpyqBjfu8HcPJ1wzAPUxkRZgiXNdfPdw8GKc3-T9pCSfKZcOtyIL7Sr2fBV2HS3yBkVQ_Z9SmmD9uwe65m7Hoky0uZ9RBPUqfLpogChADN-NPZMbjIF8hqFepbnWvHCT7dHCgYldAATbEJiusdxBipC_KGteNoQud2PTb8ePrkZt3Mz363rY/s1200/Iridologia_e_Tratamento_Integral_Ebook.png)
+![](https://i.ibb.co/dFC3DzH/df86df49ab54.png)
 
 ## Iridologia e Tratamento Integral: Uma Abordagem Completa para a Saúde
 
@@ -53,7 +53,7 @@ auxilia na compreensão da conexão entre os olhos e a saúde sistêmica.
 Dr. Hector Miguel Alonso Dominguez e Joel Alonso: Especialistas em Iridologia e
 Medicina Integrativa
 
-[![](https://i.ibb.co/5J9jySj/84799c952113.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIC2PqTUdgssz9Xt0Ysm5_kGxjodKZt9V7tl2yceX3_4B8iMKihegxiOtD3UnEZyDHh7xh3sBCgSGy-7cMFyxakMXDAjF5hgjLA8zXfRQYW31xzoYc4i9kmoCh5-g4KIpt5jmA-rD3jmZDQ36a6P5e7gDek7n-8_bzndqjsqDPA7BPd9yP_ya96uW4lwc/s540/Screenshot_145.jpg)
+![](https://i.ibb.co/5J9jySj/84799c952113.jpg)
 
   
   

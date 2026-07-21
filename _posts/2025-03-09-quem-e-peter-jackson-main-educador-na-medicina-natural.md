@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Peter Jackson-Main é um renomado profissional e educador na área de medicina natural, com mais de 40 anos de experiência."
 ---
 
-[![](https://i.ibb.co/WWKq1vPp/90486e9a669d.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw3B7J8mdq8RWZCsBiyI1QnrwpS-JqfEBkpbJwHRSZB1nizSV8QGf3XwW_3RnWS35DtsDv-kUOEjtrLRk2-rK3THbSx9VbMn82SLbREZ2QWHRTtXbzDi_kVMKw44x8IIiMDXnLkSPRyaP9kry0gNULLS-UMs-jVCPY7HlrGYppARGPY2ZFxiENZ27ErXw/s1200/Quem_%C3%A9_Peter_Jackson_Main_Educador_na_Medicina_Natural.png)
+![](https://i.ibb.co/WWKq1vPp/90486e9a669d.png)
 
   
 Peter Jackson-Main é um renomado profissional e educador na área de medicina natural, com mais de 40 anos de experiência.

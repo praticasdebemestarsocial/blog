@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: ""Gestão de Crises Emocionais: Transformando Tempestades em Oportunidades de Crescimento""
 ---
 
-[![](https://i.ibb.co/BV7c6mB4/b2ef64476225.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh43cOXttPnNlqyDslZR2t0ecKI_fHH3RhaDIvh0cdlXGRNoU7pb5L6UTMjN5H1lreo70wIxeb_sQMN2FAYXVtl2NT0KRYJLcb_PuoRo5r0QJqtr23vikotBG9TfLHW6fpBRcuUBkh6tfGaXihUAq556C8v2Y7CWGdk3YDnQLBz_9lAyQySsDJFQmgNRlc/s1200/O_que_fala_o_livro_Gest%C3%A3o_de_crises_emocionais.png)
+![](https://i.ibb.co/BV7c6mB4/b2ef64476225.png)
 
 ## "Gestão de Crises Emocionais: Transformando Tempestades em Oportunidades de Crescimento"
 

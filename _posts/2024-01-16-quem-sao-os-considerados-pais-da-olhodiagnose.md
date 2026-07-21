@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Leonard Mehlmauer e Nenita Sarmiento: os pioneiros da Olhodiagnose Integral"
 ---
 
-[![](https://i.ibb.co/zhk21TQm/21fa6f886d4f.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKq-ITK_jOs2LQ730kg48SMdVnlWp9v-YMA0vahYVMlUBJAIYouB3HFPutoMOY7Z2jzyOLPc4waTi4LBjfRi8QkY0JWqgoWCNY75j-CBZo20y8N7O9_VVr5N2nX0XSPWKm1GkscJLghQ30ad-oO7UvHuR5UrhTbdmP_-Alj8vuQRwsP50OYacRy5sVtbQ/s1200/Quem_s%C3%A3o_os_considerados_pais_da_Olhodiagnose.png)
+![](https://i.ibb.co/zhk21TQm/21fa6f886d4f.png)
 
 # Leonard Mehlmauer e Nenita Sarmiento: os pioneiros da Olhodiagnose Integral
 

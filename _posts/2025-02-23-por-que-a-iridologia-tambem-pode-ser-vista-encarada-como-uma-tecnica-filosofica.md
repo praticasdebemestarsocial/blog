@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Por que a iridologia também pode ser vista encarada como uma técnica filosófica?"
 ---
 
-[![](https://i.ibb.co/3mqkFQww/127ff71b0e2f.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Wic7im72EpFO5bDa3_-Hm96bdyC0e6bHKttUvpH_UIeut5AfFiHn_xveBtMhM0mU1-UDPvsBZM26_dyjLzOyfHpbRNec-y3R9QdkapovZmB46k-oFP0V8Af3S6uU5x9eeC3u4cmV-PANYbZEJLmk-Ioo5enKOOjIGO0aqgTgosNYqhVHZW1bZph6v-k/s1200/Por_que_a_iridologia_tamb%C3%A9m_pode_ser_vista_encarada_como_uma_t%C3%A9cnica_filos%C3%B3fica.png)
+![](https://i.ibb.co/3mqkFQww/127ff71b0e2f.png)
 
 ## Por que a iridologia também pode ser vista encarada como uma técnica filosófica?
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Ressonância Mórfica: A Teoria Revolucionária de Rupert Sheldrake em "Uma Nova Ciência da Vida""
 ---
 
-[![](https://i.ibb.co/RGMjms14/5b9ba0f0eebd.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-L5YU-_7oEwJTbWCYBjhmBtOWBTF1k91lvabcL9P8X1lByBjPUFa7XtQxvxobR-Fv9AMLJbFVZC0g2g8Pdb8s7GjXmk5HdinCTxiEjfl7mJhtVPEqJcDRZQkqvAHMzjlsWliuRnYnclnbbaFniwCs3pBsHa4gEJBBsDUgVXLaxjcfy6goT-P5gIhEW2c/s1200/O_que_fala_o_%20livro_Nova_ci%C3%AAncia_da_vida.png)
+![](https://i.ibb.co/RGMjms14/5b9ba0f0eebd.png)
 
 ## Ressonância Mórfica: A Teoria Revolucionária de Rupert Sheldrake em "Uma Nova Ciência da Vida"
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Platão: A Ética e o Mundo das Ideias"
 ---
 
-[![](https://i.ibb.co/kLKQCg1/c89ca0ce8a95.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIX_6VZhAoYfUMzjYL_GppC337nL96bx5RibdqWJcwDVZcAAMlNfawmF1nUrdvc-ugMfJgHg9qW4vuLgXjWMnIpuu6vOOZKLyuuHOkBdlkOHSJggISbAzb-CxTSqqg9I72sMaLpY6Nf1aLKm-d5cXZ0_jtUE7VbcdBNF3eXEIib8jvwxllsHWx3fUw9cw/s1200/Para%20Plat%C3%A3o%20como%20a%20%C3%A9tica%20pode%20contribuir%20para%20o%20autoconhecimento.png)
+![](https://i.ibb.co/kLKQCg1/c89ca0ce8a95.png)
 
   
 

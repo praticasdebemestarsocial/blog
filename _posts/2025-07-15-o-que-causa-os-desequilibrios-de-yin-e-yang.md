@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que causa os desequilíbrios de yin e yang?"
 ---
 
-[![](https://i.ibb.co/kV3KkvtH/7b36eb856864.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8wec-hcZ3UqleIBFaKE5lFXsqHvY4ISgNhw9FVeba8abBEyiqhx7wMo1O80kcp-utufnSoLA9GKUOEYJrunDToL_dLhd_0XtdhLm2sGAATbvgc-7bU5baP6umpXAGVWpKFSnvTZnenizvgNjpXB5FbGKWyIBYPYXJBFs0gcikIh_xpE8MAD0yszQ1dlFA/s1200/O_que_causa_os_desequil%C3%ADbrios_de_yin_e_yang.png)
+![](https://i.ibb.co/kV3KkvtH/7b36eb856864.png)
 
 ## 
 

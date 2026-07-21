@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem é o professor Clodoaldo Pacheco? O arquiteto da Microsemiótica Irídea no Brasil"
 ---
 
-[![](https://i.ibb.co/pj0znfPJ/e704626181d1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_-obUANGS9QIxR10k-dJ2EtrZBRwxPHr4TXHjfCP6MiwaG_f_i9gr23HEJTbyeNGkkpYuTdi7G0572l3u3eNlKi9fnKTrmuVr-SDjlYfDgn1jJdmiIPf2mQZh4GZRiDh82R28wZQtbMBtpcqdP9VeRV5EGvf6J6dcu8PAYwWe31zvM7oASxgrC2eiXQ/s1200/Quem_%C3%A9_o_professor_Clodoaldo_Pacheco.png)
+![](https://i.ibb.co/pj0znfPJ/e704626181d1.png)
 
 ## **Quem é o professor Clodoaldo Pacheco? O arquiteto da Microsemiótica Irídea no Brasil**
 

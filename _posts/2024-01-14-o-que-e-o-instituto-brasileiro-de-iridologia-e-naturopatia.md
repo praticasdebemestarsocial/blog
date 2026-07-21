@@ -21,7 +21,7 @@ O **Instituto Brasileiro de Iridologia e Naturopatia (IBRIN)** é uma instituiç
 referência na promoção da saúde integral, fundada em 2014 pelo renomado
 iridologista, naturopata e professor **Dr. Paulo Solano Hanke, Hn.C.**.
 
-[![](https://i.ibb.co/gLRkzQQ2/c522febccd51.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe9Gll5R8l0L8SrXfQtLj4_oAEzLn_CgrW9zZeMPtDJ1Hy85UddZ_JX-0Uo-E5L705oBDSd18P00sgxaV-VpptNI1E5EGV1lGiPjXvoXH1bTPr07cDEP3soQez9X1PV_vOqlpHFOu85zAi1YqHFymV0FPXMmPnhU0pkxaBOr2sAtXJ_dpxPfBByxJ1yfc/s179/Screenshot.png)
+![](https://i.ibb.co/gLRkzQQ2/c522febccd51.png)
 
 > Paulo Solano, professor de Tratamentos Naturais, é graduado em Química pela PUC-PR, especialista em Naturopatia pela UNIFIL, doutor honorário em Iridologia pela Università Saint Germain. É fundador do Instituto Brasileiro de Iridologia e Naturopatia e membro da American Academy Of Aging & Regenerative Medicine – US.
 

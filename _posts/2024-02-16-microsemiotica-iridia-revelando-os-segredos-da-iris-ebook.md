@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Microsemiótica Iridia"
 ---
 
-[![](https://i.ibb.co/8gGq9Nrm/b94a9d961545.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5_7stxum0DmN0ePDdxLYqVuJPgJ8oubiYjeBE4Jplqp71iiYtM8u7_L8Ue56h0hFamb6__E5EzsLb6M2VuBlcSLi-DtgWx5KdZfbgvO_ep2VbQM2SpwqFJCQcLbTG9P0HSMDkPKKKLtXLHkpTBbERew3y_ZjJ-po7M-FjMBsWgLKhH0YhFW5S7m_ZiXk/s1200/Microsemi%C3%B3tica_Ir%C3%ADdia_Revelando_os_segredos_da_iris_Ebook.png)
+![](https://i.ibb.co/8gGq9Nrm/b94a9d961545.png)
 
 ## Microsemiótica Iridia
 

@@ -1,147 +1,131 @@
 ---
 layout: post
 title: "Sem Titulo"
-date: 2025-10-11T20:11:00Z
+date: 2025-10-11T21:33:00Z
 tags: []
 categories: ["bem-estar"]
-description: "O que São Frutos Secos? 🌰 E Por Que Eles São um Superpoder na Sua Dieta"
+description: "História da Iridologia"
 ---
 
-O que São Frutos Secos? 🌰 E Por Que Eles São um Superpoder na Sua Dieta
+## História da Iridologia
 
-Você já parou para pensar por que um punhadinho de castanhas pode ser tão
-poderoso para a saúde?
+#### 
 
-Apesar do nome, frutos secos não são frutas secas — como uva passa ou damasco.
-Eles são, na verdade, sementes comestíveis envoltas por uma casca rígida, ricas
-em gorduras boas, proteínas, fibras e uma infinidade de nutrientes essenciais.
+### 4- De onde vem esse conhecimento?
 
-Também conhecidos como oleaginosas, os frutos secos são verdadeiras cápsulas
-naturais de energia e vitalidade. E hoje, vamos descobrir quais são, por que
-fazem tão bem e como aproveitá-los com equilíbrio no dia a dia.
+## De Onde Vem o Conhecimento da Iridologia?
 
-🌰 O que exatamente é um fruto seco?
+A prática cerca de 300 anos tendo sido iniciada na Europa, mas estabelece total
+ressonancia com a medicina tradicional chinesa que também integra o corpo humano
+através de mapeamento de reflexologia.
 
-Frutos secos são sementes oleosas, com baixo teor de água e alto valor
-energético.
+Na medicina ocidental, sabemos que exames oftalmológicos, como  a fundoscopia,
+que segue o mesmo princípio da iridologia e  podem revelar condições sistêmicas,
+como hipertensão e diabetes e já é utilizada por médicos oftalmologistas.
 
-Eles vêm de árvores (na maioria dos casos) e são naturalmente protegidos por
-cascas duras — o que, por sinal, já era um sinal da natureza: “isso aqui é
-precioso, guarde bem!”.
+Hoje, a Iridologia é ensinada em escolas renomadas na Itália, Alemanha, EUA e
+Inglaterra. Aqui no Brasil ela está adentrando universidades como pós graduação.
 
-Apesar de calóricos, seu consumo moderado está ligado a benefícios reais:
+Seus mapas iridológicos são construídos com base em observações acumuladas ao
+longo do tempo, confirmadas por estudos clínicos e histórico do paciente.
 
-Saúde do coração
+    Desde há milhares de anos a Medicina Chinesa e Ayurvédica realização uma
+inspeção nos sinais que aparecem nos olhos como ao redor  deles e isso pode  dar
+indícios de como está a saúde de uma pessoa.
 
-Função cerebral
+    Na nossa medicina ocidental, já é muito conhecido de que o médicos utiliza
+um exame no olho para saber se a pessoa está com anemia ou se tem doenças no
+fígado, como icterícia e hepatite, por exemplo. São as manifestações oculares.
+consequente das doenças sistêmicas.
 
-Controle da fome
+    Mas o diagnóstico dessas doenças cabe aos médicos fazer, mas trago aqui como
+exemplo de que é real que os processos bioquímicos orgânicos podem ser
+detectados pelos olhos.
 
-Longevidade
+![tempodesaudeiridologia](https://i.ibb.co/8Lq31r1k/f515871d46c1.jpg "tempodesaudeiridologia")
 
-Mas atenção: moderação é a chave. Um punhado por dia (cerca de 30g) é o
-suficiente para colher os benefícios sem exageros.
+Aqui nesse arquivo da Universidade de São Paulo, Usp, você pode ler a respeito
+dessas manifestações oculares  em decorrência de doenças sistêmicas.
 
-🌿 Conheça os principais frutos secos e seus superpoderes
+<https://www.revistas.usp.br/rmrp/article/view/822/834>
 
-1. Amêndoas
+"Veja essa reportagem na revista Exame que fala que um exame médico do fundo do
+olho pode avaliar as artérias, veias e os nervos. Hipertensão e diabetes podem
+ser vistas através dos olhos."
 
-Ricas em vitamina E (um antioxidante poderoso), magnésio e proteínas.
+<https://g1.globo.com/bemestar/noticia/exame-de-fundo-de-olho-pode-detectar-diversos-tipos-de-doencas.ghtml>
 
-Ótimas para pele, nervos e saciedade. Perfeitas no café da manhã ou como lanche
-da tarde.
+### 5- Existem escolas de Iridologia?
 
-2. Avelãs
+    A Iridologia no ocidente conta com dezenas de escolas espalhadas pelo mundo
+sendo as principais na Itália, Alemanha, Estados Unidos e Inglaterra. Sendo
+agregada valor por profissionais da área da saúde, especialmente médicos e
+nutricionistas e ainda é matéria da faculdade de Naturologia.  
 
-Fonte de gorduras monoinsaturadas e ácido fólico.
+    E ainda temos artigos científicos publicados e centenas de livros. Toda a
+avaliação é fundamentada em mapas que foram construídos ao longo desse tempo,
+sendo um conhecimento acumulativo e conhecido através da constatação de que
+determinada área do olho se relaciona com determinado órgãos através da
+informação corroborar com exames médicos realizados por quem está estudando os
+sintomas do cliente.
 
-Além de deliciosas, ajudam a manter o colesterol equilibrado.
+### 2- Se alguém faz um estudo da saúde através da Iridologia não precisa fazer exames médicos?
 
-3. Castanhas
+**Não, isso é uma mentira.** Jamais a Iridologia substituirá um exame médico,
+por que são tipos de exames totalmente diferentes e com finalidades diferentes.  
 
-Aqui entram várias estrelas:
+    Quem diz isso é uma pessoa inocente. O que é preciso esclarecer que as
+pessoas em geral não sabem é que exames médicos também passam por uma falta de
+precisão no diagnóstico, por isso o médico solicita **vários tipos de exames de
+sangue**, **de urina, de fezes,**  **às vezes até de imagem ou genéticos** para
+diagnosticar uma doença.
 
-Castanha-do-pará: campeã em selênio — um mineral essencial para a tireoide e
-imunidade.
+     Porque **eles utilizam um conjunto de ferramentas que
+juntas** **e** **comparadas proporcionam uma informação sobre uma possível
+doença**. Muito embora exames genéticos já são mais precisos, mas mesmo assim
+sempre se faz necessário entender o quadro sobre diversos aspectos.
 
-Castanha-de-caju: rica em cobre e ferro, ótima para energia e formação de
-glóbulos vermelhos.
+**"A Iridologia pode proporcionar o entendimento sobre quais hábitos e de que
+forma a alimentação ou estado emocional ou genético pode estar impactando na
+saúde da pessoa."**
 
-Castanha-portuguesa: fonte de carboidratos complexos e fibras.
+## Existe Preconceito
 
-4. Nozes
+#### Conclusão A Iridologia dá uma direção de como podemos melhorar a condição da saúde da pessoa.
 
-As únicas entre as oleaginosas com alto teor de ômega-3 vegetal (ácido
-alfa-linolênico).
+    O Estudo da Iridologia ou da Olhologia, pode abranger aspectos também da
+esclera e dos sinais nos olhos como um todo, pode ser de grande valor quando
+queremos ter uma boa saúde, pois ela é capaz de revelar os fatores que estão
+impedindo da pessoa melhorar sua saúde.  
 
-Além disso, têm antioxidantes que protegem o cérebro e o coração.
+    Por exemplo, podemos saber se o estomago da pessoa está com hiperacidez ou
+hipoacidez, se está com acúmulo  no corpo de gorduras, sal, açúcar ou outras
+substâncias nocivas. Se o problema que a pessoa tem é de origem genética ou
+não.  
 
-Formato de cérebro? Não é coincidência!
+    Como está o estado emocional da pessoa e se isso interfere na sua saúde. Se
+o oxigênio presente no sangue da pessoa é o suficiente para alimentar as celular
+do corpo. Assim se pode direcionar melhor um tratamento, pois dá pistas de como
+começar o tratamento, de que órgãos precisam desintoxicar e quais precisam
+fortalecer com suplementos.
 
-5. Pistache
+    O nosso corpo para ter mais saúde e evitar o adoecimento passa pela busca do
+equilíbrio da homeostasia orgânica, que é o equilíbrio e a Iridologia é uma
+ferramenta que pode nos orientar a melhor forma de se alcançar esse objetivo e
+pode sempre de alguma forma beneficiar a saúde da pessoa independe do tipo de
+doença que tenha.
 
-Verde, crocante e surpreendentemente rico em proteína vegetal, potássio e
-luteína.
+![tempodesaudeiridologia](https://i.ibb.co/whLqM8GV/ce5009239786.jpg "tempodesaudeiridologia")
 
-Ideal para quem busca um lanche leve, mas nutritivo.
+> "Quando utilizamos uma ferramenta que pode dar luz a respeito **desses fatores nocivos e prejudiciais para o nosso organismo** podemos ter uma informação  relevante a respeito de que forma podemos cuidar melhor do nosso corpo, da nossa saúde, da alimentação e do nosso estado emocional."
 
-6. Macadâmias
+Silviane Silvério - Terapeuta Naturopata - Crth br 1741.
 
-As mais calóricas, mas também as mais ricas em gorduras monoinsaturadas — as
-mesmas do azeite de oliva.
+.
 
-Têm ainda tiamina (vitamina B1), essencial para transformar comida em energia.
+  
 
-7. Amendoim
+**Quer citar meu artigo? Está nas regras ABNT:**
 
-Botanicamente, é uma leguminosa — mas na prática, é tratado como fruto seco.
-
-É uma das melhores fontes vegetais de proteína, além de conter resveratrol, um
-antioxidante também encontrado no vinho tinto.
-
-⚠️ Atenção importante
-
-Apesar de todos os benefícios, frutos secos são altamente alergênicos.
-
-Se você ou alguém da sua família tem histórico de alergia, evite o consumo sem
-orientação médica.
-
-Além disso, prefira versões naturais, sem sal, açúcar ou fritura.
-
-A melhor forma? Cruas ou levemente torradas, sem aditivos.
-
-💡 Como incluir no dia a dia?
-
-Misture em iogurtes ou aveia
-
-Triture como farofa saudável para saladas
-
-Leve como lanche prático na bolsa
-
-Use em receitas de pães, bolos ou patês
-
-Lembre-se: menos é mais. Um pequeno punhado já traz todos os nutrientes sem
-sobrecarregar as calorias.
-
-🌱 Conclusão
-
-Frutos secos não são só gostosos — são aliados poderosos da saúde preventiva.
-
-Eles nos lembram que, muitas vezes, a natureza coloca o máximo de nutrição em
-pacotes pequenos… e crocantes!
-
-Então, da próxima vez que pensar em um lanche, escolha um punhado de
-oleaginosas.
-
-Seu coração, seu cérebro e seu corpo inteiro vão agradecer.
-
-💬 Qual o seu fruto seco favorito?
-
-Conte nos comentários! E se você ainda não experimentou algum da lista, que tal
-começar hoje?
-
-👍 Se este vídeo foi útil, deixe seu like, compartilhe com quem ama uma vida
-saudável e inscreva-se no canal para mais conteúdos sobre alimentação
-consciente, nutrição real e bem-estar sustentável.
-
-Até o próximo vídeo! 🌰✨
+SILVÉRIO, Silviane de Souza. **A Iridologia é científica?**  
+**?** 2021. Tempo de Saúde. Disponível em: <https://tempodesaudecomplementar.blogspot.com/2021/08/a-iridologia-e-cientifica-o-estudo-da.html>. Acesso em: (aqui coloca a data que você acessou).

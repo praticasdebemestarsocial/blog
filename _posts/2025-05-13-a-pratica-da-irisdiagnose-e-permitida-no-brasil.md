@@ -94,7 +94,7 @@ A Iridologia, quando praticada corretamente, **não se enquadra** nos seguintes 
 
 **Art. 299 – Falsidade ideológica :** Não há falsificação de documentos ou informações.
 
-[![](https://i.ibb.co/5XMwv6Tw/2600ad1c4089.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZZzlRHYhBvHpfBikPbTLe82QQs5ots-dC1N3E_YVTm86Dv6Bn5__x24yaM01OCQ4KdzjUSEzRS3_pDm1gL8ZKRC5LARoFxhZTY6bw1Hp_Z75L1lntU_nqNjZtFTazFeml35a0ftXe25nrXuxd3UenZx9RyxFHR-YYLO7u4rmnXLnm6hDj2Mpwyz6bzvw/s633/Screenshot_20.jpg)
+![](https://i.ibb.co/5XMwv6Tw/2600ad1c4089.jpg)
 
   
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Como acontece o processo digestivo dos alimentos?"
 ---
 
-[![](https://i.ibb.co/0yY0sK47/8f4129e92d15.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxzBosdHzLYqgUAnHLn28udpr7zE-bRgPPK-lFYKJRGIrWJEy-KTZBuXcbYU97KLwT-xqTTM1PZC5NvhGmfcXtxdZfEKFUh1fOQw73BsqLbkML9nDoMN_VTky66VN103Fu85nVOkoVNCxy2Hn9Jx6Q93Vzv9itpQ9HFGR439i7yFOOFdsERnz0shOgPl8/s1200/Como%20acontece%20o%20processo%20digestivo%20dos%20alimentos.png)
+![](https://i.ibb.co/0yY0sK47/8f4129e92d15.png)
 
   
 

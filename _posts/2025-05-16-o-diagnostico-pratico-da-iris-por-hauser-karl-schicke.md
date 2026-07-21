@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que fala o livro O diagnóstico prático da íris?"
 ---
 
-[![](https://i.ibb.co/fGp4F7xS/ab3c065a3b8e.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn1yy9V1yR7oZ_a8diwv-tnyS1vbyBAzYx1IUzn_fgthNVF4EA4hlgg0xL8MZBLP_9JOaAP8gUuL4bu47qG3lGpc5J0TWpTmdmIQI7tnYF6sNUtSBdJwa5D-FYK0jhBGSxhG4Li5-m2WDSHYdh7PPdyimWosPzY5VvrxxqqW5Dzk2EtqrTcX7tVsLQ_1k/s1200/O_diagn%C3%B3stico_pr%C3%A1tico_da_%C3%ADris_por_Hauser_Karl%20_Schicke.png)
+![](https://i.ibb.co/fGp4F7xS/ab3c065a3b8e.png)
 
   
 

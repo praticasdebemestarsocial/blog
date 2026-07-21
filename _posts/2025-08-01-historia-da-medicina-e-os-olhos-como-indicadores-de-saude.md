@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "História da Medicina e os Olhos como Indicadores de Saúde"
 ---
 
-[![](https://i.ibb.co/mCq6KStB/01e081f363ca.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuldhk0QD1nu4DvCnhuDHrFsbVGPYpzFPoYZ9rTGXK9vA4cFNt_0b6opwM53geGQlnvueb_gm8gSYrK7KEPxWJTl9iJpvUIZbvZPMUhYbdb8GAmcI_pRjg5M7B4KEJIGtnfwq4sUgLHTrd_nqzmIvkPVt9LtvqlnxYQutwFefE-HqfnqUh-8twIu81I4I/s1200/Hist%C3%B3ria%20da%20Medicina%20e%20os%20Olhos%20como%20Indicadores%20de%20Sa%C3%BAde.png)
+![](https://i.ibb.co/mCq6KStB/01e081f363ca.png)
 
   
 

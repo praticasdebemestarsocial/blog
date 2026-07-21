@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Como Lutar pelos Nossos Objetivos sem Ser Atropelado pela Ansiedade"
 ---
 
-[![](https://i.ibb.co/nqs78Jsg/585e74a44c04.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1poUGouZvPn2kTFQ0X79bJn5T0C71gqtY6hzaUSJoBbUZzkkZyI68HD9kzyDc7SeQ5tewIcGdqHXIbFAD-C1WVguSRZgiinQg3HyTPmxMxYNCJycPu8Igxkz3MFYmWKoZExsL5mOgyZ4cuj_pU3-fDyoprnXxmQF45R5zyG5ry2cRkhusF4y0cnkDjOs/s1200/Por%20que_agimos_com_impulsividade.png)
+![](https://i.ibb.co/nqs78Jsg/585e74a44c04.png)
 
 ## Como Lutar pelos Nossos Objetivos sem Ser Atropelado pela Ansiedade
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que é o sentido ocular ou visual?"
 ---
 
-[![](https://i.ibb.co/v4hV5scq/41c577825a9b.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3Q3ItsV9OmZKCKPankAjBoTEAmD9CmexI_48prUWexWUYy9c6oigX6VvC3BUdLP2vyKNpVl32b42CwvRqBDYeoK47wsnKF0_Y0dfUBh1lS9zQt2TUgjtQBOC7Slr9Gifsi_Fgg_CuxftNxho4XYwP2YjLcsB7xvTiL1MwTwbOWbmfEWnf95RImecfmk/s1200/O%20que%20%C3%A9%20o%20sentido%20ocular%20ou%20visual.webp)
+![](https://i.ibb.co/v4hV5scq/41c577825a9b.jpg)
 
 ## O que é o sentido ocular ou visual?
 

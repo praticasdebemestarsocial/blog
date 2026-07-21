@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Ilusão Científica: Desafiando os 10 Dogmas da Ciência Moderna com Rupert Sheldrake"
 ---
 
-[![](https://i.ibb.co/mF9DgmMF/6fe508d7ae97.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjozyNQnVAZu3O142Q0B3gAjSymcWyryuY8Y2txtNNwALn-bc98Wo3I0SdMuDWf_23om3enrKACcpbGHBlGsIJJa_ejj4KTU2JnEY17AsudZ07nfAJvQVY6x5X3YUEsVXDeZPHACiGQnqI91hJ1t1TMIEkx02CI1to6c6jALPm4LDXMoO7nDKAwvahAHLQ/s1200/A_Ilus%C3%A3o_Cient%C3%ADfica_Desafiando_os_10_Dogmas_da_Ci%C3%AAncia_Moderna_com_Rupert_Sheldrake.png)
+![](https://i.ibb.co/mF9DgmMF/6fe508d7ae97.png)
 
 ## A Ilusão Científica: Desafiando os 10 Dogmas da Ciência Moderna com Rupert Sheldrake
 

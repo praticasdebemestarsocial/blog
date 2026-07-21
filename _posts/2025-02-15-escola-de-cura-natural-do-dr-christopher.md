@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Escola de Cura Natural do Dr. Christopher"
 ---
 
-[![](https://i.ibb.co/rGBbFx60/ccf3e5d10712.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc4J_6Mjhfcfzb2p0FHJrdDFR-o_Y063JyScLM6UddU2RgSxYyO8sgfUaAfhWYskrClIC6tF6CtzUfrQQ0vjGO6hg_3kihn1qkWNOsQZl0i-nuXgxBnRByDqoM3tsNhm9z2PWNM8VbCIidmclPy1I_sIbbm6OMnDbyMdE_DqvdTlJ8Hx6bG8EkFxkWYgk/s1200/Escola_de_Cura_Natural_do_Dr_Christopher.png)
+![](https://i.ibb.co/rGBbFx60/ccf3e5d10712.png)
 
 ## Escola de Cura Natural do Dr. Christopher
 

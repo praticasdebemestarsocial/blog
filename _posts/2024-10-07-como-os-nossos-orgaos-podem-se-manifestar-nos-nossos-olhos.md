@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Como os nossos órgãos podem  se manifestar nos nossos olhos?"
 ---
 
-[![](https://i.ibb.co/2YhNWjb2/5362ef50201b.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzSWrzbyuFM65TRPfExGRe-bWXIAlU1_d3P9AwfmfsDcFSA5K5KUwkc7q7WGLPFojjMWn9G_1gUc7akorT-hkY6DDBw8r2OXFy6tJ0PWIaoKibyeb9j-i3g_hvytspwOMA_2g8f66-aTTxziasq-FbJjZYwsvTPegwi_v0ZXgaKWPBsv8V7OukTiYEJdY/s1200/nossos_%C3%B3rg%C3%A3os_podem_se_manifestar_nos_nossos_olhos.png)
+![](https://i.ibb.co/2YhNWjb2/5362ef50201b.png)
 
 ## Como os nossos órgãos podem  se manifestar nos nossos olhos?
 

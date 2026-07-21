@@ -30,14 +30,14 @@ coisas simples.
 inteira por trás dos sintomas, prática essencial para todos os profissionais de
 Medicina Naturopática.
 
-[![](https://i.ibb.co/tTV0PdXX/20f49897edb3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnqnT3swidNffTG23pC3W3DQcuVKOKrrq1Q84lXvGxdqCM5RlMbeOU18mZMvMgi6Cr0w7qfKunOsbb4JrCuASR0zdZAZZ3iaTbWwULlwNx5_OLGA_DasxAVSIM2Cu1r9oUOtOjhs9gPZR9r2-yFmJwtwZhSdqPeDgJ5NQXCTlqmqXDqu-39vGRELeoYOY/s381/Screenshot_24.jpg)
+![](https://i.ibb.co/tTV0PdXX/20f49897edb3.jpg)
 
 Ela foi a fundadora da [ATMS (Australian Traditional Medicine
 Society)](https://www.atms.com.au/), professora, personalidade da mídia, mentora
 e autora de vários livros mundialmente famosos e muito mais. Infelizmente,
 Dorothy faleceu em 2012.
 
-[![](https://i.ibb.co/HTPy8YQL/a19acfb80c72.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmX3DqUcgb6RRvE6Za0q6QjClyRR8VTRtjvitx3ruAJtjps1mEPp6gJPhDu8Kee5jrUwz1-2UU1lrmAw2bS2Z798kcD3VMh51QBRQhNTUrkje1h-Xa1TM_bfCePmCHqbwbRzLQwAGCLCctTKsZjborsuPi2-OGqQsWIFEbC7Y5Kty3pFDNDYPkZJUTM0/s840/Screenshot_23.jpg)
+![](https://i.ibb.co/HTPy8YQL/a19acfb80c72.jpg)
 
 ### **Principais contribuições de Dorothy Hall para a Iridologia:**
 

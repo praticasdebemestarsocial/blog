@@ -99,7 +99,7 @@ Herbal Pharmacopoeia.
 
 ## 2- Como Tornar-se um Bom Naturopata: Dicas da Profissional Silviane Silvério
 
-[![](https://i.ibb.co/NgzCN9B4/10d69b619037.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHkkGAc7LnDWBCawgYZ0PU7NlJ_nxDOcsnz1r_wSogYcfpi2YF1ilYvpx3LExENS5bPsZtH_nG1FZO7rTw6OXJ34p50gLxKnmOEoVql43dMcgjX_PykFr0OwfaTgbsN7tOuuRuzD7AXlgdIklaaXeCLUteA8rqvtcE1aen7cYSeuRWic8A69CPtS6ltJ0/s347/silviane%20silverio.png)
+![](https://i.ibb.co/NgzCN9B4/10d69b619037.png)
 
 Se tornar um bom naturopata requer estudo, dedicação e busca constante pelo
 conhecimento.

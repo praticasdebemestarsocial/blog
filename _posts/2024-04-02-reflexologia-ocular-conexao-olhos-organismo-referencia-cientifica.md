@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O Que é Reflexologia Ocular?"
 ---
 
-[![](https://i.ibb.co/9C5XwS4/90c4b5facd6d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqUAqDF-sn5FtTdaW4F4YvmcOPy52F_6j-gzB4BblCH-gWkg7Y9qFXwNbrCokELSI7w12T_ERH18e1gTWlIQO3CfowlUVNsUcyyZCVk9Hy60puCfk9IukrhrT-Vx6UD8W3YmStshyphenhypheneZFX2G5fUisEX8fuk_nTRpaIMHWTmXyheBBns4LJjAWFcJ7LthOc/s1200/Reflexologia_Ocular_Conex%C3%A3o_olhos-organismo.webp)
+![](https://i.ibb.co/9C5XwS4/90c4b5facd6d.jpg)
 
 ## O Que é Reflexologia Ocular?
 
@@ -67,7 +67,7 @@ Os especialistas observam as mudanças na íris e na esclera para identificar pa
 
 A análise dessas informações permite a prevenção de doenças e a recomendação de tratamentos naturais, reforçando a importância da reflexologia ocular como ferramenta integrativa na saúde.
 
-[![](https://i.ibb.co/jkGwxSwn/c771bcb4ccde.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6j2zprhOdleT8_mSROafyA92Bh-k2aXhOu8oVxtgWHiKoT5bI2tWMJkf2hb8xq48d40Z2sVqbVf-m_A68B6gcrUWjB1yd0PSupr1aqax9bGS_wl4LatnDSplcC3q4fGri4PSNcWYNcSFWDVV0f8vGYNLu7w8RvbrJIlZcOq_897NYSy_DWsOB-HY6An4/s1157/Screenshot_146.jpg)
+![](https://i.ibb.co/jkGwxSwn/c771bcb4ccde.jpg)
 
 ### Pesquisa a respeito da reflexologia corporal
 
@@ -86,7 +86,7 @@ Os pesquisadores analisaram dois métodos de reflexologia podal:
 Os pacientes tiveram a pressão intraocular (PIO) medida antes e depois de cada
 método, em diferentes momentos do dia.
 
-[![](https://i.ibb.co/KxZqfZ9B/3a8115fab9f5.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2qHwzbnoJM3GJuPQgkhXLtZ2g0hAup7VZVHB6V09GgxC7mdWvSSK1TZIMNnJyfTfQSlA8HtaAalJbC0L1fBZJgjRdS5z1p4VmxbDp__tg5oNwhmeW-Yh-i8rzc3kGQgbU1BRu0AzBKgninBc47mH5MijxyLJGMGPp9odzq31J4Cn6y8lPpx3eQT9cL-Y/s780/Screenshot_147.jpg)
+![](https://i.ibb.co/KxZqfZ9B/3a8115fab9f5.jpg)
 
 #### **Resultados**
 

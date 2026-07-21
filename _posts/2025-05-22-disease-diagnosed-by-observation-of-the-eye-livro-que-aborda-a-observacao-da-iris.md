@@ -126,7 +126,7 @@ mas **educou gerações de praticantes** ao integrar diagnóstico pela íris, es
 de vida e ensino prático em comunidades, livros e cursos. Ele pode ser visto
 como um **professor da iridologia aplicada à vida**.
 
-[![](https://i.ibb.co/BVzQsR8w/d67c035abe5a.png).png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyoa4zrhfACBC08uFhVrwR4DshfCques5C5zRIhw_x1Emp0xRKsnc6F940-s4XDxjU_lMTwzgp_jun9WGKRiC2lSkmx3J-7NgvCntGpToFpufej0ZWjUN2px8_hVyBaMogLcDSNNP85E8tTPTJi2HGZrlz0BApYN9wgsMAcuJ8XpixHiOsKsQmJiZLgpA/s1200/Doen%C3%A7a_Diagnosticada_pela_Observa%C3%A7%C3%A3o_do_Olho_livro_que_aborda_a_observa%C3%A7%C3%A3o_da_%C3%ADris.%20(1).png)
+![](https://i.ibb.co/BVzQsR8w/d67c035abe5a.png).png).png)
 
 # Disease Diagnosed by Observation of the Eye livro que aborda a observação do olho.
 

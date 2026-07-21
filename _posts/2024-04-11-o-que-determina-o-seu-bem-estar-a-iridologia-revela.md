@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que determina o seu bem estar? A Iridologia revela."
 ---
 
-[![](https://i.ibb.co/v4WN141k/cd154090825f.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrp5ef77CHVyciU3d-4vPEXr0fyUhTnBACQjej53Td4thzHra1ZfVAXK4ps7uW6ca4P3zBRFRYVfOjU5IeZRilhWAsrlJBa9cvIRGGzFNO3wwXks28Sl60a062iHt1Hcsi6qY6Ets85k910iGYMghSJXhYm9fMg_BRus4eGDZnsevOFZL5xy40nkxn24c/s1200/O_que_determina_o_seu_bem_estar_A_Iridologia_revela.png)
+![](https://i.ibb.co/v4WN141k/cd154090825f.png)
 
   
 

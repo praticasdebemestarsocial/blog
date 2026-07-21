@@ -99,7 +99,7 @@ ciência pode resultar em avanços reais para a saúde humana. Sua defesa da
 iridologia como uma prática digna de estudo e respeito reflete seu compromisso
 com a verdade e com o bem-estar integral do ser humano.
 
-[![](https://i.ibb.co/k2m58W0x/fa849e3ae6e8.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6qVY3bDVqzRjmzZh77R_BoSB_4tX5pBGKCIE9Ka7qD0o7Pv4y8RjMvg-a0A7RNCjYRCptvJU-X2daClSoSfU2lHah5c3_xtZgteCrSxU-it1Gmz0IiGvibpeLcxPDeu7kHowfDufAVCWniiWLTbVBYod_B9JeFM_Un5k3c51FCfdwfWlJxbjYDjHQ9bA/s538/Screenshot_19.jpg)
+![](https://i.ibb.co/k2m58W0x/fa849e3ae6e8.jpg)
 
   
 
@@ -116,7 +116,7 @@ produtora bem conhecida de remédios herbais e produtos de alimentação saudáv
 Autor do best-seller internacional "O Médico da Natureza", um manual de medicina
 tradicional e complementar.
 
-[![](https://i.ibb.co/YBbwDHz4/36e27ae88460.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1mVVPXkrN7hDz9oSuUYwSbOKRJ9zNdjczETq3o3WYRdHDonfGl4wAjCzL_TUCCxtsa2KliRUKz-CWRhhuyB7FPHB5aq5YGERk7e2BAQvYzK_MykGefNRHYfRfJBycV5FArMLTaiPR0zRXW8QqpCJwXFy3Fx7jXo5E4roX6Ies6Pwv3soYAFwsPHzWgQE/s5599/vgn-002_1945_003_0049.jpg)
+![](https://i.ibb.co/YBbwDHz4/36e27ae88460.jpg)
 
 Ele publicou uma revista mensal que evoluiu para "A. Vogel
 Gesundheits-Nachrichten" ("Notícias de Saúde A. Vogel").

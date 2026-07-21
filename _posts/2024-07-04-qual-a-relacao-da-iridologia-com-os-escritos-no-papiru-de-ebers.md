@@ -11,7 +11,7 @@ description: "O que é o Papiros de Ebers?"
 
 Tempo estimado de leitura: 3 minutos
 
-[![](https://i.ibb.co/TQM2Qfr/d7104282f33c.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7WdmdK0QjUtm24XHnWcfcBV_U8-YJqZYEScK4NawWUvxpX41ZsKcBzGyQHIUc6NwIvyn7HypR0ik95a_LBcL7hCDOh16hVicDKzFnYGDrETwfavksNJOWOeHspyyKbT2zJhBtmIUcP85FyHfg7IrTD0NmGJiF9wa5yWpwY83zPQH3h4vKroON51a3C2g/s353/papirudeeber2s.png)
+![](https://i.ibb.co/TQM2Qfr/d7104282f33c.png)
 
 Os Papiros de Ebers, um dos documentos médicos mais antigos do mundo, são um dos
 mais importantes textos médicos do Egito antigo.  
@@ -25,7 +25,7 @@ a.C., não mencione explicitamente a iridologia diretamente como uma prática de
 diagnóstico, existem algumas conexões potenciais que podem ser traçadas entre os
 dois.
 
-[![](https://i.ibb.co/mVWTd6Tf/d8372c4a9688.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmsq60tFd2uQhVfSQWXARUuq6gvZPWfV2ey7ZBDibXyBgCSXmPLO73KQB6KknylJkPDtEicGakkf5DH1glH_zn9pmLKox3hLWqdZ_MVzYCj7Je82mcyKxTvm3hwQSZdLBj_C49LEDg0nBs0BUceS2hHYrVwOcIVpufFlRpZmTjdT2Esdp6XXq-4_btcE/s325/papirudeebers.png)
+![](https://i.ibb.co/mVWTd6Tf/d8372c4a9688.png)
 
   
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que o livro Autoconhecimento para pessoas difíceis: 100 testes e questões para trabalhar crenças negativas propõe?"
 ---
 
-[![](https://i.ibb.co/6JJvVgDK/de790461a248.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAExeoNQEkn1VBkV-AgACcFzZAnowstraoxaFfp4toWVKpBOOgGe7GUTZRlP6RfLNtzxmqT3CaB5dLDgeLCm7e88oPQIiQKmSnF30y7kWO_GNLhMZntqlXNR7eLm5qBvrq5v5Le7r9ibH2qI6nQQcUl4TWx6cCr043OvpclJtELm0ZGQAwdmesXyUc4xQ/s1200/O_que_o_livro_Autoconhecimento_para_pessoas_dif%C3%ADceis_100_testes_e_quest%C3%B5es_para_trabalhar_cren%C3%A7as_negativas_prop%C3%B5e.png)
+![](https://i.ibb.co/6JJvVgDK/de790461a248.png)
 
   
 

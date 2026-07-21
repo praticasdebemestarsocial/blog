@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Já desde muito tempo, existe o estudo da iridologia e podemos encontrar várias escolas bem avançadas no estudo nos Estados Unidos, na Rússia, na Alema..."
 ---
 
-[![](https://i.ibb.co/mC8cYtkW/be647746380d.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjirnihQtFd_T5sPJefB1kPMWOay3QNFBgSuUxLE3DuLCUszYqryJJvgWoRMZCDaCTABm4KDIzokgDt0nC9sfPIUw4L94pS-nwssrKtzTXO8O9_DwJjiCYciIhNYIl4dMGor8nrT4GFB1if23ejE0v_y268WloQSdm4404p6uI6RCg9B4n3RMAUNwsck/s1200/Quem_s%C3%A3o_os_renomados%20_professores_da_Iridologia.png)
+![](https://i.ibb.co/mC8cYtkW/be647746380d.png)
 
 Já desde muito tempo, existe o estudo da iridologia e podemos encontrar várias escolas bem avançadas no estudo nos Estados Unidos, na Rússia, na Alemanha e na China.
 
@@ -39,7 +39,7 @@ Mais tarde, formou-se médico e, por meio do método indutivo da pesquisa cient�
 
 **[Doutora Lea Fortes](https://tecnologiasdoautoconhecimento.blogspot.com/2025/05/quem-e-leia-fortes-sallesqual-sua.html)**, enfermeira, professora da USP e pesquisadora, escreveu vários artigos científicos sobre iridologia, comprovando evidências sobre sinais relacionados com a diabetes e a ansiedade.
 
-[![](https://i.ibb.co/WW53FjxG/c3da72cb1624.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgad9autTnV5ETcmivLa2evK9gUlZXXsqBHua4pF0ujKTkkZcI5P1utv_21BEczHlUEymVKWwcdjjb9ICg3QAmqU_xFQv5s2qu9OmyhotUeFgAUpA-lkURJb8IkkcwsPtkmOQ3SEt9cdjHEyD6uc3Dk_UpS2TLIVIPuU90tgOqPdvP9-sITaeZ_9HR99Ek/s1211/nathuscomprenaloja.jpg)
+![](https://i.ibb.co/WW53FjxG/c3da72cb1624.jpg)
 
 **[Clodoaldo Pacheco](https://tecnologiasdoautoconhecimento.blogspot.com/2024/02/curso-livre-de-iridologia-contemporanea.html)**, doutor em naturopatia com especialização em iridologia clássica europeia pela Universidade Jean Monnet em Bruxelas, na Bélgica, é autor de vários livros, alguns sobre semiótica irídea, a forma como ele chama a iridologia contemporânea, e outros sobre autoconhecimento e comunicação.
 

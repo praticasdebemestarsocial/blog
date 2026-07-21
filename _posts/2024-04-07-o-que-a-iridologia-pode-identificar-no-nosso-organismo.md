@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A iridologia é uma ferramenta poderosa de prevenção de saúde, pois ela oferece a possibilidade de entender quais são fatores estão condicionando a saú..."
 ---
 
-[![](https://i.ibb.co/j9VSTY7r/34a234cd8fd7.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi82aHXZDW9KmJj-K3GNhbPY-961_VonotQOkrLZp6HdmGJWlWcQQONApUFqzOWfm30hV2asi0sBeGwYiAcncMUL7Hoe0imGc7Z6IAKdItDTX-SPH2g56JHeyoRekKG8hF3r4DOrfvNxHLCYyi-51j35Rsd08pOPO5ycyFfhkynxfR7OCy2GbCU05NHpfo/s1200/Iridologia_pode_identificar_organismo.webp)
+![](https://i.ibb.co/j9VSTY7r/34a234cd8fd7.jpg)
 
 A iridologia é uma ferramenta poderosa de prevenção de saúde, pois ela oferece a possibilidade de entender quais são fatores estão condicionando a saúde da pessoa e que impedem a recuperação de uma doença ou de um sintoma.
 

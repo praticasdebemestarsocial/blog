@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que é Iridologia Contemporânea?"
 ---
 
-[![](https://i.ibb.co/RTL0qsWf/8d4ff6c982ff.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRDDLvpcOHnadqRc1y0I8-lBuHRvFYBeD6rGFMhvnOT10crDihSvpy-wK9CMJBgGEj5gp1zv4-WB-nSiBqjLKFf_7lY5FJbVr-f_rwFgeCdfAmUxV-WrV1iOu4vrHbjt4UT1HlE_PX_FRl7h1teCQrgAzUBWlvDbwewLs2sFbzRyj3FP4-pJw-G5jk20/s1200/Iridologia_Contempor%C3%A2nea.webp)
+![](https://i.ibb.co/RTL0qsWf/8d4ff6c982ff.jpg)
 
   
 
@@ -157,7 +157,7 @@ técnicas e descubra o potencial dessa ciência fascinante!
 
   
 
-[![](https://i.ibb.co/DP0WQwDQ/f5700e9c53ca.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNlLI_N9fjwTykhJVTUUfatd_VAzBiOkZVKuBUc4Mwt8MON4okZfrQSo-HtETRz8Jx_sMTJOQ250Slkx-FZk8bUuhOxe6fJn0zNYqDJiq3YduPyquZRSBciXOoMIyxSUkqyRpXD1QbwcllWlHBu3lowBwerZLUA8pR20I1ylk9Xw9uprwviRHXknj-9Qs/s480/Screenshot_22.jpg)
+![](https://i.ibb.co/DP0WQwDQ/f5700e9c53ca.jpg)
 
   
 

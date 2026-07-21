@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Qual o juramento médico segundo Hipócrates(https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/quem-foi-hipocrates-e-ele-fez-alguma.html)?"
 ---
 
-[![](https://i.ibb.co/jkZFB2dw/a80225133e10.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFw8N9XUH-zHFlDsCsY41UOc2q2Yhfk7Bq_QXWQeLA72syJlELzzJGK6RKHGGiFi4WUmMVN0iYHLaQeWx-MRp-cpTJcS5rF3EHl8mJNU_k7VffLISuhFZSU0Ouko_WTl_Rafyj6MAeUsEQsconA8Z66ANy0ImYPE_O8KLnLNKd_iRdInz9RmOM_0pua7M/s1200/_Qual_o_juramento_m%C3%A9dico_segundo_Hip%C3%B3crates.png)
+![](https://i.ibb.co/jkZFB2dw/a80225133e10.png)
 
   
 

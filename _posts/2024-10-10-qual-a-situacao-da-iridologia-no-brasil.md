@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Olá amigos sejam bem-vindos aqui a esse canal meu nome é silvian silvel eu sou"
 ---
 
-[![](https://i.ibb.co/Sw1m4Xx7/bdd2689bff23.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUg1sqOVNz_fmHCiz2CxvsefxUCgq7mFfhhVsRN52ikZYZJXhdBV9i71CIlKg2m1r0MZpQwedsYmPyjPqSlA54WVfUPXpv72zwLF8NUN36zI3Bq4LjK5jLk4H4dvpS3jAwdSpF6f0H_IF509eus5wNtmzMUcJNDrlmxzxv1DWW9rIMQYdHYpYFWxex-iY/s1200/Qual%20a%20situa%C3%A7%C3%A3o%20da%20Iridologia%20no%20Brasil.png)
+![](https://i.ibb.co/Sw1m4Xx7/bdd2689bff23.png)
 
 Olá amigos sejam bem-vindos aqui a esse canal meu nome é silvian silvel eu sou
 terapeuta e biomédica e eu quero falar hoje para vocês a respeito do que é

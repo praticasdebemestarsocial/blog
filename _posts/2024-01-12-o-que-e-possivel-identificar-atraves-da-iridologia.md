@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Iridologia: Uma Ferramenta Poderosa na Prevenção e Promoção da Saúde"
 ---
 
-[![](https://i.ibb.co/YTwz3dvf/0202c51a050a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr-Sd1zTSs5bJGoZqpQCJUVo0bbJsixEUZv564Vhw6SakkjClQjtg0fYmxQvISumZ1uOrnO0r9fnaAOQBzRln1899RsKwMTXPVT1khbCetqh5euGGZjM8eiy6B0_tUfcGicAD3CKFXLwwlrsw7H-qwZjwGPCOj3uKSFgEXGV0aU5E0KLJcqI7mCyM4a5Y/s2240/iridologia_identifica%C3%A7%C3%A3o_org%C3%A2nica.webp)
+![](https://i.ibb.co/YTwz3dvf/0202c51a050a.jpg)
 
 # A Iridologia: Uma Ferramenta Poderosa na Prevenção e Promoção da Saúde
 
@@ -191,7 +191,7 @@ Benefícios da Iridologia para a saúde, Iridologia e autoconhecimento, Como a
 Iridologia pode melhorar o estilo de vida, Iridologia e hábitos saudáveis,
 Relação entre sistema nervoso e Iridologia, Iridologia e reflexologia
 
-[![](https://i.ibb.co/1G4mVJqG/22d5e6228229.png).png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnEXh4TOFjjGNXDWE2R-rUA-tOCB5HXSjtos2LxtjGQnQeJcAYNnPaK8-87ztbAJyT1QyNGZ_oCLoUFIqwt6YIhCkMihaOBKcEtuqiujAvqsIqAY93NDks5qWxk-lADjjFiucWbXkyX-vRp76lV17hvxw1sOkU9E4x28xYBXIJxdO-1fjYRdIgZEHhjQA/s410/Screenshot%20(1).png)
+![](https://i.ibb.co/1G4mVJqG/22d5e6228229.png).png).png)
 
 #
 

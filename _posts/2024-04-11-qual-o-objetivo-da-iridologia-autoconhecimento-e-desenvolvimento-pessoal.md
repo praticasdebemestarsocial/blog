@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Olá a todos! Hoje vamos falar sobre Iridologia,  uma técnica utilizada na Naturopatia ou   Naturologia para avaliar a saúde de uma pessoa  através dos..."
 ---
 
-[![](https://i.ibb.co/v4hFHfDT/f62eaa88ec1e.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjScQVwHEa5bRFKbGIJ7y8iHugP51iYvBdnJ18lkJdGMHylL8v2NDJAI-6LhsA06IUTEptcdnIZuV84u5k44N2Ja_cHxdND1WUI2PJ8Hv0AF6cy2X-HE66lIVdqB734eF-_8HArabq6VZrksD2OfpnXLslmvGXas9J25VGCN6NdjevY1SmuQ1O1-PHY3Tc/s1200/Qual_o_objetivo_da_Iridologia_Autoconhecimento_e_desenvolvimento_pessoal.png)
+![](https://i.ibb.co/v4hFHfDT/f62eaa88ec1e.png)
 
   
  Olá a todos! Hoje vamos falar sobre Iridologia,  uma técnica utilizada na Naturopatia ou   Naturologia para avaliar a saúde de uma pessoa  através dos sinais que aparecem nos olhos.   
@@ -21,7 +21,7 @@ A   Iridologia não é uma especialidade médica,  mas sim uma ferramenta de
 Apesar de não ser reconhecida   pela ciência médica, a Iridologia tem ganhado 
 cada vez mais espaço em escolas de Naturopatia   ou Naturologia em todo o mundo.
 
-[![](https://i.ibb.co/qLm2r5j0/0f7eba372dfd.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQCtkSEcBQEEmeZRrlyJvpxFGNXjqC9OEJBxJwa4HlUeo61vV-kLD1B_lJ5xwFf-IVB1xtvXupxPoYiZ4scbGW6S_PcRb1Uz79pk-T-6fAO-QGsG9dTbVGqUHfAhSjBHGczpG__IvhtdVXu9gddSOFBhrvsU8k2KfgfSiAI-SuaXDfgNaHryJcrT_0DUs/s577/Screenshot_65.jpg)
+![](https://i.ibb.co/qLm2r5j0/0f7eba372dfd.jpg)
 
 ## Qual o objetivo da Iridologia?
 
@@ -31,7 +31,7 @@ partir disso, entender as causas de possíveis  problemas de saúde.
 Aqui no Brasil,  existem muitos profissionais renomados e escolas   reconhecidas
 nessa área das Ciências  Naturopáticas.
 
-[![](https://i.ibb.co/LD48fS94/e76623c08a28.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7gHMbZ6mS4RlbaE6KHMvjDK33vcM5CqCm062QUibBNgK9aB2qMU-aNcs8yXjOR6gSx1sw9egXJcfhmKQxQXYBLMNwLKbWtKSxw_pGFmcbQqRJ71GK6TkQV2PM42T6FxRqUvEv67FKt7fcDqRtvFRzmVdy9l_2m-iDc0-Xt4hicF0ghNXsBreaQ4VIKWI/s537/Screenshot_64.jpg)
+![](https://i.ibb.co/LD48fS94/e76623c08a28.jpg)
 
 ## Qual a origem da Iridologia?
 
@@ -40,7 +40,7 @@ Meyeus publicou o primeiro trabalho sobre o   assunto. Mas a Medicina
 Tradicional Chinesa também  estuda sinais que aparecem nos olhos como forma de 
  avaliar a saúde humana.
 
-[![](https://i.ibb.co/M5kV0fYM/e74c2d7a4c5e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIdCEGkovxyjeJTlac8qFGsxiv28GeNlgyHYow3aKWLxFEpWFbzlzltJ1Lq_jTltTaO3jcEtQMBWNfP98-MfH9aHjACaKt2HYywJh2afJ5hfR-hnXUkXQ1P38y4aToBpoG2Jbyek8WsU3pY4Q60xWZivVqSCGnvV2fEhtolPaJqJVNzCrDC_SOeRRgJ5Q/s568/Screenshot_63.jpg)
+![](https://i.ibb.co/M5kV0fYM/e74c2d7a4c5e.jpg)
 
 ## Como se identifica o sinais com significados nos olhos através da Iridologia?
 
@@ -59,7 +59,7 @@ mas  sim complementa essas informações, fornecendo   dados sobre hábitos e
 comportamentos que afetam  diretamente a saúde, como alimentação, hidratação, 
  sono, sedentarismo e estado emocional.
 
-[![](https://i.ibb.co/BHKj8LR4/dc12cd6ccfbc.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGi6guT00N83Ch4ZU2TfzB3KduWIDh4OIXjQ-X2O_olviCNhu_2h-swhSv6r2REK6r3gCbhnL5rxTaBsH_nL8Ls42xoI3ZJd_QkqNiqsPhrjrR2yXzlGWdtrod9CXOEffUWbSYNTAaAMCZwxd9ASzD6HPdrfiuyWxcASGLrVbXhp5Rt9ihy7V_E1sLJ78/s391/Screenshot_62.jpg)  
+![](https://i.ibb.co/BHKj8LR4/dc12cd6ccfbc.jpg)  
 
 ## Qual o melhor desempenho da Iridologia?
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Ponte de Descartes: A Glândula Pineal entre a Geometria e a Sede da Alma"
 ---
 
-[![](https://i.ibb.co/8n8MSXnM/8cbc305f71df.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVvusS4WKuirvVoyr8LD09DkpYdyH08dn9zIjVdSXYo7fFTqT1IWHONGRwWFnXc_wbYHKwY1fE9XVQluLV_dA0Kp8lxlXj9lY3IPSlP6BzMSuqxrs6YbgAAFHp_42ZQlhR4fjw10dkhPXC3hGzgZVtz-N3XtBSGv7KOl-27hUUraAiZh9C5-sadGttTVU/s1834/5.png)
+![](https://i.ibb.co/8n8MSXnM/8cbc305f71df.png)
 
   
   

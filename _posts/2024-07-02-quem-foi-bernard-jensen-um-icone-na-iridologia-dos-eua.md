@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem foi Bernard Jensen?Um icone na iridologia dos EUA"
 ---
 
-[![](https://i.ibb.co/pBf8Pc0n/980f6ce5ab7f.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitVgTGX0SyBUiqK1Cjz3eb2T7vrGc2OYzg5gO8o3eZcxDnZqcEsvQG3LkafIt1gpHF0hdmrF0ytseG1Ms0MTUMpIAbEf1L_LBCoMEi9lQ9xiEMZ6rWVJN_rapSzeBtNoYrKdLQ-3Zf8uRn_rQQI6X-OT7B-Lh2T5elFHtsbzX8gIqtMYbAB64a5jTsnVw/s1200/Quem_foi_Bernard_Jensen_Um_%C3%ADcone_na_iridologia_dos_EUA.png)
+![](https://i.ibb.co/pBf8Pc0n/980f6ce5ab7f.png)
 
 ## Quem foi Bernard Jensen?Um icone na iridologia dos EUA
 
@@ -45,22 +45,22 @@ a saúde.
 
 ### **Obras de Destaque de Bernard Jensen**
 
-[![](https://i.ibb.co/c9qSNcb/98a3d3d66322.png)](https://blogger.googleusercontent.com/img/a/AVvXsEhfugilv_hV1J8q_Vur8dcsbYpKEcr8l8iM3E5v8DvuHRRLYBN-RHFiHTfq6KidGl-S-sTxrjJDYo1PELuTDKlkmQcr6ROi2EmRBLqa9c7dYzRC0R0z4z4oe3YjcPQ928QSIpkczOENgPFzbuh8Xlye8zSrRBpPxJaWYEJhGmOM-2xmpkm_kLcO8BHn2uE)
+![](https://i.ibb.co/c9qSNcb/98a3d3d66322.png)
 
 **Iridology Simplified**  
 Este livro é uma introdução prática à ciência da iridologia, onde Jensen relaciona os padrões e sinais da íris com a saúde geral. A obra se tornou uma referência indispensável para iniciantes e profissionais da área.  
-                                                          [![](https://i.ibb.co/Pvyk0QFh/68a77619b796.png)](https://blogger.googleusercontent.com/img/a/AVvXsEhsYhyh0C8gP6iXhxGK0EcDawhdbfW1iangcBSB8Pw0zGUDlYQtN-2aacTasnPyXMP2H31fL9fYzteAPtHoNBmdjIHmDEDak4-MYDpsroaNJkWeJqGzvflOAQ7GVsIPNwC2VCCiCsu1Qs9QUxBMsajrawV1kxqEaFuSqYZLT8ZsYKA-C2wH4g_I6jA23l4)
+                                                          ![](https://i.ibb.co/Pvyk0QFh/68a77619b796.png)
 
 **Visions of Health: Understanding Iridology**
 
 Neste livro, Jensen amplia suas ideias sobre como a análise da íris pode ser usada em conjunto com a nutrição para promover o bem-estar.
 
-[![](https://i.ibb.co/x8mnFnw5/5f60e6a6fa00.png)](https://blogger.googleusercontent.com/img/a/AVvXsEiTJ5ox_4zPbn4HYyI_OMNWuFBRKP06GPPEXv6qgzU_aRdESb6XVSDeE-1Hoj5UMXGMqklAY_uGhH7eRMLgp_06-Iah9sJnaEbvn2s6Qlg-DhQqOl3htaRRN4iya89phosyutXuWe_h1ny2_mgFJvQa69plbQN5F4lMkieXyaHHCZEo9FtwmnvSdbmlT-8)
+![](https://i.ibb.co/x8mnFnw5/5f60e6a6fa00.png)
 
 **The Science and Practice of Iridology**  
 Uma publicação mais técnica, onde Jensen detalha seus métodos e descobertas na área de iridologia.  
 
-1. [![](https://i.ibb.co/zhMWt8h9/33355e03e700.png)](https://blogger.googleusercontent.com/img/a/AVvXsEjMrtwcPRaZ9eTSkK22-agnhGSCP1_DSJmAf6ZHUrjfQJvziLadr2nH7xER7oTM3uLEQHXqy3DWk4JIN71dts_GD6iL2vG-jT-OkzXRZEOYjaxS7DqYO04n1mclK7z58yvNHwOTlOSwhXYC5mPTeOLyV67Wp8n1qHN-TzCPiQ8XZw_jtPYyYpU7BkRCZvE)
+1. ![](https://i.ibb.co/zhMWt8h9/33355e03e700.png)
 
 **Iridology: The Science and Practice in the Healing Arts, Volume (Vol.) 2 -**
 

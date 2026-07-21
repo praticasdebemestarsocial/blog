@@ -89,7 +89,7 @@ conexão entre a marca e a condição física do animal.
 Para validar sua teoria, ele realizou estudos adicionais com outros animais e
 posteriormente com seres humanos.
 
-[![iridologia_irisdiagnose](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPuC6U81Gsbw_wmu61ISUyJoir0eLAI9KL8J-0v1L2Pc0BNrRLFqODuVSN8NJYDVymp-EW9t4GBV1c5gO1JXGvoy3Oss2hAfEs_CgTE1TFNcbNUdcbJmO4KVfhdR6HUYM2u835kVrBdQMG_-PygL8qp-Z3MdKgW5UamAnBpby8XOR1N8I_uegcbDNeGco/w595-h370/mapa%20iridologia%20de%20Ignaz%20von%20Peczely.png "mapa_iridologia_peczely")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPuC6U81Gsbw_wmu61ISUyJoir0eLAI9KL8J-0v1L2Pc0BNrRLFqODuVSN8NJYDVymp-EW9t4GBV1c5gO1JXGvoy3Oss2hAfEs_CgTE1TFNcbNUdcbJmO4KVfhdR6HUYM2u835kVrBdQMG_-PygL8qp-Z3MdKgW5UamAnBpby8XOR1N8I_uegcbDNeGco/s855/mapa%20iridologia%20de%20Ignaz%20von%20Peczely.png)
+![iridologia_irisdiagnose](https://i.ibb.co/B5MWGkPP/b15c0ce0282d.png "mapa_iridologia_peczely")
 
   
 Embora a iridologia tenha sido alvo de ceticismo e considerada por muitos como pseudociência, os estudos pioneiros de Von Peczely foram fundamentais para a disciplina.
@@ -108,7 +108,7 @@ humano.
 
 > Esses estudos sugeriram que certos padrões e anéis na íris poderiam ser reflexos psicofísicos das interações entre o indivíduo e seu ambiente, possivelmente servindo como mecanismos de adaptação e defesa diante das demandas externas.
 
-[![mapa_iridologia_peczely](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo4V3Qw2cRCHPDnvE0mgSO3lSZs_MBXDGZz0GdPdi0A6a4p3oiBnasTe2YN5fqwX7hsC5dzBsOhs6yX5y716JukbnLI37Q4JCPIwk47sHCkO98DzIBloXjaBi7YM5GU7zYgYvCRmgFa4CHdHVRlJ4lKE8cx9fQDV66hmY1_MW_A8mHncMZA3AclPMl6-s/w320-h275/Screenshot_42.jpg "irisdiagnose")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo4V3Qw2cRCHPDnvE0mgSO3lSZs_MBXDGZz0GdPdi0A6a4p3oiBnasTe2YN5fqwX7hsC5dzBsOhs6yX5y716JukbnLI37Q4JCPIwk47sHCkO98DzIBloXjaBi7YM5GU7zYgYvCRmgFa4CHdHVRlJ4lKE8cx9fQDV66hmY1_MW_A8mHncMZA3AclPMl6-s/s394/Screenshot_42.jpg)
+![mapa_iridologia_peczely](https://i.ibb.co/3mHfL87q/9370538e8c12.jpg "irisdiagnose")
 
 ## 2- O dr Ignatz Von Pekzely tem outros livros publicados?
 

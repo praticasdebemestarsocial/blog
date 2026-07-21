@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A teoria dos humores é de Hipócrates e a teoria dos temperamentos é de Galeno?"
 ---
 
-[![](https://i.ibb.co/qMRWvNn7/6406d459e928.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ_Q7FKy40fbPme99mG3DAmxaLcYvd9Wjsv137G3Oixzau8G0Re74g_x9Z5RIH8xHB1EQbvTjMhfZ-grFYk_PAdUeurnKJtJqSF9CACG2R5Ci0RmNNkUEowlCsBov9RCo5Syd3bn8mKaK4nVWDXP4DYNUJqXnY7x0LUNRIlRtr1xMRw8XtQsXNYPt4Ulg/s1200/A-teoria-dos-humores-%C3%A9-de-Hip%C3%B3crates-e-a-teoria-dos-temperamentos-%C3%A9-de-Galeno.webp)
+![](https://i.ibb.co/qMRWvNn7/6406d459e928.jpg)
 
 ## A teoria dos humores é de Hipócrates e a teoria dos temperamentos é de Galeno?
 

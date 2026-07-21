@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que é Instituto de Medicina Holística em Braunschweig Alemanha?"
 ---
 
-[![](https://i.ibb.co/kg7P3CvS/f1413e6165d4.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiAmlavVn3-hg6iT7WQcAJocIAvDzpZly7tv-A-v3fJp_gXnYRJT6Z2qJxMWCVlL0QyccIsWRsVQ7uB_Y43sBKpNhcjeDEY2hqwp5bOEg9mlX6xlVWgRRszY9x11g1ilHa_vFp_tXRs7s4cQ_mERqvqNFzy-EV5SdpvQjtxAC2NjNTC3HwDNGE2Cn0ffY/s1200/O%20que_Instituto_de_Medicina_Hol%C3%ADstica_em_Braunschweig_Alemanha.png)
+![](https://i.ibb.co/kg7P3CvS/f1413e6165d4.png)
 
 ## O que é Instituto de Medicina Holística em Braunschweig Alemanha?
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que é reflexologia podal?"
 ---
 
-[![](https://i.ibb.co/G3snvPGX/9084842f08f9.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg28x4lSoEcuo8e4vFTQOqNO1hnRNWX-tOVTgjhzjcbd0Sfzo276Ib9oG7UgVoCItBg6uCr7m4qfLs7R0RGSrEihqcHzWyA6Ez5RUSGJKLlLFqueg-quSBgBBxrvmEU7xDv4Wl2O6LUytBdLeRlwhnBGTBrrnRScJ4pRX1g-qTA6Dg0Ckv4VRt7T9g3oHw/s1200/O_que_%C3%A9_reflexologia_podal.png)
+![](https://i.ibb.co/G3snvPGX/9084842f08f9.png)
 
   
 

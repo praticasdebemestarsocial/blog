@@ -4,10 +4,10 @@ title: "Medicamentos Isentos de Prescrição (MIP): Tudo o que você precisa sab
 date: 2025-02-17T01:38:00.006Z
 tags: ["fitoterapia"]
 categories: ["bem-estar"]
-description: "Medicamentos Isentos de Prescrição (MIP): Tudo o que você precisa saber"
+description: ".png).png)"
 ---
 
-[![](https://i.ibb.co/3Y48RyFX/2a57a71ddcac.png).png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhyyXhD8dsvJdeNnjB8HwJEgTSiuO5BiQkx6kPlxFoUcIiymaLpoXMTXo9NRNCQcIJuyB_B_9OsZUnI6cG1iW7CpICt4SrFx6RvhV988es9EKqUBpA_olItXqXSc04QMpo-Z3fZO3sjh33-caxZsOLiwCApmCqRrNhyphenhyphenUW1ACaUZC-VjRs9pPS4bsf7qaw/s1200/Quais_os_Benef%C3%ADcios_das_Plantas_Medicinais_para_a_Sa%C3%BAde%20(1).png)
+![](https://i.ibb.co/3Y48RyFX/2a57a71ddcac.png).png).png)
 
   
 

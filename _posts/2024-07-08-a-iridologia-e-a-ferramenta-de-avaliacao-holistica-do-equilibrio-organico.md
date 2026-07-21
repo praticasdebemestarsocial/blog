@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A iridologia é a ferramenta de avaliação holística"
 ---
 
-[![](https://i.ibb.co/JN7jvdP/1e643651bddc.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVGTqjB-gYmxivLdAa3yPi5xcy_ISTFErON774jcbBJK3l_GCMjl-nR3NGlCCGZEdlYuEgZofSJvqOCFk2rv7S29_zLCF33WwYR-H0TLMHi5yZpH-8hfwNanbmfJ-4GqbxtLl0b8WmshqCY3gZhlUT_FXeDXpCNVlALdD46ERKRsSDrJ80dmyHOdA5SLo/s1200/iridologia_ferramenta_de_avalia%C3%A7%C3%A3o_hol%C3%ADstica_do_equil%C3%ADbrio_org%C3%A2nico.png)
+![](https://i.ibb.co/JN7jvdP/1e643651bddc.png)
 
 ## A iridologia é a ferramenta de avaliação holística
 

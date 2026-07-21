@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Iridologia e Sistema Glandular"
 ---
 
-[![](https://i.ibb.co/Mkp7MVwV/297bfeb46f9a.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1DAA8dHatDIq6lA_iUaQv2wjijRGxZwAbUyH9alIM2zbWEPHuc08hs2yYGiy-I4DppHMHQt1EUiHuMMRXShzroe-XJFOArAL2vnLlRFVCGCJwrvSCDoHPL5qkw7c1S2PDrUPMUmrE-x9LzHh3AguHcTToRT7uEYm-mJcoEhKEnh_4QlOYLdPjOiLa-Vs/s1200/Iridologia_e_o_Sistema_Glandular_Ebook.png)
+![](https://i.ibb.co/Mkp7MVwV/297bfeb46f9a.png)
 
 # Iridologia e Sistema Glandular
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Como é a personalidade do tipo Flor?"
 ---
 
-[![](https://i.ibb.co/GvfM5d4p/139c514937e2.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7t3uxL9N62R8eWg88bjnRQHT2tmBzrD9j58V-PTjAn-fcZ-_vky7yiHAgP-MHAB1K24Z_Hoq3jgsLdH358wWnxqKabcWi7rHtANXWfBCpglL2UqMVaNhfzMUVKfpAc1VjQlIKa0WNCM68C_UGNVdCPQBM5SFdEmJ6pj33jlxaA-xbqWgsdCprMvwmFV4/s1200/personalidade_tipo_Flor.png)
+![](https://i.ibb.co/GvfM5d4p/139c514937e2.png)
 
 ## Como é a personalidade do tipo Flor?
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O tremor nos olhos, também chamado de mioquimia palpebral, é uma situação que pode ocorrer normalmente com a maioria das pessoas por conta de  algum m..."
 ---
 
-[![](https://i.ibb.co/6JcGXYH8/2557cfc57640.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrGRFBd6ZS7GF4HkKCyGgV5PWjcqKVfde8JkPHS8oWH8YYG2yPXBDygweXed53mRWnEhc6SANjVoRvGFNfnYbxoko0vccwzLXzRhPJzUlbCsF037QCYc9jMexwVTsjmXAr6WC0kDzzkrr7PvADuORIhoixcTofoQ3-1qFr2_Ok3vGOLfAm24Lgj5nkom0/s1200/Por%20que%20o%20olho%20treme.png)
+![](https://i.ibb.co/6JcGXYH8/2557cfc57640.png)
 
   
  O tremor nos olhos, também chamado de mioquimia palpebral, é uma situação que pode ocorrer normalmente com a maioria das pessoas por conta de  algum momento da vida.

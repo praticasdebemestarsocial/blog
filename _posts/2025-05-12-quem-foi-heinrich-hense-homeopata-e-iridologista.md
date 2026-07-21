@@ -33,11 +33,11 @@ campo.
 
 ## Quais outros livros Heinrich Hense escreveu?
 
-[![](https://i.ibb.co/Zp9JShM2/0fcb2efd6b49.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL_F_f8z4WgqTZ_T9R_jY8S2X7W2jJrjgNGi9C_QbQr5G0p7bH4-W5Qjzm-EX6FiuMpvFpVfPYx6cuzr0OVKA1cYZlFxzQRwZYHHfHpCANhWS4TGZqngNoU2WDBQ2X170xdCnrjtF8xRP_I8Jv2gNuCCuhqA4OJL1oeS2vtaEKCFQ2IXRCbgSr2_RGwxM/s376/Screenshot_9.jpg)
+![](https://i.ibb.co/Zp9JShM2/0fcb2efd6b49.jpg)
 
   
 
-[![](https://i.ibb.co/8LzM4StL/19a4bae43521.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCNfeV4-LbajARRyLHFcZeCycKyAhbR9wT-ETbgqE5QR-d-5rcpQKNI0eWsQS6v4xzI02lC8G0H-SMRTBzgt2VI9_9J8EoA8Qi245MEOJgOmTB70DdgD1Iv1znUitFQhmHdn_roe8TbMf-cnULuQYqxsIRK8vLaDD7i6zs3K6yxBlnBy1PLO5KceJYptU/s840/Screenshot_10.jpg)
+![](https://i.ibb.co/8LzM4StL/19a4bae43521.jpg)
 
 Heinrich Hense escreveu sobre homeopatia, incluindo a obra intitulada
 *Heilsystem "TRUW" Thorraduran-Radium-Homöopathie*, publicada em 1937 pela

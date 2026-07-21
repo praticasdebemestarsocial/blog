@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Teoria dos Canais Aplicada na Medicina Chinesa: ensinamentos de Wang Ju-Yi sobre a terapêutica por canais"
 ---
 
-[![](https://i.ibb.co/kgGpbTrH/869ff1e97546.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPJO11_O6M_d7qcnMs7IdBxUHceX_opzA5OUdawTW3O4L5A_XpDf4t8X5t-tVWF1dhO7HGUsKhutMCFDH2J4pqcz3_Q2pu7iRg5vkhAIY4LLmcPgZetWFKM7ZuA3JB8ZcPaxXLxj0Uwk09OrRN7Ar3WJtoy9ZfV6HgbIQvYs5ofXWbd5q7q-mHkc7pRLk/s1200/Teoria_dos_Canais_Aplicada_na_Medicina_Chinesa.png)
+![](https://i.ibb.co/kgGpbTrH/869ff1e97546.png)
 
 # Teoria dos Canais Aplicada na Medicina Chinesa: ensinamentos de Wang Ju-Yi sobre a terapêutica por canais
 

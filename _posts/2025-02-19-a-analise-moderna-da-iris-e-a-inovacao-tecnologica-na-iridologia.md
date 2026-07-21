@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Análise Moderna da Íris e a Inovação Tecnológica na Iridologia"
 ---
 
-[![](https://i.ibb.co/0V2xRy7Q/0988d1fec08a.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZQGMj5yHeCZEQ7sHt1nZstpVLh6av9e6l1LrNEh7L4Adbu4AwKxisiZQVNIfHAxpgIx4hAEw8eWR2IKGn3dqsPSD1xlFItfW5WPqA5YPKLdInkUTVbRHO6qhMRJMBDzbd7LNb66y5ySVP7Kwz6hyphenhyphenuQhbQaupEGxSZPcZ3Sbk7QKo67L613pg_yfw1EE/s1200/A%20An%C3%A1lise_Moderna_da_%C3%8Dris_e_a_Inova%C3%A7%C3%A3o_Tecnol%C3%B3gica_na_Iridologia.png)
+![](https://i.ibb.co/0V2xRy7Q/0988d1fec08a.png)
 
   
 
@@ -26,7 +26,7 @@ Andrews](https://tecnologiasdoautoconhecimento.blogspot.com/2024/07/quem-e-o-pro
 que amplia a tradição da iridologia clássica, incorporando novas ciências como a
 epigenética e a psiconeuroimunologia (PNEI).
 
-[![](https://i.ibb.co/YF17CcCZ/5ef585f3182f.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHHQh5ztZYqnxP_VGPoTyGVN8Cz5lPVtDTEbybAAE07OGsAUGMPY8316rC7gUHuHCNUtu6wJfFOusOyPU5ZbinrD7XK30AVbx16Za03pC231W3Goj3DNWmtG4529Ef0HQtKhvo2wtNlYLBV1bFZXmtZrYvvzhyXTZ7NdLHQsngM9p5YT4iHndASjIGcrw/s636/Screenshot_87.jpg)
+![](https://i.ibb.co/YF17CcCZ/5ef585f3182f.jpg)
 
 ### **A Revolução Tecnológica na Iridologia**
 
@@ -49,7 +49,7 @@ Com os avanços na **visão computacional e inteligência artificial**, a análi
 da íris agora pode ser realizada com **softwares que mapeiam automaticamente os
 sinais iridianos**, oferecendo uma leitura mais detalhada e confiável.
 
-[![](https://i.ibb.co/jPzgsyMK/ee3bc7fa5078.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC500JoEih3qyFXVekHr6Elnaao3EekAkh22enXgqF5jTWK4GR9rO1xuvmZRMM7EQ3fzz79ZyQtS1sQ2Lu3Dl19upMWuJas-Spl8m5alEvlYHGg2BUd8HMUNri6aPtU30WVaz8ImoxW5KOaapVxveFzgHYA57OpytgCaKehMcmoO_wuhlJMkCRI9g0Qnw/s608/Screenshot_28.jpg)
+![](https://i.ibb.co/jPzgsyMK/ee3bc7fa5078.jpg)
 
 ### **O Que a Análise Moderna da Íris Oferece?**
 

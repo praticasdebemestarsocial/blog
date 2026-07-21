@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Juiz afirma que não é oftalmologista!"
 ---
 
-[![](https://i.ibb.co/vxwwd2wr/2da7290d3b64.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfpk2San_Mcq9UVncEUOkRSllqVnD_g2b3qexiubdtDSkzCU7yn9qn32BXaqTrdHcX5N1nAUMwrcexb-OSYm511JXJx9YLnDRoR5vGEMWkr5J1aLBOljbWavxUMrsms-sBDKzQ3SQBj_IHDSLHnlFL1dxv4GDVlzlplI3btEVS_pB4KytpUgdChStPFuE/s1200/Juiz_afirma_que_n%C3%A3o_%C3%A9_oftalmologista.png)
+![](https://i.ibb.co/vxwwd2wr/2da7290d3b64.png)
 
   
 

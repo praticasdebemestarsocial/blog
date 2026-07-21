@@ -4,7 +4,7 @@ title: "O que é o Instituto Internacional de Iridologia?"
 date: 2024-01-14T02:12:00.004Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
-description: "Instituto Internacional de Iridologia: A Abordagem Holística para Saúde e Bem-Estar"
+description: "(https://media.licdn.com/dms/image/C4D1BAQGEQ48OhDcyTQ/company-background10000/0/1583200140977?e=2147483647&v=beta&t=KwDm3XJcAzikkVbsMygz9KjIa1bEO1Q6a..."
 ---
 
 [![](https://media.licdn.com/dms/image/C4D1BAQGEQ48OhDcyTQ/company-background_10000/0/1583200140977?e=2147483647&v=beta&t=KwDm3XJcAzi_kkVbsMygz9KjIa1bEO1Q6_ak4gJ1arE)](https://media.licdn.com/dms/image/C4D1BAQGEQ48OhDcyTQ/company-background_10000/0/1583200140977?e=2147483647&v=beta&t=KwDm3XJcAzi_kkVbsMygz9KjIa1bEO1Q6_ak4gJ1arE)

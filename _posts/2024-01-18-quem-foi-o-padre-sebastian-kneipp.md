@@ -45,7 +45,7 @@ Em 1886, Kneipp fundou o Sanatório Kneipp em Wörishofen, na Baviera. O sanató
 rapidamente se tornou um destino popular para pessoas que buscavam tratamento
 para doenças crônicas.
 
-[![](https://i.ibb.co/DD4TXf4s/3be08252e340.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmPvjjnIEPZR3mhkbd5wVK2sv8ema-fU1V0W_cNUojGa3Te7-h5R8IM-mm6C8v4VLit8D_-AKpCsLQ2R2hv-nmB5N4tUajCKslapdSxen3ziDRRzuSwMFUuGxAA80bZ7YXkiymsvx_FDyQlvWI-J_ekkS09OysVyHbkN6bQM7koOsFd3BWq-P217jEAgU/s1116/Screenshot_125.png)
+![](https://i.ibb.co/DD4TXf4s/3be08252e340.png)
 
 A Comissão Alemã da UNESCO anunciou em 4 de dezembro de 2015. anunciou que “Kneipp como conhecimento e prática tradicional de acordo com os ensinamentos de Sebastian Kneipp” foi incluído no registo nacional do património cultural imaterial.
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Você sabe o que controla seus órgãos?"
 ---
 
-[![](https://i.ibb.co/6RX3tnGF/d942f4429d0d.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpHrJK8FnWd1VeFGEot9vzLJp0CpO91CcOA16i4nWhxOZf9CKp7wWIRMPkOIXSPZNVIZFHOyw57BKrrR7qOQlXZCBvyFaPLLPqJqZknbQ51Bh75RXYW0luE-w7L8hC4r-fB_y3SpYAvrnLbxWaGzHY3mvQJ6NRrUJXv5nZvpR7nFScN-M-vEteR01i30o/s1200/Voc%C3%AA_sabe_o_que_controla_seus_%C3%B3rg%C3%A3os.png)
+![](https://i.ibb.co/6RX3tnGF/d942f4429d0d.png)
 
   
 
@@ -22,7 +22,7 @@ Esse sistema está dividido em duas partes:
 
 Eles trabalham um em oposição ao outro. O simpático é estimulante e o parassimpático, tranquilizante.
 
-[![tempodesaudecomplementar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglqWLNjnWqQd2D9n_U-1Uf4nOl4jNBMIa0hJ3DvAE8iqgoh7-TshpMJsBNNDrx_2KW1ErMt-DUVBBSAokL7ND8_uOsiAj0vvDEkrzleizCuwYXOLfqODWtcfoWLJddfvZxwlVdGLziRzE/w226-h320/Sistema+Nervoso+%25281%2529.jpg "tempodesaudecomplementar")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglqWLNjnWqQd2D9n_U-1Uf4nOl4jNBMIa0hJ3DvAE8iqgoh7-TshpMJsBNNDrx_2KW1ErMt-DUVBBSAokL7ND8_uOsiAj0vvDEkrzleizCuwYXOLfqODWtcfoWLJddfvZxwlVdGLziRzE/s1600/Sistema+Nervoso+%25281%2529.jpg)
+![tempodesaudecomplementar](https://i.ibb.co/NdY54XMv/0cf92a32b4ce.jpg "tempodesaudecomplementar")
 
     A busca do **controle nervoso e emocional** pode estar ligado ao Sistema
 Nervoso Autônomo que controla nossos órgãos internos independente da nossa
@@ -37,17 +37,17 @@ Na Medicina Chinesa é representando pelas energia Yin e Yang.
 
 O Sistema Nervoso Periférico é constituído pelos nervos e gânglios nervosos e sua função é conectar o sistema nervoso central às diversos órgãos do corpo.
 
-[![tempodesaudecomplementar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqrsTYZplbksazCwfCq8t8G3icqKREZiafmAFIbbfZd4ONrxcCMoXZZ3ZzqCKoMgEA6-lqE848uM3Lk1yp9YX75bmZSZsJd0ZBEwdpZz8pyDyO8p8f2TT5A7VDk2qbvCmaCl7Kjygq1vk/w320-h218/snp.jpg "tempodesaudecomplementar")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqrsTYZplbksazCwfCq8t8G3icqKREZiafmAFIbbfZd4ONrxcCMoXZZ3ZzqCKoMgEA6-lqE848uM3Lk1yp9YX75bmZSZsJd0ZBEwdpZz8pyDyO8p8f2TT5A7VDk2qbvCmaCl7Kjygq1vk/s600/snp.jpg)
+![tempodesaudecomplementar](https://i.ibb.co/7dXWVDqR/574191ed8198.jpg "tempodesaudecomplementar")
 
 >      Esse canal de nervos e glânglios alimenta os órgãos e retroalimenta o sistema nervoso com informação do funcionamento orgânico e através disso ocorre a auto regulação que é chamada de homeostase.
 
 >     "Na Iridologia  isso pode ser visualizado, como  o sistema nervoso autônomo pode estar  influenciando o corpo."
 
-[![tempodesaudecomplementar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHk_Cw6xRKvwO804wm1zImb5vreQR3xAaKAaaHtdurivsqFnLZGOU5bFNe5-iqFPbiNO9N69Kmq-4qawkyGlmsy9E7rziyckIkcOlzTqZAsSUwblhva_vhQDwWYQqsGDS1zjAqVRJwB29s/s16000/10a.jpg "tempodesaudecomplementar")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHk_Cw6xRKvwO804wm1zImb5vreQR3xAaKAaaHtdurivsqFnLZGOU5bFNe5-iqFPbiNO9N69Kmq-4qawkyGlmsy9E7rziyckIkcOlzTqZAsSUwblhva_vhQDwWYQqsGDS1zjAqVRJwB29s/s218/10a.jpg)
+![tempodesaudecomplementar](https://i.ibb.co/g1KxPQn/5921cab13c03.jpg "tempodesaudecomplementar")
 
 > "Nessa foto podemos observar a miose pupilar, onde podemos constatar através do questionário que essa pessoa sofre de stress e preocupações que causam um desequilíbrio nos ácidos e enzimas digestivas, provocando prisão de ventre."
 
-[![silvianesilverioiridologianaturopatia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyb-JPzUUo4qsbU7oqiIws1E51piCjbNEqS8cKgKmO6H4fv5egbxy0G_zcp5jqlJxphXctHzhNXbhIv6iOSoUuCooepjXG1Ohc8AW78s0FdqBNtye6O3lCVKJs_6emGQhvxpMdHm7xlVw/w181-h200/euu.jpg "silvianesilverioiridologianaturopatia")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyb-JPzUUo4qsbU7oqiIws1E51piCjbNEqS8cKgKmO6H4fv5egbxy0G_zcp5jqlJxphXctHzhNXbhIv6iOSoUuCooepjXG1Ohc8AW78s0FdqBNtye6O3lCVKJs_6emGQhvxpMdHm7xlVw/s2048/euu.jpg)
+![silvianesilverioiridologianaturopatia](https://i.ibb.co/B7rXv4k/e241a1892239.jpg "silvianesilverioiridologianaturopatia")
 > "Quando utilizamos uma ferramenta que pode dar luz a respeito **desses fatores nocivos e prejudiciais para o nosso organismo** podemos ter uma informação  relevante a respeito de que forma podemos cuidar melhor do nosso corpo, da nossa saúde, da alimentação e do nosso estado emocional."
 
 Silviane Silvério - Terapeuta Naturopata - Crth br 1741.

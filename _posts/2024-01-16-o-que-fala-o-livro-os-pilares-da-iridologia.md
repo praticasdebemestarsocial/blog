@@ -9,7 +9,7 @@ description: "O fala o livro Os Pilares da Iridolgia?"
 
 ## 
 
-[![](https://i.ibb.co/VcV3HRjH/f0c5d96d5405.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ijCay6Fu7q-64hQn9FgsVGCf6ARwX1ZQcfMMV5T5nBCrXh-b-O0yCMUX7oL-r2pZSQIC_Ln_aLrdDPYBgFuHGrZk56XIyWPwpyDznNqaYogv-Z1TDsDp_ny23P6qJklNCdD2uWqbUaZASpTgaSLceSWYwk0DO4i8G-6uVzzHNHzsYmpb0QruS7PMsgk/s1200/O_que_fala_o_livro_Os_Pilares_da_Iridologia.png)
+![](https://i.ibb.co/VcV3HRjH/f0c5d96d5405.png)
 
   
 

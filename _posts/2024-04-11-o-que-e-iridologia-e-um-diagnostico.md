@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que é Iridologia?"
 ---
 
-[![](https://i.ibb.co/WNSBnVfj/37d751baddbf.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhohPViQj_kl59jDHwd-SUnL5hjd3QtjLyIBef6DybuVLZDhOjJTvCxFb4iENdkCVYafgwOh198-xkOtErBLBMU9IuHXe1lFwSphGVlGF9oS2YnmcuijaGn4bs54_SHbdPhd6ZL0Z3B1IE2KEQ_ErVF0NQb7tsabejrtQQecz_h5boLJRPXVXAyI8aoAYs/s1280/Iridologia%20tecnologia%20no%20autoconhecimento.png)
+![](https://i.ibb.co/WNSBnVfj/37d751baddbf.png)
 
 ## **O que é Iridologia?**
 
@@ -45,7 +45,7 @@ aos hábitos alimentares e estilo de vida.
 Também é possivel fazer essa identificação através de lupa ou de equipamentos
 especializados e softwares para realizar essa identificação com mais precisão.
 
-[![](https://i.ibb.co/RTswcpcw/d89326f9299e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEUiYQDlkWSlLfhS2RoSrbmtuwTNjCQKX7rspRbBE2HhNrdBnZ_yAZw4O16cfaYtzWcho5HAfaOZrOQeBZGgfcp0MM035PyciY58i9w7aMdoKAQ8KqUQgxElGwMKG_sJKUBnD4lg1skpzrcqlX0Tr4sbnsh6i54_irWrHBBMHFoeTJ1AXmoCBIYGVs-5I/s555/mapairidologia.jpg)
+![](https://i.ibb.co/RTswcpcw/d89326f9299e.jpg)
 
 ### 3- O que significa os sinais que são vistos nos olhos?
 

@@ -89,7 +89,7 @@ aproximadamente 4,8 litros.
 
 Os fragmentos do Olho de Hórus foram reunidos para formar o olho completo,
 refletindo assim a rica mitologia egípcia.                     
- [![](https://i.ibb.co/wFyY40VF/3abd1ad22db5.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr8qFU1vsGepwYxVvbgjK4AcBVXTvUsRzsa9aGXZmmusovpe0Vp05Ics6IWABy7X5O36P3j_hxAWo32Wk_O0DAQdaRuFvbviZVELe6Ii_WbGYD_1ZQtHhuzTHSTNojkHRyheDgqlJ-oSMUib2V6yOSGMYZNetFSMAEf18rHifiR5V8UpB6hDEdhGqw3c0/s680/Screenshot_35.jpg)
+ ![](https://i.ibb.co/wFyY40VF/3abd1ad22db5.jpg)
 
 Cada parte do símbolo recebeu um valor numérico, utilizando um sistema de
 frações que inclui potências de dois: 1/2, 1/4, 1/8, 1/16, 1/32 e 1/64.
@@ -100,7 +100,7 @@ que diz respeito à glândula pineal.
 
   
 
-[![](https://i.ibb.co/8DxBWQBD/71a2dec1478d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZEJ4nMGNfUsWV2mDut8UU4aiIzgFNIBeFDgSOQlQ5MZEQXedPtS1dxkNh61x8iWUenjFI4N3fwydBJAy0-J27go7KgpQSK93fNWtCEoIjGGhkdw3zKcVwhYIgATOMSdB2o8mpVQ13tdcxsWWCB7zUVPe_OjdkxoJ_nguiAIi0Sq4lYr9JhXAS_vxdhXI/s529/Screenshot_36.jpg)
+![](https://i.ibb.co/8DxBWQBD/71a2dec1478d.jpg)
 
 Essa associação pode ter sido a origem da expressão "olho que tudo vê", Olho da
 Mente, Terceiro Olho, Olho da Verdade ou Insight, o Olho de Deus Dentro da Mente

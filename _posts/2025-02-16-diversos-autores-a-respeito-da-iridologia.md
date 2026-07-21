@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Principais autores, suas nacionalidades (ou local de atuação), a obra citada e o respectivo ano de publicação (quando informado)."
 ---
 
-[![](https://i.ibb.co/s9X8w0BJ/44a4f1fa1311.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCBP-hk0bFhfG3bHrNfUL20wFFV7QYeJ0sl2811cfT1hLOK4JuYXPRLYK81qGyzB81Znk5pzIlqoETBMqSD-mwbdiNur0qYwILoS7EuHVsfOwIgkT82VDuRep7_gCzBADzLmhFOQ4BSzIA36F9VIx81Vz5IM5cVObhbBK2mFrOCxr6Tq7pRN9K3pBEnNk/s597/Screenshot_88.jpg)
+![](https://i.ibb.co/s9X8w0BJ/44a4f1fa1311.jpg)
 
   
 Principais autores, suas nacionalidades (ou local de atuação), a obra citada e o respectivo ano de publicação (quando informado).

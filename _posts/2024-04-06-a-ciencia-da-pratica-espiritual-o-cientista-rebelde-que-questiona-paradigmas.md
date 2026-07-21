@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O Cientista Rebelde que Questiona Paradigmas"
 ---
 
-[![](https://i.ibb.co/JbrkTRL/de7e44fd0575.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfGdahUej1jH3hztR9zSZ5_A6h_ZxWhgcZut8EZ9-lNTfl_QvQRfF_IqaDcjA2dXUWv0lczd7HfqQeFvAXNc4kB8T6uFqmMaHpgBszYMmHeRO93Va2nuCdFesYHwGutWq-YmMIC-_lIpTIph0a4saUc1Fls5nQT0ptibnykm4xc1hhz4v1ebS3kDWtDPc/s1200/A_ci%C3%AAncia_da_pr%C3%A1tica_espiritual_O_Cientista_Rebelde_que_Questiona_Paradigmas.png)
+![](https://i.ibb.co/JbrkTRL/de7e44fd0575.png)
 
 ## O Cientista Rebelde que Questiona Paradigmas
 

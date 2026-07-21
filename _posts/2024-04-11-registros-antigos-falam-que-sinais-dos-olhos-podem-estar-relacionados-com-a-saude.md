@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Tempo de leitura estimado: 3 minutos"
 ---
 
-[![](https://i.ibb.co/yBxDLY4M/26666f015552.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEes2VcZmebJabOS4GHeFcy9CVrdnbJckR_2RE9TU-UEGYNmIOxtxAZ9PhlAHlW9zUmW9cEvhGLuXxX0CfdxQHovsQu_vz4vtoqdrc_21NVwzkgm_vxINd9VPocGGndkrOHSQkQHL8yBvHZw3DikpUCfQTHM8ffb2sKbe_Zd8KDwCEB9jna0NGgvtSIY0/s1200/Registros_antigos_falam_que_sinais_dos_olhos_podem_estar_relacionados_com_a_sa%C3%BAde.png)
+![](https://i.ibb.co/yBxDLY4M/26666f015552.png)
 
 **Tempo de leitura estimado: 3 minutos**  
 

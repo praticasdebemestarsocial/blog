@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Sensação de Estar Sendo Observado: O Que Diz Rupert Sheldrake?"
 ---
 
-[![](https://i.ibb.co/7xzf732S/3e3aa1f15bcf.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1fvoa8DLFTX-mpFdaLCdYTAhgrf_IbPxty4EoAetnDVRlz9JoZYt_2GvJlrahOLkwojbNZoihABX_F0nEtCDTtz2SqfsIJ54R6Xe_rGoC2i9ikiegHtlOUgUUqWg6ll_66aLE8fjD3wZTgq-Wqfw3cvzl6jSxxchppBP29EdjzVfN-dfkhzlfxURruzU/s1200/A_Sensa%C3%A7%C3%A3o_de_Estar_Sendo_Observado_O_Que_Diz_Rupert_Sheldrake.png)
+![](https://i.ibb.co/7xzf732S/3e3aa1f15bcf.png)
 
 # A Sensação de Estar Sendo Observado: O Que Diz Rupert Sheldrake?
 

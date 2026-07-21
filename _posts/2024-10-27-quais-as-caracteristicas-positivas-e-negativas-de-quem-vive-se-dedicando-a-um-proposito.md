@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Autoconhecimento e Propósito:"
 ---
 
-[![](https://i.ibb.co/dN2Tdhy/7dca40d1a98f.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYk8xTOB3eMo80RvdrpFdJUH22C6QJeh4wb6fc9e0Dj7iD5mFc5VvpKFEDwwnhNrjchGoI_hwPqvPanUqeqzeKby5P6vEt3C0pru1JWlWuHg1kMZWBsjGRqq-I854MUYL9xv_aE4d5kKSTLH01Uekxvf6l4MeUSlosRF0dMQ46GJNDh18l9P3abcR8f8M/s1200/Quais%20as%20caracter%C3%ADsticas%20positivas%20e%20negativas%20de%20quem%20vive%20se%20dedicando%20a%20um%20prop%C3%B3sito.png)
+![](https://i.ibb.co/dN2Tdhy/7dca40d1a98f.png)
 
 ## Autoconhecimento e Propósito:
 

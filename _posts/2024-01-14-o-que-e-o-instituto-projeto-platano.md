@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "1- O que é o Projeto Plátano?"
 ---
 
-[![](https://i.ibb.co/jvHF7QdQ/0855ba1083bc.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHrbjHyZ4H66lk4ncDL17liENL8sTBHlUksx70eBv-gjhrNVufWiqXaLiwxIrz6XESCQpEtl7TE1cpU0n3m5BkvLh95GRXYanpI4mvSsuqmcT9yd5JzrCo3MFfDZkn567KrZsCJRjndM7blpXT0EtcueY4OHDKtIqWSwLI0F47aLKRlEGDx5AZusew3ZE/s1157/Screenshot_192.png)
+![](https://i.ibb.co/jvHF7QdQ/0855ba1083bc.png)
 
 ## 1- O que é o Projeto Plátano?
 

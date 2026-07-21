@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Livros de Manuel Lezaeta Acharán – Conheça as Obras do Pioneiro da Medicina Natural!"
 ---
 
-[![](https://i.ibb.co/MDGzVNzZ/cc111c3af07f.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcJoUz386H0gBfzuDbDILI8isU83EB-ZCOX0u4CEbuFzN8SCJY4z9Ldan14_aJ79nyMjJgBsopRFKsj3c1SuX64YGSWQAT9RFBaWkKYn6llUSe2goq-LycQQA9r6L0yDoxrY5x3SdgEfxQCT-vaFoSXugpZDM0hlJETaAE0xo1YHlqvy064_sj9W_W5Uc/s1200/Quais_s%C3%A3o_os_Livros_de_Manuel_Lezaeta_Achar%C3%A1n.png)
+![](https://i.ibb.co/MDGzVNzZ/cc111c3af07f.png)
 
   
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem é  Daniele Lo Ritto? Médico e pesquisador italiano especializado em iridologia"
 ---
 
-[![](https://i.ibb.co/dsj60dwv/4f19e8dacdda.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcJKznnx-1wzNx9jSS7uqj5FLKFKT0VLoMvTD6VIjQcg2diW3EXG5U8pKSiwQm5hJg6rkyTHCFF4pD7d79z44xbHk9eGZconw6UAjlMkYOzUZ5mEDxTvvpLfk8VNy61UJAPByJ5rJ8Sg1b9Ep5roaEuWXS8I_xsesyx73-A19eNcbzaHVQDdR4AAEHwQ/s1200/Quem_%C3%A9_Daniele_Lo_Ritto_M%C3%A9dico_e_pesquisador_italiano_especializado_em_iridologia.png)
+![](https://i.ibb.co/dsj60dwv/4f19e8dacdda.png)
 
 ## Quem é  Daniele Lo Ritto? Médico e pesquisador italiano especializado em iridologia
 

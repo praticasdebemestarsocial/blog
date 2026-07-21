@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Olá, seja muito bem-vindo(a) ao canal Tecnologias do AutcoConhecimento!"
 ---
 
-[![](https://i.ibb.co/9kwcP0ff/c5c4ed5303fc.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0hkljfW419Uh5coIJad3KMm5jjAtbPc_mycrHivAzuKXhf5bSHypKRjHE69AoQXRYO78gGXFm500sXfIWhUz_KHa2w779Kpc02F5ynVpeQwGZGr99V_tYxAR_ByO00q7NhgW9keIqclLxgTR_FkF6_BCu-xla0Q-lKVMNeIiTJPVYsPLMyBa_aWZkmGc/s1200/Vis%C3%A3o_Tempo_Cinco_Perspectivas_Expandir_Consci%C3%AAncia.png)  
+![](https://i.ibb.co/9kwcP0ff/c5c4ed5303fc.png)  
 
 Olá, seja muito bem-vindo(a) ao canal Tecnologias do AutcoConhecimento!
 Irei postar uma série de vídeo reflexões a respeito da impontancia de

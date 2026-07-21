@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Como a Iridologia apoia no auto conhecimento?"
 ---
 
-[![](https://i.ibb.co/zW7Vc5Gb/a7d3272cedfd.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwptS1RrEoTlbPRktpW1_2qm6U_zTCL2a9QhJwq8JyanEvrVy2huNoc658Or199iJ5RJlRP2zVLib3LaxHZU7Z8_-8Cr0OnKKhyphenhyphenRI-ikaIyZptI4l2-mtHdUe9sJ6UW1MW_e-EJ6-5XnRC4c93fTpKeKigB1g9sDPqXZjlKp6IuKrQuvNMZAC5U2cuaWU/s1200/Iridologia_apoia_conhecimento_personalidade.webp)
+![](https://i.ibb.co/zW7Vc5Gb/a7d3272cedfd.jpg)
 
 ## 
 
@@ -85,7 +85,7 @@ Ele  sugere que a ordem de nascimento entre irmãos e a dinâmica familiar pode
 
 Essas teorias estão mais associadas a perspectivas psicológicas e dinâmicas familiares do que a práticas médicas convencionais.
 
-[![](https://i.ibb.co/fzpywBnk/32d58c0d92a2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizgSSlwU3HPATWRrSDOTe0JfBVuy3wViU59KfL7bnnAepLmDltuqTrKS1j4AQs_vzavYNClzqUaKU6e5QM7b7OlFRz89jxZHh6SGH9hX0STHN0MQ9tjru6kVKO4Bj9HDYZPqW0vPH1Nyta3qV0Rb_PRVXw384wUNvT8WiuREyFYChq2Jm2KTzBFlcQOpk/s526/Screenshot_23.jpg)
+![](https://i.ibb.co/fzpywBnk/32d58c0d92a2.jpg)
 
   
 

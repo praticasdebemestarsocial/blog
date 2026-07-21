@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Tempo estimado de leitura: 3 minutos"
 ---
 
-[![](https://i.ibb.co/tMPg14tg/344e30e7dc30.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG7_r0abuqIJshp0ng7XcyrSd2GVeaEuaz-uTS5deU4_qfnBcCIgujbZYuO3DxE925cVVkZ1QHR1iQb_vk37zt-IyH8LZKY3rCyTS_3NuP2LRPBPwryS37rN1Syj8zlM6ldC8qFfYdXf-NqqC-7AIOSzR5IqpQu9SGASgNcC130kRmWr9uN1Kex1jVYLk/s1200/Quem_%C3%A9_o_Dr_Javier_Griso_Salom%C3%A9.png)
+![](https://i.ibb.co/tMPg14tg/344e30e7dc30.png)
 
   
 

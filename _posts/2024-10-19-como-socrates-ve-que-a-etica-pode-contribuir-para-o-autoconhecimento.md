@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Sócrates: A Ética Antropológica"
 ---
 
-[![](https://i.ibb.co/B50JYrmQ/b57739cb954c.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwb78kIX0yDWixpBZBl_lBnw_n3JOLR0T34MnotEbp0rhmLIRi_HJsXsd68aFHDFp0oszsXbwVcWq0j46HRaSN9U_WCWwk9i9XrLzZ1d_d61oLFSWFuUkuI-2UdUM0M04hWhQfmTzU1aZd4ScxEmwnzZyKv-YGCx9S6kB0BAuJLyz-P22vWd6CzvUo76U/s1200/S%C3%B3crates_%C3%A9tica_autoconhecimento.webp)
+![](https://i.ibb.co/B50JYrmQ/b57739cb954c.jpg)
 
 ## Sócrates: A Ética Antropológica
 

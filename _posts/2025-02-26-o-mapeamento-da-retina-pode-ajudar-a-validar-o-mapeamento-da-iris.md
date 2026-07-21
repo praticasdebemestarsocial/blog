@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O Mapeamento da Retina Pode Ajudar a Validar o Mapeamento da Íris?"
 ---
 
-[![](https://i.ibb.co/TxyNRf8M/d50432fad128.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiIab-4Y-b2nOEH6d6NeQcdNWEUMcC3AldsE4iUDGeq0Hon85tcj6-p_HsvwfL9KZosE_LwkcLe69baBc9dQcaaSi9FF0cXlBOVyoueLg7JceMMYZAQUMZrdZiBSUTnj5XRJMkkyTgnAevnNOqovhGN5IUcf-3z_j31ES9cmpVVpFG3YEapK-qGKW-KZ0/s1200/O%20Mapeamento%20da%20Retina_Pode%20Ajudar%20a%20Validar_o%20Mapeamento%20da%20%C3%8Dris.png)
+![](https://i.ibb.co/TxyNRf8M/d50432fad128.png)
 
   
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem foi  William James (1842-1910) e como ele pode se relacionar com a Iridologia?"
 ---
 
-[![](https://i.ibb.co/MDbcNtmc/b7aef0da34fd.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQW6C6YC6ZSvNZ7etNc4dMC0mFYuL1JH7J799hC8GlwRg4m-zYenjWFn4AHOeDnViuKIXZ2Hc05QRwq3RSy5S-Pe60cFqNP8MPZcQrfcl0EGiqeobAykOyN5vHsdCHViAKUZQgZ-Y2JPf13v3VfxRoZwktAheLqNAitg-7vHPg6TJfrV5O_KHEbPYZKag/s1200/Quem_foi%20_William_James_1842-1910_e_como_ele_pode_se_relacionar_com_a_Iridologia.png)
+![](https://i.ibb.co/MDbcNtmc/b7aef0da34fd.png)
 
 ## Quem foi  William James (1842-1910) e como ele pode se relacionar com a Iridologia?
 

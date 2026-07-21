@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Vemos muitas vezes pessoas dizer que a Iridologia não tem comprovação científica"
 ---
 
-[![](https://i.ibb.co/LXvb070Y/83fd87fdd836.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjgFroJZ-wMk6zRd-1eN_d9ihRTg9JsNU-18zICGfbQhk2OCphyLAviJbSKe5VZjc9NeLnyD7I_5vUeFOgzBn0_XKc_C1hTPDDXHklCdO2lYlQTAHntkBF329wFVRyqxL2aqBCkhWhpBvpQdUKBb-FBrsPoGUzerZVksyvvOUs0uungmImwObXEBXj0eU/s1200/Como_a_iridologia_pode%20_enfrentar_os_desafios_de_um_estudo_de_revis%C3%A3o_por_pares.png)
+![](https://i.ibb.co/LXvb070Y/83fd87fdd836.png)
 
   
 

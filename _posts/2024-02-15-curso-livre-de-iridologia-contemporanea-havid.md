@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Centro de Documentação, Pesquisas e Estudos em Iridologia Contemporânea (Microsemiótica Irídea), Fisionomia e Terapias Integrativas"
 ---
 
-[![](https://i.ibb.co/HL9ThkfL/0c5ec2fae5d3.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvy5alyGIHPinGoIUCfq3Hxc9pM2CS9O7GJsW_tOGZVyKVZ_WuVYG34ovlgVoGtkRyVwthWl0PKgaKvTrg0ez03-31qMN-EATEtXe-zsFeLvjZ9rX4P7uiPKOePIM06t0K2carc5NF3etl_DGLjuZgr_Ka8S0k8TCNJ7BQwQWxIcB7Xrf8SEfz1bq6cLE/s1200/Curso_LIvre_de_Iridologia_Contempor%C3%A2nea_Havid.png)
+![](https://i.ibb.co/HL9ThkfL/0c5ec2fae5d3.png)
 
   
 

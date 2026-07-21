@@ -4,10 +4,10 @@ title: "Quem é Ellen Tart-Jensen?Nora de Bernard Jensen"
 date: 2025-02-15T06:42:00.006Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
-description: "Ellen Tart-Jensen, a visionária fundadora da IIPA"
+description: ".png).png)"
 ---
 
-[![](https://i.ibb.co/6JZwT84C/1e2b1e3497c1.png).png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnAfk5WvNJZasQTKIZJALCr8XtDrayOoTpjOd0_yJ289iczBrdD9Fkyo6Nyrs_Xke_OUtxqTUgA_gtUGR2SRpFtKq9rU7u1Lc-xN0feg7YGH-ZFN7kSa0SLXAtdTXh8sgoDGBm0IkNn1-OtqwXroWyabUGlk3lbmfL7DbA1OrXGOt2YT9TNH2ZOpqPBhU/s1200/Quem_%C3%A9_Prof_Dr_Pr_Jean_Alves_Cabral%20(1).png)
+![](https://i.ibb.co/6JZwT84C/1e2b1e3497c1.png).png).png)
 
   
 

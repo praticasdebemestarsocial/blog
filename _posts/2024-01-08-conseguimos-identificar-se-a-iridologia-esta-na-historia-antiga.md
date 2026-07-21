@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Conseguimos identificar se existe vestígios da Iridologia está na História Antiga?"
 ---
 
-[![](https://i.ibb.co/DHrV7kdL/de10714d7723.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxTyayIjWMjqh4NfDc-havWo8yCZF-yG6ZyK7sRO-PjMoAyaVv9FVm91XKw1na7_EokflkY4EMpMKaqIBPscYvyMaf9ndjKMylwrllvJUvHTiNx7PKxB1vdduyXbG5s5af4IqexWrmPlxP7XmPqDr0NBxOOCxAJ4vu5xtaOtpdbRQAKQQyPl_iTeNKGLM/s1200/A_Iridologia_est%C3%A1_na_Hist%C3%B3ria_Antiga.png)
+![](https://i.ibb.co/DHrV7kdL/de10714d7723.png)
 
 # Conseguimos identificar se existe vestígios da Iridologia está na História Antiga?
 

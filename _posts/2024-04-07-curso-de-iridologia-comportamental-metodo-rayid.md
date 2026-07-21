@@ -4,10 +4,10 @@ title: "  Curso de Iridologia Comportamental Método Rayid"
 date: 2024-04-07T07:24:00.002Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
-description: "Curso de Iridologia Comportamental Método Rayid: Autora: Marcia Jasbinschek"
+description: ".png).png)"
 ---
 
-[![](https://i.ibb.co/fYDZprxr/aa0ae2737455.png).png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt0TGNCUKc9rjx_xuQBq7NQ8b_AZ8Vm-PFaVImQpzIjb6uYh9-fdsNyS8_rI1ySC1wJhA11WlgF54uaAbzXqZbp_h8zaUHyR35zpT4T579QKArLspQWn1evyiU6H-WMUob6TeH9KO5OqeoV_qinI-8vtAMUcARRGnvKbR-lKrQ4PBCui6l1-9DshaGA-8/s1200/_%20Curso_de_Iridologia_Comportamental_M%C3%A9todo_Rayid%20(1).png)
+![](https://i.ibb.co/fYDZprxr/aa0ae2737455.png).png).png)
 
   
 

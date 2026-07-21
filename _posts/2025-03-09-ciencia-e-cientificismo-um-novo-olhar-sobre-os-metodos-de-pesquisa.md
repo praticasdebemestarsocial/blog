@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: ""Ciência é Cientificismo? Um Novo Olhar Sobre os Métodos de Pesquisa""
 ---
 
-[![](https://i.ibb.co/N6PW6chF/c27bfba62213.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtNDW9Ik342iC7aA2bdstZ8mwcVFfF40VHYwCZZOqeMAUkOCCGSe1xp025YSf3R3lmCpJcdSXEMvPiulEblR2uq49-K7bf5oJJoStZqHVnfgQNDNFKjCXr8YU0TUMXD2EV_v1bDRIeLISZYj2Ioo3AadmYY6rdgKPDUYthPk3WFKcEx-E9zeejfEHoZHQ/s1200/Ci%C3%AAncia%20%C3%A9%20Cientificismo_Um_Novo_Olhar_Sobre_os_M%C3%A9todos_de_Pesquisa.png)
+![](https://i.ibb.co/N6PW6chF/c27bfba62213.png)
 
   
 

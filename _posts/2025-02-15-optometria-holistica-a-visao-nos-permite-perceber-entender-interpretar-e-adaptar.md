@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Optometria Holística – A visão nos permite perceber, entender, interpretar e adaptar"
 ---
 
-[![](https://i.ibb.co/gZhcnrgH/7b05ab8b7aea.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1FWZ_IDsyWCf0L_IBlazZjaqcXXG69sXzXFz2E2PKkiTKwUw7CsPOtz2aRqnEz6utKQ4qT9adW1KlntvgAak7cTFpENebL1ErUl5rDe5Rp6CpJGDcoKX1k0KOid11w7QGNna8_MfS_4_b-3ILVW8izIjLu9obAcw7JmvzI8LcLJEZFc7BJhlRNlNBqs/s1200/Optometria_Hol%C3%ADstica_A_vis%C3%A3o_nos_permite_perceber_entender_interpretar_e_adaptar.png)
+![](https://i.ibb.co/gZhcnrgH/7b05ab8b7aea.png)
 
 ## Optometria Holística – A visão nos permite perceber, entender, interpretar e adaptar
 

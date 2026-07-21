@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Olá! Seja muito bem-vindo ao canal 'Iridologia: Tecnologia do Autoconhecimento e Bem-Estar'."
 ---
 
-[![](https://i.ibb.co/nNTHN2bf/07de1ffea3a0.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia0lZMBhMqN8VjKygpEtgm3hcJXCUF6uLA5IT9e2WOZcR0-uKHV-y0racQi30A3xM_JVJsj6czUev4rO6C0WoaM_kQ-zQe1Oa2Vox_EjjiLU-qZoXhoma7ET2uQ_SXEl8hXPGB88HGxBUWu57hzNAm9SoAHK1dMsgI617VL9zCgORkKOZqyUWZwMyB0OI/s1200/O%20que%20s%C3%A3o_dist%C3%BArbios_emocionais.png)
+![](https://i.ibb.co/nNTHN2bf/07de1ffea3a0.png)
 
   
 

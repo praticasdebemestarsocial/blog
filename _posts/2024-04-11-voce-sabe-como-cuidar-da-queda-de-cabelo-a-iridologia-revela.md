@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Você sabe como cuidar da queda de cabelo? A Iridologia revela."
 ---
 
-[![](https://i.ibb.co/kVPh9Wtk/0ae419059d44.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPW0Fx4md0666lqbpEetkzvFgx6SxWLesOfaFpwD27LjYsAnhNdudDCIL7sB2jRK65vMX7Izgd-VeNoG8oQyUyFhkPDntbmHhRVxQThsuNxjQI7QQqv-i9AIyyRXCW-2qZ3_A2UcQU5Q37tpbH7mmxkySaGAwpD_m8QXVzgQge0Jmqr0B6mqsJwS2LJtM/s1200/Voc%C3%AA%20sabe%20como%20cuidar%20da%20queda%20de%20cabelo%20A%20Iridologia%20revela..png)
+![](https://i.ibb.co/kVPh9Wtk/0ae419059d44.png)
 
 ## **Você sabe como cuidar da queda de cabelo? A Iridologia revela.**
 

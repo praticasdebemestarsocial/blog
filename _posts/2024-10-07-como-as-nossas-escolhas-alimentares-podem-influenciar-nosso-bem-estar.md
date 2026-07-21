@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Olá, pessoal! Bem-vindos ao canal! Hoje, vamos explorar como nossos valores"
 ---
 
-[![](https://i.ibb.co/84j8jZmF/7349958eb653.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwxgoPHZTvHL8bPn7KhLJEAJgm8fQOEd9Q1Ood9RqswMKRUr0V9g2OdPVGBF3LxG5BuOqbaEmmaqq6uvVEzKEARCIib81qx_E6TDWtRkzZabA_JuMxLNdkhA9r-u9_QnrdYEDGIMqC6xvpg39laYxCXffat8YqbaoY2E31Vx-XMua0utS1li2AXE4jNA/s1200/escolhas_alimentares_podem_influenciar_nosso_bem-estar.png)
+![](https://i.ibb.co/84j8jZmF/7349958eb653.png)
 
 Olá, pessoal! Bem-vindos ao canal! Hoje, vamos explorar como nossos valores
 pessoais e como eles podem influenciar nossas escolhas alimentares e nossa

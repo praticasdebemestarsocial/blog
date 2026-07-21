@@ -23,7 +23,7 @@ de oxigênio no sangue.
 
 ## 2- Como ele consegui medir a saturação de oxigênio no sangue?
 
-[![](https://i.ibb.co/Qv1qVw3Y/34fe6760cff8.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRuEAf874nlSu0e72VDltJxziEJ7E-yn7GxiGdpuJs8qC2MsMTK9iKU4SXhoK81C4eigrn0eFfgD-btsadRdPhJ4bVR0wPaXcZkUuVBO8TpD-rxldx51rAP58MrB3R95ttxhQqK8VZn_bDN2c8ShNo92c36HiVo41S-qn3i6FJD-ghpmQ5KCsAEYR8YK8/s609/Screenshot_13.jpg)
+![](https://i.ibb.co/Qv1qVw3Y/34fe6760cff8.jpg)
 
 A técnica de oximetria de pulso, que é a base do oxímetro de dedo, utiliza a
 diferença na absorção de luz entre a hemoglobina oxigenada (HbO2) e a

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem é o autor Rupert Sheldrake?"
 ---
 
-[![](https://i.ibb.co/JWfpv9J2/904520220129.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnaqD0ir-4uOVNjrw8cY7A45WBL9vLJPr9cAbZKYUwp46wNpTzKhnxRIIXxr8zERXkJtq9QjfaDPIBRyidmt-GKOf13_VxiA3QNfae9LZ3G6uKTVVEzUy2HdgdtIh_4BwL46tYBX5iH2KUmsGt4tRRXLS6XA_xfGjhEXQ11KrwOAFfsKwLvQR5YbOw1PY/s1200/Quem_%C3%A9_o_autor_Rupert_Sheldrake.png)
+![](https://i.ibb.co/JWfpv9J2/904520220129.png)
 
   
 

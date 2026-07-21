@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Como nos Conectar com Quem Somos — e Sair do Piloto Automático"
 ---
 
-[![](https://i.ibb.co/PZD6SYXw/85137d127158.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioeITg4e9W8CJLmE363VObnVhhMAlVz5aV65r9scvSuk0eMYNAlM7k0pPFsc-7edKEdN7jT-KELm1BnYIudn8IBaLPfI5FQ5xYo7HWoxS09u4vCwfqX7gQnd-xr7OicPSiTIk680PdE34Vsi5YO_kwZKfuLcIrh9W8EVDceJZeJFYL1HIgSqDuK0cjlLI/s521/Screenshot_15.png)
+![](https://i.ibb.co/PZD6SYXw/85137d127158.png)
 
   
 Como nos Conectar com Quem Somos — e Sair do Piloto Automático

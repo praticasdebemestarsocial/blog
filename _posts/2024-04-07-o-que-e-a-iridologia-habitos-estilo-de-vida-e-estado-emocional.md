@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "1- O que é Iridologia?"
 ---
 
-[![](https://i.ibb.co/7dyb7WMf/963ab90c7e3d.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpYLICPi0PIL3j4QCezLDPXWJtruqLJWFLxjnLC2WB8X0dTR4ZYvQNQXrJ4QTdqf6YqY5u39lAJ8uYwP4zcTFJsMm8hLC4NxE-y2aEe1LNFFu5BNwQGvdn3aB7kE4U4_qOGEA11nLe7joEhLA83dHaNBANHCXHIJKS0amUB26H9uM40UPvixLkPDB6QhQ/s1200/Iridologia_H%C3%A1bitos_estilo_vida_esta_emocional..png)
+![](https://i.ibb.co/7dyb7WMf/963ab90c7e3d.png)
 
 ## 1- O que é Iridologia?
 
@@ -16,7 +16,7 @@ hábitos, estilo de vida e estado emocional que podem estar prejudicando a sua
 saúde física e mental, gerando auto conhecimento e informações de como realizar
 melhor um auto cuidado.
 
-[![](https://i.ibb.co/Q3XHm3m0/90ea1985ca1e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9HBgLXmHbs7sKSQM36vt5stwWLP7pMxfV07Rtub0lwpoNov88b5dy347Pa9SP8gK8zFb4ip9sCbF9Ma9DH9h2O9YwrT56ot2uxhtXvp8q0_xKYiA20k-Qat-3R9SVGzeXyHUNJXV_P-AqUuKgDuCxWfNsr1Lkj1uuVoWD_6BuNd-xTBtbos11h5MAwc/s660/consultaterapia8.jpg)
+![](https://i.ibb.co/Q3XHm3m0/90ea1985ca1e.jpg)
 
 ## 2- Como é possível observar nos olhos informações do interior do nosso corpo?
 
@@ -30,7 +30,7 @@ O tálamo é responsável por transmitir os sinais visuais para áreas específi
 do córtex visual, que fica no lobo occipital, que é a região do cérebro
 responsável pelo processamento das informações visuais.
 
-[![](https://i.ibb.co/XxJwJzJG/9596bb1e3d14.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAplg1O_jSzCtfbFoOfL45s1nCz2FxR4bNAY9Dqsqb5yZyx1bU0IYgWB25tey9WKchEjZts5KpdLy7GpatH8mzR77HsoMNKXR0MGfa_s9JDggU3ldgp1EabTrIBTnwQ7_lLtK8uSU_o0sR6F_yfpoDcb_iWzhj5poPYd4tP4mgyEARA_7itsxqHQIEk-4/s360/consultaterapia10.jpg)
+![](https://i.ibb.co/XxJwJzJG/9596bb1e3d14.jpg)
 
 ## 3- Onde está guardada a informação do nosso, nossa memória no cérebro?
 
@@ -40,7 +40,7 @@ Ele está envolvido na determinação de cores, no reconhecimento facial, na
 percepção de profundidade, no processamento visuoespacial e até desempenha um
 papel na formação de memórias.  
 
-[![](https://i.ibb.co/R4kQy1px/13b8a6ca9d23.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu1vKRDp-zuSYKBCxD7ifdpbCzpHKHd5q0uVCquhDhYqMYvdKFaYDyOcik_FVaEOkDGBDIHFgFusKeFt0ygPbJePjo0UCjc0CQvb3nR_c3DO7fcUkYe6RFgprRuojJCoJOOXRdx3niyjxBiRBnGrRrlTdB4HuGRVg8WSr23vrYPY8vsEB-W37SWbnozL4/s620/Screenshot_6.png)
+![](https://i.ibb.co/R4kQy1px/13b8a6ca9d23.png)
 
 O tronco cerebral é a parte do cérebro que se conecta com a medula espinhal, é
 onde ocorre o começo da transmissão de informações das vias neurais entre
@@ -58,14 +58,14 @@ pressão arterial - circulação sanguínea e rins
 
 digestão - estômago
 
-[![](https://i.ibb.co/qM0rMQML/9010b1768e6a.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoXU2GRa6BaCZIAhRssahqdOfE8_HmJ7bGhZTQnoUbNemOgWAUiolDLPOpAU7DN6Ws44_CrTmqTsTbZsNWe1EMXVsTumUaTbHDH3ef15rbUVD4eB8LlpFqYJIgoOtNUL2o6Ms3XOs171zCe9Tua5Uh9xODPJQGbf7FRKvl8w3WBP-FCmFUqZIVoBi1bu8/s571/Screenshot_7.png)
+![](https://i.ibb.co/qM0rMQML/9010b1768e6a.png)
 
 Essas informações são sinais nervosos entre o cérebro e o restante do corpo.  
 
 A conecção entre medula espinhal e tronco cerebral proporciona a transmissão de
 sinais nervosos entre o cérebro e o restante do corpo.  
 
-[![](https://i.ibb.co/nN6FxPJt/8f4bd1585da6.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3ZoF6LQFX9Q0u4tY9X0EWbjyHrPXz5LgfZZK1NC-JkF21JmnfB7DteI_srdJsLywrw3Cr9Rdy5q-9PqCw08BXyPh84z0roXDnrMWLu-gHEwtAY4bcdKQfca0Vuyh8jzbolZGoqc6b8HKDFyQKfnpowR2mVt9TBBUqCBCxd539g9LS112SaxqMn1X1ZZo/s660/Screenshot_8.png)
+![](https://i.ibb.co/nN6FxPJt/8f4bd1585da6.png)
 
 A medula espinhal atua como uma via de mão dupla de comunicação.
 
@@ -77,7 +77,7 @@ Envia sinais motores do cérebro para os músculos e órgãos do corpo.  
 manifestam nos olhos, pois essa via de mão de processamento de informações
 nervosas e quimicas ocorre em todo corpo."
 
-[![](https://i.ibb.co/G4SkcPH9/2ac2a3963bb9.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkFjCVS2qk9LuddXrTqhfO3XX672VZvAmkQTtS55oHwv2i1kVchAhbP9vx5jlJYO8dnkany-zK2L18wgnwMZXaqrw7W5j3_Oo6LykZwVtZiW-e3ot3MKvhXWLjIIwmZ4y8azL7JVkkfySkmcbugcgMv56p6GCG0VK5OewdfjusQoN8SJlxvxgSpXxuMsI/s684/Screenshot_9.png)
+![](https://i.ibb.co/G4SkcPH9/2ac2a3963bb9.png)
 
   
 

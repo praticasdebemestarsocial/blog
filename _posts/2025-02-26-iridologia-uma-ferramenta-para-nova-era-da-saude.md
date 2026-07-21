@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Iridologia uma ferramenta para Nova Era da Saúde?"
 ---
 
-[![](https://i.ibb.co/spWK8mHX/32f2eee685f4.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfpGyN5YIh6a_3xNONiyTIDNr4mDMiEQuLf6nb20AvyIJy2T8SVMMkeNefWyowMFTH9fQb1i4ydZCSr8MoicjW7gTvhjxRZmC4GKIUQDMAh0ZMbCo4GWva85afktj8-77DKDZxlS5HKeGkwLoqKhVAwU-uTiaaLhXY2OPdVog3Toz2flxGi0NX47cXAdg/s1200/Sinais_que_aparecem%20_nos_olhos_s%C3%A3o_indicativos_de_doen%C3%A7as_sist%C3%AAmicas.png)
+![](https://i.ibb.co/spWK8mHX/32f2eee685f4.png)
 
   
 
@@ -29,7 +29,7 @@ sintomas do paciente em conjunto com exames clínicos e foram fazendo a
 catalogação desses sinais que estavam presentes ou apareciam ou ainda
 desapareciam dos olhos ao longo do tratamento.
 
-[![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQr-ZVn-a3DPztr_aqxOCP0m6Bn5jAzmEmt4cRhHh_N4OznnJPQr5XSd9k_VGvc8Tx9YSwZGE0iAiiQCpTyLTufEhUyKw0CDjh15LaVVZGX3fJVOcyJhZvNKzYBT3GVbk4H876UIN0H1Q/w526-h146/IRIS.jpg "tempodesaudeiridologia")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQr-ZVn-a3DPztr_aqxOCP0m6Bn5jAzmEmt4cRhHh_N4OznnJPQr5XSd9k_VGvc8Tx9YSwZGE0iAiiQCpTyLTufEhUyKw0CDjh15LaVVZGX3fJVOcyJhZvNKzYBT3GVbk4H876UIN0H1Q/s869/IRIS.jpg)
+![tempodesaudeiridologia](https://i.ibb.co/7d3ZCszm/c21c3bb9aa1b.jpg "tempodesaudeiridologia")
 
 ### 2- Qual a finalidade da Iridologia?
 
@@ -237,7 +237,7 @@ estômago.
 que na mesma área relacionada com o intestino, também podemos verificar o estado
 hormonal e nervoso.
 
-[![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8L_cd5V3UyPhhB7FnJIAPusyVuqt1qCBeAdG2XqrVX7YW4xZJanJt0OTVu1SJ8Mf491wBN9S8KUgj5jc3_d-oOFv-JjoAV0Ra3kUsi5Gf2gvdRzCGKY7bzaDhL-w23r1YQE6kEziodQ/w320-h296/IRIS3.jpg "tempodesaudeiridologia")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8L_cd5V3UyPhhB7FnJIAPusyVuqt1qCBeAdG2XqrVX7YW4xZJanJt0OTVu1SJ8Mf491wBN9S8KUgj5jc3_d-oOFv-JjoAV0Ra3kUsi5Gf2gvdRzCGKY7bzaDhL-w23r1YQE6kEziodQ/s424/IRIS3.jpg)
+![tempodesaudeiridologia](https://i.ibb.co/35FkQ0pn/df43a5dd5a3f.jpg "tempodesaudeiridologia")
 
 Veja esse artigo da Sociedade Brasileira de Imunologia, que fala da ligação da condição do intestino relacionado com o sistema imunológico e o desenvolvimento de doenças.
 
@@ -245,10 +245,10 @@ Veja esse artigo da Sociedade Brasileira de Imunologia, que fala da ligação da
 
 A Iridologia se traduz  num mecanismo de comunicação do nosso próprio corpo. Tem o mesmo princípio básico da Medicina Tradicional Chinesa que já está comprovado que todo nosso corpo possui uma reflexologia através de pontos que se interconectam e interligam todo o organismo. Como vemos na famosa acupuntura.
 
-[![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEe3Pojjgb8w1PQmZOjGprghyZTlpHvudT42q96i5cJecRuse2z1-sM9Tv_tMWvMDj2Oy7oOdpfSo1CiBbMZZ79lHgpM-u1y_Q2Rsg5MCwyEnfF2pNoi3NNmsKfW81ixJVLi2wdyDYN_s/w640-h304/IRIS4.jpg "tempodesaudeiridologia")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEe3Pojjgb8w1PQmZOjGprghyZTlpHvudT42q96i5cJecRuse2z1-sM9Tv_tMWvMDj2Oy7oOdpfSo1CiBbMZZ79lHgpM-u1y_Q2Rsg5MCwyEnfF2pNoi3NNmsKfW81ixJVLi2wdyDYN_s/s917/IRIS4.jpg)
+![tempodesaudeiridologia](https://i.ibb.co/YBD3cn2r/1f1300689a1a.jpg "tempodesaudeiridologia")
 
   
-> [![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyb-JPzUUo4qsbU7oqiIws1E51piCjbNEqS8cKgKmO6H4fv5egbxy0G_zcp5jqlJxphXctHzhNXbhIv6iOSoUuCooepjXG1Ohc8AW78s0FdqBNtye6O3lCVKJs_6emGQhvxpMdHm7xlVw/w181-h200/euu.jpg "tempodesaudeiridologia")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyb-JPzUUo4qsbU7oqiIws1E51piCjbNEqS8cKgKmO6H4fv5egbxy0G_zcp5jqlJxphXctHzhNXbhIv6iOSoUuCooepjXG1Ohc8AW78s0FdqBNtye6O3lCVKJs_6emGQhvxpMdHm7xlVw/s2048/euu.jpg)
+> ![tempodesaudeiridologia](https://i.ibb.co/B7rXv4k/e241a1892239.jpg "tempodesaudeiridologia")
 >
 >   
 > "Quando utilizamos uma ferramenta que pode dar luz a respeito **desses fatores nocivos e prejudiciais para o nosso organismo** podemos ter uma informação  relevante a respeito de que forma podemos cuidar melhor do nosso corpo, da nossa saúde, da alimentação e do nosso estado emocional."

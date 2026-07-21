@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Olá amigos sejam bem vindos aqui nesse canal Tecnologias do Autoconhecimento."
 ---
 
-[![](https://i.ibb.co/7tBLtmSc/60cc8d7fc8a8.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSNeozqxicObsd5t7kfcnop-9iZMdnEUOAjR1DdKh3hBtXofXYU200ri67Ac7nPLRwYdKD1g-VjZ4whXi42bqjJ72-zMq2SO8aM4WT1GbnGIKKbz7vaaM6EfjQbPdHf71_rAO-Svk_pLOiJSjqjYEAWA-8V6SAmBXJFKBHsPUW4ge0W8J9azPp7v5VdXY/s1200/A_Iridologia_nasceu_das_observa%C3%A7%C3%B5es_cogita%C3%A7%C3%B5es_vest%C3%ADgios.png)
+![](https://i.ibb.co/7tBLtmSc/60cc8d7fc8a8.png)
 
   
   

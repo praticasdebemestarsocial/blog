@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quatro Provérbios Chineses para Cultivar Sabedoria, Resiliência e Prevenção no Dia a Dia"
 ---
 
-[![](https://i.ibb.co/BHyTP0T4/fbf27de94849.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcBaTCcthTpnUljXoDUOWhJewC-G0bJC56pf-s7tcc8-HRRnXnhcqnsvzJ-8aeVeFfLxK7iCn3vWOVFkegtmtQTlYGtQLBUmCcYDsiZ-gH1ZgDguCvDEeKWTain3XLQ64Gl5lENN05pgDoCjnp3UoGBTkQzl5weS5Qz9DT0_vdTBVYGm7QK-NaEdgJxlk/s1280/proverbios_chineses.png)
+![](https://i.ibb.co/BHyTP0T4/fbf27de94849.png)
 
   
 

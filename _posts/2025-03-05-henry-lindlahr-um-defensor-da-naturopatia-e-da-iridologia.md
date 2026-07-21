@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Henry Lindlahr foi um importante médico naturopata e iridologista , amplamente reconhecido por suas contribuições ao desenvolvimento da iridologia nos..."
 ---
 
-[![](https://i.ibb.co/ym60G4RZ/cfaabbf276e5.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV-GBPuTuqDnLlycNkYlitCgeC27Ceyxo2AurCHjAVjj21WNe_j3pCNRW4GZTX2uKOLflAWSgqtivPhcV900hMxGOooqM54bSmLIvXDS4QUpjyhRgnXauC73uT6aWR7Vw5-hmmFMm6ncFVcsaVBfl7hpcXFSNqTV0HBvvsFq1p3XEtyEpwKLF30MxGu3s/s1200/Henry_Lindlahr%20_um_defensor_da_naturopatia_e_da_iridologia.png)
+![](https://i.ibb.co/ym60G4RZ/cfaabbf276e5.png)
 
   
  Henry Lindlahr foi um importante médico naturopata e iridologista , amplamente reconhecido por suas contribuições ao desenvolvimento da iridologia nos Estados Unidos e por sua abordagem holística à saúde.
@@ -81,7 +81,7 @@ corpo e condições de saúde.
 Henry Lindlahr foi um dos médicos naturopatas mais influentes de seu tempo e
 teve um papel importante na popularização da iridologia na América do Norte.
 
-[![](https://i.ibb.co/MxDtcBnt/120ae7984dba.png)](https://blogger.googleusercontent.com/img/a/AVvXsEisHvzdqDIuhgmjrIYyiV5t6DpPx_RDiaH6-nHg2r8YLiOURY6OU_MQa_HNziGlefoWQaPhdn6e-LtJwNgCFABeDxW9EVo6fzAWvJpqJGSE7-M5wv5INSyv5zbBivgREVR50ZLwXqFluidvmpKeARU_dgI-Sc2tMVvyQ5v4Gtt-l6Zmm2BJMu77LgorZ10)
+![](https://i.ibb.co/MxDtcBnt/120ae7984dba.png)
 
   
 Ele fundou o Nature Cure Sanitarium em Chicago, onde praticou suas teorias e métodos, além de ensinar a outros sobre a medicina naturopática e a iridologia. Suas obras e ensinamentos continuam a influenciar praticantes de iridologia e medicina alternativa até hoje.

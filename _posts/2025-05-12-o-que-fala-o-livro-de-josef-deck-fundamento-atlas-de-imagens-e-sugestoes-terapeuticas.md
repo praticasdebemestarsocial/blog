@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que fala o livro de Josef Deck, fundamento, atlas de imagens e sugestões terapêuticas?"
 ---
 
-[![](https://i.ibb.co/V02Ct0P1/22f8ec4934a6.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj871n_f2TPiF1msbdDnRzfVvQpHGrF0xo8PxVrWtCZdYHog7fElYLPVa1s434ar4vA-5DrPmhE6DQrXA7zSIc3RX0mNXrRCK9cTvmDLbsMibBf0SlwbqMz4wbhiGElXNLrny3Ac4FcTcICnaYl1bwGWph4J7DMv1KmBDNnEsD_FSHeXPtbfWx7nCf2jjI/s1200/Grundlagen_der_Irisdiagnostik_Lehrbuch_mit_Bildatlas_und_Therapiehinweise_Fundamentos_da_Iridologia_Livro-texto_com_Atlas_de_Imagens_e_Sugest%C3%B5es_Terap%C3%AAuticas_escrito_por_Josef_Deck%20.png)
+![](https://i.ibb.co/V02Ct0P1/22f8ec4934a6.png)
 
   
 

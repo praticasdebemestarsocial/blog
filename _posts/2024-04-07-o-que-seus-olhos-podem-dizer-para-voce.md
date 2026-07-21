@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que seus olhos podem dizer para você?"
 ---
 
-[![](https://i.ibb.co/4RThF4hC/f6fcf30e2d51.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMlB6mytNY4UJfnVurR4DrI6QesWcwrfv7QqDxFKy-AUuHszCwNIJZ3WVMjJwLsAUPC19nOZ-PTzMp0REvOV9Ozgbfhn7pSDGr9C_ZYCYA5p5SbAn0b34yRzT9vi_AQ6u21IXn4MHIFGHlDSvqJviAWHXPSgXxR6kOvXcI9aQAbrl1AT5_f6kEiZCOmn4/s1200/olhos_podem_dizer_para_voc%C3%AA.webp)
+![](https://i.ibb.co/4RThF4hC/f6fcf30e2d51.jpg)
 
   
 
@@ -96,7 +96,7 @@ Eu estou falando para você que aquilo que a iridologia pode proporcionar para v
 
   
 
-[![](https://i.ibb.co/pv6TQjP8/fe1decb1cee1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO3wA3tB7D5ZG58VE1OADb9GmMjU1T75eOv7QXxsosoFqR18VaRKZ_bsE1UAVpPbhTksB-Yf-NHeNe5sNF4Hi5XhFK1RP9xsQae9XcjyvsUKZ9YbKPmY1fs-pVVeEIxBjcWlzI35cnybdzQ7JddeCseGOh-8N2Wd8BqbUrVSIo20_5lBxXNyDFYzvJHQ/s525/Screenshot_24.jpg)
+![](https://i.ibb.co/pv6TQjP8/fe1decb1cee1.jpg)
 
 # As Bases da Iridologia Alemã
 

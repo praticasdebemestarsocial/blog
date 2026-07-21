@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Iridologia: Uma Análise Complementar, Não um Método Diagnóstico"
 ---
 
-[![](https://i.ibb.co/Y4Q6vQC5/df592ba5f2d4.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJjbXWAdDiQTwqFgi15Jzj9cL84c9ELpErreZE9khNtCaiBRCBP1_QFYdNV_BhxZ-A2ftcwQB5FW1n9Az1rjEpDh5KMAotKWlUGYBaCHd9HihoLFNDIey2KVa0cDWAQCLPIJo_pSvMOAeRDgUPFQbE7QB4MeG2nwJYilcQccEFDdWea7Gy4Qb-l5B0wFU/s1200/Iridologia_%20Uma_An%C3%A1lise_Complementar_N%C3%A3o_um_M%C3%A9todo_Diagn%C3%B3stico.png)
+![](https://i.ibb.co/Y4Q6vQC5/df592ba5f2d4.png)
 
 ## **Iridologia: Uma Análise Complementar, Não um Método Diagnóstico**
 

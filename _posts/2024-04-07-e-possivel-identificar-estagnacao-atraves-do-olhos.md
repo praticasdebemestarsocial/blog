@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "1-  O que é a sensação de estar estagnado na vida?"
 ---
 
-[![](https://i.ibb.co/svFyN1D7/2b4077844e61.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7f7r1PNbfUPJqwNRXLXuTltK5BXN-BEiYaRWG3gJKTC9rDcxol0KSU_T1ptH2BjeVlysHZwVfERbji9xDrHzxYdJVyxby7xOFp4S1qla5xlQJEe8118fAI_LYpBYBZomCX1TES9tCwkMCqWNOyXbNqfyHoNohEmgwl8omdbiS1gigsPNkKXvpHNTHO8g/s1200/identificar_estagna%C3%A7%C3%A3o_atrav%C3%A9s_do_olhos.webp)
+![](https://i.ibb.co/svFyN1D7/2b4077844e61.jpg)
 
 ## 1-  O que é a sensação de estar estagnado na vida?
 

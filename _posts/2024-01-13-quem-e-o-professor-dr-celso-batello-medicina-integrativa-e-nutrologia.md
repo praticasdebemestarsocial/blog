@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Título: Quem é o professor Dr. Celso Batello? Um pioneiro da medicina integrativa e da iridologia no Brasil"
 ---
 
-[![](https://i.ibb.co/5Xr1rFs3/0e3aae5f2ca4.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Rc16QnEyFiNJhiy1pBpxFZXlkGwisjeqGATLDdhRtXljt23CsceaF56zDrVmLTo_zlHHEKFmuZPbVn4u7OuSSiiCfMs4Fk01YfIy6tnR0VJMsMA3BnIe-rWNgMNRyROEYrGdS2jLLUc5gAdrOry7OBnoMw5TiiUGckCyVR4mzFFLINrbHe9uHaVARHA/s1200/Quem_%C3%A9_o_Professor_Dr_Celso_Batello_Medicina_Integrativa_e_Nutrologia.png)
+![](https://i.ibb.co/5Xr1rFs3/0e3aae5f2ca4.png)
 
 Título: Quem é o professor Dr. Celso Batello? Um pioneiro da medicina integrativa e da iridologia no Brasil
 

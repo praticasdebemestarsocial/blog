@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Sete Experimentos que Podem Mudar o Mundo"
 ---
 
-[![](https://i.ibb.co/21qXmJNK/494afc0ea3bd.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8J7okKWEro-S05mAYP_Rd9958rLOamR_-CkGUImSWZjNksXuf8tFY_y2iZHAAQPw9FVhmv2gCmhqaiDBZVZjeMfh0dhcMjGcCRU7tYph1VIq9a4djBOb6c2iVLz8oc7saypYFfOJPS_ESLiIjyuTSYhA6mRyxcEQI0TAvNIZOCXgI1N37AKz2jtcDvqM/s1200/O_que_fala_o_livro_Os_sete_experimentos_que_podem_mudar_o_mundo.png)
+![](https://i.ibb.co/21qXmJNK/494afc0ea3bd.png)
 
 # Sete Experimentos que Podem Mudar o Mundo
 

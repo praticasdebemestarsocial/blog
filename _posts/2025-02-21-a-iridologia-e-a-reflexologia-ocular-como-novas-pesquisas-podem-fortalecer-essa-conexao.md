@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Iridologia e a Reflexologia Ocular: Como Novas Pesquisas Podem Fortalecer Essa Conexão"
 ---
 
-[![](https://i.ibb.co/dJHqgJCy/2f56875f000c.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtvkWuZDiGgu4fUW0gEji758LO_FcGDAdH4vRxQdAB743MOqtHz7-iYxatEpL-Yi6lD1K7aqd-rklMrVnUgj3MrbNluQEaudoX2FvD2Nui8EcurYtkrgtqvyMRBr8s-pm8fuyFCUHAtbqcDxfT-us8FT2L4qIE9235xUwfpUvgqsA28qRJttyX8-ms7Ak/s2240/iridologia_reflexologia_ocular_ci%C3%AAncia_cient%C3%ADfica.webp)
+![](https://i.ibb.co/dJHqgJCy/2f56875f000c.jpg)
 
   
 

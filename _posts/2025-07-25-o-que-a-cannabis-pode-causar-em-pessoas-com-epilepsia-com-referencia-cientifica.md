@@ -118,7 +118,7 @@ epilepsia.
 Além disso, a epilepsia é vista como uma disfunção do sistema endocanabinoide no
 organismo humano.
 
-[![](https://i.ibb.co/r2vn985p/3af2769c61e9.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbCeNqpkbvaaJyQJZ6ndSiFO7MUYf6vyZsuYnRN3Ty7EOSHhx9JmBco9wblwcVg4uVH8M0XH7ssaNNiRG11HzDuHAxJNYmP7Sj-fTVtNWiWockY48XrpdB57HGhsq71Nz8rUC_TS_SmXusOH3Zo3Zg-ZAZ3IFG_2zf0lZ7Nmd38Ig6rrrD75w9091lye2D/s654/Screenshot_6c.jpg)
+![](https://i.ibb.co/r2vn985p/3af2769c61e9.jpg)
 
 ## Prevalência da Epilepsia no Mundo
 

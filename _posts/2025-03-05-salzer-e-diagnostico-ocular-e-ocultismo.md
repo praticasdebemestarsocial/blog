@@ -36,7 +36,7 @@ Sua obra reflete uma combinação de conhecimento médico com uma perspectiva
 espiritual, sugerindo que a saúde física está intimamente ligada a fatores
 espirituais e cósmicos.
 
-[![](https://i.ibb.co/p6rMpSTD/e11774391882.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisI6N5clA_UrPscPARgNd_OUoK8yTBmbEuE7wb8vBDJpf4cGt4bX9ANjFAOUb7ywrxzqwt8XsvRzK4fAqICAwxa4_GHOoVe14Y-3521UI9Qu37EBnzFdULYuUpOUUpzpzpUT3ywBLN_Y6Eer-3Ma2nG0S0yzVOX-MUiA9Dl9SZ_rKTGiqYOg09mGlN04g/s367/Screenshot_56.jpg)
+![](https://i.ibb.co/p6rMpSTD/e11774391882.jpg)
 
 ### Contexto Histórico
 

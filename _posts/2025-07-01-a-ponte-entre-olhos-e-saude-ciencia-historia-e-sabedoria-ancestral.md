@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Ponte Entre Olhos e Saúde: Ciência, História e Sabedoria Ancestral"
 ---
 
-[![](https://i.ibb.co/RkjLqWpK/9bdfbd1b66a0.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGjdAuE4xMhWbCR6aggPJHRlmuVRx7i7coilc-BXtWfHoHRUGXVCdq0OFGfLfF_Xj8lY8Gsy9z_LUY0zHTOqdX6b6FF-VeiYkmdAilo5ShcchDkHElvAlI3C2mAcTvRKUcH5fgPU3Xzsk3hZZQhGMWZrAjZvNQYvKKKDs3hEtPngw1p4Az2o5FjfAtXfQ/s1200/A_Ponte_Entre_Olhos_e_Sa%C3%BAde_Ci%C3%AAncia_Hist%C3%B3ria_e_Sabedoria_Ancestral.png)
+![](https://i.ibb.co/RkjLqWpK/9bdfbd1b66a0.png)
 
 # A Ponte Entre Olhos e Saúde: Ciência, História e Sabedoria Ancestral
 

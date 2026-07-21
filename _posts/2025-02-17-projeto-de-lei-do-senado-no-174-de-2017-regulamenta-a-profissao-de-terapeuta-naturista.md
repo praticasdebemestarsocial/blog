@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Projeto de Lei do Senado nº 174, de 2017. Regulamenta a profissão de terapeuta naturista"
 ---
 
-[![](https://i.ibb.co/Z6TR4sLR/6052507f1acb.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiewBXrACSHPb5gCSF2yQ7wJQgOnfQ65Z3ATWiE6ycBddJPxxSSqKF6zqsbbzz7ESXbhDZIEHD7_ZSU8Fq8-SxZDsvZxYfWDZxNqJnKbENVF_0A-zjFOswGhyphenhyphenGhDHAKmKhwH7CBZ_YVHO-88ItRrg8lA6OBJfUqnNap2A7N9LfkWdPzTjTTUc39QStIxqs/s1200/_%20%20Projeto%20de%20Lei%20do%20Senado%20n%C2%BA%20174_de_2017_Regulamenta_a_profiss%C3%A3o_de_terapeuta_naturista%20.png)
+![](https://i.ibb.co/Z6TR4sLR/6052507f1acb.png)
 
 ## Projeto de Lei do Senado nº 174, de 2017. Regulamenta a profissão de terapeuta naturista
 

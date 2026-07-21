@@ -61,4 +61,4 @@ Em vez disso, aproveite ao máximo essas pequenas maravilhas adicionando-as à s
 
 ## **[👉Acesse Aqui👈](https://lojapontodebemestar.blogspot.com/2024/03/sementes-de-abobora-sem-casca-e-sem-sal.html)**
 
-[![](https://i.ibb.co/Vc9fxqWP/b35da322d0b9.gif).gif)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6vzTF9HLpOIjRfca3MjT8uRyXrwQJviTzwdBfvjBtog1v-R8P8BVg6CF0c1B789bYF62QGjbG5ho8wxxUqQyQEd-mlbJbIYyILmXyy4a6PSyDW_7iZqYJgeN9RdX0I0Vt2RFoJGtR7Vt_bACwqsqJMtBKUkvhbBOInOGiYmtiOb9WWnE4TCql8a8nsJ0/s373/Envie%20seu%20%20pedido%20(1).gif)
+![](https://i.ibb.co/Vc9fxqWP/b35da322d0b9.gif).gif).gif)

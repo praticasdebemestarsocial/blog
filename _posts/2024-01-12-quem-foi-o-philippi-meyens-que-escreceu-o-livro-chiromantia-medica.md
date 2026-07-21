@@ -43,7 +43,7 @@ Além da Chiromantia Medica, Meyens também escreveu outros livros sobre medicin
 
 Meyens foi um médico influente no século XVII. Seus livros foram amplamente lidos e ajudaram a promover a iridologia.
 
-[![](https://i.ibb.co/nsRfjTtz/f37bc96c729a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_n62Pit5Br-pXAuEOddDzSdChEkM0J5GvlPO1MitjO0MOPgNcyyUSAaFT_imvUCAHyc4k_bLsZfUF8fsh6xCRS4jtPzCz4HUK1CzOAXPCi5nJnJWsdKXRk0evMUaiL5otQY1fjvF6vCIse-9nf5f2RYicN6cYGBpUhnOyOxM-ZIa2kH3w5VRMiRH4Fdc/s630/chiromantia%20medica.jpg)
+![](https://i.ibb.co/nsRfjTtz/f37bc96c729a.jpg)
 
 ## Do que se trata o livro Chiromantia Medica?
 
@@ -57,7 +57,7 @@ A Chiromantia Medica foi publicada durante um período de grandes avanços e mud
 
 No século 17, o pensamento medieval estava dando lugar a ideias mais modernas baseadas na observação e experimentação.
 
-[![](https://i.ibb.co/5Wq3pFrn/3dac1b9ebca5.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikgIl4OhNFMmrjSAIxvjSIezA6zoajvwoiP7h8V6ftBJOwrxjiz33W3e03-rwxrrKPqrHpKY60_dwxPm3EDmrqPKNP9ZCf1qchwD9srSDe8ufn44ssFb9xczaI2l8DU8giwdVTuz7Q28QB8RSxgkFn09c3YIjourGm1loEJjMx1bKGdnCF_ep8KZb6QlQ/s1200/iridologiaphilippemeyers.jpg)
+![](https://i.ibb.co/5Wq3pFrn/3dac1b9ebca5.jpg)
 
   
 
@@ -67,7 +67,7 @@ Ao associar características das mãos, face e olhos a doenças, o livro aplicou
 
 A Chiromantia Medica representou uma mudança inicial importante no estudo dos sinais físicos como indicadores diagnósticos, abrindo caminho para o desenvolvimento futuro da iridologia e outras áreas. Foi uma obra importante em meio à transição do pensamento médico medieval para uma ciência médica mais moderna.
 
-[![](https://i.ibb.co/C5P3knYh/6ff7268bd9f1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6UxTX_jNkAJ-9qPS7PZDXdLsgguBqHExPocNpLuPi2bSCtzgrb4-ZyI3oxcRAmG3bjceGTSDpmXjagc2ffZ6nCgDtELwB6YWk0nCO2bKDqpq4YjJDoNm7aty55rbXRuoUAxzHbBG4SaT7xRtAn1E1JrOksSeziy6S1tXC9pj5wsSPPvqLXUGEJJ2cdIs/s877/Screenshot_1.jpg)
+![](https://i.ibb.co/C5P3knYh/6ff7268bd9f1.jpg)
 
   
 
@@ -89,13 +89,13 @@ A Chiromantia Medica descreve em detalhes as correlações entre característica
 
 O método envolvia observar cuidadosamente as mãos e os olhos para fazer diagnósticos e prever riscos à saúde.
 
-[![](https://i.ibb.co/LXtnw84j/fc27d5799a9d.png)](https://blogger.googleusercontent.com/img/a/AVvXsEiGvloF3K7Efc_FO0_KnMymehXJYhCJYhxg3DsGbRjDPPmV1r8tnEmv52f0W_RYoOf6ypIs_UzV2qBivn1poTPQQ80fjRMM1Zzkd1Rmr4WiH4ZtTX2wCVIFVxbf822JIPUBrbMbd9hVYunLwgugH5PDnMFavCKYMCSBeHtUJiI961X_-VuMJcBn4oF7EDU)
+![](https://i.ibb.co/LXtnw84j/fc27d5799a9d.png)
 
 ## Onde é possível achar o livro Chromantia Medica?
 
 A Chiromantia Medica está disponível em uma variedade de bibliotecas e livrarias. Uma maneira de encontrar o livro é pesquisar por "Chiromantia Medica" na biblioteca local ou na livraria on-line.
 
-[![](https://i.ibb.co/rGh3cqhp/91d4ff118368.png)](https://blogger.googleusercontent.com/img/a/AVvXsEj8UOgrXSAgt3fv9jTcbnAaLEFcUpQ5nhu3eyue-95sZc9eg1J1w16YCIvXZ-9UAqt1ZQojjzAJgPvRqX3frR4KG_N4CEjSXgZvME1x58VDGIMQpJ6PUopzqL0Os5U7PUOtEhVMEcMRFdkm1fD5C9oNv8N4MvSfWn8Knm6jzn_sWqGHpHIL_u7wC-VK4K4)
+![](https://i.ibb.co/rGh3cqhp/91d4ff118368.png)
 
 # A Ciência da Quirologia: Uma construção para a medicina
 

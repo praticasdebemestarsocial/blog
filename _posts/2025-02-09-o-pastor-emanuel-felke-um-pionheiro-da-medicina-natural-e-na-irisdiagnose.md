@@ -7,13 +7,13 @@ categories: ["bem-estar"]
 description: "O Pastor Emanuel Felke: Um Pionheiro da Medicina Natural"
 ---
 
-[![](https://i.ibb.co/rRTqfp66/072d925e98db.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsoFdBbVgk80MN4C4wKpifLdsDiPIJKkxJzVf5AeRtM4bVh2YTEt_6GqrW2vAgqGNQog82Bm3bEDbx3T42QDDGl6mZ1Ir7xiJMQYPGOgsJH8WcBLmI3zqoykkbvUE0aY9gnn7l3l82KFBDRpbJQviqlryJAbQ6H3c0mY5LOaj0Apn8qfUjb_MGpwT-rrI/s1200/O_Pastor_Emanuel_Felke_Um_Pionheiro_da_Medicina_Natural_e_na_Iridologia.png)
+![](https://i.ibb.co/rRTqfp66/072d925e98db.png)
 
 # O Pastor Emanuel Felke: Um Pionheiro da Medicina Natural
 
 Emanuel Felke (1856-1926), grande defensor da olhodiagnose, (assim nomeada por considerar na análise, além da íris, a pupila e a esclera). Emanuel Felke não só trabalhou arduamente em prol da sua aceitação, como influenciou diversos futuros iridólogos.
 
-[![](https://i.ibb.co/KxMK3ZH0/63dbeb2c8938.png)](https://blogger.googleusercontent.com/img/a/AVvXsEg6_8hXA8uP1AXbRo5J_25ioh3Y9kvriVykg8NtlvLjFMrFlPdLNLRUK4GkVs4Mr_SyaY6v4Ylycklut5GrGA1CFYlCEEU3uBg6ehyDFciTfCjoUNEQfp7Ho8qAD8nsNIDgihEXVz5hg5eBEXQEka7zaLhfjL7oJOaWHhe5GfOjNML5V7bI0lDlZz4Y0KU)
+![](https://i.ibb.co/KxMK3ZH0/63dbeb2c8938.png)
 
   
 Emanuel Felke foi um pastor protestante alemão que, além de suas funções religiosas, se destacou como um defensor da medicina natural e um pioneiro em diversas práticas holísticas.
@@ -22,7 +22,7 @@ Nascido em 1856, Felke desenvolveu um método de cura próprio, conhecido como
 "cura Felke", que combinava elementos da **homeopatia, argiloterapia,
 hidroterapia e iridologia**.
 
-[![](https://i.ibb.co/GvKX1K4B/230d4d8ab082.png)](https://blogger.googleusercontent.com/img/a/AVvXsEgwvittYnPO70D5SztkHCEYlGvNsXdZ_Mf1i9mOLcahR8YkdWXiev_-ws1PesXFZBqM84WWcD6Sm9RKJVG2PCRJKJLtKw06p2JHvJB7W54nPslEFFO97md6jCkSMoSKDOxiNK1xlZXBm1ACCsIJFcX7Lu8srdRFE0LoQ3lHF5o6dL6fW9Thgrj6EZbCgyQ)
+![](https://i.ibb.co/GvKX1K4B/230d4d8ab082.png)
 
   
 
@@ -33,7 +33,7 @@ hidroterapia e iridologia**.
 * Iridologia: Felke foi um dos primeiros a utilizar a iridologia, a prática de analisar a íris para identificar possíveis desequilíbrios de saúde no organismo.
 * Reconhecimento: Seus trabalhos e métodos de cura ganharam grande reconhecimento, e Felke se tornou conhecido como o "pastor da argila". Ele fundou um spa em **Bad Sobernheim, na Alemanha**, onde seus tratamentos eram realizados.
 
-[![](https://i.ibb.co/GfmmJFff/057de2572f6f.png)](https://blogger.googleusercontent.com/img/a/AVvXsEinK7XLE2fSwkBZKAjXDEN0Se_C1FSGsk3NMQh_6nak1xN9Q9hpZDutRY_B4-i-Bj_GwNOo98M3OI83KlYCnzrFUFaRGCAckjTuRh2LJFkx7nShxbAVa0FWV_V0fneDRgXAMzvRrY5jtgap9sPisC0cZEEKk81SZKgIaMoAGT93JhgNwct4MbXQQxVwrMk)
+![](https://i.ibb.co/GfmmJFff/057de2572f6f.png)
 
   
 
@@ -50,7 +50,7 @@ continuam relevantes até hoje.
 
 Emanuel Felke, o "pastor da argila"
 
-[![](https://i.ibb.co/KcDMBP6T/58e1a926b23f.png)](https://blogger.googleusercontent.com/img/a/AVvXsEg67H6EGCGyaWw5DUnGELDyuDRUKYc-NptKMsmCMz7zwrQMDZ_QdAxtj8DQx1wzszfJA2lCuCmG-vvtm9Tg5Bkte9pSyxsWw_BJ7s_oRqsiKq93cmEnjBE3e8WeeruWywHsf4kPTZf5afy5Zjq9zbduT6BEj4z2Wo_MAGdQddEI5Ee2c79xy3SFrTh8GR4)
+![](https://i.ibb.co/KcDMBP6T/58e1a926b23f.png)
 
 ## Por que o trabalho de Felke é importante?
 
@@ -59,7 +59,7 @@ Emanuel Felke, o "pastor da argila"
 * Holismo: Sua abordagem era holística, considerando o indivíduo como um todo, e não apenas seus sintomas.
 * Legado duradouro: Suas ideias influenciaram o desenvolvimento da medicina natural e continuam a inspirar profissionais da saúde até hoje.
 
-[![](https://i.ibb.co/mVdK1nXn/e9fadf9c2ef7.png)](https://blogger.googleusercontent.com/img/a/AVvXsEhHAFJuCFPG-sttq91DHOvb6-FgG3J-3Mtg98iS1NX7--ZqrvJh8jxqiSwHtUghbyy5mkIoFSMqae4mvlohvZv6iJC3AdR6_0q1gqX-MZUvyXK2FILWNnsCursXgNUFqiS9pClz8xAUAqak9NucF9j3_uk5YkqE-JRWw4pJ-a2pDHNYTrzWjckpB7ywPNQ)
+![](https://i.ibb.co/mVdK1nXn/e9fadf9c2ef7.png)
 
   
 

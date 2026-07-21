@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Na Iridologia o que identifica a área da vitalidade?"
 ---
 
-[![](https://i.ibb.co/ym25s60V/a850c6892c37.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIS3SaUb_YO0b4Q2FJBH-3Rhux-wOtjPqVxNZpB9rkLArKDIjTVm2YSfd-NDW0iiWX04_YpMaaljidPWqBAheT274sAXjnv1Vla-GEpp_kFSStHuuD5Rk0VXDoDakmwAfTuGZkY37BAa8I04DViIMS63BW9ovkUOynLd6O445xh3zw7ISJKfX9DNv5SC8/s347/Screenshot_15.jpg)
+![](https://i.ibb.co/ym25s60V/a850c6892c37.jpg)
 
   
 

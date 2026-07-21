@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Emil Schlegel (1852–1934): Médico, Homeopata e Divulgador da Iridologia"
 ---
 
-[![](https://i.ibb.co/s9WRKcTT/979bd9a90343.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCkhBOyH7d7z9Yp9pwT_1g0LaYmrb2hv9oHDm9xhCrnaZcu18mF-d2Lg9ao85K4IS2uOwmBkMTwMjyhczMzYLtssBsEZc95OHQHaDraUyMFXErgIHKOyBZOqli7IdUnM_O5Je0muCCENtrsLzWVdfXRKwn74ye_daEKauuhE8rkZrta1k6hoZQQFw5oTk/s1200/Emil_Schlegel_M%C3%A9dico_Homeopata_e_Divulgador_da_Iridologia.png)
+![](https://i.ibb.co/s9WRKcTT/979bd9a90343.png)
 
 # **Emil Schlegel (1852–1934): Médico, Homeopata e Divulgador da Iridologia**
 
@@ -107,15 +107,15 @@ Entre os trabalhos que publicou, destacam-se:
 3. **Câncer – Sua Natureza e Remédios**
 4. **A Cura como Centro do Mundo**
 
-[![](https://i.ibb.co/Mk1yNTs5/5651bc82123e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO4KvTCEOOy_FbsZvqNADJQYReu2f2GdXmVjfi4MmMA7MlCarYmJ7c3hMSOqM37dONNCEJJId4OsJ5EDgVNQrDUEkVM_PyR_A0ambZJxc4fwR-2rWck2MMV72W6xQJqOWZSlD4J-7KDd0BeUppuTJ4hp-LbMElUvKBb1S4hxOYx2wUynr1pmiVSSZjMY/s223/Screenshot_52.jpg)[![](https://i.ibb.co/mFqZY56g/b03cdc774e81.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS0-F36q5ccjf_bcZTpsUghkKZ4Z6sGasCAhIsNGD-qFCUMWUcL7RiVadPnk-zsYClaWpyu_HV6OQrfSk9g4eXOhrX9lm1sXy8s0TDcwlZaJ5hxlPaN8F0E7SNHgW21rmNLZiPy2vJ7cCYZvYLR5kVt79t9lUNJnqgceg77q6ZEiaOUaP-X-50eGL6apg/s313/Screenshot_46.jpg)[![](https://i.ibb.co/rRhvbXtw/d9ac7e5f909e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOUBXL-TJYxldjbakZBz7TnvpgrjDUu_kTQCtqfjJG7li3l8Kl69uG4WBaCQOBR4JlFFDUq1gq83iQYp8MhBM7fRuP9MnNG_I3k6BpvaVjYDHJfDBWLiCdrSDxYwwzrx9tdhbOV0ulCRwak_NoiKH3m51AbO8Zc1AXMvd880meVYWwZMHevXzWH2eJxM8/s314/Screenshot_47.jpg)
+![](https://i.ibb.co/Mk1yNTs5/5651bc82123e.jpg)![](https://i.ibb.co/mFqZY56g/b03cdc774e81.jpg)![](https://i.ibb.co/rRhvbXtw/d9ac7e5f909e.jpg)
 
   
 
-[![](https://i.ibb.co/qFF46mYC/d09a045bb176.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7YAOyXHEWSgQb734jZ1MtwEfGeZ97l6pAdLSqGV9Xx1cv8cmy9T0y2dc_uwdwNWAfnWZZJJwSTEBh6Njrbr9EvA02rg5k2Fxzyq0gLDTMos0Txh8d2ob0sXVP5yTU_gu2mBs2ENLAQb9PEUNw6zXc_HYb2-E1Kvc5qtwaCA2MJlM1OUan8rDDmcbyJ1c/s314/Screenshot_48.jpg)[![](https://i.ibb.co/WW4wDbFD/fc90ec505632.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtgkV5jqnZG7qjR9Zl0DoDFTeMTR92VEsnWRDB7P-m20sVTE0LEubwywc6i9KJHu-yInQ6LEFQDzrUzrAC9tYbQbKnGcGz2BU3W70UNXm8rleJuL3vHSKZIcdje2J9wNbHXgNeRTBURoi53m1H7gOq6kp91KW18vOv-Sqpw1vqasKZntzHqKtqpmX6F0I/s310/Screenshot_49.jpg)[![](https://i.ibb.co/RGjNgJ2p/30f72ae24ec9.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV1nufknCsvZbtVzAjPxB-Y6B5a2dzJbudB9ojDka3bgTZId5mxSEDhnpL3Fi0hShyBU2uZavcbBGt0ygjfIqco7GcwcS5C4Gq5aDzr0-G51b1NP5xjjIUtZN9FqTBgkQE8szKbc0wa4aNGuC_R5tcjmds2ZLhNq2lYtGHhYAMae6VpkwdG5HMoCbY3Gc/s312/Screenshot_50.jpg)
+![](https://i.ibb.co/qFF46mYC/d09a045bb176.jpg)![](https://i.ibb.co/WW4wDbFD/fc90ec505632.jpg)![](https://i.ibb.co/RGjNgJ2p/30f72ae24ec9.jpg)
 
   
 
-[![](https://i.ibb.co/FkwgYszn/c901ae8a6e61.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnWiz23XI3tTkUccAMJMSOHM5QTTnAG-aYk07pnnjNmSJqwoRO5s3-p7Pmw_tdr1PD8r6bASHfTZxu77WtNtWPXJ43IMqL0xIScfFagxMzmdvif92e0wCmDry2djygkZJPO35__bbkM4BkY_Tx-g1xCkPP9qUdgFbOmAc5DzrZePUn-fKj-TkNUIA5Tjg/s316/Screenshot_51.jpg)[![](https://i.ibb.co/jPqDZyNr/67f3f18410b5.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHDK7w7R2uD8touED2svpZXNwcpdxBuLjN1Sklnd-LAiU4aPeQlYOnut6CvxqPJHTFe1-Q1SThW734xREhVmT1m80prTMcs6VomehwzkSbbGZPD39T8gvscB2YYqiF5wZqZxFWGVtIWYZfHHFF-22Is-ZtftIMNfEWCg14d3qg5gtYkvKvj6_0Rb9AqpI/s314/Screenshot_53.jpg)[![](https://i.ibb.co/xq78LJYF/0e4feb9d4053.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiJYkv7IrCfZkvbnE7gbzN5JsdspjHKsDIJZP0RI5JUKX32bnuKpdwI1b6OVGIiofzMDjpr7G0JT_GyLgXwjc0WFwjgDZFtM9j0Wc0X524Y2UUt96oCrzYqmOL6nX2n1abwKaDUDst3WgZDBSYGq9PqmF6rhXtUbHqX_ZkXNAYMlmwSnY6kWolBQbVWVA/s378/Screenshot_44.jpg)
+![](https://i.ibb.co/FkwgYszn/c901ae8a6e61.jpg)![](https://i.ibb.co/jPqDZyNr/67f3f18410b5.jpg)![](https://i.ibb.co/xq78LJYF/0e4feb9d4053.jpg)
 
 ---
 

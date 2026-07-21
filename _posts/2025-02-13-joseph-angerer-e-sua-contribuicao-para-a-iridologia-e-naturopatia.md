@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Joseph Angerer: O Visionário da Iridologia e Naturopatia Germânica"
 ---
 
-[![](https://i.ibb.co/99zKZrQQ/ecba43633fc8.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLrHYiaSZWhI9Qnia_Ukg8sK2cZi_x8i9_6xxv0I4pKoBVR2GypIRkL63doQdrfDqVEPnEWNnR5Ww3AFzgwG8xgrcxIfwZTkAlqyMgAOiWDIvOfOnOD9AVPAdmcacQvdwBywkSj9bTnFbORy1ZFEBP4kHyfY_aM7-v02Tx_PrkEX8Qda08_tZZc2kfB1Y/s1200/Joseph_Angerer_O_Vision%C3%A1rio_da_Iridologia_Naturopatia_Germ%C3%A2nica.png)
+![](https://i.ibb.co/99zKZrQQ/ecba43633fc8.png)
 
   
 
@@ -76,7 +76,7 @@ Joseph Angerer expandiu a análise ocular para além da íris, estudando também
 Seu trabalho ajudou a refinar o diagnóstico iridológico, tornando-o mais preciso
 e abrangente.
 
-[![](https://i.ibb.co/Pv190rvd/a46ad44cf17b.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzxGBR-Cm41PWVw1sIBfiNWav2i6xi_L18h7Wyd1VoYIKK-GbuD2LPXIRPla3T0Ef5qwbala9l3HOY_v6Ulc3GQxU6L9oYd6K_eK-CIzdwyQtd2rnhUEAkJuXSuNwlO_KbMlTf5pQQbDjfJqp70WqLEyKAeLVRbaozho2qeSX5jSPvy61Z7fAZ70X5ou0/s478/Screenshot_17.jpg)
+![](https://i.ibb.co/Pv190rvd/a46ad44cf17b.jpg)
 
 ### [Fundação da Heilpraktiker-Fachschule](https://www.ausbildung-zum-heilpraktiker.de/)
 
@@ -89,7 +89,7 @@ ensino em naturopatia na Europa.
 A escola de medicina alternativa JAS é administrada pela [Associação de Medicina
 Alternativa da Baviera](https://heilpraktiker-akademie-bayern.de/)    
 
-[![](https://i.ibb.co/pBzvCRgj/6b928ae6f227.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJDE6feQX6q5R3WyhP5dvipq4mdwdQ2cP8I3Xvot-nAGXOOtCXk88j9GFCI-UG8qJqijdKeOWkJn23JfIcL5-570KBEXCtwm4499vxLTCsK0BRGNXpTOORkVIlAyCZ5bj7yl-e_-nBabz0oRh4ZMAEehaehzbFPr1_nKSWSl6a3b9zBsUzLUztzPWpVQ/s1315/Screenshot_18.jpg)
+![](https://i.ibb.co/pBzvCRgj/6b928ae6f227.jpg)
 
   
 
@@ -167,7 +167,7 @@ Ele trabalhou na compilação de uma obra de doze volumes sobre “**Fenomenolog
 
 Esse estudo contou com a colaboração dos melhores naturopatas da Alemanha e ajudou a consolidar uma visão mais abrangente e precisa da iridologia.
 
-[![](https://i.ibb.co/pv2WyfJ3/6139dcce0976.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVvAHTM9oI-txjH3KpxpxEQ44Ig2mHG6UCFSab6i8w_bxylWrdMGfOHvdpDVXUKzWieLmOgHWQrGnEp_oUcxQvlMRmrPSrcxdhv52iCQem5zxaqP6qAFT9pnoRgTOrVqJZAjCRGeR-BnOMqoyqF_hpqn4A402kKopz2LpKQ3P-VDuElXPbp-iYdJdoYSc/s354/Screenshot_16.jpg)
+![](https://i.ibb.co/pv2WyfJ3/6139dcce0976.jpg)
 
 ### Diagnóstico Ocular como a Ciência das Configurações de Reflexo Opticamente Reguladas.
 

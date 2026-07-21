@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O Alerta da Misantropia: O Chacoalhão da Madrugada e o Nosso Desencanto Coletivo"
 ---
 
-[![](https://i.ibb.co/MygF5wY0/e90ceb4f3cc2.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2IucFO08EnWv4KoApYeGGxJaTAb8V6_vRY9okL1HNBQ9LB4NY6hsdovAdn4FbODalBRlIUTEO7fkCbFBXH8ITI9y4bHvtcGRI9GsieyYD5WClPWhgNyPJV2P9j9zoHGY02p8QPjiccw9SeCztXdUDIntt49Ut4aOU5fCzX6-tUeNQWpUz5rFI44TG7zY/s1884/2.png)
+![](https://i.ibb.co/MygF5wY0/e90ceb4f3cc2.png)
 
   
 

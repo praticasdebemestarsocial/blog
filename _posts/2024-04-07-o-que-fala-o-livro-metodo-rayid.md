@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Método Rayid: uma nova maneira de ver as íris dos olhos"
 ---
 
-[![](https://i.ibb.co/YBMNqgnB/dab7121b1589.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_6gtFEyCu4v9jjMGUFcc2BwnpG8U6K915u1vqhYdoyhdN1i7p0PmFTPfpffhum7CNIGAH8ytxxxOEf71jF4nSN_d6zB6_viJOtp___2wduyRu9BM9b-sO1xZqBiXndyt_7c3OC62DM8SDIGYOnZ9ZrjgyYRFSCSSynr6Sm2VdnkBTrQ3G34NNGUNgP2s/s1200/M%C3%A9todo_Rayid_uma_nova_maneira_de_ver_as_%C3%ADris_dos_olhos.png)  
+![](https://i.ibb.co/YBMNqgnB/dab7121b1589.png)  
 
 # Método Rayid: uma nova maneira de ver as íris dos olhos
 

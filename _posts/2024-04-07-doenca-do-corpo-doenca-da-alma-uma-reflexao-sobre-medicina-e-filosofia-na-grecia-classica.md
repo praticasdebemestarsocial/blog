@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O Que Aborda o Livro "Doença do Corpo, Doença da Alma"?"
 ---
 
-[![](https://i.ibb.co/P3qFw8L/070ffb497a14.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl4t5aN-Jteg4LsuGvH22vGSNnG1e9gaPhBVO0DnaenquxVRDpvMbyUeCILOr5CFvk6A_uUtewK6hGjku4beKnZa6nldUUyUTsaEj9xbgAvQGxK2JpywqwMXTH-ymNJFRo-x3BP-vKDBX_pHOUpY9OJeeAkH56GNCehWjC7NHaKYULI5Uv0cMLla1A2Ac/s1200/Doen%C3%A7a_do_Corpo_Doen%C3%A7a_da_Alma_Uma_Reflex%C3%A3o_Sobre_Medicina_e_Filosofia_na_Gr%C3%A9cia_Cl%C3%A1ssica.png)
+![](https://i.ibb.co/P3qFw8L/070ffb497a14.png)
 
   
 

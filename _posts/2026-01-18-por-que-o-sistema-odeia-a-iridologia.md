@@ -4,10 +4,10 @@ title: "Por que o sistema odeia a iridologia?"
 date: 2026-01-18T16:51:00.005Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "O Sistema Odeia a Iridologia — e tudo o que devolve o poder ao ser humano"
+description: ".jpg "irisdiagnose").jpg)"
 ---
 
-[![iridologia](https://i.ibb.co/BH3j5Nst/85f6ea361fa5.jpg).jpg "irisdiagnose")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheipFpBotUhCBTmDTGo34vlwWyeCGgofxEfdA6Lc060gxZeYl1eHagRCnd7-C58mYYwJHEksBVwWTI7NvLVO03kpdUmOhcbNhgKeg5TBkiGei6thu9Mj-w-JBeReGKxxagiQE483OXk9dtF6Re8Jki-gmWMqbWWxIv_xq0j95wBvTAka2Cat3W2d7ChMQ/s1600/crie%20imagem%20da%20antomia%20do%20olho%20em%20ambiente%20verde%20tecnologico%20(3).jpg)
+![iridologia](https://i.ibb.co/BH3j5Nst/85f6ea361fa5.jpg).jpg "irisdiagnose").jpg)
 
   
  O Sistema Odeia a Iridologia — e tudo o que devolve o poder ao ser humano

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "As  personalidades segundo o método rayid é uma avaliação que é realizada segundo o seu biotipo irídeo."
 ---
 
-[![](https://i.ibb.co/hJStMHvy/8543a75db080.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEkfO4Yid5NgHShTE33ofmhZ8Pev6xoT3ot75-uNAaL3F2HkETrQatOxKdrlWyT8pcHQqJ-Jda3nLC2JHVbP4Ubwr2h_p_IqQabbB-WdHFWKpQV7MQ5RifMR-tVI4ZvcU4gYBbHR7iA41_mG7Vxy3mVwQY9147iqVj3EfAgceaiP3k1KG1Xh7xwMAIYm0/s1200/personalidade_tipo_Gema_J%C3%B3ia.png)
+![](https://i.ibb.co/hJStMHvy/8543a75db080.png)
 
   
 As  personalidades segundo o método rayid é uma avaliação que é realizada segundo o seu biotipo irídeo.
@@ -34,7 +34,7 @@ Essas características latentes podem ser inatas ou adquiridas ao longo da vida,
 porém, por diversas razões, elas não se manifestam claramente no comportamento
 diário ou nas decisões da pessoa.
 
-[![](https://i.ibb.co/7dMcpnWD/86281ffcc86d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH5IYj69rJw7wOQWhwc5p5qecFraPd5vv63-NH1-CxxuiESnvw5rUNDk-e7ABB3sLa2nZE4rR6UJ6lYGPuNpCBRZw8mZZwJ-Xvnb2vCSo4drxUQXL2MIoj-qlDwNBCqtbg6YYPDUnVQuUpZQ6d1HsMAJAVeh2sd_uC3fHz9FcDF__6gAj5sNr0AVUCnJc/s296/gema.jpg)
+![](https://i.ibb.co/7dMcpnWD/86281ffcc86d.jpg)
 
 ## Como é a personalidade do tipo Gema ou Jóia?
 

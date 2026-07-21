@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Um prognóstico na Iridologia é bem diferente e ao mesmo tempo complementar do"
 ---
 
-[![](https://i.ibb.co/9kctxmr2/c775a5c2292b.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLLgycZVX95LuPK66LVGWMBUZ-EkVrjfdmqXaneaUg-EfGhsruPvwUzo9P20sDbXqbYoS526rCfETQyBYTBpLMtP4HzcIcDDOWlkqmXiH3ts96hyEDkH9VVN_lvKlOxnILiBkY54vsWkBwlA81HQBjRR_GQ6zGqbvWVTE8B55tU6E-kGcdCzHBgl9AZ8Y/s1200/De_que_forma_a_Iridologia_pode_realizar_um_progn%C3%B3stico_naturop%C3%A1tico.png)
+![](https://i.ibb.co/9kctxmr2/c775a5c2292b.png)
 
 Um prognóstico na Iridologia é bem diferente e ao mesmo tempo complementar do
 prognóstico que um médico realiza.

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem Foi Esculápio?"
 ---
 
-[![](https://i.ibb.co/J099NjK/da11201b3496.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdSh6pUWXA96N4MME5vRzpEhZfGx4e3W_s_wyZ7nGdcBaXJA3YG6psgrTcMyEz0LjvTuetc6Y64ArhYP-5rrJJPk54POZJnINQrNarnjQnSa5Mnev-Mbv-mEHlAfAdt2GXlhMOQWD0i-K1WRoLUmeq2_uOQ3ahDT8FZXdMZyUvM-LpigCwSVVA7-jdyVw/s1200/Escul%C3%A1pio_Deus_Medicina_rela%C3%A7%C3%A3o_olhos_sa%C3%BAde.webp)
+![](https://i.ibb.co/J099NjK/da11201b3496.jpg)
 
 ## Quem Foi Esculápio?
 
@@ -114,7 +114,7 @@ reforçando a conexão entre o passado e a medicina atual.
 
 ## 📖 Gostou do conteúdo? Continue acompanhando nosso blog para mais artigos sobre história da medicina e saúde integrativa!
 
-[![](https://i.ibb.co/kvpXQHc/778092864dc3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjREHzs3AQazNmeMuwThLNko3l3QEgPyEnz5sjmIw7hab5H_oYbWpsRPe20bRm4xce67DWR8zGF5UzIyoBp48ZJ36dx9-Bx_fNkTZ2j75Rsf_mnMb_WsGcZwZ52QDs08G5-jILokFFJBQtInw93YApaFBN-exX6lnkiVLAGCg4Yrnh6jaZ45gNxLk6UmU/s603/templo%20esculapio%20ilha%20grega%20icos.jpg)
+![](https://i.ibb.co/kvpXQHc/778092864dc3.jpg)
 
 Hipócrates se formou em um templo de Esculápio, na ilha grega de Cós. O local ainda é preservado e recebe visitantes até hoje
 

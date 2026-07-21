@@ -18,7 +18,7 @@ Um professor do Departamento de Oftalmologia de uma Faculdade de Medicina, é um
 dos pesquisadores dedicados a essa área promissora, que se propõe a revelar
 indicadores de demência através de técnicas que utilizam fotografias da retina.
 
-[![](https://i.ibb.co/tnzWY2m/49b2779ba9d4.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc8NemZjDd3TRh6MF74QQf-vXsTf_ARnvqbzl9aIL8uzCjXF_P5NikwROzN1UnUDwnXMzmaC8QwCT2yaGyd_zRUItJKW0ZmzI8JorLq9nn8wPofLnqza4_lPFygCos1OGxVTvKbDkeZwxupkTNOjJw-iXWQq0xKdLtM6Z_NqHGWWiWBcJeBQGBYOs21R8/s467/Screenshot_34.jpg)
+![](https://i.ibb.co/tnzWY2m/49b2779ba9d4.jpg)
 
 ### A Relação Entre Retina e Cérebro
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O Hardware Oculto da Consciência: A Neurobiologia e a Descalcificação da Glândula Pineal"
 ---
 
-[![](https://i.ibb.co/HTrRK5rj/90424372ce80.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinKggsUbpV7h-F8_XNayZZ-KO2QJXD22qUGQa0IwbG7xOUXZcYbn6uJkt1LkYHHpm7_zyivxpLoBjhfGWUuWL9gW3EWGpo7BFARX_hbVda_UB4mywWnSJyphwuEbxPDTDgzHfPML5jxrcCfXdTDgR62LwVvoGPfOx6p2E6qVuThI69u1nraqRT4j5vJ9A/s497/pineal.png)
+![](https://i.ibb.co/HTrRK5rj/90424372ce80.png)
 
   
 

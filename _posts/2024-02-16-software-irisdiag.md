@@ -4,7 +4,7 @@ title: "Software Irisdiag "
 date: 2024-02-16T01:31:00.003Z
 tags: ["equipamentos atendimento"]
 categories: ["bem-estar"]
-description: "Descubra o Poder da Iridologia para Saúde e Bem-Estar!"
+description: "/hotmart/productpictures/8394bac4-44a8-4214-a064-9e6c2645ead7/IRISDIAG2023600x720pxTINY.png)(https://go.hotmart.com/R90949078E)"
 ---
 
 [![](https://static-media.hotmart.com/OBDZckHxq5w4TyU5Nh9R4G7TXYk=/filters:background_color(white)/hotmart/product_pictures/8394bac4-44a8-4214-a064-9e6c2645ead7/IRISDIAG2023600x720pxTINY.png)](https://go.hotmart.com/R90949078E)

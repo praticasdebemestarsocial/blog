@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Paracelso, também conhecido como Philippus Aureolus Theophrastus Bombastus von Hohenheim, foi um médico e alquimista do Renascimento que fez contribui..."
 ---
 
-[![](https://i.ibb.co/5hgkpzfL/8065400949e0.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDWoTKmTxpterDUgYezUMbBUUMNyWkuf7joOVTmkZl7l5CYQ5o9j47IyInEny6GKVFJEqDfK9doBclcptWCjx_-4YwX2nV8Ogubk9xjvX-CssnlaQxXgAoy_H_HOmC_dpyp6WWXw9aepvaIyPV1d20MvSoIF6V1SZUr4J1-EsMnucVosMpp7K6c84WQP0/s1200/Paracelso_o_m%C3%A9dico_alquimista_do_Renascimento.png)
+![](https://i.ibb.co/5hgkpzfL/8065400949e0.png)
 
   
 Paracelso, também conhecido como Philippus Aureolus Theophrastus Bombastus von Hohenheim, foi um médico e alquimista do Renascimento que fez contribuições significativas à medicina, à química e à filosofia.

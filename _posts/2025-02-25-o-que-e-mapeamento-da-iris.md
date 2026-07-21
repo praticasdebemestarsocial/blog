@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Mapeamento da Íris: Identificação, Biometria e Diagnóstico"
 ---
 
-[![](https://i.ibb.co/DscHn36/3f60dab81969.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Ib1kbkRMyp40oft2FMLRLiO-wh6cEkJ-DFjv6ZXsJew1PPj5_F_OIGlO4CJeYXrenTK8SFIiJoDbCwlrhhQIJdiWX_z0ZK7ZtRhyphenhyphenuErvtdv-Kvjsw9RK1RheqOvQsfXGhiDfw_hZin8xwT1lm2D5cUJpeCWetjw7k2sWHlVzX-TEDiGj6TbKbTTHX9Y/s1200/Mapeamento_da_%C3%8Dris_Identifica%C3%A7%C3%A3o_Biometria_Diagn%C3%B3stico.jpg)
+![](https://i.ibb.co/DscHn36/3f60dab81969.jpg)
 
   
 

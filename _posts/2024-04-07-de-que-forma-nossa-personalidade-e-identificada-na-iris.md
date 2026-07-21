@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "De que forma nossa personalidade é identificada na iris?"
 ---
 
-[![](https://i.ibb.co/6J8ysNw3/840bebf657f7.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4cQ1FIMrSkVJK6fSMSMzoKMsgsYROzZn4rhmYVYEiMHHcOI-iP0JIV6d7Ezr7SaxwfHltIFwoP6NcRHGRZ9WXJ2c1xbURKuVUg_nFummk2MeVYMNq39Fl7GYxiNby-ekZWM8OHgpd4fFCVcJNdiH58FcYGsLwIMUI4aVbUe4ytw4wZSgNXVJHoL5L3kE/s1200/De-que-forma-nossa-personalidade-%C3%A9-identificada-na-%C3%ADris.webp)
+![](https://i.ibb.co/6J8ysNw3/840bebf657f7.jpg)
 
   
 
@@ -33,7 +33,7 @@ Os diferentes padrões na íris estão diretamente ligados a características co
 
 Os olhos, conhecidos como **"as janelas da alma"**, desempenham um papel significativo na comunicação e pesquisa moderna confirma que padrões na íris são determinados geneticamente.
 
-[![](https://i.ibb.co/gZ0QnScS/aa76bc787dea.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLbOvxziQL9heSMCpvZ6X8nfr8FMtGDUIITkCDI-yAFD0ISs8zPBX58TYlkbq3TkPi2mlDRdRI4PFL6njV1fxjAYA3B0rl4bfO0YdngqTLHgnHdAmL4jY_P3bKmDv8A2D4RvjYZ7VNgKDN1ACaNmCt2Kk2Trcm5kXS4vBo-i2TEJhTDDdOfGvltcsQZc/s753/iridologiapersonalidadebasica.png)
+![](https://i.ibb.co/gZ0QnScS/aa76bc787dea.png)
 
 ## De que forma os padrões relevados nos nosssos olhos podem influenciar nossa personalidade?
 

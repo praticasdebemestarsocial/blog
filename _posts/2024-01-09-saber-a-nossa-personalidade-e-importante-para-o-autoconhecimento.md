@@ -93,7 +93,7 @@ SILVÉRIO, S. S. Saber a nossa personalidade é importante para o autoconhecimen
 
 [![](https://i.ibb.co/Fkby8qw7/a48ab6444ba9.jpg)](https://i.ytimg.com/vi/KpBqZhphyJ0/maxresdefault.jpg)
 
-[![](https://i.ibb.co/mF5GV4x7/447f022178b1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDDjHDTQjC4UoINP9-fjpw9Bclfl6MX0GK2ddbthIpJRKLNe3wYJGhgfi_7esCWD3v3moPbF0nXv0PoZNlTn0h1WFq13VQYVjtZ8jTPmhiD42N4SVBG8EdE4pAPla1UxFdR8AGQfrSi2UL_zBDuFMQWUJImg7k6ty7yONjAvHJLpBbBn33ru7IrHoU-bI/s392/psicoiridologia.png)
+![](https://i.ibb.co/mF5GV4x7/447f022178b1.png)
 
 ## Psicoiridologia: Jung e o Método Rayid
 

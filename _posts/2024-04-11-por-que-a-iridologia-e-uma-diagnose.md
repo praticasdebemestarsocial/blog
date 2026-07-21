@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Há diversos fatores que prejudicam a saúde, como hábitos inadequados, estresse e"
 ---
 
-[![](https://i.ibb.co/W44txmDw/94f8d6934e27.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVLQujCaeY7Wx7IHzRhbTFkwCVVCgEsX7mo4hReT81kDg1c0cHFZ6rkpwWb6U7PPvf7_9mqa74hyphenhyphen1N2Ca5lNdv2xw_hLGOUxDj06JbqHI7K64DLzAsdQ6qhamHt_PyKZBUAeILbOh37lNvpous2wvmolE3NiFTW4RXRVxPElckklylRIXUC1Bpojy3w7k/s1200/Por_que_a_Iridologia_%C3%A9_uma_diagnose.png)
+![](https://i.ibb.co/W44txmDw/94f8d6934e27.png)
 
 Há diversos fatores que prejudicam a saúde, como hábitos inadequados, estresse e
 má alimentação. Descobrir essas influências demanda autoconsciência, exames

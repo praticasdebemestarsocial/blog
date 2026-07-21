@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O Estado Emocional Impacta a Saúde Física? Descubra Como Suas Emoções Influenciam Seu Corpo"
 ---
 
-[![](https://i.ibb.co/Sw0XFj1y/480157f0851f.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLBgm_XID-3ddwvsnZRbyMz0BV1IzW03XlhNiz-D1ImiDIvxLmWUNokShUMoBurPyQhnTVLdmiZCBe_AFxMHJnLFg_JgYLQiRYg5INp9Ho7GTFqYKdMVAes86B9PPdwKdy-UAi4cDyT2NP1T___IOqiheT9ywixnREYdU4YJytAArjkKAchUqwfDZklZE/s1200/O_estado_emocional_pode_ser_percebido_atrav%C3%A9s_do_exame%20da%20%C3%ADris.png)
+![](https://i.ibb.co/Sw0XFj1y/480157f0851f.png)
 
 ## O Estado Emocional Impacta a Saúde Física? Descubra Como Suas Emoções Influenciam Seu Corpo
 

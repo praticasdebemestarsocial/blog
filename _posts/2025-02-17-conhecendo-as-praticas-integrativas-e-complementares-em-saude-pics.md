@@ -4,10 +4,10 @@ title: "Conhecendo as Práticas Integrativas e Complementares em Saúde (PICS)"
 date: 2025-02-17T02:03:00.008Z
 tags: ["práticas integrativas complementares"]
 categories: ["bem-estar"]
-description: "Conhecendo as Práticas Integrativas e Complementares em Saúde (PICS)"
+description: ".png).png)"
 ---
 
-[![](https://i.ibb.co/1yd1NXL/69093cdd8892.png).png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9smiowU7B3tF7J8ouhxk3zvPTlaprWJx4cNbGa5fdHvc0R3CwyMNwvGdAgEGX1Cga3cXDCd7r2ma3vdolsZ0FU1wWZXwgbO4xuFGnlpfBZC4EislebdHMDRMfBC6Om_MYYEyz65iq5Y2Wr2Psvzy5aExE7L5F9LEmBCer-WZAWZLWSnldK-XWGN909SE/s1200/Conhecendo_as%20Pr%C3%A1ticas%20Integrativas%20e%20Complementares_em%20Sa%C3%BAde%20(PICS).png)
+![](https://i.ibb.co/1yd1NXL/69093cdd8892.png).png).png)
 
 ## Conhecendo as Práticas Integrativas e Complementares em Saúde (PICS)
 

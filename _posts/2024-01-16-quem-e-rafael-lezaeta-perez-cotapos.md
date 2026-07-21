@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Tempo estimado de leitura: 2 minutos"
 ---
 
-[![](https://i.ibb.co/m5VpV4cQ/798a69cabcc2.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBeYolZ8Sgp306rSqwOCRFIymYk0KaotHsfKQuokL45LSxa38zK8XGtte0KIMKYfrefCi0oFIjB9IHnqTc2PLi5lm_Pf_ExlAZ8O4YlMLkfR812keoK-LV4yT8e33d16ku-yTHllA4rAY29X0DzEmhsXPhSraEEnbRTAjcRwNPwNv9B0oL1DkKNqFU9xs/s1200/Quem_%C3%A9_Rafael_Lezaeta_P%C3%A9rez_Cotapos.png)
+![](https://i.ibb.co/m5VpV4cQ/798a69cabcc2.png)
 
   
 
@@ -52,7 +52,7 @@ Rafael Lezaeta Pérez-Cotapos escreveu vários livros sobre iridologia, incluind
 
 * Ele foi membro da Sociedade Iridológica Internacional.
 
-[![](https://i.ibb.co/0RRXnpP6/3303cd2843b6.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYqjAPUvsxGdKcKAvigsTCdtetx1zUxAlPSolbEfOH4EmzFyGIzHtTm7B-iRPrqnJm7JbyiPIQpQe4Z2ANeJcDc1Ba7Q6GIfDUglzfJNsgGT7gVD4nDfMTKIyS4gAtNYhxu_tdL-sq1rCVvlM5n67Dq_lCd4MYODX3qLToOAOyQFWAVDVKMreY_ojYmSI/s481/lezaeta%20peres.png)
+![](https://i.ibb.co/0RRXnpP6/3303cd2843b6.png)
 
 Ele também foi um dos fundadores da Associação Chilena de Iridologia.
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que é um monitoramento de bem estar pela via ocular?"
 ---
 
-[![](https://i.ibb.co/Ld8npKJT/3b114fb9aab8.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwjQPPnOo8vrkxjEsYZtCA5oM6ZJzn9cOQfpcQkW6qLa0ylkSZoRNeN5oFeDmfEk1FZAh_uNfC8xHRWIhSZu0pR9Z3uBt84n4N18kbSBbdylJk7yhG9AHQ9_2FbRbSJc69e2CPq1C9rMdxZWOKsMSCDzvdtP5BwDPMS5Qd7s8kQwQ8WtwS7xjZdMcE8a0/s2240/monitoramento_bem-estar_via_ocular.webp)
+![](https://i.ibb.co/Ld8npKJT/3b114fb9aab8.jpg)
 
 ## 
 

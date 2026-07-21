@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Você já parou para pensar no que realmente significa estar bem? Muitas pessoas acreditam que saúde é simplesmente não estar doente."
 ---
 
-[![](https://i.ibb.co/WNtf86Rr/b2541bca819d.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK85mkXhIvTMkSlKCDhll1zGA3zpNK3iItL0qTjYSXpMuIZr2FSojbIuVgpJWMouYdcPsutDEOrMy4vNmZaEcSyOdl42PUlJ_W1mubPwB4v4XJQrBVVKj3RYFBsu5ZN0TNj2zsB9eOjTd4QjK03sjk30G1OC_3eQJsL_vXd3mcRfrzuPKJbnDsfLmCDvQ/s1200/Por%20que%20o%20Bem-Estar%20Vai%20Al%C3%A9m%20da%20Aus%C3%AAncia%20de%20Doen%C3%A7as.png)
+![](https://i.ibb.co/WNtf86Rr/b2541bca819d.png)
 
   
  Você já parou para pensar no que realmente significa estar bem? Muitas pessoas acreditam que saúde é simplesmente não estar doente.

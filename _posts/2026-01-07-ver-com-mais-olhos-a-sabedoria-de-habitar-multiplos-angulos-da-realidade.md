@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Ver com Mais Olhos: a sabedoria de habitar múltiplos ângulos da realidade"
 ---
 
-[![](https://i.ibb.co/JWm0LqfS/c6f5da28e574.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc2itbpy57u0wo7S2h8NH-u3aagA0uhwdrrfYHuHHkB-XML91qBVEmTp7xCABzZftMsY6B5IK_Nm-VryLA7DONThyYAm03LZ9T7EBl97c_Dg4ZhEU5qGcZRmxhxafu6321mW9acRInx0C0gz2zdcs0mqQ2568llHThz8-Sn6tHi6hNlvZBHXH0yHyFtXs/s1600/a%20realidade%20tecnologica%20do%20senhor%20s%C3%A1bio.jpg)
+![](https://i.ibb.co/JWm0LqfS/c6f5da28e574.jpg)
 
   
 Ver com Mais Olhos: a sabedoria de habitar múltiplos ângulos da realidade

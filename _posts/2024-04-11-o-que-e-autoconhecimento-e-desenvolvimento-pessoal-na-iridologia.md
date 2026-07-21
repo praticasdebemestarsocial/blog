@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A iridologia é uma prática que envolve a análise da íris para compreender aspectos físicos e emocionais. No contexto do autoconhecimento e desenvolvim..."
 ---
 
-[![](https://i.ibb.co/Hpq6hJnK/d9cc2bfff250.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqE0GhdrcfPLL0CWVvinCOzFp5hOcSZzO-27IcCUN2CtMTkRU7LhPgS9dPFyOCt106QoeRE0Kut9sSFTlZ6J6OAOXL7mkJEXDQjCyFrD-lB-sAm04zYVbJ-Js_s1vDs8fVQ0Uj4USL_C0BuS9QjyxF19Cd4AvyRcHLLjrAdJfhxDvzm3JazraGn7qnrSU/s1200/O_que_%C3%A9_autoconhecimento_e_desenvolvimento_pessoal_na_Iridologia.png)
+![](https://i.ibb.co/Hpq6hJnK/d9cc2bfff250.png)
 
   
 A iridologia é uma prática que envolve a análise da íris para compreender aspectos físicos e emocionais. No contexto do autoconhecimento e desenvolvimento pessoal, a iridologia pode oferecer insights sobre a saúde física, padrões emocionais e predisposições genéticas.

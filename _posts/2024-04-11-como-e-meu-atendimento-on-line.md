@@ -63,7 +63,7 @@ rígidas que dificultam a adaptação às mudanças.
 Durante a consulta, além de orientar, ensino a razão por trás de cada passo e
 como cada produto pode ajudar. E ainda tem mais!
 
-[![](https://i.ibb.co/8D4sNh6v/22e2ff08aa0d.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiU_tOAgv-0m_ppYmvtd52KqcoFZlLfT1wdpe9BR3xm1sqf7cs98QCaiCl6ECO1LCgunsjPthfnyOUG8NCEyJ7UjUAH8Mg7TkzbPOyqRUqxt0FjDcZT3EBaxArUs06a_NxRbkAVT9tA54eChB96bjHwZdnX3otxdJTFAlOukbcMUZ9sIMOqhw-ksAGlmE/s1454/muralcertificadoterapeuta.jpg)
+![](https://i.ibb.co/8D4sNh6v/22e2ff08aa0d.jpg)
 
 ## Qual é a formação da terapeuta Silviane Silvério?
 

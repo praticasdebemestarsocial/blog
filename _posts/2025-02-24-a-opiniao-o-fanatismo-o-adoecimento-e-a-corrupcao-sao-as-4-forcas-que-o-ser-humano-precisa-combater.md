@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Essas quatro forças—opinião, fanatismo, adoecimento e corrupção—podem, de fato, representar desafios significativos para o ser humano, mas é interessa..."
 ---
 
-[![](https://i.ibb.co/xSTTDQSH/3c3e4dfe898a.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyJenb0cQ2MMblispggqPkow4hQptlfuRjMtMDBZYGlv2KlpSa-P8FgGe0ws2Mt_SA5ZWmJwdJ84vzKNIp4HR7qyIWELF3dZLuYs2ZjGV9i0HRpYFlDsT0amZdL22zT6I2halZoKT_O5oGK_tznpiMlzZlshHlgvKak7IgXuV2oHH5gZ7rmCscBHN4TtI/s1200/opini%C3%A3o_fanatismo_adoecimento_corrup%C3%A7%C3%A3o_4_for%C3%A7as%20_ser%20humano_precisa_combater.png)
+![](https://i.ibb.co/xSTTDQSH/3c3e4dfe898a.png)
 
   
 Essas quatro forças—**opinião, fanatismo, adoecimento e corrupção**—podem, de fato, representar desafios significativos para o ser humano, mas é interessante analisá-las mais profundamente antes de afirmar que todas devem ser combatidas.

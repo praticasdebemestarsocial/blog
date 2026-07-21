@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Mapeamento de Retina: Como é Feito e Por Que é Importante para Sua Saúde Ocular"
 ---
 
-[![](https://i.ibb.co/XZ1GH60c/c00a04dd5314.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8a6X2GMQOOe60wNFyvKIWWqZC0oOqB9_kDNg7hnQihqZSR653RrCZXtv5aIrxTG6fKfELQff3l46jhW-G0QAud69q-RE23daWYlF6k4CYKZVgYfjE8fYE8SUa9hobryXBz600QiBVaeR3cv8uiXPBLoo8Gh11Qc3bdravNO4kCkiV8T8qGf5FIJafK9c/s1200/Mapeamento_de_Retina_Como_%C3%A9_Feito_e_Por_Que_%C3%A9_Importante_para_Sua_Sa%C3%BAde_Ocular.png)
+![](https://i.ibb.co/XZ1GH60c/c00a04dd5314.png)
 
   
 

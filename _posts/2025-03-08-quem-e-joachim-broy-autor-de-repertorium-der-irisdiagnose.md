@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Joachim Broy: o legado de um pioneiro da iridologia moderna"
 ---
 
-[![](https://i.ibb.co/MDvWKZ2L/e45f4a8706b3.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7deYDdAQ1nrogx7sNx25_BJHFYr8CduioEj64oGpEB3jMoJcdDREnRoy2BzWY5wsYEQIVlONeYnzd80g8DZedCfO3sk6oIubWlkbpbBN8XynNCBrP9wDV9iq2Qy-j7chba99Kehe-0Qk0lmXdakdJIknfxKyPHmXiPmT_Z8CY_KoBqXkk_0Te58_NICI/s1200/Quem_%C3%A9%20_Joachim_Broy_autor_de_Repertorium_der_Irisdiagnose.png)
+![](https://i.ibb.co/MDvWKZ2L/e45f4a8706b3.png)
 
   
 
@@ -33,7 +33,7 @@ Nascido em 15 de julho de 1921, na Alemanha, Joachim Broy viveu em uma época de
 
 Como Heilpraktiker — título legalmente reconhecido na Alemanha para profissionais de práticas naturais e complementares —, Broy não apenas atendia pacientes, mas documentava minuciosamente as correlações entre alterações na íris (como lacunas, pigmentações, sulcos e variações na trama estromal) e condições de saúde reportadas ou observadas ao longo do tempo.
 
-[![](https://i.ibb.co/zWTbKvDj/e0e4acfd1e73.png)](https://blogger.googleusercontent.com/img/a/AVvXsEh2XI9EIxGRyoQ_tSdSET4IgV-IjYkQVtIb3K00FRZzuSvwutYOzOGbM5ABjIku5KhibVUddES-Cu8oRMNz-qHesa7p51UFV8_sXtOqqcr3S46Di8fvA9DixxAYkEDLXljMiy8rpMuAeet4k52FuqRM7W6_LHfjTkaM3LSUg6wjEQ9LZpgFZRTm7d-Ca_g)[![](https://i.ibb.co/W4mt9xCp/e5c76cfd9089.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUzqoXl0OAmb1z0l3xvUzJHSk7MLUhfQMa9dzoSdWh6Wv9G9hQABPLnhg8quQ9dBbb8g-ysTOLAX6W5ViOc8vgBNZ_6ncPNeY59KjMKfaZf9x5nq5-yJavF6K9x_K2sUa_3poB_QtHcxZMtvMhcS3ZSidF8nyxTmFr2BTdvEGh6yssL1bSJt8Sso1BUbY/s532/repert%C3%B3rio_irisdiagnose.jpg)[![](https://i.ibb.co/8DH61x5L/c56b71bf7fa1.png)](https://blogger.googleusercontent.com/img/a/AVvXsEjCbG0aBKsmUP4hUxdAjF6MDYcuSIakz051K1tGntF1mk95ASnTa-swvl4p3kl70IMA1SpL0Vv_rxCVmsTne4cg6IK2gK_4jXoHxDJro8sSoM-__fThvjUg32h5n1qFfChG4FuR6rgRnCFBoq843ZCdB7xRCUrMyaeN4RE2dbCspjcoHRiHqnnsXmNT9vY)
+![](https://i.ibb.co/zWTbKvDj/e0e4acfd1e73.png)![](https://i.ibb.co/W4mt9xCp/e5c76cfd9089.jpg)![](https://i.ibb.co/8DH61x5L/c56b71bf7fa1.png)
 
 Seu grande legado é o Repertorium der Irisdiagnose (Repertório do Diagnóstico Iridológico), uma obra que organiza, de forma quase enciclopédica, os sinais iridianos segundo regiões do corpo, graus de intensidade e possíveis implicações fisiológicas. Mais do que um manual de “diagnóstico”, trata-se de um guia de observação clínica, voltado para o acompanhamento longitudinal do cliente — algo que ressoa fortemente com a abordagem integrativa atual.
 

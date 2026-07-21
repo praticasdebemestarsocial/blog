@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Fundoscopia e a Iridologia: Uma Comparação"
 ---
 
-[![](https://i.ibb.co/v4vmJpqs/4a99c8eecf00.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUQp58YE2J_KfVPj__L40Zvio1r4VdzWPa8zUlzx-Ye-W1QvvzBFMMciAzAs9t3nPRdPcUHnKNBqoZnKJrMBA1oXDTFKNCXmp4jBQ808tmm781KwQCxLy7H_dMCoFgDArSESRa0wViepCd9m48zL_JcdaPKzX52R1cqkfla1EZv-mOEtQvQdwIB7St10/s1200/Existe_alguma_semelhan%C3%A7a_entre_Iridologia_Fundoscopia.png)
+![](https://i.ibb.co/v4vmJpqs/4a99c8eecf00.png)
 
   
 

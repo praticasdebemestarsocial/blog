@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Uma Breve História da Iridologia: Origens, Pioneiros e Avanços Modernos"
 ---
 
-[![](https://i.ibb.co/nqz6qJtK/64e8f422006a.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjXZjxJyihNmdxJUZpDSRXoHkDl2C_Q3ELdh9f9wf1YwjnFj3V2AUFR1H8XaesTJTgP_KfM1mO7zuCtxWIzmd3ts_CqiqZ9_gWEHDnOuNGGUgFnnfwy6ul5JYPdaz7rkufD8eHlY2axF8iyKLazuWGTFITQayjzGOtKRDD5LNrNdNKRl_26jq7c8ezbtw/s1200/Uma%20breve%20hist%C3%B3ria%20da%20Iridologia.png)
+![](https://i.ibb.co/nqz6qJtK/64e8f422006a.png)
 
 ## Uma Breve História da Iridologia: Origens, Pioneiros e Avanços Modernos
 
@@ -168,7 +168,7 @@ Iridologia.
 deixe nos comentários suas dúvidas ou sugestões para futuros temas. Até a
 próxima!
 
-[![](https://i.ibb.co/HpVK9xVX/81f7ee323fc8.gif)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRFqnhsi_hpFdIW2sTM3ydIwWixtE5h_Xacp4bIqUUa0tXfQKOkYvJZV-UbeX0SkCaqGS4R5qXsrlDd1s-vFGO8mP-Mmo0AxZpYsXApuyjo1Edtk7690dC7L_cOi27zKGKxrVi1nyCe4-Z-G3vEoGveDZS8PWOI-WiowC5yvKPyfi9rDsYLvJBHzstNWU/s720/Baixe%20um%20e-book%20gratuito%20iridologia.gif)
+![](https://i.ibb.co/HpVK9xVX/81f7ee323fc8.gif)
 
 ### Referências Bibliográficas:
 

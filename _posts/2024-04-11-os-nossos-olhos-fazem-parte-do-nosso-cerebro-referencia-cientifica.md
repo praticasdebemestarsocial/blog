@@ -4,10 +4,10 @@ title: "Os nossos olhos fazem parte do nosso cérebro?✅Referência Científica
 date: 2024-04-11T06:28:00.005Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
-description: "Olá amigos sejam bem-vindos aqui é o canal fique de olho na sua saúde."
+description: ".png).png)"
 ---
 
-[![](https://i.ibb.co/LhB8zQDz/f8f05b488070.png).png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3QhbevWYD-cbgCKKfMjFZx1cxEnfy0zDd24TA45UmfZ4AG4Fv4YYsOnFQIrPAo5N7x9f8oQOSkgnE9faAQjf2Fma59eKDWyQtfO2JZXfD9aZyC7uyBGBRiCKZMSHE1HFNVdV13UlQohBozgbfgcHDtL8HvWYIDT9kAK6A8lk9239qVHSlOqZjgQ9teA0/s1200/A_Iridologia_%C3%A9_um_microsistema_ou_uma_impress%C3%A3o_digital%20(1).png)
+![](https://i.ibb.co/LhB8zQDz/f8f05b488070.png).png).png)
 
   
 

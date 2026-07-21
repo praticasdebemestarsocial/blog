@@ -21,7 +21,7 @@ Sua abordagem inovadora combina práticas meditativas com fundamentos
 científicos, capacitando indivíduos a desbloquear seu potencial ilimitado e a
 transformar suas vidas de maneira profunda e significativa.
 
-[![](https://i.ibb.co/Jjv6DKSS/2a29e29f5859.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5AhQU6GvOjKD2vkHjgdtKf_sscsGGOEBuS_vIlCE7TRXFtmNffstNm3tWCGqfdmahDRlBZO3BxwzIJjqMlB4oLBvYWOxGXFMNViUbtjgzcPP631dIxfAIDgRsZKk9HaS-5UZZsDfTtV9TADQXdTD8oH7sNqsiR2eZFUWpuIkDGGK53xkcefPlC0vE830/s547/Screenshot_2.jpg)
+![](https://i.ibb.co/Jjv6DKSS/2a29e29f5859.jpg)
 
 Em seu livro "Como Se Tornar Sobrenatural: Pessoas Comuns Realizando o
 Extraordinário", publicado em 30 de setembro de 2020, Dr.

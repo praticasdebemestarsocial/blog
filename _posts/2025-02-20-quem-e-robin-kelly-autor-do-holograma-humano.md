@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem é Robin Kelly? Autor do Holograma Humano."
 ---
 
-[![](https://i.ibb.co/3Jd13Bm/f3db33dc6802.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEFacM62UdjJKT16EAIxZh07eCoyRBhyphenhyphena4X_WlnBODUwBCilBVit5snafmrIH96PKXz64bhuzMLhBKltLSsW8lkaUtLziruBmcyyoWT7r3X2KxNylQBRSu9hyCUKhUHWLpRozhM0EK9DhEv608JTiF_kgKXXR-0dwTgWE4QiiSqFkkRbdCil6XaHU_11Y/s2240/Robin%20Kelly_livro_Holograma_Humano..webp)
+![](https://i.ibb.co/3Jd13Bm/f3db33dc6802.jpg)
 
 ## Quem é Robin Kelly? Autor do Holograma Humano.
 

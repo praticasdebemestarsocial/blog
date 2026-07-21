@@ -4,10 +4,10 @@ title: "Profetas e Poetas da Nova Era: por uma espiritualidade que liberta, não
 date: 2026-01-06T17:55:00.001Z
 tags: ["psicoespiritualidade"]
 categories: ["bem-estar"]
-description: "Profetas e Poetas da Nova Era: por uma espiritualidade que liberta, não aprisiona"
+description: ".jpeg).jpeg)"
 ---
 
-[![](https://i.ibb.co/ycQBq7pT/3d220e97c877.jpg).jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqLCbN6AISoOD41oDCNWbey7oUxE5Z5tB8xBxOFYhFVuGcuVIH_doc4cGfW2Uh_EF5Ejg0SIwwBEO0z38B4E_EAu_Rk3n6Y3KGwxxDUX9hWzy-hApS3cXjenXmBeI3uwJfx0RBhXudmC2lwQb4gsXUBZlLg7vEoFUzTlCepEdT9NyYAAgjwKTgX7dj0ho/s1440/profetas_e_poetas_da_nova_era_por%20(2).jpeg)
+![](https://i.ibb.co/ycQBq7pT/3d220e97c877.jpg).jpeg).jpeg)
 
   
  Profetas e Poetas da Nova Era: por uma espiritualidade que liberta, não aprisiona

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Iridologia seja uma ferramenta poderosa muito utilizada por terapeutas,"
 ---
 
-[![](https://i.ibb.co/wZ1SjLMR/c1c1b1080da9.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeEaNymZyJ3rOyCvIVYNZX8NLu-zpylaCqgA3PSa1zH8YSyP8_SeYmkpoI63OWymo4GIa1KPfKga6T9VtM_LC0GB4q2jAQkJ1n_lYsXBUJXE6JC9BKGGfpW4DK_EaE1qAIUKLLmFNQ9WpIc9DE733ks_7BjAbFpHOn26qJVeAkRvVt-A5UOCUiW7pZQQ4/s1200/A%20Iridologia_identifica_h%C3%A1bitos_potencialmente_prejudiciais.png)
+![](https://i.ibb.co/wZ1SjLMR/c1c1b1080da9.png)
 
 A Iridologia seja uma ferramenta poderosa muito utilizada por terapeutas,
 naturopatas e naturólogos para auxiliar no bem estar atrás do auto conhecimento

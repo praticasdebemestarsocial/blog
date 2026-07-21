@@ -9,7 +9,7 @@ description: "O sistema nervoso controla os órgãos"
 
 ## 
 
-[![](https://i.ibb.co/9Hz5xyrb/8690ab5d924b.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihASKcvyvFIvOWM59mE4LwPQqjNKaUGrbMjGNTx7SoMSHrLYVhmQRNIDJZFmr7Floa03BbLSSwLkXNRbBojtXkCoyQaxvHapBuqEBfFH3HA1iQMnV3iaF4s_imU9wYGXF4B4RQR_vz_tcd4RTk4v_6naUQGA0ak0LIBM9daG5GcXmCWrs2Pcilyt6RnjQ/s1200/sistema_nervoso_controla_%C3%B3rg%C3%A3os_independente_vontade.webp)
+![](https://i.ibb.co/9Hz5xyrb/8690ab5d924b.jpg)
 
 ## O sistema nervoso controla os órgãos
 
@@ -19,7 +19,7 @@ O **Sistema Nervoso Autônomo** controla nossos órgãos internos independente
 
 Esse sistema está dividido em duas partes, o sistema nervoso simpático  e o **sistema nervoso** parassimpático, que trabalham um em oposição ao outro. O simpático é estimulante e o parassimpático, tranquilizante.
 
-[![tempodesaudecomplementar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglqWLNjnWqQd2D9n_U-1Uf4nOl4jNBMIa0hJ3DvAE8iqgoh7-TshpMJsBNNDrx_2KW1ErMt-DUVBBSAokL7ND8_uOsiAj0vvDEkrzleizCuwYXOLfqODWtcfoWLJddfvZxwlVdGLziRzE/w226-h320/Sistema+Nervoso+%25281%2529.jpg "tempodesaudecomplementar")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglqWLNjnWqQd2D9n_U-1Uf4nOl4jNBMIa0hJ3DvAE8iqgoh7-TshpMJsBNNDrx_2KW1ErMt-DUVBBSAokL7ND8_uOsiAj0vvDEkrzleizCuwYXOLfqODWtcfoWLJddfvZxwlVdGLziRzE/s1600/Sistema+Nervoso+%25281%2529.jpg)
+![tempodesaudecomplementar](https://i.ibb.co/NdY54XMv/0cf92a32b4ce.jpg "tempodesaudecomplementar")
 
     A busca do **controle nervoso e emocional** pode estar ligado ao Sistema
 Nervoso Autônomo que controla nossos órgãos internos independente da nossa
@@ -32,13 +32,13 @@ energia Yin e Yang.
 
 O Sistema Nervoso Periférico é constituído pelos nervos e gânglios nervosos e sua função é conectar o sistema nervoso central às diversos órgãos do corpo.
 
-[![tempodesaudecomplementar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqrsTYZplbksazCwfCq8t8G3icqKREZiafmAFIbbfZd4ONrxcCMoXZZ3ZzqCKoMgEA6-lqE848uM3Lk1yp9YX75bmZSZsJd0ZBEwdpZz8pyDyO8p8f2TT5A7VDk2qbvCmaCl7Kjygq1vk/w320-h218/snp.jpg "tempodesaudecomplementar")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqrsTYZplbksazCwfCq8t8G3icqKREZiafmAFIbbfZd4ONrxcCMoXZZ3ZzqCKoMgEA6-lqE848uM3Lk1yp9YX75bmZSZsJd0ZBEwdpZz8pyDyO8p8f2TT5A7VDk2qbvCmaCl7Kjygq1vk/s600/snp.jpg)
+![tempodesaudecomplementar](https://i.ibb.co/7dXWVDqR/574191ed8198.jpg "tempodesaudecomplementar")
 
 Esse canal de nervos e glânglios alimenta os órgãos e retroalimenta o sistema nervoso com informação do funcionamento orgânico e através disso ocorre a auto regulação que é chamada de homeostase.
 
 >     "Na Iridologia  isso pode ser visualizado, como  o sistema nervoso autônomo pode estar  influenciando o corpo."
 
-[![tempodesaudecomplementar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHk_Cw6xRKvwO804wm1zImb5vreQR3xAaKAaaHtdurivsqFnLZGOU5bFNe5-iqFPbiNO9N69Kmq-4qawkyGlmsy9E7rziyckIkcOlzTqZAsSUwblhva_vhQDwWYQqsGDS1zjAqVRJwB29s/s16000/10a.jpg "tempodesaudecomplementar")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHk_Cw6xRKvwO804wm1zImb5vreQR3xAaKAaaHtdurivsqFnLZGOU5bFNe5-iqFPbiNO9N69Kmq-4qawkyGlmsy9E7rziyckIkcOlzTqZAsSUwblhva_vhQDwWYQqsGDS1zjAqVRJwB29s/s218/10a.jpg)
+![tempodesaudecomplementar](https://i.ibb.co/g1KxPQn/5921cab13c03.jpg "tempodesaudecomplementar")
 
 > "Nessa foto podemos observar a miose pupilar, onde podemos constatar através do questionário que essa pessoa sofre de stress e preocupações que causam um desequilíbrio nos ácidos e enzimas digestivas, provocando prisão de ventre."
 

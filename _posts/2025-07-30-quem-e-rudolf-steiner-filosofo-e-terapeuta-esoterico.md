@@ -120,7 +120,7 @@ corporais. É usada tanto como prática artística quanto como terapia.
 
 ## A Escola Superior de Ciência do Espírito
 
-[![](https://i.ibb.co/C3vR1cN9/6e8cd5b5a3f2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid4fQkys815siZsiFPRWhjdKrksCPt_hoWkfgKywx2Xe9LIiAFc7Pva6Nq_cYvVZRnn94cVGlaWVZobSjiy8riX5ov2KXB9qFUbh1jjteYZKyjpxNtwRTzmwhyphenhyphenLnoRxqvhlN2FuZ437e6kurE9l5iifcGBJWXQgHOo1322MBXVwPePw5VWil6MavV2hB0/s574/Screenshot_14.jpg)
+![](https://i.ibb.co/C3vR1cN9/6e8cd5b5a3f2.jpg)
 
 Após reorganizar a Sociedade Antroposófica em 1923/24, Steiner fundou a Escola
 Superior de Ciência do Espírito no Goetheanum, em Dornach, Suíça.

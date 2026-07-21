@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "(Dr. Josef Deck de Ettlingen,Alemanha-1814-1992)"
 ---
 
-[![](https://i.ibb.co/k6JYrxX7/ed2f6ddbe68b.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiocIZHkSfaoMDb1hR1NMbWkDpZRuIlsy3U2qT1iWpSLzpp5nO6UNE4ELB-m9iSaVgzJoOR6aj3qJq7EZirR3k9uC43RHEi5nkgyqySULedE0sqvKcEj34f-RTUMdQ5H671en6RF12xGmxy81DEKDgb-lpSe5tte0Ztc_zAiu8amyBsVbQD5tR9XTI-5tc/s1200/Quem_foi_Joseph_Deck_O_Pioneiro_da_Iridologia_Constitucional.png)
+![](https://i.ibb.co/k6JYrxX7/ed2f6ddbe68b.png)
 
   
 
@@ -123,6 +123,6 @@ DECK, Joseph. Die Prinzipien der Irisdiagnose. 1965.
 
 <https://www.booklooker.de/B%C3%BCcher/Josef-Deck+Grundlagen-der-Irisdiagnostik-Lehrbuch-mit-Bildatlas-und-Therapiehinweisen/id/A02ASWX101ZZ1>
 
-[![](https://i.ibb.co/tTcJRVgZ/28fc550e99de.png)](https://blogger.googleusercontent.com/img/a/AVvXsEhxGId9hkYNRxGIVUtNyuYzzwy4wsJYrnZ9tB9ctMmdkJxFiZLs73ze5agJhWNc6f3a1HFFbMDPFG7xOB15MkLDCva4v8G1n4Rs6vVmIOS_I9y5zS12mlcNvoPIRl2Bj2wNLys9GIyy-LynUHZCtFWfITU22c638CnmoAwqHQm7YUNAIcbmUulqY4eh8_M)
+![](https://i.ibb.co/tTcJRVgZ/28fc550e99de.png)
 
 # Principles of Iris Diagnosis: Textbook One With Atlas and Indications of Treatment

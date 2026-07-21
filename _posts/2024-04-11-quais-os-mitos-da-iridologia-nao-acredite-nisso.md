@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quais os mitos da Iridologia? Não acredite nisso!"
 ---
 
-[![](https://i.ibb.co/9HmW843q/b9ebca922196.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5PP-LlSHzJlGA5no5yvz3Tqi7lz77aqjbdzeo1W7oDTDXwQy6BKvF-DN_aDbbfK4FtTdLT9TkXRgE8Pd-J5GcNsHeT8s6hUOdwCw31EjrX-er4kEkZ8dmS43NFuwVG0dML4c6OGB3FalvEVe0TjNlvAKHhmwsgvF-FNg4i58HNg53kxbUgDEae_5cVFU/s1200/Quais_os_mitos_da_Iridologia_N%C3%A3o_acredite_nisso.png)
+![](https://i.ibb.co/9HmW843q/b9ebca922196.png)
 
 ## Quais os mitos da Iridologia? Não acredite nisso!
 
@@ -59,7 +59,7 @@ Seu objetivo principal é proporcionar autoconhecimento, auxiliar no desenvolvim
 
 **A Iridologia não revela a** mensuração bioquímica orgânica quantitativa.
 
-[![](https://i.ibb.co/7NKGx5yQ/1c5f10f346fa.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__iENKPoAL0uxdziyqKCNfdFEMUucWCfRdGHmJyo8eH77G5G2NG8QeIQZmyMs3YjiBQz9mYx9FZMnqGNDJvQBMyOv7PCazqJLtWY8R7IjdpMAvl-owneSrnM5FQAsCD8sUiUJJBr1Hiudi5WP8RAR4zUhHp3zFKIXynYRgXfo5rrnVvvqRrdpb2O-Q1g/s567/Screenshot_29.jpg)
+![](https://i.ibb.co/7NKGx5yQ/1c5f10f346fa.jpg)
 
   
 

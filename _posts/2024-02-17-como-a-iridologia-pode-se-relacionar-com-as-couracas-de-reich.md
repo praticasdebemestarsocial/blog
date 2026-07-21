@@ -76,7 +76,7 @@ Assim como em outros aspectos da iridologia, a presença do **Anel de Pele** pod
 
 ### * **Anel de harmonia ou rosário linfático:**
 
-[![](https://i.ibb.co/spZBjnKY/2aa45abe21c8.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6eM_iz_L4r_IiuL1r0xtBW7OkOs0fKjNzeYvy7kk4_KVfPEoqR4DyXAyw8MkZaF4CpU1C5sLWART0sxa3S6-Fa8406wZr8Rpam4U5zTO7gSgukwbaW-xJt66h3lPTWouyAYCDvDOS-SPX/s1183/A01_re.jpg)
+![](https://i.ibb.co/spZBjnKY/2aa45abe21c8.jpg)
 
 O **Anel de Harmonia**, também conhecido como **Rosário Linfático**, é um dos sinais que os iridologistas observam durante a análise da íris, uma prática conhecida como iridologia. Este anel aparece como uma série de pequenas marcas ou círculos ao redor da íris, geralmente na área externa à pupila.
 
@@ -88,7 +88,7 @@ Assim como em outros aspectos da iridologia, a presença do **Anel de Harmonia**
 
 ### * **Anel senil ou determinação:**
 
-[![](https://i.ibb.co/Q3H8q5CD/e180ac20ed9b.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrs-aEeweWq6Op_upLgLXTxaiuUZ6fiOOdoqNrL_F3XYw8_-sb32Barsb7RvMkWq8zFl9WDcn3M0GUrRG3yntWR5nNJalsmz3-37z4botKgYspRuKfJH9yezvYubkXLSA_PBM6sc8tRUc/s284/greisenbogen.jpg)
+![](https://i.ibb.co/Q3H8q5CD/e180ac20ed9b.jpg)
 
 O **Anel Senil**, também conhecido como **Anel de Determinação**, é um dos sinais que os iridologistas observam durante a análise da íris, uma prática conhecida como iridologia. Este anel aparece como uma linha fina e escura que circunda a íris, geralmente na região externa à pupila.
 

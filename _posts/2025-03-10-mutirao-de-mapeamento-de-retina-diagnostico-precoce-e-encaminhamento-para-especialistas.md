@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Mutirão de Mapeamento de Retina: Diagnóstico Precoce e Encaminhamento para Especialistas"
 ---
 
-[![](https://i.ibb.co/wFDBDs6b/ae825ba79426.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwSPlmJ2K_TFWvYBUG-nakrS8HX7u66IRBUyHvr0oKrhzQ39MePqxXKjKrrTLvh4ah0MDrQ4ao9VjDTxwdIAb2IaL_wx1207T8Mw1mzOWrft55yopJY1JRH4S6ePEB5bPb1J-jtchMYCRCSbXPulO3DsssPp6WN2gelTfqi76wnVoPe-FPB-6mEyHSsOI/s1200/Mutir%C3%A3o_de_Mapeamento_de_Retina_Diagn%C3%B3stico_Precoce_e_Encaminhamento_para_Especialistas.png)
+![](https://i.ibb.co/wFDBDs6b/ae825ba79426.png)
 
   
 

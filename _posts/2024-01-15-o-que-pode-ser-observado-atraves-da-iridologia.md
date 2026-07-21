@@ -177,11 +177,11 @@ incorporado](https://www.youtube.com/embed/YBP8aSxfPQY)](https://www.youtube.com
 
 Uma imagem da íris revelando sinais de fragilidade hepática e biliar:
 
-[![](https://i.ibb.co/WW81MDHd/da9910399416.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC7rSNfqsRdhUT49WCSQcHhPSXJNj3dkWC_V-4kBWp5CxL0r8OFA0stUw1qWiiflmwVnWfb6vvBwegrBSD0DkRee67HpMVRpSXRGy29GwHLa16Tx3wj-EquJ_DdtluvXIcp8TCDhvwxgQIDEjzGYdCf8r4H-nKh3ARn96pXKEi6xW8_NcCbhNbgSA8RWA/s3024/iridologia%20%C3%A1rea%20do%20figado2.jpg)
+![](https://i.ibb.co/WW81MDHd/da9910399416.jpg)
 
   
 
-[![](https://i.ibb.co/03b08LF/a76c414bcfae.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaDj7R6MHqh-_PLOr4bmtLyeA-TpO80jdxZH-cjbYS8AYw9C58t27KizLEZkFf8tz4d4M3ixVCbTYCUvSE93c9SUA4LqDK4mQ27MXU6KVPQeUNTtxuQw9NCzCs8z9iOI093YOg7TsABT7EVrrcNhVMGnjGOKcKR5mQBQSSxgDG0Pj041lfpfw3e_EWsVw/s3024/iridologia%20%C3%A1rea%20do%20f%C3%ADgado%20figado1.jpg)
+![](https://i.ibb.co/03b08LF/a76c414bcfae.jpg)
 
   
 

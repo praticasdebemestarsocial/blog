@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem foi Nils Liljequist?"
 ---
 
-[![](https://i.ibb.co/Sw5zqsnk/260fa87383c0.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7GKXXB3p4E-cBeujbIcbebV_ORwu96smtpTxWxIbugRq2056p0PGBmTDchL2hOus7L1cMwUwuvRSoxJvPhvyZNaqTEK7zobUrqFPXTUR6CbZ0Sde1KHF1X-YxUquXinbsO-jqYBpk_t5lGJbMfyEi3tzoiLcY97wru8AEZtqNPLdK1M6Df-4H0JkEH8w/s1200/Nils_Liljequist_m%C3%A9dico%20_sacerdote_sueco_fundamental_no_desenvolvimento_da_iridologia.png)
+![](https://i.ibb.co/Sw5zqsnk/260fa87383c0.png)
 
 # **Quem foi Nils Liljequist?**
 
@@ -33,7 +33,7 @@ que o mais surpreendente foi justamente a semelhança entre os mapas criados por
 ambos — dois estudiosos em países distintos, que chegaram a conclusões
 semelhantes de forma independente.
 
-[![](https://i.ibb.co/VFFZBHp/bbbfc04816fa.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjctf8C1GvxIvPoJiANPeX0gB3485QDTomgz1MDrFqhnfDCR87h963tvIZcvw1NQ9P7XbmowrmGwc0P62nMqBbOGR5mP6_DOt-usiVxA4-GmCzosyXshS7q9m3MPlJCrRJY9g_bJY8zVbhQwDTML7Yo6Y_49jlZSERNXyHgNyHYfA2Ge3boxscEq4P8Ycc/s164/Nils%20Liljequist.png)
+![](https://i.ibb.co/VFFZBHp/bbbfc04816fa.png)
 
 Em 1880, ele publicou seu primeiro trabalho a respeito da íris, intitulado "Quinina e iodo mudam a cor da íris".
 
@@ -76,7 +76,7 @@ Suas obras serviram de referência para terapeutas naturais e médicos alternati
 
 Sua experiência pessoal (alterações na cor de sua íris) impulsionou-o a investigar a relação entre olhos e saúde. e suas obras continuam a inspirar estudiosos e praticantes de iridologia, fazendo dele uma referência histórica imprescindível para quem deseja compreender a evolução dessa prática.
 
-[![](https://i.ibb.co/mVnk0g3b/e1f2cfa440d6.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS7IwQa-25YZ2R_ZO7jlJE5XYu6zpirCq7MnFOva624HQA-zfGWxUgZkv0WTLYLzS4Afs5FzoTaaco84l8sSAD19sZ3CvVZv9Zk55AifACyVnudiKVT6BO7oQXPlgazNzJMftXH9taeu0tAkBObZMVLlDQlJOWvEiiF9wco-L_RNzdDv2ytuQ1967v_dg/s574/Screenshot_43.jpg)
+![](https://i.ibb.co/mVnk0g3b/e1f2cfa440d6.jpg)
 
   
 
@@ -117,25 +117,25 @@ Sua experiência pessoal (alterações na cor de sua íris) impulsionou-o a inve
 incorporado](https://archive.org/embed/ico-25-the-diagnosis-from-the-eye-iridology-v.-1)](https://archive.org/embed/ico-25-the-diagnosis-from-the-eye-iridology-v.-1)
 
                            
-  [![](https://i.ibb.co/s99wqb2f/3c2e34137165.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigS6EWrOs03w6suTm7fAIap8u7iVYrwZbaIdOuYT7xFa13cUMwTWhgE3IF-ttSYw_jfJE3eIHi66wDOv9aAoNJBalEIEjCFQ8LqCnzpvlYFZQdEizuWyEFhONFcfsh7boCWCsgoiefxSU8OHL5-akoRGMB25KMy9YtqMvkFlTNj1q45wp2YPBq-CV41Ks/s461/Screenshot_3.png)
+  ![](https://i.ibb.co/s99wqb2f/3c2e34137165.png)
 
-[![](https://i.ibb.co/msvFb2C/ca549acdb31e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9OoXROH8wAO2v6q_XkToYV3kbATd58I2aACQZ8LNTNAx1NtLT8JBWt5dGCwg95GUZRMGr06w-XBiijDpSZcszvbTS7tdX0FQgMvw1Ky2F6FwZuZ695E9pGU04VXqPWbvTzAgCbMGfbu7R0CTiHJglcVjieaEfeuHxUl5hY9flVxVYBPtNeXJ6XcFmhAg/s1290/large_item_3252165_95328615b3.jpg)
-
-  
-
-[![](https://i.ibb.co/rfvWMhHY/7ad2b0035e82.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilwVMaK_xT_aRS9phIDsYiJILYTCdIFNvBOkdG8rGLd73D-Fdc4EcFYDqk-ENjL-cjBhciC4eQKoJ6_OUaqAtZb76NR4Zxw8YW1ONriCHhbAwyqyyZsnbbYGZkPaCBl13hF2TRMzL9igvrNTOf6S8bgJuHoQgEYj-7_vLrFH2fWCh6k3fO7yPrjuWXHzQ/s677/Screenshot_6.png)
+![](https://i.ibb.co/msvFb2C/ca549acdb31e.jpg)
 
   
 
-[![](https://i.ibb.co/DgYLzN68/a0bac35f768b.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiJEWYxFXxi9_mWA15p7Cgpm3NJ47FDKeoy3WXE-Fx8G7y-Ry7vhnJvhRYlG63yds4Y6Bj64OTht90spuWroa0i8Aios-O3uNCgrYxTyQd7EaIeRcJ_MAj4qSIJUBdQt6gxnk7t-W1zn4WePLbyt_SLLWWre4tYIZO6g4cZP36J1U1bOBg74FMQlgYT2E/s679/Screenshot_2.png)
+![](https://i.ibb.co/rfvWMhHY/7ad2b0035e82.png)
 
   
 
-[![](https://i.ibb.co/pT3FF5C/9234d1f65bba.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitq6GJ_zA3u4FNBx0sFO0YUnJ3vAGFmNE-m2kNXYqlHQP1qPJ-59BVTIVbdaCVFgo3BvwBGMfqAjpTN_tqH0FAZEhCbJV2iLTyVHLibKIOaanqJX0fWpNG1xGYf5AURo7PbQgqcC7n8ARrd341Cz7SHP915qxKUyyVRX3kOFlPrUf6YS28Qd1vV2-TJAw/s699/Screenshot_5.png)
+![](https://i.ibb.co/DgYLzN68/a0bac35f768b.png)
 
   
 
-[![](https://i.ibb.co/LdQSYv6k/0356049e304c.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-t06JS3dJ0loavHblnQ1bhdR5rVhDh9BuKzZc74kNYVBFdG-LOM5drplMbYMD9nZqORgj-KrK5s2VRuDOrhbaeBs4AiyVJRthEl-Ph1Opd7FO2vlh7gIJMBCTtg2fRNyildo3yxMh2_EMmAvh3wtyH7ZifG_kBmeXCDbCnF5wuqCU4kjaHvwMTHzliv0/s678/Screenshot_4.png)
+![](https://i.ibb.co/pT3FF5C/9234d1f65bba.png)
+
+  
+
+![](https://i.ibb.co/LdQSYv6k/0356049e304c.png)
 
   
   
@@ -158,7 +158,7 @@ inglês)
 
   
 
-[![](https://i.ibb.co/tMv7Cjq2/f34e0705f0ff.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggvYz7FAiBTa3yKDr4mbfWI0931VOOjiUu9xyFswMxS_3T_4iwxTubqIX2ccBHxUtloB0sDTCMaZXnjZ6RZpuw1Cw6jSAMQltl7iG-a6iHfw7WkYcq_xg-JSn0hnSJLfaLjfSKniF68aUJJ9PBnQqrGkqB3WbiKRILUptdKGWWrIeSJihi-znXn6y_8cs/s167/Screenshot_15.png)
+![](https://i.ibb.co/tMv7Cjq2/f34e0705f0ff.png)
 
 The Diagnosis from the Eye
 
@@ -227,4 +227,4 @@ Larson c.1 v.2  
 
 <https://babel.hathitrust.org/cgi/pt?id=chi.64452544&seq=98> Acesso: 24 nov 2025.
 
-[![](https://i.ibb.co/mVnk0g3b/e1f2cfa440d6.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8od6jwymhT3X8_lcdKazwLaZvrS24lw2YNIqIphnzB7pk6iESLitwe2xFU2720ToBtGNlAuDQXrKR004EaN8s2N1-0NHDeAeAIj3qXDQQiY9wOV-rvt4ii_zvTTl4bu9TgopRzkxzzU8FtkoBBQKXiHX-SiYSwqIgJZcjiCaTKcz49dwAbgB5dqCqYo/s574/Screenshot_43.jpg)
+![](https://i.ibb.co/mVnk0g3b/e1f2cfa440d6.jpg)

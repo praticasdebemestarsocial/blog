@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Iridologia é uma ferramenta de auto conhecimento?"
 ---
 
-[![](https://i.ibb.co/DDGqPFDK/9711d4fa80ea.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiuZtoVprmDcVASCASxT1Kj99rPS5dxEPbv8jrFUkwI_m53G4smwLYMPSYdK6pveH8tph0Er3PNpzkZV95xTi1SuSo5uwAhIy3fquHTtfCsV1VGTNp8Ptk_4ocGpMneuuJOqcoLfbQ7TeJd1ZslvYRcblF2BqSlQNcSkPgodVj1EQvUw7hlGHmx5OzPIQ/s1200/Iridologia_ferramenta_auto_conhecimento.webp)
+![](https://i.ibb.co/DDGqPFDK/9711d4fa80ea.jpg)
 
   
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Olá a todos Hoje vamos falar sobre iridologia que é uma técnica utilizada na naturopatia ou naturologia para avaliar a saúde de uma pessoa através de ..."
 ---
 
-[![](https://i.ibb.co/8LmRDP7h/40653d612b0f.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUQbINhLL97KV2ZfUWiTd-IQajCbqEYFKntYtPyL659hkkVk2_iMXzAyGEAQPfp9QcCNBqTkiHnAXyytXF02ME1DwmCR0RJ2io9Y2_rSFMDi4Xlnn-8lLSIuh9En3kl5o0KeI3V7n1IggbSPKU5vOqAHRT4ZJc3iix7tc6L6jSxLinI-lt9CY9PRU9Zeo/s1200/O_que_teus_olhos_podem_te_dizer.png)
+![](https://i.ibb.co/8LmRDP7h/40653d612b0f.png)
 
   
 Olá a todos Hoje vamos falar sobre iridologia que é uma técnica utilizada na naturopatia ou naturologia para avaliar a saúde de uma pessoa através de sinais que aparecem nos olhos.

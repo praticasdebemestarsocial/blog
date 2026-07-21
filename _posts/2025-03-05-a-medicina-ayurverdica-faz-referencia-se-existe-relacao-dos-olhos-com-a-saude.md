@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Medicina Ayurvédica , que é um dos sistemas de medicina tradicional mais antigos do mundo, originário da Índia e com mais de 5.000 anos de existênci..."
 ---
 
-[![](https://i.ibb.co/DDqzwCh3/b6775186e52c.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUYk6UpXEkCZQjNt_yDqAtRmNb2Yzuucn1rcX8Dig2Z1xsyUShphfcO6_4IyidjF8dY0TgyYKtQhjtHG9sVbYJIm22MQg93mSH3eqaBhXm7bQepuG-xtu4om3iRbSFD2o2kMTMV-TQUtYHP9uUdAAd9h2zGzd4zdVD8yV3PFCUM2ZQl0SgZVMQZ3VA6gQ/s1200/A_medicina_Ayurv%C3%A9rdica_faz_refer%C3%AAncia_se_existe_rela%C3%A7%C3%A3o_dos_olhos_com_a_sa%C3%BAde.png)
+![](https://i.ibb.co/DDqzwCh3/b6775186e52c.png)
 
   
 A Medicina Ayurvédica , que é um dos sistemas de medicina tradicional mais antigos do mundo, originário da Índia e com mais de 5.000 anos de existência, reconhece os olhos como um reflexo do estado geral de saúde e equilíbrio do corpo.

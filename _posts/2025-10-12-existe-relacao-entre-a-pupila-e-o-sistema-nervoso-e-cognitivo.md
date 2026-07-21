@@ -227,7 +227,7 @@ raciocínio.
 * Foi utilizado um rastreador ocular para medir o tamanho médio das pupilas em repouso.
 * O ambiente de teste foi controlado (laboratório escuro) para minimizar efeitos externos, já que a pupila pode variar de 2 a 8 mm dependendo da luz.
 
-[![iridologiatemposaude](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiydI0u4Enxjh5ndJt4RvQvj7PWhkBfCA6SnrjQZwueB119CFhncJWtsGtmTYEsw7kbX14ZPBi4a_21xhgAx6MSf7O98pBN281ljL3t4KuAKRIy0Poyz1w3x5V5uV8u_DrnAIaVn6NC7KQc/w320-h193/o-que-e-um-poligrafo-4.jpg "iridologiatemposaude")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiydI0u4Enxjh5ndJt4RvQvj7PWhkBfCA6SnrjQZwueB119CFhncJWtsGtmTYEsw7kbX14ZPBi4a_21xhgAx6MSf7O98pBN281ljL3t4KuAKRIy0Poyz1w3x5V5uV8u_DrnAIaVn6NC7KQc/s400/o-que-e-um-poligrafo-4.jpg)
+![iridologiatemposaude](https://i.ibb.co/YT1rLCrK/72b1e87222fa.jpg "iridologiatemposaude")
 
 Muito é falado que o FBI utiliza informações da pupila para desvendar fraudes através do poligrafo e que essa técnica já teria sido utilizada por um psicólogo chamado Daniel Kahneman na década de 60 e 70.
 
@@ -414,7 +414,7 @@ funciona o cérebro.
 chamado de *Locus Coeruleus, que possui conexões neurais de longo alcance com o
 resto do cérebro.*
 
-[![iridologiatemposaude](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTWo_x8UK7AlkQOXZNK7BngV7tn1hmbQRg-qrhAnALGVTnYTXDudNm4MCwlDDmV_Hk_vNOUSzo8Eoo3FrdpC_oo7rn_Zb9zi8G7url87MRZrxxHhyphenhypheneGLT2BHs5q4e4SBi_bm3_z6BzKiYO/w320-h215/cerebro.jpg "iridologiatemposaude")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTWo_x8UK7AlkQOXZNK7BngV7tn1hmbQRg-qrhAnALGVTnYTXDudNm4MCwlDDmV_Hk_vNOUSzo8Eoo3FrdpC_oo7rn_Zb9zi8G7url87MRZrxxHhyphenhypheneGLT2BHs5q4e4SBi_bm3_z6BzKiYO/s787/cerebro.jpg)
+![iridologiatemposaude](https://i.ibb.co/BHgkn7GV/b7db1f9eb78c.jpg "iridologiatemposaude")
 
     Esse núcleo Locus coeruleus libera **norepinefrina, um neurotransmissor e
 hormônio cerebral**que regula a **percepção, atenção, aprendizagem e memória e
@@ -434,17 +434,17 @@ essa atividade comandada pelo núcleo Locus Coeruleus.
 
 * Que existe indícios de que realmente **existe uma relação fascinante entre o cérebro e o olhos.**
 
-[![iridologiatemposaude](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmMD1yCSbHojG3qUuRaVp56nBDEQ9bgcFeEgf6P_eug_zNjf_xOVFW63lZOaThfzP_rMV7SlWuCbqMD00jLkYoKtULssAE1iI1xfkCdTd0chgWoDJNkaWDZATDdJLHxN7Wo96N46CBV1Nc/w320-h212/ojo-y-cerebro.jpg "iridologiatemposaude")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmMD1yCSbHojG3qUuRaVp56nBDEQ9bgcFeEgf6P_eug_zNjf_xOVFW63lZOaThfzP_rMV7SlWuCbqMD00jLkYoKtULssAE1iI1xfkCdTd0chgWoDJNkaWDZATDdJLHxN7Wo96N46CBV1Nc/s1080/ojo-y-cerebro.jpg)
+![iridologiatemposaude](https://i.ibb.co/wZH2r6Qk/a8e9e799bc8f.jpg "iridologiatemposaude")
 
 Em outro artigo cientifico escrito Hernandez (2019) a respeito do uso da Iridologia para detecção precoce do Alzheimer como um método complementar que ocorreu na Universidade das Forças Armadas do Equador referem que a avaliação feita através de Iridologia oferece a vantagem clara pois ela é difícil de falsificar na identificação biométrica e que a utilização de aparelhos modernos juntamente com programas assistido pode permitir a determinação de características da íris com maior precisa e confiabilidade. Afirmam que essa técnica pode ajudar muito pois representa um baixo custo e alta eficiência. Ainda sugeriram que a Iridologia pode ser associada a sistemas neurais, que são sistemas de computador que interconectam com com o cérebro através de aparelhos.
 
-[![iridologiatemposaude](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDhBerPdkWnrkuB7HseSxBJd5aPqlXaPzXWDeBRktnWWIjPAdrZESb2pjMr4YK8AGftJY356X0iwSAYRgZtpSjkwAQSKjB7OUix6sh3L19IMf-eoJwPsu13aXiz7IY6wceobByyygHBBrC/w320-h198/rede+neural.jpg "iridologiatemposaude")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDhBerPdkWnrkuB7HseSxBJd5aPqlXaPzXWDeBRktnWWIjPAdrZESb2pjMr4YK8AGftJY356X0iwSAYRgZtpSjkwAQSKjB7OUix6sh3L19IMf-eoJwPsu13aXiz7IY6wceobByyygHBBrC/s667/rede+neural.jpg)
+![iridologiatemposaude](https://i.ibb.co/9xSY2Bp/5b942ae5cd4d.jpg "iridologiatemposaude")
 
 **Rede Neural**
 
   
 
-[![iridologiatemposaude](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyDisVYm_056lUI8-7jI3jX9ehhX8drgiX0GwwDcOxRGZJjOdLrL0PM9nOtEhWv6q367g4yg0UtpfuCia5oswJXDz2ENlesBPc3QxzG6hUMc1kMvUTtHtQNkxgwxP11iWrJG-gT1uVEfxd/w320-h193/tbit-iris-scanning-pixabay-700x422.jpg "iridologiatemposaude")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyDisVYm_056lUI8-7jI3jX9ehhX8drgiX0GwwDcOxRGZJjOdLrL0PM9nOtEhWv6q367g4yg0UtpfuCia5oswJXDz2ENlesBPc3QxzG6hUMc1kMvUTtHtQNkxgwxP11iWrJG-gT1uVEfxd/s700/tbit-iris-scanning-pixabay-700x422.jpg)
+![iridologiatemposaude](https://i.ibb.co/XZH9WntY/c6b642946f9b.jpg "iridologiatemposaude")
 
 **Biometria**
 
@@ -452,7 +452,7 @@ Em outro artigo cientifico escrito Hernandez (2019) a respeito do uso da Iridolo
 
 O estudo da Iridologia explica que na pupila é possível fazer um estudo do sistema nervoso central, onde está sendo processada toda a informação do corpo humano e que se intercomunica através das glândulas hormonais, sistema circulatório e nervoso. E os olhos se ligam ao centro de comando que é o hipotálamo- hipófise através do nervo ótico. E através desse canal é possível observar toda a informação a respeito do corpo através dos sinais que aparecem nos olhos. É como que uma linguagem transmitida por radiação e que quando a sabemos decodificar o significado desses sinais passamos a compreender o que está ocorrendo nas reações químicas, metabólicas e energéticas do organismo.
 
-[![iridologiatemposaude](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh24d6L5on6qZNb-tF9k7qqALyRsfafcgDBSeLYQ0clFwRD8iUwYCaxz_g4_hxSiCKWnfJLrZfQIenDDhOuc1hXbaLvGpZBFbrgKZMXgUTNxtFvqLCAgL6t-W-PMs4xM1OQ6a2thnPgYBn9/w226-h320/Sistema+Nervoso+%25281%2529.jpg "iridologiatemposaude")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh24d6L5on6qZNb-tF9k7qqALyRsfafcgDBSeLYQ0clFwRD8iUwYCaxz_g4_hxSiCKWnfJLrZfQIenDDhOuc1hXbaLvGpZBFbrgKZMXgUTNxtFvqLCAgL6t-W-PMs4xM1OQ6a2thnPgYBn9/s1600/Sistema+Nervoso+%25281%2529.jpg)
+![iridologiatemposaude](https://i.ibb.co/DgjhNc4k/f1d7976a08ad.jpg "iridologiatemposaude")
 
 Podemos citar alguns exemplos de casos de que a pessoa pode apresentar disfunções a nível cognitivo quando constatamos esses sinais no olho, onde podemos recomendar produtos complementares, alimentação, plantas medicinais, suplementos, homeopatia e recomendar o encaminhamento para demais especialistas da área da saúde.
 
@@ -481,11 +481,11 @@ Aqui na foto do olho pude observar que:
 
 * esse quadro ser origem de distúrbios cognitivos de atenção.
 
-[![iridologiatemposaude](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEya08TDffbK1_gNN5c7e6pGRCWepIClNWv-DDyF3YsFo5T1EAcBK98F4AlowzejwQsaJzQbAJtGFdJWPTNUACanX3aoKyCVm-M6kgWDMwjZ1Abnw_xcUm7MiCPaqBoVBe7xk8kpZYgbQ5/w320-h226/cx.jpg "iridologiatemposaude")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEya08TDffbK1_gNN5c7e6pGRCWepIClNWv-DDyF3YsFo5T1EAcBK98F4AlowzejwQsaJzQbAJtGFdJWPTNUACanX3aoKyCVm-M6kgWDMwjZ1Abnw_xcUm7MiCPaqBoVBe7xk8kpZYgbQ5/s343/cx.jpg)
+![iridologiatemposaude](https://i.ibb.co/j9wJ9nYy/1d1b1609ce74.jpg "iridologiatemposaude")
 
-[![iridologiatemposaude](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJVhHRzXjfpckQqodDD0ogdJcHYBoMU_ZmG6Nawjw2oZmYia5zZ18FreK_COMuFYHZJP2x4bVTI1yqqTuQYSYL1esHBYeI5KBobAnTZjhS8jj68Eq488a0EP6fgxQoswRhnukyEvtl4vU_/w320-h226/c.jpg "iridologiatemposaude")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJVhHRzXjfpckQqodDD0ogdJcHYBoMU_ZmG6Nawjw2oZmYia5zZ18FreK_COMuFYHZJP2x4bVTI1yqqTuQYSYL1esHBYeI5KBobAnTZjhS8jj68Eq488a0EP6fgxQoswRhnukyEvtl4vU_/s343/c.jpg)
+![iridologiatemposaude](https://i.ibb.co/5gXbh9y9/589e1dccf184.jpg "iridologiatemposaude")
 
-[![](https://i.ibb.co/B7rXv4k/e241a1892239.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Rf-4h-ObWeKR2b03b4pRIqxX_DXmXOsJOUmgwgzVzZgnEnyFRTeoIpqEgy5dvpC6AS8XJuU1vG-wxlElNbHqLwihRa7kLRxPZI5-v3Yvb3C_pi_nLZfQRJiVTELv1eXrVk3BDwTepN8/s2048/euu.jpg)"Quando utilizamos uma ferramenta que pode dar luz a respeito **desses fatores nocivos e prejudiciais para o nosso organismo** podemos ter uma informação  relevante a respeito de que forma podemos cuidar melhor do nosso corpo, da nossa saúde, da alimentação e do nosso estado emocional."
+![](https://i.ibb.co/B7rXv4k/e241a1892239.jpg)"Quando utilizamos uma ferramenta que pode dar luz a respeito **desses fatores nocivos e prejudiciais para o nosso organismo** podemos ter uma informação  relevante a respeito de que forma podemos cuidar melhor do nosso corpo, da nossa saúde, da alimentação e do nosso estado emocional."
 
 Silviane Silvério - Terapeuta Naturopata - Crth br 1741.
 

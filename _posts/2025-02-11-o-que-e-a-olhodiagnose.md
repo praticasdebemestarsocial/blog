@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "O que é a Olhodiagnose?"
 ---
 
-[![](https://i.ibb.co/xtpHYL3z/1d39b4507c78.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGF5W739NSx12Rrt5otdXXE34IxSp3KT51rCCwGzPDtWGbXO7FkAExiIJSgQlribrcLzdTh4J-POzqYVxkWbZfZHMVNq3ZmJYgrJfwvh6R-zKUQ-Q9Wy6dcYl2rmMEWXZDRshzo_tG-DHGejelZay3CCtFy4YWuw67BL1DJCh20UmeVdZtQqMRuPhyphenhyphenVbE/s1200/O_que_%C3%A9_a_Olhodiagnose.png)
+![](https://i.ibb.co/xtpHYL3z/1d39b4507c78.png)
 
   
 

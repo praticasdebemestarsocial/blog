@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Estamos no olho do furacão da mudança — Uma nova era está nascendo. Você está pronto?"
 ---
 
-[![](https://i.ibb.co/jXD67zP/b63a6a970b84.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizckSMNCws5jBCGzoDmeqZ3GCmJeYakEVL4HApUFeEFxz_Lb9VQfVspKQitHh4DoMrqExUR-x0Rssx8qNBApvVUeOVE4xOXto2scphmp7e3wbsvNHf_Ul-lluHlwkLZXYepkxND9WpHsH26idSqAmyPbCqT65TUrJxj32zY2nzrKzFQkXvN1yGHpsOM6g/s1200/Estamos_no_olho_do_furac%C3%A3o_da_mudan%C3%A7a_Uma_nova_era_est%C3%A1_nascendo_Voc%C3%AA_est%C3%A1_pronto.png)
+![](https://i.ibb.co/jXD67zP/b63a6a970b84.png)
 
   
 

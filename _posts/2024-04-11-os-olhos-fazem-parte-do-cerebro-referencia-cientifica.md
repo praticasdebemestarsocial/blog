@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Olá, amigos, sejam bem-vindos aqui ao canal. Fiquem de olho na sua saúde."
 ---
 
-[![](https://i.ibb.co/RTVf6GG1/bc8412c70c0e.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgX0ABvNcqvo0RYJVRdQePtxNqor_E0hO47QaHu5Vq9mfKfYo6QDeCmX-aUbFxH_aNHO-3NcAehup-kKS8qtGXtr0UtN-HxPwue_ZuoTo8Y4eHP2hYnlEXhYnwfH9CGaHoVTXV228ZTufqnEG7rFbOQdpdMD8sWyLXq-KpWFXwJM2Cx3Lc_CI5x6S8zTM/s1200/os_olhos_fazem_parte_do_c%C3%A9rebro.png)
+![](https://i.ibb.co/RTVf6GG1/bc8412c70c0e.png)
 
   
 

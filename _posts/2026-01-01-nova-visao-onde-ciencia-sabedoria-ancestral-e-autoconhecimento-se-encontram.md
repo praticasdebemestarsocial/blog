@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Nova Visão: onde ciência, sabedoria ancestral e autoconhecimento se encontram"
 ---
 
-[![](https://i.ibb.co/pjshk2DH/589d2863cadf.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTUwD7E7CzK7duVq_vHX-M5qjKVHlWGkB0aVI1qm9DwGhVSJ4KQhfRWLu-Wn-b5CXuDah2enWANn3G_X_wn1Q-ulmXHPLf0HXKwyud81Lph7qd2PII5pcdDltLJee_9TakN6I9M6Aql2ugpqjcVmStjVM-LKqnp8Pi2S9WEhF830TFvnwsyxbqqZIG5aI/s1600/Nova%20Vis%C3%A3o_%20onde%20ci%C3%AAncia,%20sabedoria%20ancestral%20e%20autoconhecimento%20se%20encontram.jpg)
+![](https://i.ibb.co/pjshk2DH/589d2863cadf.jpg)
 
   
 Nova Visão: onde ciência, sabedoria ancestral e autoconhecimento se encontram

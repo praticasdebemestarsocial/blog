@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Título do Vídeo: Cuidado com o Escaneamento da Íris: O Que Você Precisa Saber"
 ---
 
-[![](https://i.ibb.co/pBMFLBYw/f7795dd92736.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPYbtyhZg8Q8nnTWAPfmNGJCw9BbiNRw3sxAp5WG8ewDO0oc3wsnbtMwkBZwPFGIxXiF1SoNszlwiO0firPmWCkTKrc2PfOPtsDgfPG-EGq1GtZVR26eNp9MjKGaMpVd-nwRUef2N_6ESN1KvekH20A2nO_NxxqcBOQY8bTCGnzorytWq1xN9yMXALh7w/s1200/Escaneamento_da_iris_O_que_devemos_saber.png)
+![](https://i.ibb.co/pBMFLBYw/f7795dd92736.png)
 
 ## Título do Vídeo: Cuidado com o Escaneamento da Íris: O Que Você Precisa Saber
 

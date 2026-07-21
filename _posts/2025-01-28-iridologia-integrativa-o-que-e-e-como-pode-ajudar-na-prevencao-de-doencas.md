@@ -15,7 +15,7 @@ A **Iridologia** é uma ciência que estuda e interpreta os sinais presentes na
 íris dos olhos através de um mapemento.  
 
                              
-  [![](https://i.ibb.co/M5fdKQSs/5982d9f7899f.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9XhNhJ2l9AJ9pjyQQVsgXbAFDE_m4ZhPV52YVAnR03V9GTtO7OhBs-FlAdx395QTPPVPOZwCJA42G7vK1RJ9ITHb0J7gMKhfwCWKCgDRdl6Ex4J92Eu4vV1rjoDTGHmnT3ERTxRZchV0/s673/Sem+txsx%25C3%25ADtzulo.jpg)
+  ![](https://i.ibb.co/M5fdKQSs/5982d9f7899f.jpg)
 
 Esses sinais podem incluir manchas, texturas, colorações e outros padrões que
 indicam processos metabólicos, emocionais, fatores genéticos no organismo e
@@ -194,7 +194,7 @@ Embora a A iridologia pode ser uma ferramenta útil para identificar possíveis 
 
 É importante ter em mente que a iridologia está em busca de base científica sólida e que o diagnóstico de doenças deve ser feito por um profissional de saúde qualificado.
 
-[![tempodesaudeiridologiasilvianesilverio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZPI6rRo3sak1g9j5rXK7gHnhdRUOTkYw9y6bITC8HUPAUQdTFevAUKpY4JWxDYh_brFuia1khW4UiuukpKgeSOCo1McBm9-JHBJjhyxvtz0ED0TtW6Yb9wkYCPFNaHyfJ9TNIRG3Degw/w181-h200/euu.jpg "tempodesaudeiridologiasilvianesilverio")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZPI6rRo3sak1g9j5rXK7gHnhdRUOTkYw9y6bITC8HUPAUQdTFevAUKpY4JWxDYh_brFuia1khW4UiuukpKgeSOCo1McBm9-JHBJjhyxvtz0ED0TtW6Yb9wkYCPFNaHyfJ9TNIRG3Degw/s2048/euu.jpg)
+![tempodesaudeiridologiasilvianesilverio](https://i.ibb.co/B7rXv4k/e241a1892239.jpg "tempodesaudeiridologiasilvianesilverio")
 
 > "Quando utilizamos uma ferramenta que pode dar luz a respeito **desses fatores nocivos e prejudiciais para o nosso organismo** podemos ter uma informação  relevante a respeito de que forma podemos cuidar melhor do nosso corpo, da nossa saúde, da alimentação e do nosso estado emocional."
 

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "A Validade do Conhecimento Científico e o Papel da Revisão por Pares"
 ---
 
-[![](https://i.ibb.co/P8Vd7rY/a25bddae1b99.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZGKBInvrBHpLIFMn419E3Qa_VeP6Wx_7mzU1gPqpUlmiyCRl-7EfhK32WZGhlk8WJdfrqdJY8y4VlohTH253SkPRm21WFVz52UxSS_mfmN0yb2EE8Ykb0FuBN26e4bOaf4GsmrKzAOxqX0p-RnTh4gNR6K_VrP4ZuTqOm5WXLam786gysuZIfiyMOVr4/s1200/Ci%C3%AAncia%20%C3%A9%20Cientificismo_Um_Novo_Olhar_Sobre_os_M%C3%A9todos_de_Pesquisa.png)
+![](https://i.ibb.co/P8Vd7rY/a25bddae1b99.png)
 
 ## A Validade do Conhecimento Científico e o Papel da Revisão por Pares
 

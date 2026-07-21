@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Os Olhos São as Janelas da Alma: O Que Leonardo da Vinci Quis Dizer?"
 ---
 
-[![](https://i.ibb.co/WWRv1jx0/7ef43a2bceea.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTwPJqjFOJVBkhU59Z663wgJdiTCwon6ZkfP4Rf83zEGxeSAM1OMa0nmVM-OXICQXjlgkS5k_DhkJCvUR8oWqNxptcV1PisB7fx5E_4yVbHHAhUXvv2InyxPJtck1esEDP_q9IaLDEo0-oAom9BQNVcfXONTGks32MqzPIG8vJNuaIzAKBGmUFOxovBCE/s1200/_Por_que_Leonardo_da_Vince_falou_que_os_olhos_s%C3%A3o_as_janelas_da_alma.png)
+![](https://i.ibb.co/WWRv1jx0/7ef43a2bceea.png)
 
 ## Os Olhos São as Janelas da Alma: O Que Leonardo da Vinci Quis Dizer?
 

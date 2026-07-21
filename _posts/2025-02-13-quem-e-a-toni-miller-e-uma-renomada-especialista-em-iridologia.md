@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Quem é a  Toni Miller é uma renomada especialista em iridologia?"
 ---
 
-[![](https://i.ibb.co/vphK4NT/4c552a922b5f.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSFSeE4B2H1yR5nEFbD-Mb1cJpsdgTtbqWY9P4J4cRdiHo7Ju09bzH9Wa265DxVKTK06p5nDsoz7VsY9ncuEs7rgfc7uMSfQBnFUFt0bi3ywxj_eB3RBTKi2ZjtwpPXoaQqceIixuZcB8aM4u4kJTggp29GhsFVZKRJaPr51EpgwJzTlf9yRqu1Ufvbrw/s1200/Quem_%C3%A9_a%20_Toni%20Miller_%C3%A9_uma_renomada_especialista_em_iridologia.png)
+![](https://i.ibb.co/vphK4NT/4c552a922b5f.png)
 
 ## Quem é a  Toni Miller é uma renomada especialista em iridologia?
 
@@ -94,7 +94,7 @@ Report”](https://www.iridologyonline.com/product-page/the-iridologist-report) 
 o primeiro software de dados de Iridologia abrangente do mundo.  
 
                                      
-  [![](https://i.ibb.co/ccKCkcvv/e71435ac553e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcEwOQ_6W8U_gfY6s7a1XcSpYTlHEJ-TXAlIVBD5_62JxU1Axve8yDFViQJyVUjwUrqHE78Lbwuhuum0HSq_Zx7yjS4H-uePZHd0ynGtBdoUzIfdJBJI59fCDy8Nt2wMANzSjVG2NeRdT6JF4l74LeMvA_eoaywX7F9wunqVL48ZtwfZ3t6JG2RhoV0gA/s625/Screenshot_21.jpg)
+  ![](https://i.ibb.co/ccKCkcvv/e71435ac553e.jpg)
 
 Desde então, ela produziu uma série de títulos de software educacional e dois
 conjuntos de Flash Cards.
@@ -112,25 +112,25 @@ a premiou com uma placa comemorativa por sua dedicação de trinta anos de
 contribuição à Iridologia e, em seguida, elegeu Toni Iridologista do
 ano e Instrutora de Iridologia do ano em 2014.
 
-[![](https://i.ibb.co/R4h2Rz1C/78fb1f75f2f7.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0JRlXM3CuclDV0_247_xjZitgasUQUAKe-arMKkoTVwq7Y2wQI8er1JCaxhn-uV77qZ4jK65THECIN7EXwv-ft5eHDFF3vae-eNi4EqEGWJpi4EKoXd_6O1aBvJkd1IhQ1zlRRYmaqPUR84UhG_4Qhj4ohuzIThEzvyLdjfGrPU-iB_i81E3i2_K97Fc/s838/Screenshot_42.jpg)
+![](https://i.ibb.co/R4h2Rz1C/78fb1f75f2f7.jpg)
 
 [Dorothy Hall](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/dorothy-hall-foi-uma-renomada.html) e Toni Miller
 
   
 
-[![](https://i.ibb.co/KxWhtcWW/cdcc0c5fff0e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtwI6uEsl_deiZnPsHgmtW8S5AdVbwDdqabsVEtp57A88LRuxKqLipLpuntaDDOC5Ge_m85St6V0c1ttC4Ba9qTeey5jAOX1XiGQAgBQLgsXxa4ZH6yK3tH0Q2MaYjgj61PTy_FNky3YJfPXmcM9EG-f1MTjdW7OIR2ULXwgwJEe8upPaWiX0xiXJRzs/s845/Screenshot_43.jpg)
+![](https://i.ibb.co/KxWhtcWW/cdcc0c5fff0e.jpg)
 
 Toni Miller, [Leonard Mehlmauer](https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/quem-sao-os-considerados-pais-da.html), [Ellen Jensen](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/quem-e-ellen-tart-jensen.html), [David Pesek](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/david-j-pesek-o-pai-da-iridologia.html)
 
   
 
-[![](https://i.ibb.co/BX4MNs1/c9fdddb2352e.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEignzssp5x8nQkyVAFAOHuRWkemRTsh1KnHGvIPcMiEJUNMq9ihv-GlE1MuRaJIft1-ouEIEloFYDzzliHKA-wEt_LlMYCWKEeHC6RGnWKCNXh8boE48ZZoQJgt0RKDNDMoI-0ErMXyvwRx6QzDUAJZfzKhZiKGzqO0eVzc_8ViapHIaItNggR_qyToHlA/s841/Screenshot_44.jpg)
+![](https://i.ibb.co/BX4MNs1/c9fdddb2352e.jpg)
 
 [Daniele Lo Ritto](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/quem-e-daniele-lo-rito.html) e Toni Miller
 
   
 
-[![](https://i.ibb.co/VWMtkcfY/9f3247934715.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2bOhVglQGdDDQT7MOXbp9C3itTRAFsTB7oCB9gA13JfF_AhB_bBY5RsLIZudsyyZAcpaR8mAjCFj-YuS4VjSBa_U1rxdJdPVOorRJxls00uudsUpHgzbwjCZPmlS8CvbnvRQN3j-G6CbVT2NsXAIyBSGwfyb1q8UlL2M1bST6P_Y2QqEwCm9uNDUcZxo/s829/Screenshot_45.jpg)
+![](https://i.ibb.co/VWMtkcfY/9f3247934715.jpg)
 
 [Denny Jonhson](https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/quem-e-denny-johnson-o-criador-do.html) e Toni Miller
 
@@ -174,7 +174,7 @@ e pacientes. Sua abordagem integrativa e seu compromisso com a pesquisa e a
 educação a tornam uma das vozes mais respeitadas e influentes na área da
 iridologia.
 
-[![](https://i.ibb.co/5mjgMZ1/0718ac3b785c.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuNXOtCn1ARPxgKS5WYSXnxAsZSKA9NSdYEMZCzVk4CAS3fi8ORsCErWrgP-yq3Et2bEPJW1PQhCwW__S6X4jDhzvZs2DWIvU93R1527n72cbCQFAwnGvc6qUubPER7rGeZdYHkJPK6PDttW-C6YTa1kxLTCGZ2_107MvcS5c4bCe0HIPP8914d0rhj-4/s400/9780980546903.jpg)
+![](https://i.ibb.co/5mjgMZ1/0718ac3b785c.jpg)
 
   
 
@@ -182,7 +182,7 @@ iridologia.
 qual ela apresenta sua abordagem única para a iridologia, combinando métodos
 tradicionais e modernos para interpretação da íris.
 
-[![](https://i.ibb.co/67LhZtVp/d55c493f7358.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYcep0PAirJ1h5N8bcLXizqywdc8zERp0bp-Cr8Ipr5rGm9V8S_WgXsCxb9D4EFWVemXVXMwyccFYlh6BBh3N9wFnuEKhWTmNcKEIGat7tMYIIRdk4Sl25pYgJ0YxcLKaRM7o64JQrrrpAFiNS4cX57N4Ix0RS_-4zbtCi7tyvnWrWZQpKhgvXMnmQFJE/s842/Screenshot_20.jpg)
+![](https://i.ibb.co/67LhZtVp/d55c493f7358.jpg)
 
 ### Referências Bibliográficas:
 

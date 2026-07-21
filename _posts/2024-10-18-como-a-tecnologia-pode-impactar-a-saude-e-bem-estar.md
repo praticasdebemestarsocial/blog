@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Olá, seja bem-vindo ao canal 'Iridologia: Tecnologia do Autoconhecimento e"
 ---
 
-[![](https://i.ibb.co/cX2FmNtj/af2ed206d351.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-L-TMVT32_P9dkSuCqc5MlZBX5WWcbPdZb_UOzgVs88iZQ_Q_8UVM_81MZcqPiiNls9p2DKHCAGbW0bKKcKUxe9C0TjDdiaI1WKGUBwbsWAzJojupLwYnTup-f6pELdMtb4UMZVFG30h376iDwjpsXx3cIgmrKX7jNn9uMglOJkf7QHiZZR3KvOQdIqo/s1200/Como_tecnologia_pode_impactar_sa%C3%BAde_bemestar.png)
+![](https://i.ibb.co/cX2FmNtj/af2ed206d351.png)
 
 Olá, seja bem-vindo ao canal 'Iridologia: Tecnologia do Autoconhecimento e
 Bem-Estar'. Hoje, vamos conversar sobre um tema muito importante e atual: o

@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "PadreTicão um homem que lutou com fé por causas justas."
 ---
 
-[![](https://i.ibb.co/BbY1Kb7/5299aab0a52d.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiacQ1dWzzihayYNrTW8RG5Aduc0Y8ze03FQCwPYSnCFfO2RlQCqzFh3NkZECLeHtgefT70-R4KUHVh6QNsnksSmR37P6Ijt-X_eqXBwD5TSyaPWrlZ3TNygf1JV7-6Sf9luPMHyKjp2kT2u1Q3joVJaCsgnViV7D-rXoS0vNfE_sSg9HNNTnjHyOB9D8w/s1200/Padre_Tic%C3%A3o_um_homem_que_lutou_com_f%C3%A9_por_causas_justas.png)
+![](https://i.ibb.co/BbY1Kb7/5299aab0a52d.png)
 
 # PadreTicão um homem que lutou com fé por causas justas.
 
@@ -33,7 +33,7 @@ Paulo.  
 Ele sonhava em tornar o povo independente daquilo que ele chama de **“medicina
 do mercado”.**
 
-[![](https://i.ibb.co/tpR5kwpT/0e9a2eb705e1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwGFgJUHs6Kgq5jHFjocdIDLwPn4DIkm7xhPudlqKeXXaMKBIq7kUC1fTgImYjhitfYlaE5VU9T5a53uGj_rfHgbBdOtDJPKoQ09FhsSn1tovpQ52457IPSGgMmPKy5HBCpvxulQC8_CZfDMo24w0We77sbp2z6g1g6dN9OrxJPWisfGbW5l16KMcottDX/s1017/padreticaocannabis.png)
+![](https://i.ibb.co/tpR5kwpT/0e9a2eb705e1.png)
 
 ## Por que o padre Ticão era um revolucionário?
 

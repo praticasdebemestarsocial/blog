@@ -7,7 +7,7 @@ categories: ["bem-estar"]
 description: "Bem-vindos ao Blog de Jornalismo Científico em Práticas Integrativas e Complementares"
 ---
 
-[![](https://i.ibb.co/Gv2tHrr9/7c3c06f90845.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAsEUZGH7dSO7d9ldCvncJiqylKKRgIfjOFat0HHXescjZzVHsW_kOKjMacvXR-aplXRZqS5lEw8Q3Ds4OTHhmiuI6pdohFz0rfsR4ONkML8NctF7cNmZLHuAMxb7XJ54-ONtTzxV5HLQZTGTs9xch_vhOFr1HQgnyg79LWa81SE4K-KrOu4rIprr5Le8/s1265/sci-blogger.jpg)
+![](https://i.ibb.co/Gv2tHrr9/7c3c06f90845.jpg)
 
   
 
