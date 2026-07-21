@@ -1,0 +1,63 @@
+---
+layout: post
+title: "O sistema nervoso controla os órgãos independente da nossa vontade?"
+date: 2024-04-08T00:17:00.003Z
+tags: ["anatomia fisiologia"]
+categories: ["bem-estar"]
+description: "O sistema nervoso controla os órgãos"
+---
+
+## 
+
+[![](https://i.ibb.co/9Hz5xyrb/8690ab5d924b.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihASKcvyvFIvOWM59mE4LwPQqjNKaUGrbMjGNTx7SoMSHrLYVhmQRNIDJZFmr7Floa03BbLSSwLkXNRbBojtXkCoyQaxvHapBuqEBfFH3HA1iQMnV3iaF4s_imU9wYGXF4B4RQR_vz_tcd4RTk4v_6naUQGA0ak0LIBM9daG5GcXmCWrs2Pcilyt6RnjQ/s1200/sistema_nervoso_controla_%C3%B3rg%C3%A3os_independente_vontade.webp)
+
+## O sistema nervoso controla os órgãos
+
+## independente da nossa vontade?
+
+O **Sistema Nervoso Autônomo** controla nossos órgãos internos independente da nossa vontade.
+
+Esse sistema está dividido em duas partes, o sistema nervoso simpático  e o **sistema nervoso** parassimpático, que trabalham um em oposição ao outro. O simpático é estimulante e o parassimpático, tranquilizante.
+
+[![tempodesaudecomplementar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglqWLNjnWqQd2D9n_U-1Uf4nOl4jNBMIa0hJ3DvAE8iqgoh7-TshpMJsBNNDrx_2KW1ErMt-DUVBBSAokL7ND8_uOsiAj0vvDEkrzleizCuwYXOLfqODWtcfoWLJddfvZxwlVdGLziRzE/w226-h320/Sistema+Nervoso+%25281%2529.jpg "tempodesaudecomplementar")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglqWLNjnWqQd2D9n_U-1Uf4nOl4jNBMIa0hJ3DvAE8iqgoh7-TshpMJsBNNDrx_2KW1ErMt-DUVBBSAokL7ND8_uOsiAj0vvDEkrzleizCuwYXOLfqODWtcfoWLJddfvZxwlVdGLziRzE/s1600/Sistema+Nervoso+%25281%2529.jpg)
+
+    A busca do **controle nervoso e emocional** pode estar ligado ao Sistema
+Nervoso Autônomo que controla nossos órgãos internos independente da nossa
+vontade.
+
+    Esse sistema está dividido em duas partes, o sistema nervoso simpático e
+parassimpático, que trabalham um em oposição ao outro. O simpático é estimulante
+e o parassimpático, tranquilizante. Na Medicina Chinesa é representando pelas
+energia Yin e Yang.
+
+O Sistema Nervoso Periférico é constituído pelos nervos e gânglios nervosos e sua função é conectar o sistema nervoso central às diversos órgãos do corpo.
+
+[![tempodesaudecomplementar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqrsTYZplbksazCwfCq8t8G3icqKREZiafmAFIbbfZd4ONrxcCMoXZZ3ZzqCKoMgEA6-lqE848uM3Lk1yp9YX75bmZSZsJd0ZBEwdpZz8pyDyO8p8f2TT5A7VDk2qbvCmaCl7Kjygq1vk/w320-h218/snp.jpg "tempodesaudecomplementar")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqrsTYZplbksazCwfCq8t8G3icqKREZiafmAFIbbfZd4ONrxcCMoXZZ3ZzqCKoMgEA6-lqE848uM3Lk1yp9YX75bmZSZsJd0ZBEwdpZz8pyDyO8p8f2TT5A7VDk2qbvCmaCl7Kjygq1vk/s600/snp.jpg)
+
+Esse canal de nervos e glânglios alimenta os órgãos e retroalimenta o sistema nervoso com informação do funcionamento orgânico e através disso ocorre a auto regulação que é chamada de homeostase.
+
+>     "Na Iridologia  isso pode ser visualizado, como  o sistema nervoso autônomo pode estar  influenciando o corpo."
+
+[![tempodesaudecomplementar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHk_Cw6xRKvwO804wm1zImb5vreQR3xAaKAaaHtdurivsqFnLZGOU5bFNe5-iqFPbiNO9N69Kmq-4qawkyGlmsy9E7rziyckIkcOlzTqZAsSUwblhva_vhQDwWYQqsGDS1zjAqVRJwB29s/s16000/10a.jpg "tempodesaudecomplementar")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHk_Cw6xRKvwO804wm1zImb5vreQR3xAaKAaaHtdurivsqFnLZGOU5bFNe5-iqFPbiNO9N69Kmq-4qawkyGlmsy9E7rziyckIkcOlzTqZAsSUwblhva_vhQDwWYQqsGDS1zjAqVRJwB29s/s218/10a.jpg)
+
+> "Nessa foto podemos observar a miose pupilar, onde podemos constatar através do questionário que essa pessoa sofre de stress e preocupações que causam um desequilíbrio nos ácidos e enzimas digestivas, provocando prisão de ventre."
+
+## Referências Bibliográticas
+
+LOW, Phillip. **Visão geral do sistema nervoso autônomo**. abr 2020. Disponível em: <https://www.msdmanuals.com/pt-br/profissional/dist%C3%BArbios-neurol%C3%B3gicos/sistema-nervoso-aut%C3%B4nomo/vis%C3%A3o-geral-do-sistema-nervoso-aut%C3%B4nomo>. Acesso em: 2 ago. 2021.
+
+LOW, Phillip. **Visão geral do sistema nervoso autônomo**. abr 2020. Disponível em: <https://www.msdmanuals.com/pt-br/casa/dist%C3%BArbios-cerebrais,-da-medula-espinal-e-dos-nervos/dist%C3%BArbios-do-sistema-nervoso-aut%C3%B4nomo/considera%C3%A7%C3%B5es-gerais-sobre-o-sistema-nervoso-aut%C3%B4nomo>. Acesso em: 2 ago. 2021.
+
+SANTOS, Vanessa Sardinha dos. **Homeostase**. 2021. Disponível em: <https://www.preparaenem.com/biologia/homeostase.htm>. Acesso em: 2 ago. 2021.
+
+DIANA, Juliana. **Sistema Nervoso Periférico**. Disponível em: <https://www.todamateria.com.br/sistema-nervoso-periferico/>. Acesso em: 2 ago. 2021.
+
+VASCONCELOS, Kath Freire de. **Contribuição da Iridologia no diagnóstico de mastite subclínica em caprinos**. 2012. 62 f. Dissertação (Mestrado) - Curso de Veterinária, Universidade Federal Rural de Pernambuco, Pernambuco, 2012. Disponível em: <http://www.tede2.ufrpe.br:8080/tede/bitstream/tede2/5723/2/Kath%20Freire%20de%20Vasconcelos.pdf>. Acesso em: 2 ago. 2021.
+
+IVAMOTO, Henrique S.. **Inervação pupilar**. 2014. Disponível em: <http://www.actamedica.org.br/publico/noticia.php?codigo=325&cod_menu=325>. Acesso em: 2 ago. 2021.
+
+**Quer citar meu artigo?**
+
+SILVÉRIO, Silviane de Souza. **Você sabe qual canal alimenta os órgãos?** 2021. Tempo de Saúde. Disponível em: https://tempodesaudecomplementar.blogspot.com/2021/07/voce-sabe-qual-canal-alimenta-os-orgaos.html. Acesso em: (aqui coloca a data que você acessou).
+
+#oqueeiridologia, #iridologiafunciona, #iridologiatemcomprovacaocientifica, #vocesabeparaqueserveiridologia, #iridologiasoftware, #olharrevelador, #olhosjanelasdaalma, #irisdiagnose, #microsemioticairidea, #funcionamedicinadosolhos, #iridologiaeespiritismo, #irdologiaemocional, #iridologiaondeencontrar, #iridologiaeconfiavel, #iridologiabiblia, #iridlogiasignifica
