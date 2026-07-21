@@ -153,3 +153,9 @@ sitemap: false
     max-height: 250px;
   }
 }
+/* Ocultar barra feia do Google Translate e ajustar design */
+.goog-te-banner-frame { display: none !important; }
+body { top: 0px !important; }
+.goog-logo-link { display: none !important; }
+.goog-te-gadget { color: transparent !important; font-size: 0px; }
+.goog-te-gadget .goog-te-combo { color: #333 !important; font-size: 14px; padding: 4px; border-radius: 4px; }
