@@ -76,12 +76,13 @@ sitemap: false
 }
 
 /* Forçar imagem de perfil / logo a ser redonda e pequena no header */
-.site-logo {
+.site-logo-img {
   border-radius: 50% !important;
-  object-fit: cover;
-  width: 60px;
-  height: 60px;
+  object-fit: cover !important;
+  width: 70px !important;
+  height: 70px !important;
   margin-right: 15px;
+  display: inline-block;
 }
 
 /* Melhoria no Layout da Lista de Posts (Blog Feed) */
