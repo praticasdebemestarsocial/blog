@@ -11,47 +11,50 @@ sitemap: false
 .site-nav .dropdown {
   position: relative;
 }
-.site-nav .dropdown-menu {
-  display: none !important;
+/* This invisible block guarantees the mouse won't fall off */
+.site-nav .dropdown > a::after {
+  content: '';
   position: absolute;
   top: 100%;
   left: 0;
-  margin: 0 !important;
-  /* Bridge the gap seamlessly using padding instead of pseudo-elements */
-  padding: 25px 0 0 0 !important; 
-  background: transparent !important;
-  box-shadow: none !important;
-  border: none !important;
-  min-width: 280px;
-  z-index: 9999;
+  width: 100%;
+  height: 35px; /* bridges the gap over the black bar */
+  background: transparent;
 }
-/* The list items act as the visible white box */
+.site-nav .dropdown-menu {
+  display: none !important;
+  position: absolute;
+  top: calc(100% + 25px); /* Appears right below the black bar */
+  left: 0;
+  margin: 0 !important;
+  padding: 0 !important; 
+  background-color: #ffffff !important;
+  opacity: 1 !important; /* Force opacity to fix transparency bug */
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.25) !important;
+  border: 1px solid #dddddd !important;
+  border-radius: 6px !important;
+  min-width: 280px;
+  z-index: 2147483647 !important; /* Max z-index to stay on top of everything */
+}
+/* The list items */
 .site-nav .dropdown-menu li {
   display: block !important;
   margin: 0 !important;
   padding: 0 !important;
-  background: #ffffff !important; /* solid white background to prevent transparency */
-  border-left: 1px solid #e0e0e0 !important;
-  border-right: 1px solid #e0e0e0 !important;
+  background-color: #ffffff !important;
+  opacity: 1 !important;
+  border: none !important; 
   border-bottom: 1px solid #eeeeee !important;
   border-radius: 0 !important;
   box-shadow: none !important;
 }
-.site-nav .dropdown-menu li:first-child {
-  border-top-left-radius: 6px !important;
-  border-top-right-radius: 6px !important;
-  border-top: 1px solid #e0e0e0 !important;
-  box-shadow: 0px -4px 10px rgba(0,0,0,0.05) !important;
-}
 .site-nav .dropdown-menu li:last-child {
-  border-bottom: 1px solid #e0e0e0 !important;
-  border-bottom-left-radius: 6px !important;
-  border-bottom-right-radius: 6px !important;
-  box-shadow: 0px 8px 16px rgba(0,0,0,0.2) !important;
+  border-bottom: none !important;
 }
 .site-nav .dropdown-menu li a {
   color: #333333 !important;
-  background: transparent !important;
+  background-color: transparent !important;
+  opacity: 1 !important;
   padding: 12px 16px !important;
   font-size: 0.85em !important;
   text-transform: none !important;
@@ -65,7 +68,7 @@ sitemap: false
   display: block !important;
 }
 .site-nav .dropdown-menu li a:hover {
-  background: #f4f4f4 !important;
+  background-color: #f4f4f4 !important;
   color: #000000 !important;
 }
 .site-nav .dropdown:hover .dropdown-menu {
