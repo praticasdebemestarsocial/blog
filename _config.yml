@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Silviane Silvério"
-description: "Práticas Integrativas e Complementares e Tecnologias de Bem-estar Social, Desenvolvimento humano, existêncial e de propósito."
+description: "O mais completo blog de Práticas Integrativas e Bem-Estar Social embasado cientificamente."
 copyright: "<p>&copy; 2026 Silviane Silvério. Todos os direitos reservados.</p>"
 baseurl: "/blog" # the subpath of your site, e.g. "/blog"
 url: "https://praticasdebemestarsocial.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
