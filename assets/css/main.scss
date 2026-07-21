@@ -11,44 +11,43 @@ sitemap: false
 .site-nav .dropdown {
   position: relative;
 }
-/* A ponte invisível para o mouse não cair */
-.site-nav .dropdown::after {
-  content: '';
-  position: absolute;
-  top: 100%;
-  left: 0;
-  width: 100%;
-  height: 20px;
-  background: transparent;
-  display: block;
-  z-index: 9998;
-}
 .site-nav .dropdown-menu {
   display: none !important;
   position: absolute;
-  top: calc(100% + 20px); /* Começa exatamente onde a ponte termina */
+  top: 100%;
   left: 0;
-  margin-top: 0 !important;
-  background-color: #ffffff !important;
-  min-width: 280px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2) !important;
-  z-index: 9999;
-  padding: 0 !important;
-  border: 1px solid #e0e0e0 !important;
-  border-radius: 4px !important;
-}
-.site-nav .dropdown-menu li {
-  display: block !important;
-  border: none !important; /* Overrides theme's button borders */
-  border-bottom: 1px solid #eeeeee !important;
-  border-radius: 0 !important;
   margin: 0 !important;
-  padding: 0 !important;
+  /* Bridge the gap seamlessly using padding instead of pseudo-elements */
+  padding: 25px 0 0 0 !important; 
   background: transparent !important;
   box-shadow: none !important;
+  border: none !important;
+  min-width: 280px;
+  z-index: 9999;
+}
+/* The list items act as the visible white box */
+.site-nav .dropdown-menu li {
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: #ffffff !important; /* solid white background to prevent transparency */
+  border-left: 1px solid #e0e0e0 !important;
+  border-right: 1px solid #e0e0e0 !important;
+  border-bottom: 1px solid #eeeeee !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+.site-nav .dropdown-menu li:first-child {
+  border-top-left-radius: 6px !important;
+  border-top-right-radius: 6px !important;
+  border-top: 1px solid #e0e0e0 !important;
+  box-shadow: 0px -4px 10px rgba(0,0,0,0.05) !important;
 }
 .site-nav .dropdown-menu li:last-child {
-  border-bottom: none !important;
+  border-bottom: 1px solid #e0e0e0 !important;
+  border-bottom-left-radius: 6px !important;
+  border-bottom-right-radius: 6px !important;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2) !important;
 }
 .site-nav .dropdown-menu li a {
   color: #333333 !important;
@@ -63,9 +62,10 @@ sitemap: false
   border-radius: 0 !important;
   margin: 0 !important;
   box-shadow: none !important;
+  display: block !important;
 }
 .site-nav .dropdown-menu li a:hover {
-  background-color: #f4f4f4 !important;
+  background: #f4f4f4 !important;
   color: #000000 !important;
 }
 .site-nav .dropdown:hover .dropdown-menu {
