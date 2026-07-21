@@ -22,7 +22,7 @@ description: "Práticas Integrativas e Complementares e Tecnologias de Bem-estar
 copyright: "<p>&copy; 2026 Silviane Silvério. Todos os direitos reservados.</p>"
 baseurl: "/blog" # the subpath of your site, e.g. "/blog"
 url: "https://praticasdebemestarsocial.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/assets/img/posts/euu.jpg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -93,7 +93,7 @@ defaults:
 # Site Author
 author:
   name: "Silviane Silvério"
-  picture:
+  picture: "/assets/img/posts/euu.jpg"
   email:
   twitter:
   links:

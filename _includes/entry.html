@@ -33,7 +33,7 @@
   {% if page.show_excerpts == true %}
     <div class="entry-excerpt p-summary">
       {% if entry.excerpt %}
-        {{ entry.excerpt | markdownify }}
+        {{ entry.excerpt | markdownify | strip_html | truncate: 100 }}
       {% endif %}
     </div>
   {% endif %}
