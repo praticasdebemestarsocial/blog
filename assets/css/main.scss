@@ -74,3 +74,72 @@ sitemap: false
 .site-nav .dropdown:hover .dropdown-menu {
   display: block !important;
 }
+
+/* Melhoria no Layout da Lista de Posts (Blog Feed) */
+.entries-list .entry {
+  display: grid;
+  grid-template-areas: 
+    "image title"
+    "image meta"
+    "image excerpt";
+  grid-template-columns: 250px 1fr;
+  grid-template-rows: auto auto 1fr;
+  gap: 10px 25px;
+  margin-bottom: 2.5rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid #eaeaea;
+}
+
+/* O header do entry precisa ser 'contents' para a imagem e titulo entrarem no grid principal */
+.entries-list .entry-header {
+  display: contents;
+}
+
+.entries-list .entry-image {
+  grid-area: image;
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 0;
+}
+
+.entries-list .entry-title {
+  grid-area: title;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+.entries-list .entry-meta {
+  grid-area: meta;
+  margin-top: 0;
+  font-size: 0.85rem;
+  color: #777;
+}
+
+.entries-list .entry-excerpt {
+  grid-area: excerpt;
+  margin-top: 0;
+  color: #444;
+}
+
+/* Responsivo para celulares (coloca a imagem em cima do titulo) */
+@media (max-width: 768px) {
+  .entries-list .entry {
+    grid-template-areas: 
+      "image"
+      "title"
+      "meta"
+      "excerpt";
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  
+  .entries-list .entry-image {
+    height: auto;
+    max-height: 250px;
+  }
+}
