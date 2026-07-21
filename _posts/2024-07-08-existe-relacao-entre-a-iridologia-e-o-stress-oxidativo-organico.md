@@ -5,6 +5,7 @@ date: 2024-07-08T19:56:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Existe relação entre a Iridologia e o stress oxidativo orgânico?"
+image: "https://i.ibb.co/Rpx0N7qj/4bed1b00cea2.png"
 ---
 
 ![](https://i.ibb.co/Rpx0N7qj/4bed1b00cea2.png)

@@ -5,6 +5,7 @@ date: 2024-02-16T00:01:00.005Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem é o professor Clodoaldo Pacheco? O arquiteto da Microsemiótica Irídea no Brasil"
+image: "https://i.ibb.co/pj0znfPJ/e704626181d1.png"
 ---
 
 ![](https://i.ibb.co/pj0znfPJ/e704626181d1.png)

@@ -5,6 +5,7 @@ date: 2024-01-15T20:30:00.009Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O Que a Iridologia Pode Revelar Sobre Sua Saúde?"
+image: "https://i.ibb.co/WW81MDHd/da9910399416.jpg"
 ---
 
 ## 

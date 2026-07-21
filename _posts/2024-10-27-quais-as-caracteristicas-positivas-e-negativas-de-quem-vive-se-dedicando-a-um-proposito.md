@@ -5,6 +5,7 @@ date: 2024-10-27T00:22:00.003Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "Autoconhecimento e Propósito:"
+image: "https://i.ibb.co/dN2Tdhy/7dca40d1a98f.png"
 ---
 
 ![](https://i.ibb.co/dN2Tdhy/7dca40d1a98f.png)

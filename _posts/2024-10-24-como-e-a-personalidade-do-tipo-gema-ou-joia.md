@@ -5,6 +5,7 @@ date: 2024-10-24T18:17:00.005Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "As  personalidades segundo o método rayid é uma avaliação que é realizada segundo o seu biotipo irídeo."
+image: "https://i.ibb.co/hJStMHvy/8543a75db080.png"
 ---
 
 ![](https://i.ibb.co/hJStMHvy/8543a75db080.png)

@@ -5,6 +5,7 @@ date: 2024-04-11T05:18:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Há diversos fatores que prejudicam a saúde, como hábitos inadequados, estresse e"
+image: "https://i.ibb.co/W44txmDw/94f8d6934e27.png"
 ---
 
 ![](https://i.ibb.co/W44txmDw/94f8d6934e27.png)

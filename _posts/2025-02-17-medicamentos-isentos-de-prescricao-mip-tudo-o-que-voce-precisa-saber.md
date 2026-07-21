@@ -5,6 +5,7 @@ date: 2025-02-17T01:38:00.006Z
 tags: ["fitoterapia"]
 categories: ["bem-estar"]
 description: ".png).png)"
+image: "https://i.ibb.co/3Y48RyFX/2a57a71ddcac.png"
 ---
 
 ![](https://i.ibb.co/3Y48RyFX/2a57a71ddcac.png).png).png)

@@ -5,6 +5,7 @@ date: 2025-08-01T18:57:00.005Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Henry Edward Lane:"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpgGfyLPJdE1VZ6BP0k44LCLmZiyA15rgnPE71ySltwyh5a6-6QvBJ1RKm8D4fEu1hRPp1RS8F5olsubrDBRz-1euxIYSD9skkZqsJj_sToELOQbkTJsOrBD7rcmBiJnHSLfj2lIBOvL2ZPXQi8aotfYXLfkNirJbeO9kHTuGb4magVX1G1HgS1Efx8XI/s320/Screenshot_18.jpg"
 ---
 
 ## Henry Edward Lane:
@@ -94,7 +95,7 @@ Lindlahr, discípulo de Lane, ampliou a aplicação da iridologia, integrando-a 
 naturopatia e outras abordagens holísticas. Essa continuidade demonstra o
 impacto duradouro das ideias de Lane na medicina complementar.
 
-![](https://i.ibb.co/qY2p70rz/1a52aedb7d61.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpgGfyLPJdE1VZ6BP0k44LCLmZiyA15rgnPE71ySltwyh5a6-6QvBJ1RKm8D4fEu1hRPp1RS8F5olsubrDBRz-1euxIYSD9skkZqsJj_sToELOQbkTJsOrBD7rcmBiJnHSLfj2lIBOvL2ZPXQi8aotfYXLfkNirJbeO9kHTuGb4magVX1G1HgS1Efx8XI/s320/Screenshot_18.jpg)
 
   
 

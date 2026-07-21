@@ -5,6 +5,7 @@ date: 2025-02-26T01:49:00.007Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: ".png).png)"
+image: "https://i.ibb.co/mCLhfwb4/dd05b6ca1f69.png"
 ---
 
 ![](https://i.ibb.co/mCLhfwb4/dd05b6ca1f69.png).png).png)

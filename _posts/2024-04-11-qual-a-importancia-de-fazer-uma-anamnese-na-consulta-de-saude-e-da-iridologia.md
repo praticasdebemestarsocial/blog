@@ -5,6 +5,7 @@ date: 2024-04-11T05:28:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Qual a importância de fazer uma anamnese na consulta de saúde e da Iridologia?"
+image: "https://i.ibb.co/BSLVmBb/df5aef9c7c14.png"
 ---
 
 ![](https://i.ibb.co/BSLVmBb/df5aef9c7c14.png)

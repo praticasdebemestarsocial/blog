@@ -5,6 +5,7 @@ date: 2024-07-10T07:40:00.001Z
 tags: ["dietoterapia"]
 categories: ["bem-estar"]
 description: "Qual a Importância da boa mastigação?"
+image: "https://i.ibb.co/Z9LtJjY/67d5cbd6feec.png"
 ---
 
 ![](https://i.ibb.co/Z9LtJjY/67d5cbd6feec.png)

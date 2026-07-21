@@ -5,6 +5,7 @@ date: 2025-02-13T08:22:00.019Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem é a  Toni Miller é uma renomada especialista em iridologia?"
+image: "https://i.ibb.co/vphK4NT/4c552a922b5f.png"
 ---
 
 ![](https://i.ibb.co/vphK4NT/4c552a922b5f.png)
@@ -124,13 +125,13 @@ Toni Miller, [Leonard Mehlmauer](https://tecnologiasdoautoconhecimento.blogspot.
 
   
 
-![](https://i.ibb.co/BX4MNs1/c9fdddb2352e.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEignzssp5x8nQkyVAFAOHuRWkemRTsh1KnHGvIPcMiEJUNMq9ihv-GlE1MuRaJIft1-ouEIEloFYDzzliHKA-wEt_LlMYCWKEeHC6RGnWKCNXh8boE48ZZoQJgt0RKDNDMoI-0ErMXyvwRx6QzDUAJZfzKhZiKGzqO0eVzc_8ViapHIaItNggR_qyToHlA/s320/Screenshot_44.jpg)
 
 [Daniele Lo Ritto](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/quem-e-daniele-lo-rito.html) e Toni Miller
 
   
 
-![](https://i.ibb.co/VWMtkcfY/9f3247934715.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2bOhVglQGdDDQT7MOXbp9C3itTRAFsTB7oCB9gA13JfF_AhB_bBY5RsLIZudsyyZAcpaR8mAjCFj-YuS4VjSBa_U1rxdJdPVOorRJxls00uudsUpHgzbwjCZPmlS8CvbnvRQN3j-G6CbVT2NsXAIyBSGwfyb1q8UlL2M1bST6P_Y2QqEwCm9uNDUcZxo/s320/Screenshot_45.jpg)
 
 [Denny Jonhson](https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/quem-e-denny-johnson-o-criador-do.html) e Toni Miller
 
@@ -174,7 +175,7 @@ e pacientes. Sua abordagem integrativa e seu compromisso com a pesquisa e a
 educação a tornam uma das vozes mais respeitadas e influentes na área da
 iridologia.
 
-![](https://i.ibb.co/5mjgMZ1/0718ac3b785c.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuNXOtCn1ARPxgKS5WYSXnxAsZSKA9NSdYEMZCzVk4CAS3fi8ORsCErWrgP-yq3Et2bEPJW1PQhCwW__S6X4jDhzvZs2DWIvU93R1527n72cbCQFAwnGvc6qUubPER7rGeZdYHkJPK6PDttW-C6YTa1kxLTCGZ2_107MvcS5c4bCe0HIPP8914d0rhj-4/s320/9780980546903.jpg)
 
   
 
@@ -182,7 +183,7 @@ iridologia.
 qual ela apresenta sua abordagem única para a iridologia, combinando métodos
 tradicionais e modernos para interpretação da íris.
 
-![](https://i.ibb.co/67LhZtVp/d55c493f7358.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYcep0PAirJ1h5N8bcLXizqywdc8zERp0bp-Cr8Ipr5rGm9V8S_WgXsCxb9D4EFWVemXVXMwyccFYlh6BBh3N9wFnuEKhWTmNcKEIGat7tMYIIRdk4Sl25pYgJ0YxcLKaRM7o64JQrrrpAFiNS4cX57N4Ix0RS_-4zbtCi7tyvnWrWZQpKhgvXMnmQFJE/s320/Screenshot_20.jpg)
 
 ### Referências Bibliográficas:
 

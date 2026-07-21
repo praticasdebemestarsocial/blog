@@ -5,6 +5,7 @@ date: 2024-01-14T09:09:00.005Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "1- O que é o Instituto Internacional de Olhodiagnose e Saúde Integral?"
+image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgMP1XjrZE05vIwrTAEug06HSFZaf6to13_Ifexhk6AH2XWDJ8HwAI2nVwqqn5x8aCJgc&usqp=CAU"
 ---
 
 ## 1- O que é o Instituto Internacional de Olhodiagnose e Saúde Integral?

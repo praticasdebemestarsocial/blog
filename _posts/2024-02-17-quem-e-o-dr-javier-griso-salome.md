@@ -5,6 +5,7 @@ date: 2024-02-17T05:16:00.003Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Tempo estimado de leitura: 3 minutos"
+image: "https://i.ibb.co/tMPg14tg/344e30e7dc30.png"
 ---
 
 ![](https://i.ibb.co/tMPg14tg/344e30e7dc30.png)

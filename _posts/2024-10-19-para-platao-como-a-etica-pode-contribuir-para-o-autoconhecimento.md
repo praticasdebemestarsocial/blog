@@ -5,6 +5,7 @@ date: 2024-10-19T03:27:00.005Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
 description: "Platão: A Ética e o Mundo das Ideias"
+image: "https://i.ibb.co/kLKQCg1/c89ca0ce8a95.png"
 ---
 
 ![](https://i.ibb.co/kLKQCg1/c89ca0ce8a95.png)

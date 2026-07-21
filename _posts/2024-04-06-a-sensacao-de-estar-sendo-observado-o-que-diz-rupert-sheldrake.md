@@ -5,6 +5,7 @@ date: 2024-04-06T08:38:00.004Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "A Sensação de Estar Sendo Observado: O Que Diz Rupert Sheldrake?"
+image: "https://i.ibb.co/7xzf732S/3e3aa1f15bcf.png"
 ---
 
 ![](https://i.ibb.co/7xzf732S/3e3aa1f15bcf.png)

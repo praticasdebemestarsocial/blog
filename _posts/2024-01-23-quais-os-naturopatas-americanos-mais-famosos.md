@@ -5,6 +5,7 @@ date: 2024-01-23T02:13:00.007Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Conhecendo os  Naturopatas Americanos mais famosos"
+image: "https://i.ibb.co/KjHF4KWL/91616d6472f1.png"
 ---
 
 # Conhecendo os  Naturopatas Americanos mais famosos

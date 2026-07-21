@@ -5,6 +5,7 @@ date: 2024-04-04T21:20:00.009Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Sun Simiao e a visão chinesa dos olhos: existe iridologia na Medicina Tradicional Chinesa?"
+image: "https://i.ibb.co/s9wZ8Jtm/ef3fe103f939.jpg"
 ---
 
 ## 

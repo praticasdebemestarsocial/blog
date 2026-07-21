@@ -5,6 +5,7 @@ date: 2025-02-14T06:19:00.006Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Reflexologia Ocular: A Conexão Entre Iridologia e Esclerologia"
+image: "https://i.ibb.co/7Nknc9R7/6801da55a3f2.png"
 ---
 
 ![](https://i.ibb.co/7Nknc9R7/6801da55a3f2.png)

@@ -5,6 +5,7 @@ date: 2024-01-14T08:41:00.002Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "1- O que é o Instituto Grand Medicine?"
+image: "https://i.ibb.co/ycvFRwZv/a0e455f9113f.png"
 ---
 
 ## 1- O que é o Instituto Grand Medicine?

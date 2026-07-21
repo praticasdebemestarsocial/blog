@@ -5,6 +5,7 @@ date: 2024-04-11T07:07:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Iridologia seja uma ferramenta poderosa muito utilizada por terapeutas,"
+image: "https://i.ibb.co/wZ1SjLMR/c1c1b1080da9.png"
 ---
 
 ![](https://i.ibb.co/wZ1SjLMR/c1c1b1080da9.png)

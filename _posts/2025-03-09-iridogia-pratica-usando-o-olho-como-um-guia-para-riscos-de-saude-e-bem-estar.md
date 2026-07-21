@@ -5,6 +5,7 @@ date: 2025-03-09T22:46:00.003Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: ""Iridologia Prática: Descubra os Segredos da Saúde Através dos Olhos com Peter Jackson-Main""
+image: "https://i.ibb.co/p65rrPH3/326add028526.png"
 ---
 
 ![](https://i.ibb.co/p65rrPH3/326add028526.png)

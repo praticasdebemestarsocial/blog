@@ -5,6 +5,7 @@ date: 2024-04-11T05:15:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Quais os mitos da Iridologia? Não acredite nisso!"
+image: "https://i.ibb.co/9HmW843q/b9ebca922196.png"
 ---
 
 ![](https://i.ibb.co/9HmW843q/b9ebca922196.png)

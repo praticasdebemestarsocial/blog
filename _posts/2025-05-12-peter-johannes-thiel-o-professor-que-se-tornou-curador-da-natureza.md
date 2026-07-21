@@ -5,6 +5,7 @@ date: 2025-05-12T14:16:00.002Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Peter Johannes Thiel: O Mestre da Íris e da Natureza"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-kkRC3mV9Ma3XJTBseW4ntyJsxQT7DdLqKpK-i1j0d30ffzxjh19_5HJJjBifQeYOWgAUphFbhEfxvr5dApRsDdkxaJhdsTC6VA2u73szZs06XZjyE7bQw2Q9pnHLaLJof6fH_ucjUVOQHdATUn8Fnq4cD2IZvj6qcFPd_jh_OfverQZCsI2jDOLpCY/s320/Screenshot_12.jpg"
 ---
 
 # **Peter Johannes Thiel: O Mestre da Íris e da Natureza**
@@ -58,7 +59,7 @@ de quem herdou parte da base terapêutica naturopática que viria a desenvolver.
 
 > Thiel destacou-se especialmente por suas observações sobre o **arco senil**, também conhecido como anel de hipo-oxigenação cerebral, associando-o à má circulação e oxigenação na região cerebral. Além disso, **pioneirizou o estudo da pupila**, propôs a subdivisão da íris em zonas concêntricas e elaborou gráficos pictóricos para facilitar o ensino e a prática da iridologia.
 
-![](https://i.ibb.co/KzRYDj86/9b2dc5d1f705.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-kkRC3mV9Ma3XJTBseW4ntyJsxQT7DdLqKpK-i1j0d30ffzxjh19_5HJJjBifQeYOWgAUphFbhEfxvr5dApRsDdkxaJhdsTC6VA2u73szZs06XZjyE7bQw2Q9pnHLaLJof6fH_ucjUVOQHdATUn8Fnq4cD2IZvj6qcFPd_jh_OfverQZCsI2jDOLpCY/s320/Screenshot_12.jpg)
 
   
 > Em 1925, publicou sua obra-prima, ***Die Augendiagnose***, (A dignose ocular: Grande crítica histórica) um extenso compêndio onde relacionou sinais oculares com disfunções orgânicas, emocionais e neurológicas. 
@@ -71,7 +72,7 @@ No ano seguinte, em 1926, mudou-se para **Bad-Schandau**, na Saxônia, onde
 fundou a **Villa Thiel**, uma grande casa que se tornou centro de convivência,
 ensino e cura.
 
-![](https://i.ibb.co/MkB06wYp/dd4c4ad5bc3f.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrOSOKGY6j4kLlPGnawlegoX300CoGHLsp_pGppV3tqczttwHomnOlH-8K8A68o7SHa8wZzNFmYYiQDBbBotNfJ0x-WrSi-cACRw0N2Ag2AfUO3fZNjXg17AhrhP111ZdHDUdSQsalHCZpVuSYwaQXkAM2VtuBs9GTRyf5BN1xzy1s0XcXj2CqT87gt6o/s320/Screenshot_14.jpg)
 
 Lá, ministrava cursos, acolhia alunos de toda a Alemanha e recebia sua própria
 família. Um desses cursos, realizado entre 15 e 26 de março de 1926, terminou
@@ -98,7 +99,7 @@ Além de *Die Augendiagnose*, escreveu outros livros como ***Die Odopathie*** e
 Suas obras foram traduzidas para o inglês e ajudaram a **disseminar a iridologia
 também nas Américas**, onde é reconhecido como um dos precursores da prática.
 
-![](https://i.ibb.co/DgHQrbL8/7cbd32c75d77.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5gam80Ycu-WAv9V8zU9e1rn-QkvRDKs0aGIfNOfW5I0vDLgpyYeXFnXLfZv_DuZ-2Iz2jU-gpPw6SG9pePe82KYjJnB9S__-JmpBfDIl2QXcyEyMR4oAIAZpGLYGhGV0kiEXfjr0g8rh0stL4AT-1BOEyrotbuBwMY7C74voQpttuPwEjuvlz9SWs_44/s320/Screenshot_11.jpg)
 
   
 

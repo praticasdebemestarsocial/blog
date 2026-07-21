@@ -5,6 +5,7 @@ date: 2024-01-13T00:57:00.012Z
 tags: ["metafísica"]
 categories: ["bem-estar"]
 description: "O Holograma Humano e a Iridologia Integrada: Uma Visão Holística da Saúde"
+image: "https://i.ibb.co/tTbXTP8X/8c627e2b565f.png"
 ---
 
 ![](https://i.ibb.co/tTbXTP8X/8c627e2b565f.png)  

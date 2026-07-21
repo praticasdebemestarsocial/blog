@@ -5,6 +5,7 @@ date: 2024-04-11T06:28:00.005Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: ".png).png)"
+image: "https://i.ibb.co/LhB8zQDz/f8f05b488070.png"
 ---
 
 ![](https://i.ibb.co/LhB8zQDz/f8f05b488070.png).png).png)

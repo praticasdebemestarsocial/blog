@@ -5,6 +5,7 @@ date: 2024-07-05T03:52:00.004Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem é o professor John Andrews?A Iridologia na Inglaterra. Autora: Silviane Silvério Data: 13 de outubro de 2025 Tempo médio de leitura: 2 minutos Pa..."
+image: "https://i.ibb.co/tTPSRjbF/7d3dc58acf37.png"
 ---
 
 ![](https://i.ibb.co/tTPSRjbF/7d3dc58acf37.png)

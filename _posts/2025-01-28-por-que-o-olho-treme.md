@@ -5,6 +5,7 @@ date: 2025-01-28T04:38:00.009Z
 tags: ["anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "O tremor nos olhos, também chamado de mioquimia palpebral, é uma situação que pode ocorrer normalmente com a maioria das pessoas por conta de  algum m..."
+image: "https://i.ibb.co/6JcGXYH8/2557cfc57640.png"
 ---
 
 ![](https://i.ibb.co/6JcGXYH8/2557cfc57640.png)

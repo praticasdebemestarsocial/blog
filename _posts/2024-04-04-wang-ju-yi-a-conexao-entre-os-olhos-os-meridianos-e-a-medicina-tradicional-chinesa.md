@@ -5,6 +5,7 @@ date: 2024-04-04T21:38:00.008Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Wang Ju-Yi: A Conexão Entre os Olhos, os Meridianos e a Medicina Tradicional Chinesa"
+image: "https://i.ibb.co/DD7cfc7L/a9d9f53b6436.png"
 ---
 
 ![](https://i.ibb.co/DD7cfc7L/a9d9f53b6436.png)

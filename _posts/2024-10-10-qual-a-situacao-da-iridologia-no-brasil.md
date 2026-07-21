@@ -5,6 +5,7 @@ date: 2024-10-10T13:04:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Olá amigos sejam bem-vindos aqui a esse canal meu nome é silvian silvel eu sou"
+image: "https://i.ibb.co/Sw1m4Xx7/bdd2689bff23.png"
 ---
 
 ![](https://i.ibb.co/Sw1m4Xx7/bdd2689bff23.png)

@@ -5,6 +5,7 @@ date: 2024-07-04T21:09:00.002Z
 tags: ["história da iridologia"]
 categories: ["bem-estar"]
 description: "O que é o Papiros de Ebers?"
+image: "https://i.ibb.co/TQM2Qfr/d7104282f33c.png"
 ---
 
 ## O que é o Papiros de Ebers?

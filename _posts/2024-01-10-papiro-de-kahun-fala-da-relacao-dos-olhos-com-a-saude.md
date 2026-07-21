@@ -5,6 +5,7 @@ date: 2024-01-10T08:15:00.012Z
 tags: ["história da iridologia"]
 categories: ["bem-estar"]
 description: "O Papiro de Kahun: Uma Visão Antiga sobre Saúde e a Relação com os Olhos Autora: Silviane Silverío, Naturóloga e Biomédica"
+image: "https://i.ibb.co/tp8jcZCx/db1c743f6eae.png"
 ---
 
 ![](https://i.ibb.co/tp8jcZCx/db1c743f6eae.png)

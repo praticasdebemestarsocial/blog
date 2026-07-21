@@ -5,6 +5,7 @@ date: 2025-03-09T08:36:00.008Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: ""As Bases da Iridologia Alemã: A Herança Científica e Artística do Dr. Celso Battello""
+image: "https://i.ibb.co/TDzFKY2m/dd23d6bfeca8.png"
 ---
 
 ![](https://i.ibb.co/TDzFKY2m/dd23d6bfeca8.png)

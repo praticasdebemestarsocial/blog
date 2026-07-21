@@ -5,6 +5,7 @@ date: 2024-04-07T07:15:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O que seus olhos podem dizer para você?"
+image: "https://i.ibb.co/4RThF4hC/f6fcf30e2d51.jpg"
 ---
 
 ![](https://i.ibb.co/4RThF4hC/f6fcf30e2d51.jpg)

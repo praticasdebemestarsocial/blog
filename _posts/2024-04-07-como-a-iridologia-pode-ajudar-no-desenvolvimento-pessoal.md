@@ -5,6 +5,7 @@ date: 2024-04-07T07:30:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Como a Iridologia pode ajudar no desenvolvimento pessoal?"
+image: "https://i.ibb.co/39c97sNx/d682a7358749.jpg"
 ---
 
 ![](https://i.ibb.co/39c97sNx/d682a7358749.jpg)

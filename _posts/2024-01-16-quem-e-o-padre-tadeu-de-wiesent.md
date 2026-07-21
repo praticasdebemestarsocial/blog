@@ -5,6 +5,7 @@ date: 2024-01-16T05:55:00.004Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem é o Padre Tadeu de Wiesent?"
+image: "https://i.ibb.co/1tt4wQNW/22cefd63a46e.png"
 ---
 
 ![](https://i.ibb.co/1tt4wQNW/22cefd63a46e.png)

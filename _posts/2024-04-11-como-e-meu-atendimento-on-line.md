@@ -5,6 +5,7 @@ date: 2024-04-11T05:25:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "🎥 Vídeo incorporado(https://www.youtube.com/embed/v9NCemdCG0)(https://www.youtube.com/embed/v9NCemdCG0)"
+image: "https://i.ibb.co/fVkXNJ37/ceb083542220.png"
 ---
 
 [🎥 [Vídeo incorporado](https://www.youtube.com/embed/_v9NCemdCG0)](https://www.youtube.com/embed/_v9NCemdCG0)

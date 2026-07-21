@@ -5,6 +5,7 @@ date: 2024-07-10T05:54:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Iridologia oferece insights do bem estar?"
+image: "https://i.ibb.co/NnKmm03h/3c0eb57f9fcc.png"
 ---
 
 ![](https://i.ibb.co/NnKmm03h/3c0eb57f9fcc.png)

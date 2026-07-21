@@ -5,6 +5,7 @@ date: 2024-01-12T23:31:00.007Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Iridologia: Uma Ferramenta Poderosa na Prevenção e Promoção da Saúde"
+image: "https://i.ibb.co/YTwz3dvf/0202c51a050a.jpg"
 ---
 
 ![](https://i.ibb.co/YTwz3dvf/0202c51a050a.jpg)

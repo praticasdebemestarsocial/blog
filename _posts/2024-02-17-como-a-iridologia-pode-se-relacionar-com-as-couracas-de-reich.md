@@ -5,6 +5,7 @@ date: 2024-02-17T01:47:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Como a Iridologia pode se relacionar com as couraças de Reich?"
+image: "https://i.ibb.co/Jw0hHPcV/849cad48171d.jpg"
 ---
 
 ## Como a Iridologia pode se relacionar com as couraças de Reich?

@@ -5,6 +5,7 @@ date: 2024-01-09T03:43:00.019Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Saber a nossa personalidade é importante para o autoconhecimento?"
+image: "https://i.ibb.co/Fkby8qw7/a48ab6444ba9.jpg"
 ---
 
 ## 

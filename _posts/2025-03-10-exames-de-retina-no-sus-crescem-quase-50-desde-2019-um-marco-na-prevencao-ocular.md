@@ -5,9 +5,10 @@ date: 2025-03-10T03:17:00.004Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: ".png).png)"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitdnNoINGzrhn1n3P4U1XWJ1Ep8pl1swZXfd0q-2XLXb8JOATc3MoZwT0d14lOtiTUG1NfckrO3P2HdQTEo7iObK4JlMabeU0C-8Dc8eFHyjTsQbOReBmd4Ri5kdokiC95Mr46khI0J8dQcl4GNR_VNUZtgQFoIMnLN6iMX-fh5YcxZoEfdHlT4vzK7pA/w637-h358/_Exames_de_Retina_no_SUS_Crescem_Quase_50%25_Desde_2019_Um_Marco_na_Preven%C3%A7%C3%A3o_Ocular%20(1"
 ---
 
-![](https://i.ibb.co/gLw31qSX/59e80e3b501a.png).png).png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitdnNoINGzrhn1n3P4U1XWJ1Ep8pl1swZXfd0q-2XLXb8JOATc3MoZwT0d14lOtiTUG1NfckrO3P2HdQTEo7iObK4JlMabeU0C-8Dc8eFHyjTsQbOReBmd4Ri5kdokiC95Mr46khI0J8dQcl4GNR_VNUZtgQFoIMnLN6iMX-fh5YcxZoEfdHlT4vzK7pA/w637-h358/_Exames_de_Retina_no_SUS_Crescem_Quase_50%25_Desde_2019_Um_Marco_na_Preven%C3%A7%C3%A3o_Ocular%20(1).png).png)
 
   
 

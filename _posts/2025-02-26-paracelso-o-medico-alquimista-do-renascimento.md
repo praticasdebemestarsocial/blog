@@ -5,6 +5,7 @@ date: 2025-02-26T09:39:00.026Z
 tags: ["metafísica"]
 categories: ["bem-estar"]
 description: "Paracelso, também conhecido como Philippus Aureolus Theophrastus Bombastus von Hohenheim, foi um médico e alquimista do Renascimento que fez contribui..."
+image: "https://i.ibb.co/5hgkpzfL/8065400949e0.png"
 ---
 
 ![](https://i.ibb.co/5hgkpzfL/8065400949e0.png)

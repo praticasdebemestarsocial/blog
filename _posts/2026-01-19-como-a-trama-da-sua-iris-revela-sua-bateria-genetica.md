@@ -5,9 +5,10 @@ date: 2026-01-19T16:18:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Geometria da Vitalidade: como a trama da sua íris revela sua “bateria genética”"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3PV6oyVtVwHP2Xl2yW3E-l4EuS4DHd8rw-H30FurUM0nX57cbBgv8qaoKnEWv3a9B6kKHF9vkkiTazh-Z5uGgVc25hIVMjqQYFC6tqla43Hao3xi6O4FSoRzGjWKiki7AA70KpL4VNIEOmQfJ7BJftFxFjDr5XSM9HAMnV-npwTCCCKrj3jnJ87TOegE/w450-h299/Charging%20Smartphone%20Portrait.png"
 ---
 
-![](https://i.ibb.co/jZvtm31q/52bddf9cff2f.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3PV6oyVtVwHP2Xl2yW3E-l4EuS4DHd8rw-H30FurUM0nX57cbBgv8qaoKnEWv3a9B6kKHF9vkkiTazh-Z5uGgVc25hIVMjqQYFC6tqla43Hao3xi6O4FSoRzGjWKiki7AA70KpL4VNIEOmQfJ7BJftFxFjDr5XSM9HAMnV-npwTCCCKrj3jnJ87TOegE/w450-h299/Charging%20Smartphone%20Portrait.png)
 
   
 Geometria da Vitalidade: como a trama da sua íris revela sua “bateria genética”

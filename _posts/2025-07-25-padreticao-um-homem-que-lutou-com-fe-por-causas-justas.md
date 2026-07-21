@@ -5,9 +5,10 @@ date: 2025-07-25T06:23:00.005Z
 tags: ["plantas medicinais"]
 categories: ["bem-estar"]
 description: "PadreTicão um homem que lutou com fé por causas justas."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiacQ1dWzzihayYNrTW8RG5Aduc0Y8ze03FQCwPYSnCFfO2RlQCqzFh3NkZECLeHtgefT70-R4KUHVh6QNsnksSmR37P6Ijt-X_eqXBwD5TSyaPWrlZ3TNygf1JV7-6Sf9luPMHyKjp2kT2u1Q3joVJaCsgnViV7D-rXoS0vNfE_sSg9HNNTnjHyOB9D8w/w588-h331/Padre_Tic%C3%A3o_um_homem_que_lutou_com_f%C3%A9_por_causas_justas.png"
 ---
 
-![](https://i.ibb.co/BbY1Kb7/5299aab0a52d.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiacQ1dWzzihayYNrTW8RG5Aduc0Y8ze03FQCwPYSnCFfO2RlQCqzFh3NkZECLeHtgefT70-R4KUHVh6QNsnksSmR37P6Ijt-X_eqXBwD5TSyaPWrlZ3TNygf1JV7-6Sf9luPMHyKjp2kT2u1Q3joVJaCsgnViV7D-rXoS0vNfE_sSg9HNNTnjHyOB9D8w/w588-h331/Padre_Tic%C3%A3o_um_homem_que_lutou_com_f%C3%A9_por_causas_justas.png)
 
 # PadreTicão um homem que lutou com fé por causas justas.
 
@@ -22,7 +23,7 @@ leste de São Paulo, onde fica sua paróquia.  
 
 Lutava  pelo direito à saúde para todos de uma forma complementar e natural.
 
-[![](https://i.ibb.co/m51x1Q7m/6be97053f2fd.jpg)](https://www.cannabisesaude.com.br/wp-content/uploads/2020/04/padre-ticao.jpg)
+[![](https://www.cannabisesaude.com.br/wp-content/uploads/2020/04/padre-ticao.jpg)](https://www.cannabisesaude.com.br/wp-content/uploads/2020/04/padre-ticao.jpg)
 
 ## Por que padre Ticão era um professor?
 
@@ -33,7 +34,7 @@ Paulo.  
 Ele sonhava em tornar o povo independente daquilo que ele chama de **“medicina
 do mercado”.**
 
-![](https://i.ibb.co/tpR5kwpT/0e9a2eb705e1.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwGFgJUHs6Kgq5jHFjocdIDLwPn4DIkm7xhPudlqKeXXaMKBIq7kUC1fTgImYjhitfYlaE5VU9T5a53uGj_rfHgbBdOtDJPKoQ09FhsSn1tovpQ52457IPSGgMmPKy5HBCpvxulQC8_CZfDMo24w0We77sbp2z6g1g6dN9OrxJPWisfGbW5l16KMcottDX/w565-h306/padreticaocannabis.png)
 
 ## Por que o padre Ticão era um revolucionário?
 
@@ -48,7 +49,7 @@ Como uma região densamente povoada, a zona leste abriga cerca de 4 milhões de
 pessoas e tinha uma imensa necessidade de postos de saúde e hospitais e com a
 ajuda dele aconteceram muitas conquistas.  
 
-[![](https://i.ibb.co/WpGnW6Jq/466da4edc176.jpg)](https://www.cannabisesaude.com.br/wp-content/uploads/2022/01/padre-ticao-e-elisaldo-carlini.jpg)
+[![](https://www.cannabisesaude.com.br/wp-content/uploads/2022/01/padre-ticao-e-elisaldo-carlini.jpg)](https://www.cannabisesaude.com.br/wp-content/uploads/2022/01/padre-ticao-e-elisaldo-carlini.jpg)
 
   
 
@@ -75,7 +76,7 @@ e ele começou a dar aulas sobre a planta e a legaligade para a liberação e su
 primeira turma começou com 200 pessoas e hoje são milhares de alunos espalhados
 em todo o Brasil.  
 
-[![](https://i.ibb.co/FqzfrsCG/a231336e179a.jpg)](https://www.cannabisesaude.com.br/wp-content/uploads/2020/03/pe-ticao.jpeg)
+[![](https://www.cannabisesaude.com.br/wp-content/uploads/2020/03/pe-ticao.jpeg)](https://www.cannabisesaude.com.br/wp-content/uploads/2020/03/pe-ticao.jpeg)
 
 ## O padre Ticão sofreu perseguição de opositores por conta da sua causa pela liberação do uso da Cannabis?
 

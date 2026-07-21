@@ -5,6 +5,7 @@ date: 2025-02-13T08:26:00.003Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem é  Farida Sharan, fundadora da School of Natural Medicine International."
+image: "https://i.ibb.co/NnYkBtsf/c9dde7b0b941.png"
 ---
 
 ![](https://i.ibb.co/NnYkBtsf/c9dde7b0b941.png)  

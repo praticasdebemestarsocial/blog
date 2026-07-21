@@ -5,6 +5,7 @@ date: 2024-04-11T08:01:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Por que uma parte dos médicos não conhecem a Iridologia?"
+image: "https://i.ibb.co/jkqyJmct/1516d74643b3.png"
 ---
 
 ![](https://i.ibb.co/jkqyJmct/1516d74643b3.png)

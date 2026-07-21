@@ -5,6 +5,7 @@ date: 2024-11-12T15:58:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Por Que alguns Médicos Desconhecem a Iridologia e as Terapias Complementares?"
+image: "https://i.ibb.co/23KCFZYt/174321e2bf78.png"
 ---
 
 ![](https://i.ibb.co/23KCFZYt/174321e2bf78.png)

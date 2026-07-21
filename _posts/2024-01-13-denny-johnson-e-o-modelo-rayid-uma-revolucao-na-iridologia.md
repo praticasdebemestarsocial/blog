@@ -5,6 +5,7 @@ date: 2024-01-13T05:20:00.013Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Denny Johnson e o Modelo Rayid: Uma Revolução na Iridologia"
+image: "https://i.ibb.co/HDB7nmNZ/48dcecc2bbe2.png"
 ---
 
 ![](https://i.ibb.co/HDB7nmNZ/48dcecc2bbe2.png)

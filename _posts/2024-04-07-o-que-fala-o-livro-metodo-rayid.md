@@ -5,6 +5,7 @@ date: 2024-04-07T07:56:00.002Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Método Rayid: uma nova maneira de ver as íris dos olhos"
+image: "https://i.ibb.co/YBMNqgnB/dab7121b1589.png"
 ---
 
 ![](https://i.ibb.co/YBMNqgnB/dab7121b1589.png)  

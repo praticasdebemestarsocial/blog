@@ -5,6 +5,7 @@ date: 2024-04-11T08:38:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Um prognóstico na Iridologia é bem diferente e ao mesmo tempo complementar do"
+image: "https://i.ibb.co/9kctxmr2/c775a5c2292b.png"
 ---
 
 ![](https://i.ibb.co/9kctxmr2/c775a5c2292b.png)

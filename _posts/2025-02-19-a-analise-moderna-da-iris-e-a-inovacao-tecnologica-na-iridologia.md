@@ -5,6 +5,7 @@ date: 2025-02-19T08:59:00.009Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "A Análise Moderna da Íris e a Inovação Tecnológica na Iridologia"
+image: "https://i.ibb.co/0V2xRy7Q/0988d1fec08a.png"
 ---
 
 ![](https://i.ibb.co/0V2xRy7Q/0988d1fec08a.png)

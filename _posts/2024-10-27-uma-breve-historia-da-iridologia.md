@@ -5,6 +5,7 @@ date: 2024-10-27T14:15:00.019Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Uma Breve História da Iridologia: Origens, Pioneiros e Avanços Modernos"
+image: "https://i.ibb.co/nqz6qJtK/64e8f422006a.png"
 ---
 
 ![](https://i.ibb.co/nqz6qJtK/64e8f422006a.png)

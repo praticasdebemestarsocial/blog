@@ -5,6 +5,7 @@ date: 2024-08-25T04:08:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Iridologia revela nossas emoções?"
+image: "https://i.ibb.co/S4KpdCD4/e26485975e67.jpg"
 ---
 
 ## A Iridologia revela nossas emoções?

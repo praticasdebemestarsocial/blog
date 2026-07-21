@@ -5,6 +5,7 @@ date: 2024-01-18T20:39:00.003Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Iridologia, Diagnose e Cura Natural"
+image: "https://i.ibb.co/TM994w1M/6a738dbafa1a.png"
 ---
 
 ![](https://i.ibb.co/TM994w1M/6a738dbafa1a.png)

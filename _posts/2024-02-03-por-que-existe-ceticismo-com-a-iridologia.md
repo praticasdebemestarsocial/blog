@@ -5,6 +5,7 @@ date: 2024-02-03T07:39:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Por que existe ceticismo com a Iridologia?"
+image: "https://i.ibb.co/jkdPsFps/362fbbd963b0.jpg"
 ---
 
 # Por que existe ceticismo com a Iridologia?

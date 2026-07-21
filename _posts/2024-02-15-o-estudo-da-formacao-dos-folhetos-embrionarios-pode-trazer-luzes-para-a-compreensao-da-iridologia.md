@@ -5,6 +5,7 @@ date: 2024-02-15T05:22:00.008Z
 tags: ["fundamentos da iridologia", "anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "O Ectoderma e a Iridologia: Como o Desenvolvimento Embrionário Pode Explicar a Conexão entre o Olho e o Corpo"
+image: "https://i.ibb.co/SXLWvC41/dac6b6d89b3f.jpg"
 ---
 
 ![](https://i.ibb.co/SXLWvC41/dac6b6d89b3f.jpg)

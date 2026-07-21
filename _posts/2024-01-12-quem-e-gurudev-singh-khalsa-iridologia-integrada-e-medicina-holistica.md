@@ -5,6 +5,7 @@ date: 2024-01-12T23:56:00.020Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem é Gurudev Singh Khalsa? A Visão do Holograma Humano"
+image: "https://i.ibb.co/1G4mVJqG/22d5e6228229.png"
 ---
 
 ## 

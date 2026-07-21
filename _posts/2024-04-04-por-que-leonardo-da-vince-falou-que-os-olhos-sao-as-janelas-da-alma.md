@@ -5,6 +5,7 @@ date: 2024-04-04T22:06:00.006Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Os Olhos São as Janelas da Alma: O Que Leonardo da Vinci Quis Dizer?"
+image: "https://i.ibb.co/WWRv1jx0/7ef43a2bceea.png"
 ---
 
 ![](https://i.ibb.co/WWRv1jx0/7ef43a2bceea.png)

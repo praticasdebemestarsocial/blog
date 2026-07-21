@@ -5,6 +5,7 @@ date: 2024-02-17T05:35:00.003Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "(https://plataforma.plaam.com/modulos/web/subido/195/Paginas-simples/alumnos-formacion-600x400.jpg)"
+image: "https://i.ibb.co/9mk44zv7/0995f59598ce.jpg"
 ---
 
 [![](https://i.ibb.co/9mk44zv7/0995f59598ce.jpg)](https://plataforma.plaam.com/modulos/web/subido/195/Paginas-simples/alumnos-formacion-600x400.jpg)

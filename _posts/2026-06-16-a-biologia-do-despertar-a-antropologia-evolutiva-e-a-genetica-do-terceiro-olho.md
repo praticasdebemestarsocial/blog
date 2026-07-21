@@ -5,6 +5,7 @@ date: 2026-06-16T05:43:50.783Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "A Biologia do Despertar: A Antropologia Evolutiva e a Genética do "Terceiro Olho""
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX3z7lRisJUFZzD5fwHJ3Oj9p3B2aFdWX2Oq-pXaH6Me32BAqVchXfF9hm-Z7qDJHnavx_uCw6Q_3LqtSkfmrfWhWZ_5SRg7YoR0AEIkPATUqCG0nSQTBCfU7HXgCelpOssCRGa-WXsdBvNWFtMkwZQh9cfj-SSOmPfeuFaHtH9RDEuY9zTQv8wWQKE30/w593-h191/Screenshot_1.png"
 ---
 
 ## A Biologia do Despertar: A Antropologia Evolutiva e a Genética do "Terceiro Olho"
@@ -69,7 +70,7 @@ estudos pioneiros para investigar as bases genéticas de indivíduos que
 apresentam uma percepção fenotípica altamente expandida (como os médiuns e
 pessoas com alta sensibilidade intuitiva).
 
-![](https://i.ibb.co/4ZrTfs5g/f21eb32946a8.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX3z7lRisJUFZzD5fwHJ3Oj9p3B2aFdWX2Oq-pXaH6Me32BAqVchXfF9hm-Z7qDJHnavx_uCw6Q_3LqtSkfmrfWhWZ_5SRg7YoR0AEIkPATUqCG0nSQTBCfU7HXgCelpOssCRGa-WXsdBvNWFtMkwZQh9cfj-SSOmPfeuFaHtH9RDEuY9zTQv8wWQKE30/w593-h191/Screenshot_1.png)
 
 Esses pesquisadores começaram a analisar polimorfismos e alterações estruturais
 em genes diretamente ligados ao desenvolvimento e funcionamento da glândula

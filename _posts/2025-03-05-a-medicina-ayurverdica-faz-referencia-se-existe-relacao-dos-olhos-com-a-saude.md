@@ -5,6 +5,7 @@ date: 2025-03-05T23:50:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Medicina Ayurvédica , que é um dos sistemas de medicina tradicional mais antigos do mundo, originário da Índia e com mais de 5.000 anos de existênci..."
+image: "https://i.ibb.co/DDqzwCh3/b6775186e52c.png"
 ---
 
 ![](https://i.ibb.co/DDqzwCh3/b6775186e52c.png)

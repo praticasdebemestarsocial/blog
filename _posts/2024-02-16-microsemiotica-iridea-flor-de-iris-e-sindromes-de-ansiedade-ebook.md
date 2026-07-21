@@ -5,6 +5,7 @@ date: 2024-02-16T00:47:00.005Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Microsemiótica Irídea -"
+image: "https://i.ibb.co/84trLkX2/6af70657c168.png"
 ---
 
 ![](https://i.ibb.co/84trLkX2/6af70657c168.png)

@@ -5,6 +5,7 @@ date: 2024-04-07T07:31:00.004Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "O que o livro Autoconhecimento para pessoas difíceis: 100 testes e questões para trabalhar crenças negativas propõe?"
+image: "https://i.ibb.co/6JJvVgDK/de790461a248.png"
 ---
 
 ![](https://i.ibb.co/6JJvVgDK/de790461a248.png)

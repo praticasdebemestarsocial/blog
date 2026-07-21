@@ -5,6 +5,7 @@ date: 2024-04-11T07:54:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Olá amigos, sejam bem-vindos aqui ao canal. Fiquem de olho na sua saúde."
+image: "https://i.ibb.co/3ySbkZJ4/b07a588323cc.png"
 ---
 
 ![](https://i.ibb.co/3ySbkZJ4/b07a588323cc.png)

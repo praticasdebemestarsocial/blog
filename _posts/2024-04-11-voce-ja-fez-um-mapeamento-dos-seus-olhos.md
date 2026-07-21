@@ -5,6 +5,7 @@ date: 2024-04-11T07:12:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A consulta de Iridologia proporciona um autoconhecimento holistico com a finalidade de proporcionar informações geradoras de bem estar que orientação ..."
+image: "https://i.ibb.co/8LrNh3W8/0a03fd71b6ad.png"
 ---
 
 ![](https://i.ibb.co/8LrNh3W8/0a03fd71b6ad.png)

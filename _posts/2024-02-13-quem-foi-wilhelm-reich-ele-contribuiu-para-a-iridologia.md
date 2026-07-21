@@ -5,6 +5,7 @@ date: 2024-02-13T19:59:00.006Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Quem Foi Wilhelm Reich? Ele Contribuiu para a Iridologia? Wilhelm Reich foi um renomado médico, psiquiatra, psicanalista e biofísico austríaco(1897-19..."
+image: "https://i.ibb.co/pjJJszWv/e9879be71be8.png"
 ---
 
 ## **Quem Foi Wilhelm Reich? Ele Contribuiu para a Iridologia?** Wilhelm Reich foi um renomado médico, psiquiatra, psicanalista e biofísico austríaco(1897-1958) Reconhecido por suas contribuições inovadoras à psicanálise, sexologia e terapia corporal, Reich desenvolveu conceitos fundamentais sobre a relação entre corpo e mente.  Embora sua obra tenha influenciado diversas áreas da psicologia e medicina alternativa, não há registros diretos de que tenha contribuído especificamente para a iridologia.

@@ -5,6 +5,7 @@ date: 2025-09-30T00:10:00.004Z
 tags: ["metafísica", "musicoterapia"]
 categories: ["bem-estar"]
 description: "A Metempsicose da Reencarnação: Compreendendo o Ciclo de Vidas"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWs2ND9IXHwaU6lhx1HY6pvJYbxEYvSsndGE3gIeTQmc4NMuPeDw9Uj35mH7K5ZVrSj2m72f6bAJCuMXUhNvCSVpl6EqBSv-LB_Qx1RXxz1adycDQFYZs1ezQBCx_SmlvZAAquFffAADlCVhfY6WejlrQAKRzz4johNhVyvesskEmwVgsS483P9ghy4yo/w531-h68/youtube_canal_espiritualidade.png"
 ---
 
 # A Metempsicose da Reencarnação: Compreendendo o Ciclo de Vidas
@@ -113,7 +114,7 @@ pessoal.
 
 [🎥 [Vídeo incorporado](https://www.youtube.com/embed/8qYruHxMoNc)](https://www.youtube.com/embed/8qYruHxMoNc)
 
-![](https://i.ibb.co/d0MKJs4j/e9d1e1386e21.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWs2ND9IXHwaU6lhx1HY6pvJYbxEYvSsndGE3gIeTQmc4NMuPeDw9Uj35mH7K5ZVrSj2m72f6bAJCuMXUhNvCSVpl6EqBSv-LB_Qx1RXxz1adycDQFYZs1ezQBCx_SmlvZAAquFffAADlCVhfY6WejlrQAKRzz4johNhVyvesskEmwVgsS483P9ghy4yo/w531-h68/youtube_canal_espiritualidade.png)
 
 #### Reflexão Final
 

@@ -5,6 +5,7 @@ date: 2025-02-11T03:05:00.006Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Olá amigos sejam bem vindos aqui nesse canal Tecnologias do Autoconhecimento."
+image: "https://i.ibb.co/7tBLtmSc/60cc8d7fc8a8.png"
 ---
 
 ![](https://i.ibb.co/7tBLtmSc/60cc8d7fc8a8.png)

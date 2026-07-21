@@ -5,6 +5,7 @@ date: 2024-01-14T07:13:00.003Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "1- O que é o Instituto Viva Melhor?"
+image: "https://i.ibb.co/G47ynfvJ/e8af5b63747d.jpg"
 ---
 
 ## 1- O que é o Instituto Viva Melhor?

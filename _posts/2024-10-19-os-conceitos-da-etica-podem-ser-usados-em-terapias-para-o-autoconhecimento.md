@@ -5,6 +5,7 @@ date: 2024-10-19T03:29:00.013Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
 description: ".png).png)"
+image: "https://i.ibb.co/1fYf267z/8f8dc68b4d75.png"
 ---
 
 ![](https://i.ibb.co/1fYf267z/8f8dc68b4d75.png).png).png)

@@ -5,6 +5,7 @@ date: 2024-04-11T06:55:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O que determina o seu bem estar? A Iridologia revela."
+image: "https://i.ibb.co/v4WN141k/cd154090825f.png"
 ---
 
 ![](https://i.ibb.co/v4WN141k/cd154090825f.png)

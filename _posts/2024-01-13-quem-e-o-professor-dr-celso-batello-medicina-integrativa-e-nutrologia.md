@@ -5,6 +5,7 @@ date: 2024-01-13T05:28:00.013Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Título: Quem é o professor Dr. Celso Batello? Um pioneiro da medicina integrativa e da iridologia no Brasil"
+image: "https://i.ibb.co/5Xr1rFs3/0e3aae5f2ca4.png"
 ---
 
 ![](https://i.ibb.co/5Xr1rFs3/0e3aae5f2ca4.png)

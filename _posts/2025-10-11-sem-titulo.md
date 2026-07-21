@@ -5,6 +5,7 @@ date: 2025-10-11T21:33:00Z
 tags: []
 categories: ["bem-estar"]
 description: "História da Iridologia"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWLTo6mbOtiVJWK-efw7Z-iBCKGxDsRrhm4iyKf68u4jR-Bk4K-MTe1WU5KU8ADIwRn5KHEyGs1Sacj9zcE8LNDJxKRnJiyLqCTNo_bIxfie5lYScwwrvly_WU3WFprXlyZ_WZKOawJCc/w597-h271/IRIS5.jpg "tempodesaudeiridologia""
 ---
 
 ## História da Iridologia
@@ -42,7 +43,7 @@ consequente das doenças sistêmicas.
 exemplo de que é real que os processos bioquímicos orgânicos podem ser
 detectados pelos olhos.
 
-![tempodesaudeiridologia](https://i.ibb.co/8Lq31r1k/f515871d46c1.jpg "tempodesaudeiridologia")
+![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWLTo6mbOtiVJWK-efw7Z-iBCKGxDsRrhm4iyKf68u4jR-Bk4K-MTe1WU5KU8ADIwRn5KHEyGs1Sacj9zcE8LNDJxKRnJiyLqCTNo_bIxfie5lYScwwrvly_WU3WFprXlyZ_WZKOawJCc/w597-h271/IRIS5.jpg "tempodesaudeiridologia")
 
 Aqui nesse arquivo da Universidade de São Paulo, Usp, você pode ler a respeito
 dessas manifestações oculares  em decorrência de doenças sistêmicas.
@@ -115,7 +116,7 @@ ferramenta que pode nos orientar a melhor forma de se alcançar esse objetivo e
 pode sempre de alguma forma beneficiar a saúde da pessoa independe do tipo de
 doença que tenha.
 
-![tempodesaudeiridologia](https://i.ibb.co/whLqM8GV/ce5009239786.jpg "tempodesaudeiridologia")
+![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyb-JPzUUo4qsbU7oqiIws1E51piCjbNEqS8cKgKmO6H4fv5egbxy0G_zcp5jqlJxphXctHzhNXbhIv6iOSoUuCooepjXG1Ohc8AW78s0FdqBNtye6O3lCVKJs_6emGQhvxpMdHm7xlVw/w290-h320/euu.jpg "tempodesaudeiridologia")
 
 > "Quando utilizamos uma ferramenta que pode dar luz a respeito **desses fatores nocivos e prejudiciais para o nosso organismo** podemos ter uma informação  relevante a respeito de que forma podemos cuidar melhor do nosso corpo, da nossa saúde, da alimentação e do nosso estado emocional."
 

@@ -5,6 +5,7 @@ date: 2025-07-15T08:32:00.001Z
 tags: ["dietoterapia"]
 categories: ["bem-estar"]
 description: "Faça do Seu Leite um Remédio: Uma Jornada de Autoconhecimento e Saúde Personalizada"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv9hl47ih3OVDcHohfpKP4BQYcPJ8d07UgG7N-EqrPY6f-BB_8qSkZYHxrNwAmPPfB2lHRggDskbK8lDN9Fs7Mn3yzje6wbf8WJHd2KBoHizLc4PJVg0n6gnHyKmNzilolve-7Z9s08yKNqh_6SYCaDQlIsPY8KZCoZoLAV6XsXSOGdbCG5fuINI5w1D0/w402-h291/capa%20ebook%20leite%20rem%C3%A9dio.png"
 ---
 
 # Faça do Seu Leite um Remédio: Uma Jornada de Autoconhecimento e Saúde Personalizada
@@ -116,7 +117,7 @@ navegar pelo complexo mundo da nutrição e da saúde integral.
 
 Adquira seu exemplar agora e comece sua transformação!
 
-[![](https://i.ibb.co/M5G7nQtD/ea5101341011.png)](https://go.hotmart.com/S100789577A)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv9hl47ih3OVDcHohfpKP4BQYcPJ8d07UgG7N-EqrPY6f-BB_8qSkZYHxrNwAmPPfB2lHRggDskbK8lDN9Fs7Mn3yzje6wbf8WJHd2KBoHizLc4PJVg0n6gnHyKmNzilolve-7Z9s08yKNqh_6SYCaDQlIsPY8KZCoZoLAV6XsXSOGdbCG5fuINI5w1D0/w402-h291/capa%20ebook%20leite%20rem%C3%A9dio.png)](https://go.hotmart.com/S100789577A)
 
 ## [Compre Agora!](https://pay.hotmart.com/S100789577A)
 

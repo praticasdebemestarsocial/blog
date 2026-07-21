@@ -5,6 +5,7 @@ date: 2024-10-07T04:38:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Como os nossos órgãos podem  se manifestar nos nossos olhos?"
+image: "https://i.ibb.co/2YhNWjb2/5362ef50201b.png"
 ---
 
 ![](https://i.ibb.co/2YhNWjb2/5362ef50201b.png)

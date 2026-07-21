@@ -5,6 +5,7 @@ date: 2024-07-08T20:09:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A iridologia é a ferramenta de avaliação holística"
+image: "https://i.ibb.co/JN7jvdP/1e643651bddc.png"
 ---
 
 ![](https://i.ibb.co/JN7jvdP/1e643651bddc.png)

@@ -5,6 +5,7 @@ date: 2025-03-04T04:20:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Mapeamento da Retina e Alzheimer: Avanços Promissores na Detecção Precoce"
+image: "https://i.ibb.co/tnzWY2m/49b2779ba9d4.jpg"
 ---
 
 ## Mapeamento da Retina e Alzheimer: Avanços Promissores na Detecção Precoce

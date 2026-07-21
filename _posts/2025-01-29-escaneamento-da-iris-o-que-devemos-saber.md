@@ -5,6 +5,7 @@ date: 2025-01-29T05:29:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Título do Vídeo: Cuidado com o Escaneamento da Íris: O Que Você Precisa Saber"
+image: "https://i.ibb.co/pBMFLBYw/f7795dd92736.png"
 ---
 
 ![](https://i.ibb.co/pBMFLBYw/f7795dd92736.png)

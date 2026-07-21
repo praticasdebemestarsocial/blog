@@ -5,6 +5,7 @@ date: 2024-02-16T02:15:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A iridologia é uma ferramenta poderosa de prevenção de saúde, pois ela oferece a possibilidade de entender quais são fatores estão condicionando a saú..."
+image: "https://i.ibb.co/SDnVkcSP/b0a88bccfab8.jpg"
 ---
 
 ![](https://i.ibb.co/SDnVkcSP/b0a88bccfab8.jpg)

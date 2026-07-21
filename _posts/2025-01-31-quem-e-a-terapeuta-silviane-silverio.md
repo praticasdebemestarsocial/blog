@@ -5,6 +5,7 @@ date: 2025-01-31T17:46:00.015Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Silviane Silvério - Terapeuta, Naturologa e Biomédica, Escritora e Professora. Há mais de 15 anos promovendo Bem Estar e Terapias Integrativas e Compl..."
+image: "https://i.ibb.co/m5G2RgTP/451527e42f07.png"
 ---
 
 ![](https://i.ibb.co/m5G2RgTP/451527e42f07.png)
@@ -75,17 +76,17 @@ Tive a oportunidade de conhecer pessoalmente alguns dos iridologistas famosos no
 
   
 
-![](https://i.ibb.co/3YdvMBwN/43712af23502.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-QVKhR2uLOk_TKZ-vUb1Ch0MLNrmQ7ESkJFZEVXyTSNbnLtB_fuvPlOX8FB0UFBilpNgb6hUKytSehIPWhL5NlkVSAyoRZ0g4cauP_y0Sd9oNTOaAY8vgOLVBnxg_sfSbxRhXUssP5C-wBzMX7RDrqVkDERbAxLb0iTBJjNZSC3BMXEZcBnKzzTDKHzU/s1600/jean.jpg)
 
                                                                                 
 
 [Dr Jean Cabral](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/quem-e-prof-dr-pr-jean-alves-cabral.html)
 
-![](https://i.ibb.co/M51nyLD8/631d34cb13d0.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim1QpNairXjIj13jcbV5tb6LDedMDp2Kx-oCTP4mU6KLjidzEZhwd2ziFox7lktYD1MKvlL0aAewT2AUZIKau8-Q-dhabIuE62T_o0xKaGS-QFDPgLo-O4TpOQSE0cb0qWX9k4vX1GKBLTN_GEbCedaQ7dLjwrB8myTvL7KxHsBYhiY2dmTBdT-x3wcbE/s320/Screenshot_56.jpg)
 
 Formatura do Curso de Naturologia Clínica em 2009
 
-![](https://i.ibb.co/5WCy7B44/278f1cc7ca4d.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_o-Mbn7EegRUClRgNyRaLrBk0iH-PQEiZ5jLXcwd7NztPhb-yKqv_nPqEKnhWOOnbkn3uJkEdCTlUKIM53dA6o9Kx6hfj9LXZksBlYMKNfo5hUwlKaFz6roPwTNQnoFkLTycwEwBZEu1TU8R9PU7oIz7c3hWk-tWPyVkCRRXTRbrqc9h5Go1qmsRB6_w/s320/Screenshot_57.jpg)
 
   
 

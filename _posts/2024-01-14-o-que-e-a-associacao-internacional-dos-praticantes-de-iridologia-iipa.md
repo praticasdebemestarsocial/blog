@@ -5,6 +5,7 @@ date: 2024-01-14T02:54:00.008Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "A Importância da Associação Internacional de Praticantes de Iridologia (IIPA)"
+image: "https://i.ibb.co/zWDKnZbc/fefe69a085db.jpg"
 ---
 
 ### 

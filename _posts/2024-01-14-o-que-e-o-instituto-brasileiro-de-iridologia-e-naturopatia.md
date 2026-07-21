@@ -5,6 +5,7 @@ date: 2024-01-14T05:42:00.006Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "O Que é o Instituto Brasileiro de Iridologia e Naturopatia (IBRIN)?"
+image: "https://i.ibb.co/gLRkzQQ2/c522febccd51.png"
 ---
 
 ## 

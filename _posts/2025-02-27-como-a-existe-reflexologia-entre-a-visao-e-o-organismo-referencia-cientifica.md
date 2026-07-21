@@ -5,6 +5,7 @@ date: 2025-02-27T03:51:00.005Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "Como a existe Reflexologia entre a Visão e o organismo?"
+image: "https://i.ibb.co/6RH9rw11/0cf52515ad47.png"
 ---
 
 ![](https://i.ibb.co/6RH9rw11/0cf52515ad47.png)

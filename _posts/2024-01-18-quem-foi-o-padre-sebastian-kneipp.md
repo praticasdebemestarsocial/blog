@@ -5,6 +5,7 @@ date: 2024-01-18T02:47:00.004Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem foi o Padre Sebastian Kneipp?"
+image: "https://i.ibb.co/DD4TXf4s/3be08252e340.png"
 ---
 
 ## Quem foi o Padre Sebastian Kneipp?

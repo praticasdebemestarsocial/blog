@@ -5,6 +5,7 @@ date: 2024-01-19T17:27:00.004Z
 tags: ["equipamentos atendimento"]
 categories: ["bem-estar"]
 description: "Oxímetro De Dedo oled Profissional Alto Contraste e Fácil Leitura - Multilaser"
+image: "https://i.ibb.co/Qv1qVw3Y/34fe6760cff8.jpg"
 ---
 
 # Oxímetro De Dedo oled Profissional Alto Contraste e Fácil Leitura - Multilaser

@@ -5,6 +5,7 @@ date: 2025-02-13T08:35:00.010Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Joseph Angerer: O Visionário da Iridologia e Naturopatia Germânica"
+image: "https://i.ibb.co/99zKZrQQ/ecba43633fc8.png"
 ---
 
 ![](https://i.ibb.co/99zKZrQQ/ecba43633fc8.png)

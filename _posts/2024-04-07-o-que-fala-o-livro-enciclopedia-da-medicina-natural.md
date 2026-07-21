@@ -5,6 +5,7 @@ date: 2024-04-07T07:48:00.004Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "🌿 Enciclopédia da Medicina Natural: Seu Guia Definitivo para Saúde Integral"
+image: "https://i.ibb.co/xqhbN2yc/da19e141b172.png"
 ---
 
 ![](https://i.ibb.co/xqhbN2yc/da19e141b172.png)

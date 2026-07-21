@@ -5,9 +5,10 @@ date: 2025-05-16T02:35:00Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: ".png).png)"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAQ-JTn9aymvGOR2Vhtc2OZtf43hDdEnuvcj4YAfh75qUqCms5fnHvsGr2GveN7uv8yLKmL3FtdYgoQzNdFHioXl_OmZ2NB15KQDjo-TgFAXRbcPEqHuYjFiuY1LH2LWlXFmvq9NO_s1cPkJ37lj0KRa5VYFtHlJ6i48swLIvIneM4ZsM1YojzD_h5J8E/w517-h291/Conceitos_b%C3%A1sicos_de_diagn%C3%B3stico_de_%C3%ADris%20_Um_livro_did%C3%A1tico_Guerras_Theodor_Lindemann_G%C3%BCnthe%20(1"
 ---
 
-![](https://i.ibb.co/hRxP8gqs/ebba87a7318c.png).png).png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAQ-JTn9aymvGOR2Vhtc2OZtf43hDdEnuvcj4YAfh75qUqCms5fnHvsGr2GveN7uv8yLKmL3FtdYgoQzNdFHioXl_OmZ2NB15KQDjo-TgFAXRbcPEqHuYjFiuY1LH2LWlXFmvq9NO_s1cPkJ37lj0KRa5VYFtHlJ6i48swLIvIneM4ZsM1YojzD_h5J8E/w517-h291/Conceitos_b%C3%A1sicos_de_diagn%C3%B3stico_de_%C3%ADris%20_Um_livro_did%C3%A1tico_Guerras_Theodor_Lindemann_G%C3%BCnthe%20(1).png).png)
 
   
 

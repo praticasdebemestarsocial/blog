@@ -5,6 +5,7 @@ date: 2024-01-18T21:00:00.002Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "/hotmart/productpictures/fa765200-8b90-40a4-a3de-c47f18444148/1.jpg)(https://static-media.hotmart.com/Lr0fB33H5Qn6eRvPzsNMW5VOJnE=/filters:backgroundc..."
+image: "https://static-media.hotmart.com/Lr0fB33H5Qn6eRvPzsNMW5VOJnE=/filters:background_color(white"
 ---
 
 [![](https://static-media.hotmart.com/Lr0fB33H5Qn6eRvPzsNMW5VOJnE=/filters:background_color(white)/hotmart/product_pictures/fa765200-8b90-40a4-a3de-c47f18444148/1.jpg)](https://static-media.hotmart.com/Lr0fB33H5Qn6eRvPzsNMW5VOJnE=/filters:background_color(white)/hotmart/product_pictures/fa765200-8b90-40a4-a3de-c47f18444148/1.jpg)

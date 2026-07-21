@@ -5,6 +5,7 @@ date: 2025-02-10T17:24:00.012Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem é  Daniele Lo Ritto? Médico e pesquisador italiano especializado em iridologia"
+image: "https://i.ibb.co/dsj60dwv/4f19e8dacdda.png"
 ---
 
 ![](https://i.ibb.co/dsj60dwv/4f19e8dacdda.png)

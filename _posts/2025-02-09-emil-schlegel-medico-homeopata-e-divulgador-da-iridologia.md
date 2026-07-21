@@ -5,6 +5,7 @@ date: 2025-02-09T06:20:00.014Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Emil Schlegel (1852–1934): Médico, Homeopata e Divulgador da Iridologia"
+image: "https://i.ibb.co/s9WRKcTT/979bd9a90343.png"
 ---
 
 ![](https://i.ibb.co/s9WRKcTT/979bd9a90343.png)
@@ -111,11 +112,11 @@ Entre os trabalhos que publicou, destacam-se:
 
   
 
-![](https://i.ibb.co/qFF46mYC/d09a045bb176.jpg)![](https://i.ibb.co/WW4wDbFD/fc90ec505632.jpg)![](https://i.ibb.co/RGjNgJ2p/30f72ae24ec9.jpg)
+![](https://i.ibb.co/qFF46mYC/d09a045bb176.jpg)![](https://i.ibb.co/WW4wDbFD/fc90ec505632.jpg)![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV1nufknCsvZbtVzAjPxB-Y6B5a2dzJbudB9ojDka3bgTZId5mxSEDhnpL3Fi0hShyBU2uZavcbBGt0ygjfIqco7GcwcS5C4Gq5aDzr0-G51b1NP5xjjIUtZN9FqTBgkQE8szKbc0wa4aNGuC_R5tcjmds2ZLhNq2lYtGHhYAMae6VpkwdG5HMoCbY3Gc/w192-h271/Screenshot_50.jpg)
 
   
 
-![](https://i.ibb.co/FkwgYszn/c901ae8a6e61.jpg)![](https://i.ibb.co/jPqDZyNr/67f3f18410b5.jpg)![](https://i.ibb.co/xq78LJYF/0e4feb9d4053.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnWiz23XI3tTkUccAMJMSOHM5QTTnAG-aYk07pnnjNmSJqwoRO5s3-p7Pmw_tdr1PD8r6bASHfTZxu77WtNtWPXJ43IMqL0xIScfFagxMzmdvif92e0wCmDry2djygkZJPO35__bbkM4BkY_Tx-g1xCkPP9qUdgFbOmAc5DzrZePUn-fKj-TkNUIA5Tjg/w183-h285/Screenshot_51.jpg)![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHDK7w7R2uD8touED2svpZXNwcpdxBuLjN1Sklnd-LAiU4aPeQlYOnut6CvxqPJHTFe1-Q1SThW734xREhVmT1m80prTMcs6VomehwzkSbbGZPD39T8gvscB2YYqiF5wZqZxFWGVtIWYZfHHFF-22Is-ZtftIMNfEWCg14d3qg5gtYkvKvj6_0Rb9AqpI/w184-h281/Screenshot_53.jpg)![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiJYkv7IrCfZkvbnE7gbzN5JsdspjHKsDIJZP0RI5JUKX32bnuKpdwI1b6OVGIiofzMDjpr7G0JT_GyLgXwjc0WFwjgDZFtM9j0Wc0X524Y2UUt96oCrzYqmOL6nX2n1abwKaDUDst3WgZDBSYGq9PqmF6rhXtUbHqX_ZkXNAYMlmwSnY6kWolBQbVWVA/w174-h244/Screenshot_44.jpg)
 
 ---
 

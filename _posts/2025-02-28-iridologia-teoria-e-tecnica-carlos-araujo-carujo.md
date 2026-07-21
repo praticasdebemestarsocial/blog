@@ -5,6 +5,7 @@ date: 2025-02-28T15:23:00.003Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Iridologia – Teoria e Técnica | Carlos Araujo Carujo"
+image: "https://i.ibb.co/ch5TtNyR/aa7fc6274c3a.png"
 ---
 
 ![](https://i.ibb.co/ch5TtNyR/aa7fc6274c3a.png)

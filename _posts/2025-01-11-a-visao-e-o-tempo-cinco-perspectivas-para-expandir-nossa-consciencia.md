@@ -5,6 +5,7 @@ date: 2025-01-11T23:28:00.005Z
 tags: ["neurociência e PNL"]
 categories: ["bem-estar"]
 description: "Olá, seja muito bem-vindo(a) ao canal Tecnologias do AutcoConhecimento!"
+image: "https://i.ibb.co/9kwcP0ff/c5c4ed5303fc.png"
 ---
 
 ![](https://i.ibb.co/9kwcP0ff/c5c4ed5303fc.png)  

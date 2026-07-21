@@ -5,6 +5,7 @@ date: 2024-04-11T07:52:00.004Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "Olá, amigos, sejam bem-vindos aqui ao canal. Fiquem de olho na sua saúde."
+image: "https://i.ibb.co/RTVf6GG1/bc8412c70c0e.png"
 ---
 
 ![](https://i.ibb.co/RTVf6GG1/bc8412c70c0e.png)

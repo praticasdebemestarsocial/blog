@@ -5,6 +5,7 @@ date: 2024-10-14T16:04:00.003Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "Como Lutar pelos Nossos Objetivos sem Ser Atropelado pela Ansiedade"
+image: "https://i.ibb.co/nqs78Jsg/585e74a44c04.png"
 ---
 
 ![](https://i.ibb.co/nqs78Jsg/585e74a44c04.png)

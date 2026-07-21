@@ -5,6 +5,7 @@ date: 2024-10-24T21:10:00.006Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O que é o Modelo Rayid?"
+image: "https://i.ibb.co/11QWjPW/6b3ae4e4498f.jpg"
 ---
 
 ## O que é o Modelo Rayid?

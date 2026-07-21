@@ -5,6 +5,7 @@ date: 2025-02-19T02:43:00.002Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
 description: "Aristóteles contribui para  autoconhecimento, metafísica e ética como caminho para a evolução espiritual?"
+image: "https://i.ibb.co/KPfZ2Lc/dd41fd42f134.png"
 ---
 
 ![](https://i.ibb.co/KPfZ2Lc/dd41fd42f134.png)

@@ -5,6 +5,7 @@ date: 2024-10-19T03:30:00.007Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
 description: "Sócrates: A Ética Antropológica"
+image: "https://i.ibb.co/B50JYrmQ/b57739cb954c.jpg"
 ---
 
 ![](https://i.ibb.co/B50JYrmQ/b57739cb954c.jpg)

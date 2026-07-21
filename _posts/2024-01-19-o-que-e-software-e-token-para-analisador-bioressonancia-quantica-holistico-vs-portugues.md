@@ -5,6 +5,7 @@ date: 2024-01-19T17:16:00.003Z
 tags: ["equipamentos atendimento"]
 categories: ["bem-estar"]
 description: "Software e Token Bioressonância M Quântica Analisador Holístico Vs Português"
+image: "https://i.ibb.co/V7X7dP4/a07065cf4a8a.jpg"
 ---
 
 ![](https://i.ibb.co/V7X7dP4/a07065cf4a8a.jpg)

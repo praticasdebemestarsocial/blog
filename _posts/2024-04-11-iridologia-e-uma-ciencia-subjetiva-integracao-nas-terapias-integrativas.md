@@ -5,6 +5,7 @@ date: 2024-04-11T08:55:00.005Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Qual a  Perspectiva da iridologia nas Ciências Subjetivas e sua Integração nas Terapias Integrativas?"
+image: "https://i.ibb.co/kgxqRrGT/c130d66c4e4b.png"
 ---
 
 ![](https://i.ibb.co/kgxqRrGT/c130d66c4e4b.png)

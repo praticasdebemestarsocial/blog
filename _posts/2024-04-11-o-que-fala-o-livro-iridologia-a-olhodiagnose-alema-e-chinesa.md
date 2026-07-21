@@ -5,6 +5,7 @@ date: 2024-04-11T09:02:00.002Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "O que fala o livro Iridologia a olhodiagnose alemã e chinesa?"
+image: "https://i.ibb.co/S7RFJsjf/57a7ac14ee39.png"
 ---
 
 ![](https://i.ibb.co/S7RFJsjf/57a7ac14ee39.png)

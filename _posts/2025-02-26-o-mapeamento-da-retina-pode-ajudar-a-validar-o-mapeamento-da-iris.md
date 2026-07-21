@@ -5,6 +5,7 @@ date: 2025-02-26T01:05:00.005Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O Mapeamento da Retina Pode Ajudar a Validar o Mapeamento da Íris?"
+image: "https://i.ibb.co/TxyNRf8M/d50432fad128.png"
 ---
 
 ![](https://i.ibb.co/TxyNRf8M/d50432fad128.png)

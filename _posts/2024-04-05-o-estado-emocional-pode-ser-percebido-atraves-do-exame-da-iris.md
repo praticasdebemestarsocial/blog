@@ -5,6 +5,7 @@ date: 2024-04-05T08:02:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O Estado Emocional Impacta a Saúde Física? Descubra Como Suas Emoções Influenciam Seu Corpo"
+image: "https://i.ibb.co/Sw0XFj1y/480157f0851f.png"
 ---
 
 ![](https://i.ibb.co/Sw0XFj1y/480157f0851f.png)

@@ -5,6 +5,7 @@ date: 2025-02-20T06:21:00.009Z
 tags: ["autores"]
 categories: ["bem-estar"]
 description: "Quem foi  William James (1842-1910) e como ele pode se relacionar com a Iridologia?"
+image: "https://i.ibb.co/MDbcNtmc/b7aef0da34fd.png"
 ---
 
 ![](https://i.ibb.co/MDbcNtmc/b7aef0da34fd.png)

@@ -5,6 +5,7 @@ date: 2024-05-22T03:57:00.002Z
 tags: ["anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "Você sabe o que controla seus órgãos?"
+image: "https://i.ibb.co/6RX3tnGF/d942f4429d0d.png"
 ---
 
 ![](https://i.ibb.co/6RX3tnGF/d942f4429d0d.png)

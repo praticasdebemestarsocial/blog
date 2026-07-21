@@ -5,6 +5,7 @@ date: 2024-02-16T01:18:00.005Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Iridologia e Sistema Glandular"
+image: "https://i.ibb.co/Mkp7MVwV/297bfeb46f9a.png"
 ---
 
 ![](https://i.ibb.co/Mkp7MVwV/297bfeb46f9a.png)

@@ -5,6 +5,7 @@ date: 2025-02-05T23:10:00.006Z
 tags: ["história da iridologia"]
 categories: ["bem-estar"]
 description: "A Expansão da Iridologia – América Latina e EUA"
+image: "https://i.ibb.co/G44HNn99/bce4cc9c4fce.png"
 ---
 
 ![](https://i.ibb.co/G44HNn99/bce4cc9c4fce.png)

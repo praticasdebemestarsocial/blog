@@ -5,9 +5,10 @@ date: 2026-06-18T02:04:03.137Z
 tags: ["autoconhecimento", "anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "O Fantasma na Máquina: A Consciência Transcende a Biologia Humana?"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi60ZdWJ1Fy7H-M0HalNGNqwJjlaecljHVWohkec6AvBmHYeGAb74UWhCIv0QT4uaQdSTCz4FIG7bNnk0ZpIcTsO1RhLmT_aFXQMZwSy5U16ECVWSRdQxN70CjAUI0UpLEyg4l3G2GbxloZ6k4-EGbNbuu2TEqhyaA71cmgp97RtI6HjWWZr9bLAnjgdvs/w512-h277/1.png"
 ---
 
-![](https://i.ibb.co/MkJWNGLS/5f789d527697.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi60ZdWJ1Fy7H-M0HalNGNqwJjlaecljHVWohkec6AvBmHYeGAb74UWhCIv0QT4uaQdSTCz4FIG7bNnk0ZpIcTsO1RhLmT_aFXQMZwSy5U16ECVWSRdQxN70CjAUI0UpLEyg4l3G2GbxloZ6k4-EGbNbuu2TEqhyaA71cmgp97RtI6HjWWZr9bLAnjgdvs/w512-h277/1.png)
 
   
 

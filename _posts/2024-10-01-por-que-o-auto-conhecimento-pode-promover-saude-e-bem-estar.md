@@ -5,6 +5,7 @@ date: 2024-10-01T23:53:00.002Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "Por Que o Autoconhecimento Pode Promover Saúde e Bem-Estar?"
+image: "https://i.ibb.co/VYs0vsG9/9a58df975d23.png"
 ---
 
 ![](https://i.ibb.co/VYs0vsG9/9a58df975d23.png)

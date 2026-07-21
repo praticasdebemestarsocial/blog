@@ -5,6 +5,7 @@ date: 2024-04-02T21:09:00.009Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "O Que é Reflexologia Ocular?"
+image: "https://i.ibb.co/9C5XwS4/90c4b5facd6d.jpg"
 ---
 
 ![](https://i.ibb.co/9C5XwS4/90c4b5facd6d.jpg)

@@ -5,6 +5,7 @@ date: 2024-04-06T08:19:00.004Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "Desvendando a Mente Holotrópica: Os 3 Níveis de Consciência que Moldam Sua Vida"
+image: "https://i.ibb.co/8L37ZTMS/731a306ebd3f.png"
 ---
 
 ![](https://i.ibb.co/8L37ZTMS/731a306ebd3f.png)

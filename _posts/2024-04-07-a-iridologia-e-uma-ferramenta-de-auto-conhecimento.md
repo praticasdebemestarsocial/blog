@@ -5,6 +5,7 @@ date: 2024-04-07T07:41:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Iridologia é uma ferramenta de auto conhecimento?"
+image: "https://i.ibb.co/DDGqPFDK/9711d4fa80ea.jpg"
 ---
 
 ![](https://i.ibb.co/DDGqPFDK/9711d4fa80ea.jpg)

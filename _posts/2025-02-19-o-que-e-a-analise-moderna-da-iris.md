@@ -5,6 +5,7 @@ date: 2025-02-19T08:32:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Análise Moderna da Íris, desenvolvida por John Andrews, representa uma abordagem mais avançada e científica da iridologia, incorporando conceitos da..."
+image: "https://i.ibb.co/WNk3r7tJ/534d4a3afc98.png"
 ---
 
 ![](https://i.ibb.co/WNk3r7tJ/534d4a3afc98.png)

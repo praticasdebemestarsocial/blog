@@ -5,6 +5,7 @@ date: 2024-10-14T16:48:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Iridologia: Reflexologia Ocular e Bem-Estar – O Que é e Para Que Serve?"
+image: "https://i.ibb.co/hJnJt70D/fbd11b1a9786.png"
 ---
 
 ![](https://i.ibb.co/hJnJt70D/fbd11b1a9786.png)

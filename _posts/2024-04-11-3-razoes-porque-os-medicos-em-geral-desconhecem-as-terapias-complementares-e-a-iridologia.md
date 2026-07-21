@@ -5,6 +5,7 @@ date: 2024-04-11T09:18:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Por Que os Médicos Em Geral Desconhecem o Valor das Terapias Complementares e da Iridologia?"
+image: "https://i.ibb.co/dwzXF42B/70481f5df362.png"
 ---
 
 ![](https://i.ibb.co/dwzXF42B/70481f5df362.png)

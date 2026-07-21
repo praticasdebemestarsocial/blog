@@ -5,6 +5,7 @@ date: 2024-04-06T07:54:00.004Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
 description: "Qual o juramento médico segundo Hipócrates(https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/quem-foi-hipocrates-e-ele-fez-alguma.html)?"
+image: "https://i.ibb.co/jkZFB2dw/a80225133e10.png"
 ---
 
 ![](https://i.ibb.co/jkZFB2dw/a80225133e10.png)

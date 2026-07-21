@@ -5,6 +5,7 @@ date: 2024-01-14T06:19:00.007Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "Associação Médica Brasileira de Iridologia (AMB Iridologia): O Que Você"
+image: "https://i.ibb.co/nqTnNZ1j/e06ed96c07bf.jpg"
 ---
 
 ## 

@@ -5,6 +5,7 @@ date: 2024-01-12T03:02:00.017Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem foi o  Philippi Meyens que escreceu o livro Chiromantia Médica?"
+image: "https://i.ibb.co/nsRfjTtz/f37bc96c729a.jpg"
 ---
 
 ## 

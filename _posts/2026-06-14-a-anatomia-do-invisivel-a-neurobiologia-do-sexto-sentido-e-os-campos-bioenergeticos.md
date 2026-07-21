@@ -5,9 +5,10 @@ date: 2026-06-14T21:53:39.619Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: ".jpeg).jpeg)"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgobu-2ojXlpKP8iTQlFa7Oy0ZJnuusoN0uid75MNA8V5wyWZ6yx11xEn8WaB4MPZAeMpNYzchgdp8jRnP-Vy4Q7mxTmSdrVzr6lP-qYtr_iCl8MOpC4T0KyF1LN9_HepE89ybUTd0rw1HU71F3tFaNbVG4WekCPKclRlNQbq6BCj8Sxkir7qK7CExY1Sg/w459-h258/cinematic-169-anatomical-and-mystical-illustration%20(1"
 ---
 
-![](https://i.ibb.co/LhkTTz7t/cbeb75b1a6c3.jpg).jpeg).jpeg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgobu-2ojXlpKP8iTQlFa7Oy0ZJnuusoN0uid75MNA8V5wyWZ6yx11xEn8WaB4MPZAeMpNYzchgdp8jRnP-Vy4Q7mxTmSdrVzr6lP-qYtr_iCl8MOpC4T0KyF1LN9_HepE89ybUTd0rw1HU71F3tFaNbVG4WekCPKclRlNQbq6BCj8Sxkir7qK7CExY1Sg/w459-h258/cinematic-169-anatomical-and-mystical-illustration%20(1).jpeg).jpeg)
 
   
 
@@ -56,7 +57,7 @@ mapeáveis, passamos a atuar como autênticos tradutores da biologia oculta. A
 ciência contemporânea não desmente as percepções das tradições ancestrais; ela
 confere a elas o devido lastro anatômico:
 
-![](https://i.ibb.co/9HV4mPqc/414b61dac0a9.png)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEi0u_99FL-2OpaNu1aXpTnWth4bVWkkXGCKZr31haxzn6yFN_Bld5LIymlKO5CU-To-lSOTK97MLyfVuz1vXQAzdvLJjeho3Tm7GC2M9mvZ2Nj95LXgGmtSlCdgbIF6zrWIFcHYVy2iWQjLepAOojXlbplIdanyRFD4TryUuHzVBtRUkeMiXPbobkVkO0A=w539-h274)
 
   
 

@@ -5,6 +5,7 @@ date: 2025-02-19T22:15:00.003Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Livro 1: Informações de Estrutura e Cor – Iridologia 1"
+image: "https://i.ibb.co/4gj5Y99z/7ff64f8e24f9.jpg"
 ---
 
 ## Livro 1: Informações de Estrutura e Cor – Iridologia 1

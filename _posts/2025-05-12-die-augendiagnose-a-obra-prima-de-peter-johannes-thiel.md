@@ -5,9 +5,10 @@ date: 2025-05-12T14:22:00.006Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Die Augendiagnose – A Obra-Prima de Peter Johannes Thiel"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQyGRSLAFjKfunQN_lEkKVUXf8sPuCjeMT1FBTZG8JvZAeyAbJKkelxU9p0iWT1CNPdJax_HOTdJQyB5PaXGfAUCzuaLH4FiHjGRwNKbGC8nXhmIlpAq0LnSv6oQ1dOnkpoqrqqo-72TTNdkvwSFANTkJXIIYWV8OF7e_NTObDVaBsoxBZ_BHxuhfJJ50/w506-h285/Die_Augendiagnose_A_Obra_Prima_de_Peter_Johannes_Thiel.png"
 ---
 
-![](https://i.ibb.co/Cp3mK3RQ/fec9a36f84d9.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQyGRSLAFjKfunQN_lEkKVUXf8sPuCjeMT1FBTZG8JvZAeyAbJKkelxU9p0iWT1CNPdJax_HOTdJQyB5PaXGfAUCzuaLH4FiHjGRwNKbGC8nXhmIlpAq0LnSv6oQ1dOnkpoqrqqo-72TTNdkvwSFANTkJXIIYWV8OF7e_NTObDVaBsoxBZ_BHxuhfJJ50/w506-h285/Die_Augendiagnose_A_Obra_Prima_de_Peter_Johannes_Thiel.png)
 
   
 

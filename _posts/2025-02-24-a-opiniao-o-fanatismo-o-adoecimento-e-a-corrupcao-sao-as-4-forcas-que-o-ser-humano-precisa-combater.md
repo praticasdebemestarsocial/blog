@@ -5,6 +5,7 @@ date: 2025-02-24T23:50:00.003Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
 description: "Essas quatro forças—opinião, fanatismo, adoecimento e corrupção—podem, de fato, representar desafios significativos para o ser humano, mas é interessa..."
+image: "https://i.ibb.co/xSTTDQSH/3c3e4dfe898a.png"
 ---
 
 ![](https://i.ibb.co/xSTTDQSH/3c3e4dfe898a.png)

@@ -5,6 +5,7 @@ date: 2024-01-08T06:46:00.021Z
 tags: ["história da iridologia"]
 categories: ["bem-estar"]
 description: "Conseguimos identificar se existe vestígios da Iridologia está na História Antiga?"
+image: "https://i.ibb.co/DHrV7kdL/de10714d7723.png"
 ---
 
 ![](https://i.ibb.co/DHrV7kdL/de10714d7723.png)

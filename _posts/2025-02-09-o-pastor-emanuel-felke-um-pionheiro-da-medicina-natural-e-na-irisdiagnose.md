@@ -5,6 +5,7 @@ date: 2025-02-09T14:10:00.007Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "O Pastor Emanuel Felke: Um Pionheiro da Medicina Natural"
+image: "https://i.ibb.co/rRTqfp66/072d925e98db.png"
 ---
 
 ![](https://i.ibb.co/rRTqfp66/072d925e98db.png)
@@ -50,7 +51,7 @@ continuam relevantes até hoje.
 
 Emanuel Felke, o "pastor da argila"
 
-![](https://i.ibb.co/KcDMBP6T/58e1a926b23f.png)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEg67H6EGCGyaWw5DUnGELDyuDRUKYc-NptKMsmCMz7zwrQMDZ_QdAxtj8DQx1wzszfJA2lCuCmG-vvtm9Tg5Bkte9pSyxsWw_BJ7s_oRqsiKq93cmEnjBE3e8WeeruWywHsf4kPTZf5afy5Zjq9zbduT6BEj4z2Wo_MAGdQddEI5Ee2c79xy3SFrTh8GR4)
 
 ## Por que o trabalho de Felke é importante?
 
@@ -59,7 +60,7 @@ Emanuel Felke, o "pastor da argila"
 * Holismo: Sua abordagem era holística, considerando o indivíduo como um todo, e não apenas seus sintomas.
 * Legado duradouro: Suas ideias influenciaram o desenvolvimento da medicina natural e continuam a inspirar profissionais da saúde até hoje.
 
-![](https://i.ibb.co/mVdK1nXn/e9fadf9c2ef7.png)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEhHAFJuCFPG-sttq91DHOvb6-FgG3J-3Mtg98iS1NX7--ZqrvJh8jxqiSwHtUghbyy5mkIoFSMqae4mvlohvZv6iJC3AdR6_0q1gqX-MZUvyXK2FILWNnsCursXgNUFqiS9pClz8xAUAqak9NucF9j3_uk5YkqE-JRWw4pJ-a2pDHNYTrzWjckpB7ywPNQ)
 
   
 

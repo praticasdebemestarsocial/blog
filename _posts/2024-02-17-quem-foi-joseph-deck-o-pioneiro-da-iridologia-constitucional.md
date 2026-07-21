@@ -5,6 +5,7 @@ date: 2024-02-17T00:09:00.012Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "(Dr. Josef Deck de Ettlingen,Alemanha-1814-1992)"
+image: "https://i.ibb.co/k6JYrxX7/ed2f6ddbe68b.png"
 ---
 
 ![](https://i.ibb.co/k6JYrxX7/ed2f6ddbe68b.png)

@@ -5,6 +5,7 @@ date: 2025-03-04T02:56:00.005Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "Quebrando o Hábito de Ser Você Mesmo - Dr. Joe Dispenza"
+image: "https://i.ibb.co/scQPqJQ/3dd31abe7d0a.jpg"
 ---
 
 ## Quebrando o Hábito de Ser Você Mesmo - Dr. Joe Dispenza

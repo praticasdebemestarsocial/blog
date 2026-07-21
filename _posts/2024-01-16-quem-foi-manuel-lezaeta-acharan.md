@@ -5,6 +5,7 @@ date: 2024-01-16T05:21:00.042Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem foi Lezaeta Acharan?"
+image: "https://i.ibb.co/FbvbHtP2/6092e3666d74.png"
 ---
 
 ![](https://i.ibb.co/FbvbHtP2/6092e3666d74.png)

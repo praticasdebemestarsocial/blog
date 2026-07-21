@@ -5,6 +5,7 @@ date: 2024-04-11T08:03:00.004Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Os Fundamentos da Iridologia: Os Olhos como Chave para o Seu Perfil de Saúde Genética"
+image: "https://i.ibb.co/hJ9nkRjP/c96d1e4fb9f4.png"
 ---
 
 ![](https://i.ibb.co/hJ9nkRjP/c96d1e4fb9f4.png)

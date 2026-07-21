@@ -5,6 +5,7 @@ date: 2025-02-25T11:51:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Mapeamento da Íris: Identificação, Biometria e Diagnóstico"
+image: "https://i.ibb.co/DscHn36/3f60dab81969.jpg"
 ---
 
 ![](https://i.ibb.co/DscHn36/3f60dab81969.jpg)

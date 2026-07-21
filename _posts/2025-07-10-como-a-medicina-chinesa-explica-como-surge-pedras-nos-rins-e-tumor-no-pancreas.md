@@ -5,9 +5,10 @@ date: 2025-07-10T09:27:00.003Z
 tags: ["medicina tradicional chinesa"]
 categories: ["bem-estar"]
 description: "Como a Medicina Chinesa explica como surge pedras nos rins e tumor no pâncreas?"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHHUk4xoiPKanrhQJn3a-bPGpyZ3vrOG17hXuFmXQX7pB3d1MOUd-wA_8iXZthLte5UWJIfRpQkLoRSel1qJn6h8HnXoMxxP2ToexBDTWxIH-p8cgJ_ChblPGPR12Lu7v_eaZaC2qP_f3e-v40BawD-T0I3_ZgARuA2AeyllKjSafM0PSBdCVfWyijVmw/w505-h284/Como_a_Medicina_Chinesa_explica_como_surge_pedras_nos_rins_e_tumor_no_p%C3%A2ncreas.png"
 ---
 
-![](https://i.ibb.co/G40vQXSn/01917755f7a2.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHHUk4xoiPKanrhQJn3a-bPGpyZ3vrOG17hXuFmXQX7pB3d1MOUd-wA_8iXZthLte5UWJIfRpQkLoRSel1qJn6h8HnXoMxxP2ToexBDTWxIH-p8cgJ_ChblPGPR12Lu7v_eaZaC2qP_f3e-v40BawD-T0I3_ZgARuA2AeyllKjSafM0PSBdCVfWyijVmw/w505-h284/Como_a_Medicina_Chinesa_explica_como_surge_pedras_nos_rins_e_tumor_no_p%C3%A2ncreas.png)
 
 # Como a Medicina Chinesa explica como surge pedras nos rins e tumor no pâncreas?
 
@@ -107,7 +108,7 @@ Tanto os rins quanto o Baço-Pâncreas dependem do equilíbrio entre Yin
 enfraquecido, pode haver calor excessivo no corpo, prejudicando o Baço-Pâncreas
 e aumentando o risco de inflamação crônica ou crescimento anormal de tecidos.
 
-![](https://i.ibb.co/spfcMcx7/ccb24ce377d3.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDzWdnZ3Cd-8ZECQ2vVWiBXUS0wGO72ir9bbwZ4FjX6rqJchk2t21OjJgnjYAUI5VVxBbLtulCXO0ay4PjLk33G52gfsQuZzt9GZgtIpMa0AiOW3O_BcU1DufeyX09ZbJ_UqWS8ebLGbJkdGdxeGbnVkznCIQy8_S1Wfg9RfFFy5SZDVbS_ljW8qB32io/s320/rins_baco_pancreas.jpg)
 
 ## Quais Fatores Emocionais pode interferir no funcionamento do Baço-Pâncreas e Rins?
 

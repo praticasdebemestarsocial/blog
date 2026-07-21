@@ -5,6 +5,7 @@ date: 2025-02-16T21:55:00.006Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem é Prof. Dr. Pr. Jean Alves Cabral?"
+image: "https://i.ibb.co/rGzpwqsJ/452657d2c6ab.png"
 ---
 
 ![](https://i.ibb.co/rGzpwqsJ/452657d2c6ab.png)

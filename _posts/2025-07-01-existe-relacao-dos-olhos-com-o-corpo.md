@@ -5,9 +5,10 @@ date: 2025-07-01T22:42:00.009Z
 tags: ["anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "Existe relação dos olhos com o corpo?"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1iG8Y-tZ878of4xCwc0WC5kUVHK-O68h6wwumEOWLn1dBC_O6Wq4te0kq03vsZX_8eYZqhS9c4wwrddFowQh7fRljer5oZWr61gW-x7Apl_RGWWkyt2L6U-JT5y1KAQmejtF7im2lKJvklXQJE9y0h3eLrdU_XoKKyu0Zd5-4bBFlvW3oNuKuPM-UyoY/w589-h331/Existe_rela%C3%A7%C3%A3o_dos_olhos_com_o_corpo.png"
 ---
 
-![](https://i.ibb.co/VpvrNmz5/e37eb945bd20.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1iG8Y-tZ878of4xCwc0WC5kUVHK-O68h6wwumEOWLn1dBC_O6Wq4te0kq03vsZX_8eYZqhS9c4wwrddFowQh7fRljer5oZWr61gW-x7Apl_RGWWkyt2L6U-JT5y1KAQmejtF7im2lKJvklXQJE9y0h3eLrdU_XoKKyu0Zd5-4bBFlvW3oNuKuPM-UyoY/w589-h331/Existe_rela%C3%A7%C3%A3o_dos_olhos_com_o_corpo.png)
 
 # Existe relação dos olhos com o corpo?
 

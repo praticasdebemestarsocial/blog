@@ -5,6 +5,7 @@ date: 2025-02-28T20:28:00.004Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "Exame Ocular Pode Prever o Risco de AVC? Entenda o Novo Estudo Científico"
+image: "https://i.ibb.co/4wrLdPt9/4aaef5cf8a72.png"
 ---
 
 ![](https://i.ibb.co/4wrLdPt9/4aaef5cf8a72.png)

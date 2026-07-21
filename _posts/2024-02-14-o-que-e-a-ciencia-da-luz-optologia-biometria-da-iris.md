@@ -5,6 +5,7 @@ date: 2024-02-14T02:51:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "1- O que é a ciência da luz?"
+image: "https://www.cruzeirodosulvirtual.com.br/wp-content/uploads/2022/11/optica_e_optometria-1.webp"
 ---
 
 ## 1- O que é a ciência da luz?

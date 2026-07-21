@@ -5,6 +5,7 @@ date: 2025-03-10T00:14:00.005Z
 tags: ["medicina tradicional chinesa"]
 categories: ["bem-estar"]
 description: "O Microssistema dentário na medicina chinesa e sua relação com determinados orgãos?"
+image: "https://i.ibb.co/wrFPny98/65831700c602.jpg"
 ---
 
 ## O Microssistema dentário na medicina chinesa e sua relação com determinados orgãos?
@@ -105,7 +106,7 @@ em consideração que nem todo problema de dente ocorre por conta do estado dos
 
 Mapa de correlação dos dentes com os órgãos:
 
-![](https://i.ibb.co/BKvV5pPN/e86a67e07eac.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5G-x39NPUwbT1ovmZ4jnOynIX2eVJ62dXCotYwDSrX1TBxFh8Wz5-fl2GG9lzjiUj2lY0iMBsg4qr4l0FV3Zrrrkxq052KnjSa6hSmfAVNNSlXbdVkTPmKr36JMSlJ8gHFfZST7nr4cq_xA7Lpx5_q6z0f0J4ThN8tmV0z4pdbOnUpSesf-qeY3S1RZ0/w497-h373/mapa%20de%20correla%C3%A7%C3%A3o%20dos%20dentes%20com%20os%20%C3%B3rg%C3%A3os.webp)
 
 ## 🔹 **Aplicação Clínica do Microssistema Dentário na MTC**
 

@@ -5,6 +5,7 @@ date: 2024-12-06T02:59:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Você já parou para pensar no que realmente significa estar bem? Muitas pessoas acreditam que saúde é simplesmente não estar doente."
+image: "https://i.ibb.co/WNtf86Rr/b2541bca819d.png"
 ---
 
 ![](https://i.ibb.co/WNtf86Rr/b2541bca819d.png)

@@ -5,6 +5,7 @@ date: 2025-02-03T20:16:00.010Z
 tags: ["história da iridologia"]
 categories: ["bem-estar"]
 description: "Sinais nos olhos, Iridologia e a Saúde Geral: Uma Perspectiva Histórica"
+image: "https://i.ibb.co/9kLB7xxr/f7e7a442aca2.png"
 ---
 
 ![](https://i.ibb.co/9kLB7xxr/f7e7a442aca2.png)

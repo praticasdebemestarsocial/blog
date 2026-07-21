@@ -5,6 +5,7 @@ date: 2024-04-15T01:58:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Na Iridologia o que identifica a área da vitalidade?"
+image: "https://i.ibb.co/ym25s60V/a850c6892c37.jpg"
 ---
 
 ![](https://i.ibb.co/ym25s60V/a850c6892c37.jpg)

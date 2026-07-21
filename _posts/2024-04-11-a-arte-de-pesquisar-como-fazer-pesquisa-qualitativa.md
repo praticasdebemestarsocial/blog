@@ -5,6 +5,7 @@ date: 2024-04-11T08:17:00.005Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "A Arte de Pesquisar: Como Fazer Pesquisa Qualitativa em Ciências Sociais"
+image: "https://i.ibb.co/k2M68KhG/d509226ce06e.png"
 ---
 
 ![](https://i.ibb.co/k2M68KhG/d509226ce06e.png)

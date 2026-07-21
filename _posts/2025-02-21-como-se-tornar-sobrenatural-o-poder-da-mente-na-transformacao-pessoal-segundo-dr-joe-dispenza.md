@@ -5,6 +5,7 @@ date: 2025-02-21T06:06:00.004Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "Como Se Tornar Sobrenatural: O Poder da Mente na Transformação Pessoal, Segundo Dr. Joe Dispenza"
+image: "https://i.ibb.co/Jjv6DKSS/2a29e29f5859.jpg"
 ---
 
 ## Como Se Tornar Sobrenatural: O Poder da Mente na Transformação Pessoal, Segundo Dr. Joe Dispenza

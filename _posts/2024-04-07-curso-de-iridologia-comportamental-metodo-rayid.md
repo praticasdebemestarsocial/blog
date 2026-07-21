@@ -5,6 +5,7 @@ date: 2024-04-07T07:24:00.002Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: ".png).png)"
+image: "https://i.ibb.co/fYDZprxr/aa0ae2737455.png"
 ---
 
 ![](https://i.ibb.co/fYDZprxr/aa0ae2737455.png).png).png)

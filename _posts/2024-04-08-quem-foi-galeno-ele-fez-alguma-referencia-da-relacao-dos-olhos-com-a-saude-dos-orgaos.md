@@ -5,6 +5,7 @@ date: 2024-04-08T05:28:00.003Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Tempo estimado de leitura: 4 minutos Quem foi Galeno?"
+image: "https://i.ibb.co/DgCTKXXv/62b2cf39aeb6.png"
 ---
 
 ## Tempo estimado de leitura: 4 minutos Quem foi Galeno?

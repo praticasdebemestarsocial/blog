@@ -5,6 +5,7 @@ date: 2025-02-16T00:59:00.005Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "Institute of Holistic Nutrition: Revolucionando a Saúde com Nutrição Integrativa"
+image: "https://i.ibb.co/zVkktZVq/637fcecf871e.png"
 ---
 
 ![](https://i.ibb.co/zVkktZVq/637fcecf871e.png)

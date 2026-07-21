@@ -5,6 +5,7 @@ date: 2024-01-16T04:19:00.009Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "O fala o livro Os Pilares da Iridolgia?"
+image: "https://i.ibb.co/VcV3HRjH/f0c5d96d5405.png"
 ---
 
 ## 

@@ -5,6 +5,7 @@ date: 2025-02-15T21:55:00.006Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "School of Natural Medicine UK"
+image: "https://i.ibb.co/F4d7fTkF/d6bdc79d63b5.jpg"
 ---
 
 ## 

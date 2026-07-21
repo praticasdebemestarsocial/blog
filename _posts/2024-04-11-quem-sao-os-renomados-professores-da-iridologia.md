@@ -5,6 +5,7 @@ date: 2024-04-11T07:03:00.006Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Já desde muito tempo, existe o estudo da iridologia e podemos encontrar várias escolas bem avançadas no estudo nos Estados Unidos, na Rússia, na Alema..."
+image: "https://i.ibb.co/mC8cYtkW/be647746380d.png"
 ---
 
 ![](https://i.ibb.co/mC8cYtkW/be647746380d.png)

@@ -5,6 +5,7 @@ date: 2024-01-14T07:46:00.002Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "1- O que é o Projeto Plátano?"
+image: "https://i.ibb.co/jvHF7QdQ/0855ba1083bc.png"
 ---
 
 ![](https://i.ibb.co/jvHF7QdQ/0855ba1083bc.png)

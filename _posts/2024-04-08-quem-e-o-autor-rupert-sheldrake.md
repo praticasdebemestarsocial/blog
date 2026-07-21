@@ -5,6 +5,7 @@ date: 2024-04-08T02:15:00.003Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "Quem é o autor Rupert Sheldrake?"
+image: "https://i.ibb.co/JWfpv9J2/904520220129.png"
 ---
 
 ![](https://i.ibb.co/JWfpv9J2/904520220129.png)

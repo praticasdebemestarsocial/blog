@@ -5,6 +5,7 @@ date: 2024-01-16T03:57:00.006Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Leonard Mehlmauer e Nenita Sarmiento: os pioneiros da Olhodiagnose Integral"
+image: "https://i.ibb.co/zhk21TQm/21fa6f886d4f.png"
 ---
 
 ![](https://i.ibb.co/zhk21TQm/21fa6f886d4f.png)

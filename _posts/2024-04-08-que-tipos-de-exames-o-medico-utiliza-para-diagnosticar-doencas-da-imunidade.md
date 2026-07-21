@@ -5,6 +5,7 @@ date: 2024-04-08T21:17:00.002Z
 tags: ["anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "Que tipos de exames o médico utiliza para diagnosticar doenças da imunidade?"
+image: "https://i.ibb.co/nMkFssvP/1f8a8beef9dd.jpg"
 ---
 
 ## 

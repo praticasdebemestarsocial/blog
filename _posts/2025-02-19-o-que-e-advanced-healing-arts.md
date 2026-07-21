@@ -5,6 +5,7 @@ date: 2025-02-19T21:48:00.005Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: ".png).png)"
+image: "https://i.ibb.co/0pPPY3dR/739912b204de.png"
 ---
 
 ![](https://i.ibb.co/0pPPY3dR/739912b204de.png).png).png)

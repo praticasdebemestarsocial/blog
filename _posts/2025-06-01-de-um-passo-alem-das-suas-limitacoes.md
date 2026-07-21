@@ -5,9 +5,10 @@ date: 2025-06-01T04:36:00.002Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "Dê um passo além das suas limitações"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidAMkpBM9w9kb5A3Y_K7ZwhLbKVgNiZ0d7qS4pz0-54A8_rmh5qR0wf6QyIpKiIyB5FX_prp27F2_ljzmKwHJPVn55C8tIworychxSRAZlu9kFAMRTDo4VfMGeTaKI7NoKxRcY8ejPxVc77YV1hdSHZEbrme-mE_6EpwGmCqBdqev0VfwpvpCyvBj0L4E/w491-h276/D%C3%AA%20um%20passo%20al%C3%A9m%20das%20suas%20limita%C3%A7%C3%B5es.png"
 ---
 
-![](https://i.ibb.co/Pss5JBjv/ce8f60c18ea4.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidAMkpBM9w9kb5A3Y_K7ZwhLbKVgNiZ0d7qS4pz0-54A8_rmh5qR0wf6QyIpKiIyB5FX_prp27F2_ljzmKwHJPVn55C8tIworychxSRAZlu9kFAMRTDo4VfMGeTaKI7NoKxRcY8ejPxVc77YV1hdSHZEbrme-mE_6EpwGmCqBdqev0VfwpvpCyvBj0L4E/w491-h276/D%C3%AA%20um%20passo%20al%C3%A9m%20das%20suas%20limita%C3%A7%C3%B5es.png)
 
   
 

@@ -5,6 +5,7 @@ date: 2025-02-15T20:48:00.010Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Optometria Holística – A visão nos permite perceber, entender, interpretar e adaptar"
+image: "https://i.ibb.co/gZhcnrgH/7b05ab8b7aea.png"
 ---
 
 ![](https://i.ibb.co/gZhcnrgH/7b05ab8b7aea.png)

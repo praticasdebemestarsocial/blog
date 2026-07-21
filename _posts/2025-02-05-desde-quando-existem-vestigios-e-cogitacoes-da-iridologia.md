@@ -5,6 +5,7 @@ date: 2025-02-05T00:49:00.012Z
 tags: ["história da iridologia"]
 categories: ["bem-estar"]
 description: "Desde quando existem vestígios e cogitações da iridologia?"
+image: "https://i.ibb.co/S4fQz8vT/087efbe9b2eb.png"
 ---
 
 ![](https://i.ibb.co/S4fQz8vT/087efbe9b2eb.png)

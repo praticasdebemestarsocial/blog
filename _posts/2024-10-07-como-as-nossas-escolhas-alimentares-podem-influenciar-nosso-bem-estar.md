@@ -5,6 +5,7 @@ date: 2024-10-07T08:13:00.001Z
 tags: ["dietoterapia"]
 categories: ["bem-estar"]
 description: "Olá, pessoal! Bem-vindos ao canal! Hoje, vamos explorar como nossos valores"
+image: "https://i.ibb.co/84j8jZmF/7349958eb653.png"
 ---
 
 ![](https://i.ibb.co/84j8jZmF/7349958eb653.png)

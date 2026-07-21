@@ -5,6 +5,7 @@ date: 2025-02-15T22:23:00.005Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Escola de Cura Natural do Dr. Christopher"
+image: "https://i.ibb.co/rGBbFx60/ccf3e5d10712.png"
 ---
 
 ![](https://i.ibb.co/rGBbFx60/ccf3e5d10712.png)

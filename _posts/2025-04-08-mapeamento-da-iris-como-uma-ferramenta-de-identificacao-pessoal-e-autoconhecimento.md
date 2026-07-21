@@ -5,9 +5,10 @@ date: 2025-04-08T18:56:00.001Z
 tags: ["mapeamento da íris"]
 categories: ["bem-estar"]
 description: "Mapeamento da Íris: Um Espelho Pessoal para o Autoconhecimento"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikY8aqv2KWxWmMtREhNFKjlk8Y8HG4MM6Rh-kNUa4jDNO_rUckepLi2B65ySirYKNhU3MTM3-GUKNmlXQ__neYNlceb8WSUTnMm1QmsyWlozHy8h1r0nqhAYyQpbDCBAIeS4can6F8l_ad9qX2-AOceLvQDIiPDWwYESiMA_66U_2jz6nVAFgSz0erVfI/w589-h332/Mapeamento_da_iris_como_uma_ferramenta_de_identifica%C3%A7%C3%A3o_pessoal_e_autoconhecimento..png"
 ---
 
-![](https://i.ibb.co/7xSrzJ0P/3d2abb57b1f8.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikY8aqv2KWxWmMtREhNFKjlk8Y8HG4MM6Rh-kNUa4jDNO_rUckepLi2B65ySirYKNhU3MTM3-GUKNmlXQ__neYNlceb8WSUTnMm1QmsyWlozHy8h1r0nqhAYyQpbDCBAIeS4can6F8l_ad9qX2-AOceLvQDIiPDWwYESiMA_66U_2jz6nVAFgSz0erVfI/w589-h332/Mapeamento_da_iris_como_uma_ferramenta_de_identifica%C3%A7%C3%A3o_pessoal_e_autoconhecimento..png)
 
   
 

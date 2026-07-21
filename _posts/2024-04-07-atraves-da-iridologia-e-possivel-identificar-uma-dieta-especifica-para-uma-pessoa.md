@@ -5,6 +5,7 @@ date: 2024-04-07T07:51:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "1-  Como que através da iridologia é possivel identificar uma dieta específica para uma pessoa?"
+image: "https://i.ibb.co/p6T9p8Qn/b1bad0614708.jpg"
 ---
 
 ![](https://i.ibb.co/p6T9p8Qn/b1bad0614708.jpg)

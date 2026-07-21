@@ -5,6 +5,7 @@ date: 2025-02-15T21:32:00.007Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "International College of Holistic Health (ICHH): Formação Profissional em Saúde Holística e Bem-Estar"
+image: "https://i.ibb.co/k2YY6XDs/5c5ad75746ac.jpg"
 ---
 
 ![](https://i.ibb.co/k2YY6XDs/5c5ad75746ac.jpg)

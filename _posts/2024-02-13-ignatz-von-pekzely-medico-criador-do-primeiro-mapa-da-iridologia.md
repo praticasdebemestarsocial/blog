@@ -5,6 +5,7 @@ date: 2024-02-13T17:11:00.019Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "iridologia(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2HcnvB20qKYaqDy5ODlaLX7yLnzHqQ9WMNJQeQV-PpWurwYFN4XSCD-nXychUe7aG81ZZK0UGBUAiLb..."
+image: "https://i.ibb.co/B5MWGkPP/b15c0ce0282d.png "mapa_iridologia_peczely""
 ---
 
 ## [iridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2HcnvB20qKYaqDy5ODlaLX7yLn_zHqQ9WMNJQeQV-PpWurwYFN4XSCD-nXychUe7aG81ZZK0UGBUAiLbybiYZTEyERJIGDiuYyQd0XGQ2phhdyz06QGYrpEMtdNvSO-bT4jRw6idZ-wMTeJPr0wvA9prG-JU2-jQGMyn3S3ZzwAJM4rCKn949VVO62MA/s1200/Ignatz_Von_Pekzely_m%C3%A9dico_criador_do_primeiro_mapa_da_iridologia.png)

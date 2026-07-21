@@ -5,6 +5,7 @@ date: 2024-04-06T08:24:00.006Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "A Ilusão Científica: Desafiando os 10 Dogmas da Ciência Moderna com Rupert Sheldrake"
+image: "https://i.ibb.co/mF9DgmMF/6fe508d7ae97.png"
 ---
 
 ![](https://i.ibb.co/mF9DgmMF/6fe508d7ae97.png)

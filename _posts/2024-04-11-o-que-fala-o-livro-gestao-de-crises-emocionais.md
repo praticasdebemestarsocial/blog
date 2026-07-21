@@ -5,6 +5,7 @@ date: 2024-04-11T06:48:00.003Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: ""Gestão de Crises Emocionais: Transformando Tempestades em Oportunidades de Crescimento""
+image: "https://i.ibb.co/BV7c6mB4/b2ef64476225.png"
 ---
 
 ![](https://i.ibb.co/BV7c6mB4/b2ef64476225.png)

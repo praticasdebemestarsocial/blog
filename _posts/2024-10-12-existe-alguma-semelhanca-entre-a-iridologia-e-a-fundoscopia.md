@@ -5,6 +5,7 @@ date: 2024-10-12T05:41:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Fundoscopia e a Iridologia: Uma Comparação"
+image: "https://i.ibb.co/v4vmJpqs/4a99c8eecf00.png"
 ---
 
 ![](https://i.ibb.co/v4vmJpqs/4a99c8eecf00.png)

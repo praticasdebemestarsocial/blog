@@ -5,6 +5,7 @@ date: 2025-02-20T05:19:00.009Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Como se realiza e se fundamenta a bioenergética ocular?Iridololgia."
+image: "https://i.ibb.co/GQnbBQcX/026aed37a284.png"
 ---
 
 ![](https://i.ibb.co/GQnbBQcX/026aed37a284.png)

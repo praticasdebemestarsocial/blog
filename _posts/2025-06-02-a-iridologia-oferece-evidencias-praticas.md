@@ -5,9 +5,10 @@ date: 2025-06-02T12:59:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Iridologia como um Olhar Interno para a Saúde"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrRH9EWrUX018pbLgmu3AtUNsPBLavcNVxZcS_88zQqKJ_QfZWBFlwAvGuWrlIlk9k_NipMvWeoKhiX1J14A-k_Shcsc_ebIyRiY__AOniRAUwU4ExvDQkbl6KdZClYsqoVxkpcNWttuJJekeX85AEI_Ske9S-4W7q-M7NRiQ9sMsYQP8xqqmqyWoDX-U/w550-h309/A_Iridologia_oferece_evid%C3%AAncias_pr%C3%A1ticas.png"
 ---
 
-![](https://i.ibb.co/JRnhY6LY/d3468fec35e9.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrRH9EWrUX018pbLgmu3AtUNsPBLavcNVxZcS_88zQqKJ_QfZWBFlwAvGuWrlIlk9k_NipMvWeoKhiX1J14A-k_Shcsc_ebIyRiY__AOniRAUwU4ExvDQkbl6KdZClYsqoVxkpcNWttuJJekeX85AEI_Ske9S-4W7q-M7NRiQ9sMsYQP8xqqmqyWoDX-U/w550-h309/A_Iridologia_oferece_evid%C3%AAncias_pr%C3%A1ticas.png)
 
   
 

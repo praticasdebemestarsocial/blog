@@ -5,6 +5,7 @@ date: 2025-02-16T01:24:00.006Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "David J. Pesek: O Pai da Iridologia Holística e Sua Revolução na Ciência da Íris"
+image: "https://i.ibb.co/jZGJLQQ8/66a927b3f426.png"
 ---
 
 ![](https://i.ibb.co/jZGJLQQ8/66a927b3f426.png)

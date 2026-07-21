@@ -5,9 +5,10 @@ date: 2026-01-13T04:01:00.009Z
 tags: ["anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "O Olho Não Enxerga Sozinho: a anatomia real que conecta visão, cérebro e corpo"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_aTVI0dTeJ4meDwkZxKwGg3uhVgyW7YMLfEozq6FMiZOwkaMmMpx_fDZi69sv1duyIAvGg6fhyphenhyphenbClCtMKWT2xOsx_zvfI0JO0ehKZDMOsj7hoAHcQvSv3PryLn0hNpA6J236qGzTdxgxNQChOZ11AduZ645vQYR2IcqHxAowF1YXfMn99fyCfgXftTBA/w500-h299/olho_vis%C3%A3o_anatomia_iridologia.png"
 ---
 
-![](https://i.ibb.co/QBJT5S4/0b55895caa2c.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_aTVI0dTeJ4meDwkZxKwGg3uhVgyW7YMLfEozq6FMiZOwkaMmMpx_fDZi69sv1duyIAvGg6fhyphenhyphenbClCtMKWT2xOsx_zvfI0JO0ehKZDMOsj7hoAHcQvSv3PryLn0hNpA6J236qGzTdxgxNQChOZ11AduZ645vQYR2IcqHxAowF1YXfMn99fyCfgXftTBA/w500-h299/olho_vis%C3%A3o_anatomia_iridologia.png)
 
   
 

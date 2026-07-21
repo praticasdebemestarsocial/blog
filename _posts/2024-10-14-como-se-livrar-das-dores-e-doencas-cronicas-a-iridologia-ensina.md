@@ -5,6 +5,7 @@ date: 2024-10-14T15:52:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: ".png).png)"
+image: "https://i.ibb.co/dwjPtrcN/8588219e5acb.png"
 ---
 
 ![](https://i.ibb.co/dwjPtrcN/8588219e5acb.png).png).png)

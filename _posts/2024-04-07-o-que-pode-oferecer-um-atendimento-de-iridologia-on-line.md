@@ -5,6 +5,7 @@ date: 2024-04-07T07:17:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O que pode oferecer um atendimento de iridologia on line?"
+image: "https://i.ibb.co/dwMfr8g9/8c71a7c9679d.png"
 ---
 
 ![](https://i.ibb.co/dwMfr8g9/8c71a7c9679d.png)

@@ -5,9 +5,10 @@ date: 2026-01-06T04:58:00.009Z
 tags: ["psicoespiritualidade"]
 categories: ["bem-estar"]
 description: ".jpg).jpg)"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DaiGFicjVFuhyphenhyphen2493hS37Cv0eHi2qTeb9G1hKLhx0BLNoVFpv7D1OpaofeaJliTfsArAmtVBq2qa1Rb9IW4Ui6bcTOosQ5hzpzkBWdKZFhW__xnulTCAl51NDbmbfGM9JmXhj5jFGPlacOGMD40uoCHy5tgHRDeJeXNYD0yMZeda0cXe9qMSAsFPygo/w485-h271/Corpo,%20Mente%20e%20Alma_%20o%20retorno%20%C3%A0%20unidade%20perdida%20(2"
 ---
 
-![](https://i.ibb.co/GvhrW4z4/bde316946eb4.jpg).jpg).jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DaiGFicjVFuhyphenhyphen2493hS37Cv0eHi2qTeb9G1hKLhx0BLNoVFpv7D1OpaofeaJliTfsArAmtVBq2qa1Rb9IW4Ui6bcTOosQ5hzpzkBWdKZFhW__xnulTCAl51NDbmbfGM9JmXhj5jFGPlacOGMD40uoCHy5tgHRDeJeXNYD0yMZeda0cXe9qMSAsFPygo/w485-h271/Corpo,%20Mente%20e%20Alma_%20o%20retorno%20%C3%A0%20unidade%20perdida%20(2).jpg).jpg)
 
   
 

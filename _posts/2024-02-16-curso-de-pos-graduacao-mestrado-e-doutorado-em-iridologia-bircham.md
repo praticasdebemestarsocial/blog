@@ -5,6 +5,7 @@ date: 2024-02-16T22:32:00.002Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "1- Como é a Universidade Internacional Bircham?"
+image: "https://i.ibb.co/cckqxVgr/30d2eb0badc8.jpg"
 ---
 
 ## 1- Como é a Universidade Internacional Bircham?

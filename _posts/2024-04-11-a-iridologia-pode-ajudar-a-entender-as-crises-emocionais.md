@@ -5,6 +5,7 @@ date: 2024-04-11T09:17:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Iridologia pode ajudar a entender as crises emocionais?"
+image: "https://i.ibb.co/6J0RTJNY/c4bcf04af2a9.png"
 ---
 
 ![](https://i.ibb.co/6J0RTJNY/c4bcf04af2a9.png)

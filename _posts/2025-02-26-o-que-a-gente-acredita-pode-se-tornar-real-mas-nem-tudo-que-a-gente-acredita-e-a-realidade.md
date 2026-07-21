@@ -5,6 +5,7 @@ date: 2025-02-26T01:35:00.004Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "O que acreditamos pode influenciar nossa realidade, mas isso não significa que tudo o que acreditamos seja, de fato, a verdade absoluta."
+image: "https://i.ibb.co/BHpJrmKr/5e1e885786ed.png"
 ---
 
 ![](https://i.ibb.co/BHpJrmKr/5e1e885786ed.png)

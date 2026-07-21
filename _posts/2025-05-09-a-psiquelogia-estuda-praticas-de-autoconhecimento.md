@@ -5,9 +5,10 @@ date: 2025-05-09T02:31:00.003Z
 tags: ["psicanalise hipnoterapia"]
 categories: ["bem-estar"]
 description: "Um conceito inovador, quase como um neologismo: psiquêlogia — um novo modo de estudar a psique humana de forma holística e mística, diferente da psico..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGEbnj00h0Cnt0kTXLNGExEqvKK9O7vLOffisSKCRKiwdTuFeSgAjN8TfbfQy5GJ8fqV9HZKPYoZeW3knzyGPS37WAOGLqMJCMa9nknP29HneqmuXpbx4nsDLjRojedDTZ3FPfZqdn5DglWWA8e-twgqquT5vc5kb4cEs-Pw64QatYhI2ad7sPs_SlWSY/w556-h313/A_Psiqu%C3%AAlogia_estuda_pr%C3%A1ticas_de_autoconhecimento.png"
 ---
 
-![](https://i.ibb.co/gMJn68pV/13c1773131ae.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGEbnj00h0Cnt0kTXLNGExEqvKK9O7vLOffisSKCRKiwdTuFeSgAjN8TfbfQy5GJ8fqV9HZKPYoZeW3knzyGPS37WAOGLqMJCMa9nknP29HneqmuXpbx4nsDLjRojedDTZ3FPfZqdn5DglWWA8e-twgqquT5vc5kb4cEs-Pw64QatYhI2ad7sPs_SlWSY/w556-h313/A_Psiqu%C3%AAlogia_estuda_pr%C3%A1ticas_de_autoconhecimento.png)
 
   
  Um conceito **inovador**, quase como um **neologismo**: *psi**quê**logia* — um novo modo de estudar a **psique** humana de forma **holística e mística**, diferente da psicologia tradicional.

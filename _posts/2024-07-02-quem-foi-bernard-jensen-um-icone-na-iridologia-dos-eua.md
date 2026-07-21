@@ -5,6 +5,7 @@ date: 2024-07-02T06:51:00.011Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem foi Bernard Jensen?Um icone na iridologia dos EUA"
+image: "https://i.ibb.co/pBf8Pc0n/980f6ce5ab7f.png"
 ---
 
 ![](https://i.ibb.co/pBf8Pc0n/980f6ce5ab7f.png)

@@ -5,6 +5,7 @@ date: 2025-02-05T01:54:00.020Z
 tags: ["história da iridologia"]
 categories: ["bem-estar"]
 description: "Iridologia na Europa  – A Evolução dos Estudos"
+image: "https://i.ibb.co/5qP38s2/a13ec04c5175.png"
 ---
 
 ![](https://i.ibb.co/5qP38s2/a13ec04c5175.png)

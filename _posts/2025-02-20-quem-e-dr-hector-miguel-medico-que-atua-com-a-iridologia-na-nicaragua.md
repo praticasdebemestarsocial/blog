@@ -5,6 +5,7 @@ date: 2025-02-20T01:26:00.004Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem é Dr. Hector Miguel Alonso Dominguez?"
+image: "https://i.ibb.co/Q7RrkqMM/488b00a81796.png"
 ---
 
 ![](https://i.ibb.co/Q7RrkqMM/488b00a81796.png)

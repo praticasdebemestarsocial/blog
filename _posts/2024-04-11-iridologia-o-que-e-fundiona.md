@@ -5,6 +5,7 @@ date: 2024-04-11T06:40:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Iridologia: O que é? Fundiona?"
+image: "https://i.ibb.co/ccWRwgCZ/75235fd1d704.png"
 ---
 
 ![](https://i.ibb.co/ccWRwgCZ/75235fd1d704.png)

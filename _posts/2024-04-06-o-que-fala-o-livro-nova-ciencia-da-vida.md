@@ -5,6 +5,7 @@ date: 2024-04-06T08:32:00.005Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "Ressonância Mórfica: A Teoria Revolucionária de Rupert Sheldrake em "Uma Nova Ciência da Vida""
+image: "https://i.ibb.co/RGMjms14/5b9ba0f0eebd.png"
 ---
 
 ![](https://i.ibb.co/RGMjms14/5b9ba0f0eebd.png)

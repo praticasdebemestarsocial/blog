@@ -5,6 +5,7 @@ date: 2025-02-09T07:39:00.016Z
 tags: ["história da iridologia"]
 categories: ["bem-estar"]
 description: "Como nasceu a Iridologia?"
+image: "https://i.ibb.co/V0fThnMP/1d8e2e054538.jpg"
 ---
 
 # Como nasceu a Iridologia?

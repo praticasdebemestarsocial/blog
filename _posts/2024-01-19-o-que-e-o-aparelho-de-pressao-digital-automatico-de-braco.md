@@ -5,6 +5,7 @@ date: 2024-01-19T17:44:00.003Z
 tags: ["equipamentos atendimento"]
 categories: ["bem-estar"]
 description: "Aparelho de Pressão Digital para Monitoramento Confiável"
+image: "https://i.ibb.co/RtJZXts/c92d5625c475.jpg"
 ---
 
 ![](https://i.ibb.co/RtJZXts/c92d5625c475.jpg)

@@ -5,6 +5,7 @@ date: 2024-01-12T00:41:00.011Z
 tags: ["história da iridologia"]
 categories: ["bem-estar"]
 description: "O Livro Corpus Hippocraticum e a Ligação dos Olhos com a Saúde Física"
+image: "https://i.ibb.co/qMM8bL9B/b2c13d927641.jpg"
 ---
 
 ## 

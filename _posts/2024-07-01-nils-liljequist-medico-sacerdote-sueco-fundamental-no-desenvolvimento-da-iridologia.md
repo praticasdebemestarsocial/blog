@@ -5,6 +5,7 @@ date: 2024-07-01T16:15:00.010Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Quem foi Nils Liljequist?"
+image: "https://i.ibb.co/Sw5zqsnk/260fa87383c0.png"
 ---
 
 ![](https://i.ibb.co/Sw5zqsnk/260fa87383c0.png)
@@ -135,7 +136,7 @@ incorporado](https://archive.org/embed/ico-25-the-diagnosis-from-the-eye-iridolo
 
   
 
-![](https://i.ibb.co/LdQSYv6k/0356049e304c.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-t06JS3dJ0loavHblnQ1bhdR5rVhDh9BuKzZc74kNYVBFdG-LOM5drplMbYMD9nZqORgj-KrK5s2VRuDOrhbaeBs4AiyVJRthEl-Ph1Opd7FO2vlh7gIJMBCTtg2fRNyildo3yxMh2_EMmAvh3wtyH7ZifG_kBmeXCDbCnF5wuqCU4kjaHvwMTHzliv0/s320/Screenshot_4.png)
 
   
   
@@ -158,7 +159,7 @@ inglês)
 
   
 
-![](https://i.ibb.co/tMv7Cjq2/f34e0705f0ff.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggvYz7FAiBTa3yKDr4mbfWI0931VOOjiUu9xyFswMxS_3T_4iwxTubqIX2ccBHxUtloB0sDTCMaZXnjZ6RZpuw1Cw6jSAMQltl7iG-a6iHfw7WkYcq_xg-JSn0hnSJLfaLjfSKniF68aUJJ9PBnQqrGkqB3WbiKRILUptdKGWWrIeSJihi-znXn6y_8cs/w215-h315/Screenshot_15.png)
 
 The Diagnosis from the Eye
 
@@ -227,4 +228,4 @@ Larson c.1 v.2  
 
 <https://babel.hathitrust.org/cgi/pt?id=chi.64452544&seq=98> Acesso: 24 nov 2025.
 
-![](https://i.ibb.co/mVnk0g3b/e1f2cfa440d6.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8od6jwymhT3X8_lcdKazwLaZvrS24lw2YNIqIphnzB7pk6iESLitwe2xFU2720ToBtGNlAuDQXrKR004EaN8s2N1-0NHDeAeAIj3qXDQQiY9wOV-rvt4ii_zvTTl4bu9TgopRzkxzzU8FtkoBBQKXiHX-SiYSwqIgJZcjiCaTKcz49dwAbgB5dqCqYo/s320/Screenshot_43.jpg)

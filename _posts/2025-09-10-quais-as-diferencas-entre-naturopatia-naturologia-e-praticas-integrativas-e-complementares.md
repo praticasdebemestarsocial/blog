@@ -5,9 +5,10 @@ date: 2025-09-10T06:15:00.006Z
 tags: ["práticas integrativas complementares"]
 categories: ["bem-estar"]
 description: "Diferença entre Naturopatia, Naturologia e Práticas Integrativas e Complementares"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDhLjNMUqyhw_yg8U3delqRhUQhUvgSfla6hAnyrzfENKtd3hMD3E2poQ7zuWnsfh7flBJ7CqNN7nNIZCQqhPgkCoQ5Dz_2UtyvxL9J1JPZYoYtoQti0cXQZbxHF5cygWsfsu6rfV-aPNpMAp7GoFAIiwS3TMEzfRBVpzFEK6B81bWRGHV2_vB4LjdSA/w582-h329/diferen%C3%A7a_naturologia_naturopatia.jpg"
 ---
 
-![](https://i.ibb.co/8Drjjcfk/f0898e54f0e6.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDhLjNMUqyhw_yg8U3delqRhUQhUvgSfla6hAnyrzfENKtd3hMD3E2poQ7zuWnsfh7flBJ7CqNN7nNIZCQqhPgkCoQ5Dz_2UtyvxL9J1JPZYoYtoQti0cXQZbxHF5cygWsfsu6rfV-aPNpMAp7GoFAIiwS3TMEzfRBVpzFEK6B81bWRGHV2_vB4LjdSA/w582-h329/diferen%C3%A7a_naturologia_naturopatia.jpg)
 
   
 

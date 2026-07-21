@@ -5,6 +5,7 @@ date: 2024-02-14T18:49:00.005Z
 tags: ["anatomia fisiologia", "dietoterapia"]
 categories: ["bem-estar"]
 description: "1- O que é o músculo esquelético?"
+image: "https://i.ibb.co/QvDMDydQ/15bfff1847dc.jpg"
 ---
 
 ## 

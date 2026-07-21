@@ -5,9 +5,10 @@ date: 2026-06-15T03:24:45.656Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "O Lado Sombrio do Terceiro Olho: Neurociência, Allan Watts e o Perigo do Despertar Sem Aterramento"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT3qQgtJ95aDpCxRB0v_iwJ8awSf5Agdhau5kaQXBrc_V5olYZ3j8JiJUiH_MJHNECe8Z18TFl_dQ1Obb1C00iwbS8dnsxv1XR1RGsk-4wcZleXkKmsukNix-zQsp4aGOJZo6XHV832haANIQdSHwxhvBFbz3EC4xkGdCOuKHEVNA2iBL-t-k81RpXvTs/w499-h273/Gemini_Generated_Image_1qcg441qcg441qcg.png"
 ---
 
-![](https://i.ibb.co/fd69L4FH/9700a55e6586.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT3qQgtJ95aDpCxRB0v_iwJ8awSf5Agdhau5kaQXBrc_V5olYZ3j8JiJUiH_MJHNECe8Z18TFl_dQ1Obb1C00iwbS8dnsxv1XR1RGsk-4wcZleXkKmsukNix-zQsp4aGOJZo6XHV832haANIQdSHwxhvBFbz3EC4xkGdCOuKHEVNA2iBL-t-k81RpXvTs/w499-h273/Gemini_Generated_Image_1qcg441qcg441qcg.png)
 
   
 

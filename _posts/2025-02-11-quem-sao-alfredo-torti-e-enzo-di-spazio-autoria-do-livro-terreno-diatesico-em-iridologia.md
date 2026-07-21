@@ -5,6 +5,7 @@ date: 2025-02-11T02:45:00.003Z
 tags: ["autores da iridologia", "livros da iridologia"]
 categories: ["bem-estar"]
 description: "Quem são  Alfredo Torti e Enzo Di Spazio?"
+image: "https://i.ibb.co/DgwxDcXK/82d855686400.png"
 ---
 
 ![](https://i.ibb.co/DgwxDcXK/82d855686400.png)

@@ -5,6 +5,7 @@ date: 2025-01-29T20:50:00.005Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Juiz afirma que não é oftalmologista!"
+image: "https://i.ibb.co/vxwwd2wr/2da7290d3b64.png"
 ---
 
 ![](https://i.ibb.co/vxwwd2wr/2da7290d3b64.png)

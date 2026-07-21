@@ -5,6 +5,7 @@ date: 2025-03-05T00:00:00Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "O Autor e Sua Obra: Salzer e "Diagnóstico Ocular e Ocultismo""
+image: "https://i.ibb.co/p6rMpSTD/e11774391882.jpg"
 ---
 
 ## O Autor e Sua Obra: Salzer e "Diagnóstico Ocular e Ocultismo"

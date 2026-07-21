@@ -5,6 +5,7 @@ date: 2024-01-13T01:53:00.009Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Como o Olho se Conecta com os Órgãos do Corpo? Uma Análise Detalhada"
+image: "https://i.ibb.co/F45PVpwc/29d120d8b14a.jpg"
 ---
 
 ![](https://i.ibb.co/F45PVpwc/29d120d8b14a.jpg)

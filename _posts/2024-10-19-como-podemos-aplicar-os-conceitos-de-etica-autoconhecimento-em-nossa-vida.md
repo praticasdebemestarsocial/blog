@@ -5,6 +5,7 @@ date: 2024-10-19T03:35:00.003Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
 description: "Para Sócrates, a ética e o autoconhecimento estão profundamente interligados."
+image: "https://i.ibb.co/zYt10WC/68b60a168d8b.png"
 ---
 
 ![](https://i.ibb.co/zYt10WC/68b60a168d8b.png)

@@ -5,6 +5,7 @@ date: 2025-03-04T12:03:00.004Z
 tags: ["história da iridologia"]
 categories: ["bem-estar"]
 description: "A Relação Entre a Iridologia e a Saúde Geral: Uma Perspectiva Histórica"
+image: "https://i.ibb.co/mC7Cqgmp/1f1d8029868c.png"
 ---
 
 ![](https://i.ibb.co/mC7Cqgmp/1f1d8029868c.png)

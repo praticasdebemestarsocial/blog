@@ -5,6 +5,7 @@ date: 2024-01-19T18:53:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O que é um monitoramento de bem estar pela via ocular?"
+image: "https://i.ibb.co/Ld8npKJT/3b114fb9aab8.jpg"
 ---
 
 ![](https://i.ibb.co/Ld8npKJT/3b114fb9aab8.jpg)

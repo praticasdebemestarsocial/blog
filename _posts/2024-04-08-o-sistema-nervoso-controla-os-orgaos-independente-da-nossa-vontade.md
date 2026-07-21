@@ -5,6 +5,7 @@ date: 2024-04-08T00:17:00.003Z
 tags: ["anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "O sistema nervoso controla os órgãos"
+image: "https://i.ibb.co/9Hz5xyrb/8690ab5d924b.jpg"
 ---
 
 ## 

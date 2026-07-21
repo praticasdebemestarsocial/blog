@@ -5,6 +5,7 @@ date: 2025-01-28T18:04:00.009Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Iridologia Integrativa: O que é e como pode ajudar na prevenção de doenças?"
+image: "https://i.ibb.co/M5fdKQSs/5982d9f7899f.jpg"
 ---
 
 ## 

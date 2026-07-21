@@ -5,6 +5,7 @@ date: 2024-04-11T07:05:00.002Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Repertorium der Irisdiagnose de Joachim Broy: Um Guia Essencial para a Iridologia Moderna"
+image: "https://i.ibb.co/0jGDsJ0n/faead6aaceaf.png"
 ---
 
 ![](https://i.ibb.co/0jGDsJ0n/faead6aaceaf.png)

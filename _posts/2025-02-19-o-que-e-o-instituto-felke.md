@@ -5,6 +5,7 @@ date: 2025-02-19T22:38:00.006Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "O que é o Instituto Felke?"
+image: "https://i.ibb.co/60r70tVg/2abd4ad1dab7.jpg"
 ---
 
 ![](https://i.ibb.co/60r70tVg/2abd4ad1dab7.jpg)

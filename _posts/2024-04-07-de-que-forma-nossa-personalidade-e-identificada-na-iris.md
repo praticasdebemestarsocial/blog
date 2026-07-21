@@ -5,6 +5,7 @@ date: 2024-04-07T07:58:00.005Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "De que forma nossa personalidade é identificada na iris?"
+image: "https://i.ibb.co/6J8ysNw3/840bebf657f7.jpg"
 ---
 
 ![](https://i.ibb.co/6J8ysNw3/840bebf657f7.jpg)

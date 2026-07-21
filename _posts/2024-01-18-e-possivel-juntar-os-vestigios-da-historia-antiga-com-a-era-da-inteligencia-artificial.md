@@ -5,6 +5,7 @@ date: 2024-01-18T20:52:00.006Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "1- Qual a importância de juntar os vestígios da história antiga com a era da inteligência artificial?"
+image: "https://i.ibb.co/1t9g0zGp/6ebc37beff41.jpg"
 ---
 
 ## 1- Qual a importância de juntar os vestígios da história antiga com a era da inteligência artificial?

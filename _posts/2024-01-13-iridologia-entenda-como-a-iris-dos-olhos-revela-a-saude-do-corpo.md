@@ -5,6 +5,7 @@ date: 2024-01-13T04:17:00.012Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Iridologia: Entenda Como a Íris dos Olhos Revela a Saúde do Corpo"
+image: "https://i.ibb.co/Txp1q37J/db0b8d69a1b6.jpg"
 ---
 
 ![](https://i.ibb.co/Txp1q37J/db0b8d69a1b6.jpg)

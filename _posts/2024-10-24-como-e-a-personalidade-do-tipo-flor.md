@@ -5,6 +5,7 @@ date: 2024-10-24T21:30:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Como é a personalidade do tipo Flor?"
+image: "https://i.ibb.co/GvfM5d4p/139c514937e2.png"
 ---
 
 ![](https://i.ibb.co/GvfM5d4p/139c514937e2.png)

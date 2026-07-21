@@ -5,6 +5,7 @@ date: 2024-02-17T06:05:00.009Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Iridologia e Tratamento Integral: Uma Abordagem Completa para a Saúde"
+image: "https://i.ibb.co/dFC3DzH/df86df49ab54.png"
 ---
 
 ![](https://i.ibb.co/dFC3DzH/df86df49ab54.png)

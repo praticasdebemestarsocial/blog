@@ -5,6 +5,7 @@ date: 2024-01-18T19:40:00.004Z
 tags: ["práticas integrativas complementares"]
 categories: ["bem-estar"]
 description: "1- O que é Parentalidade Natural e Holística?"
+image: "https://i.ibb.co/Hf9HZDs6/bf5f2f5d6083.jpg"
 ---
 
 ## 1- O que é Parentalidade Natural e Holística?

@@ -5,6 +5,7 @@ date: 2025-03-09T07:55:00.007Z
 tags: ["medicina tradicional chinesa"]
 categories: ["bem-estar"]
 description: "Teoria dos Canais Aplicada na Medicina Chinesa: ensinamentos de Wang Ju-Yi sobre a terapêutica por canais"
+image: "https://i.ibb.co/kgGpbTrH/869ff1e97546.png"
 ---
 
 ![](https://i.ibb.co/kgGpbTrH/869ff1e97546.png)

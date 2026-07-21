@@ -5,6 +5,7 @@ date: 2025-03-04T08:00:00.002Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Eva Flink, de origem sueca, é uma figura reconhecida na área da iridologia."
+image: "https://i.ibb.co/1f70mvsv/f8a02bff003f.jpg"
 ---
 
 ## 

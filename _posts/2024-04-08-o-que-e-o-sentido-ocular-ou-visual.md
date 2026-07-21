@@ -5,6 +5,7 @@ date: 2024-04-08T08:38:00.002Z
 tags: ["anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "O que é o sentido ocular ou visual?"
+image: "https://i.ibb.co/v4hV5scq/41c577825a9b.jpg"
 ---
 
 ![](https://i.ibb.co/v4hV5scq/41c577825a9b.jpg)

@@ -5,6 +5,7 @@ date: 2024-02-16T01:05:00.005Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Iridologia e o Magnífico Cérebro Humano"
+image: "https://i.ibb.co/SX4WYPm3/629e5932054f.png"
 ---
 
 ![](https://i.ibb.co/SX4WYPm3/629e5932054f.png)

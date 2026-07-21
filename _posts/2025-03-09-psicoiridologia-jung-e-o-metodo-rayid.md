@@ -5,6 +5,7 @@ date: 2025-03-09T08:26:00.003Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Psicoiridologia: Jung e o Método Rayid"
+image: "https://i.ibb.co/QFG0PmLM/f678e574e260.png"
 ---
 
 ![](https://i.ibb.co/QFG0PmLM/f678e574e260.png)

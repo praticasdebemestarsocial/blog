@@ -5,6 +5,7 @@ date: 2024-01-14T04:09:00.003Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "O Que é o Instituto Português de Naturologia (IPN)?"
+image: "https://i.ibb.co/NQQjc5K/242946b88c77.png"
 ---
 
 ## 

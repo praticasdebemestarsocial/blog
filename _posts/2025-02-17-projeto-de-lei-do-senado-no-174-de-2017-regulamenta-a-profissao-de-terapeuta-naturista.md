@@ -5,6 +5,7 @@ date: 2025-02-17T04:57:00.002Z
 tags: ["documentos profissão terapeuta"]
 categories: ["bem-estar"]
 description: "Projeto de Lei do Senado nº 174, de 2017. Regulamenta a profissão de terapeuta naturista"
+image: "https://i.ibb.co/Z6TR4sLR/6052507f1acb.png"
 ---
 
 ![](https://i.ibb.co/Z6TR4sLR/6052507f1acb.png)

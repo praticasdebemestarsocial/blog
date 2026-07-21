@@ -158,13 +158,24 @@ def process_file(filepath):
     if desc_lines:
         description = desc_lines[0][:150] + "..." if len(desc_lines[0]) > 150 else desc_lines[0]
         
+    first_image_url = ""
+    img_match = re.search(r'!\[.*?\]\((.*?)\)', body)
+    if img_match:
+        first_image_url = img_match.group(1)
+    else:
+        html_img_match = re.search(r'<img[^>]+src=["\'](.*?)["\']', body)
+        if html_img_match:
+            first_image_url = html_img_match.group(1)
+
+    image_fm = f'\nimage: "{first_image_url}"' if first_image_url else ""
+
     new_fm = f"""---
 layout: post
 title: "{title}"
 date: {formatted_date}
 tags: {json.dumps(tags, ensure_ascii=False)}
 categories: {json.dumps(categories, ensure_ascii=False)}
-description: "{description}"
+description: "{description}"{image_fm}
 ---
 """
     final_content = new_fm + "\n" + body.strip() + "\n"

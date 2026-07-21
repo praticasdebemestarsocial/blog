@@ -5,6 +5,7 @@ date: 2024-07-01T22:44:00.002Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: ".png).png)"
+image: "https://i.ibb.co/cSxRjwq0/9997f84081ea.png"
 ---
 
 ![](https://i.ibb.co/cSxRjwq0/9997f84081ea.png).png).png)

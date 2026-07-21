@@ -5,6 +5,7 @@ date: 2025-02-15T06:41:00.002Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Dorothy Hall foi uma renomada iridologista, naturopata e escritora australiana"
+image: "https://i.ibb.co/tTV0PdXX/20f49897edb3.jpg"
 ---
 
 ## Dorothy Hall foi uma renomada iridologista, naturopata e escritora australiana

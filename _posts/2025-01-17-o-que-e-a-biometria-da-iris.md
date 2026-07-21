@@ -5,6 +5,7 @@ date: 2025-01-17T02:58:00.007Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A biometria da íris é uma tecnologia inovadora que se destaca no Brasil e no mundo."
+image: "https://i.ibb.co/tMq1J5Mc/1397febe88df.png"
 ---
 
 ![](https://i.ibb.co/tMq1J5Mc/1397febe88df.png)

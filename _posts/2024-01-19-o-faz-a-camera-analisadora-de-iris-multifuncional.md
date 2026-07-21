@@ -5,6 +5,7 @@ date: 2024-01-19T15:42:00.003Z
 tags: ["equipamentos atendimento"]
 categories: ["bem-estar"]
 description: "Câmera analisadora de íris multifuncional com USB, HD de 12 milhões de pixels e software de análise de íris - perfeita para salões de beleza e spas"
+image: "https://i.ibb.co/391gfQwY/9564c3e85b28.jpg"
 ---
 
 ![](https://i.ibb.co/391gfQwY/9564c3e85b28.jpg)

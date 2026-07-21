@@ -5,6 +5,7 @@ date: 2024-04-11T08:44:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A iridologia é uma prática que envolve a análise da íris para compreender aspectos físicos e emocionais. No contexto do autoconhecimento e desenvolvim..."
+image: "https://i.ibb.co/Hpq6hJnK/d9cc2bfff250.png"
 ---
 
 ![](https://i.ibb.co/Hpq6hJnK/d9cc2bfff250.png)

@@ -5,6 +5,7 @@ date: 2024-08-26T19:55:00.015Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Iridologia e Suas Controvérsias: Um Olhar Além do Convencional"
+image: "https://i.ibb.co/PGHcy6FH/325b58087db2.png"
 ---
 
 ![](https://i.ibb.co/PGHcy6FH/325b58087db2.png)

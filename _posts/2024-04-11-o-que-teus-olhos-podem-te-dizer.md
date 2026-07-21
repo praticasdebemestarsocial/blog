@@ -5,6 +5,7 @@ date: 2024-04-11T06:53:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Olá a todos Hoje vamos falar sobre iridologia que é uma técnica utilizada na naturopatia ou naturologia para avaliar a saúde de uma pessoa através de ..."
+image: "https://i.ibb.co/8LmRDP7h/40653d612b0f.png"
 ---
 
 ![](https://i.ibb.co/8LmRDP7h/40653d612b0f.png)

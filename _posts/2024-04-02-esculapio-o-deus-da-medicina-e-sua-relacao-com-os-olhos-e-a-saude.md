@@ -5,6 +5,7 @@ date: 2024-04-02T20:12:00.006Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Quem Foi Esculápio?"
+image: "https://i.ibb.co/J099NjK/da11201b3496.jpg"
 ---
 
 ![](https://i.ibb.co/J099NjK/da11201b3496.jpg)

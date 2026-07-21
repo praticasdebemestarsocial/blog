@@ -5,6 +5,7 @@ date: 2024-04-11T07:47:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Você já mapeou o seu metabolismo pelos olhos?"
+image: "https://i.ibb.co/G4SXzQ7L/e1027df9a79b.png"
 ---
 
 ## Você já mapeou o seu metabolismo pelos olhos?

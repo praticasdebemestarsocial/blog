@@ -5,9 +5,10 @@ date: 2026-06-17T00:08:51.630Z
 tags: ["autoconhecimento", "filosofia"]
 categories: ["bem-estar"]
 description: "Como Descartes pode contribuir para uma espiritualidade racional e voltada para o autoconhecimento?"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-C2NrrydWaCH2WGYPUa2Lzn8VuxINkhY7rwxdkkXE6oUuUh6cnPdaOJGchG4iL1fkMdtdjBpZHn0Wws2rG56RKPunG06OCa6ESsdlUNgd_3KfOo-EytBLanieyyxYL39u_BI770y7JQNxLlLO9-gfNlUQ1BtbjM2YhMjC5fkxJV7WRI0n3Hy9_3LwMAc/w567-h312/1.png"
 ---
 
-![](https://i.ibb.co/XrszZ8J0/5d5b8c4df2c9.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-C2NrrydWaCH2WGYPUa2Lzn8VuxINkhY7rwxdkkXE6oUuUh6cnPdaOJGchG4iL1fkMdtdjBpZHn0Wws2rG56RKPunG06OCa6ESsdlUNgd_3KfOo-EytBLanieyyxYL39u_BI770y7JQNxLlLO9-gfNlUQ1BtbjM2YhMjC5fkxJV7WRI0n3Hy9_3LwMAc/w567-h312/1.png)
 
   
 

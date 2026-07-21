@@ -5,6 +5,7 @@ date: 2024-10-18T15:00:00.005Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O que a iridologia pode oferecer?"
+image: "https://i.ibb.co/chkg9NK7/a3bf9d5f2b90.png"
 ---
 
 ![](https://i.ibb.co/chkg9NK7/a3bf9d5f2b90.png)

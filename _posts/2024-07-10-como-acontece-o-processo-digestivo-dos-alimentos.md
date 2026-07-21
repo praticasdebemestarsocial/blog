@@ -5,6 +5,7 @@ date: 2024-07-10T09:12:00.001Z
 tags: ["dietoterapia"]
 categories: ["bem-estar"]
 description: "Como acontece o processo digestivo dos alimentos?"
+image: "https://i.ibb.co/0yY0sK47/8f4129e92d15.png"
 ---
 
 ![](https://i.ibb.co/0yY0sK47/8f4129e92d15.png)

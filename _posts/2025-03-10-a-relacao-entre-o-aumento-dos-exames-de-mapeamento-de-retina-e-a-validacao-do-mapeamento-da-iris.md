@@ -5,9 +5,10 @@ date: 2025-03-10T03:09:00.004Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "A Relação Entre o Aumento dos Exames de Mapeamento de Retina e a Validação da Iridologia"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipjmN8vEC1PGkcEpYGt46IRw-_OLr8IkJTSgXC1Pxuw6qgtR-uqpbPNmt5Lgg6ixC_NrETno5lbumA151LlGYpYntGkVPfULT8t_ypDY3jEfDhXrUXutZMQDYCzqWtrMkOrBMeCdOT2AQ1PeK4pFWu5CLBW7GTBOBPb0fkqEMH1uGQNHCI8cwN-pokQ-s/w591-h332/_A_Rela%C3%A7%C3%A3o_Entre_o_Aumento_dos_Exames_de_Mapeamento_de_Retina_e_a_Valida%C3%A7%C3%A3o_da_Iridologia.png"
 ---
 
-![](https://i.ibb.co/ynpVKhLY/03fcb03d6fe7.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipjmN8vEC1PGkcEpYGt46IRw-_OLr8IkJTSgXC1Pxuw6qgtR-uqpbPNmt5Lgg6ixC_NrETno5lbumA151LlGYpYntGkVPfULT8t_ypDY3jEfDhXrUXutZMQDYCzqWtrMkOrBMeCdOT2AQ1PeK4pFWu5CLBW7GTBOBPb0fkqEMH1uGQNHCI8cwN-pokQ-s/w591-h332/_A_Rela%C3%A7%C3%A3o_Entre_o_Aumento_dos_Exames_de_Mapeamento_de_Retina_e_a_Valida%C3%A7%C3%A3o_da_Iridologia.png)
 
   
 

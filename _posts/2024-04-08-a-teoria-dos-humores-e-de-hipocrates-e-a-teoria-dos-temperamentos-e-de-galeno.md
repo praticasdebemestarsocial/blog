@@ -5,6 +5,7 @@ date: 2024-04-08T05:31:00.005Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
 description: "A teoria dos humores é de Hipócrates e a teoria dos temperamentos é de Galeno?"
+image: "https://i.ibb.co/qMRWvNn7/6406d459e928.jpg"
 ---
 
 ![](https://i.ibb.co/qMRWvNn7/6406d459e928.jpg)

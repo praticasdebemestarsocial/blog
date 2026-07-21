@@ -5,6 +5,7 @@ date: 2024-04-07T07:38:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "1-  O que é a sensação de estar estagnado na vida?"
+image: "https://i.ibb.co/svFyN1D7/2b4077844e61.jpg"
 ---
 
 ![](https://i.ibb.co/svFyN1D7/2b4077844e61.jpg)

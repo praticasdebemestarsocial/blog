@@ -5,6 +5,7 @@ date: 2024-04-11T08:10:00.003Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "O que diz o livro Iridologia - O significado dos principais tipos e sinais iridológicos: Estratégias específicas?"
+image: "https://i.ibb.co/67kjRJ9J/054180321539.png"
 ---
 
 ![](https://i.ibb.co/67kjRJ9J/054180321539.png)

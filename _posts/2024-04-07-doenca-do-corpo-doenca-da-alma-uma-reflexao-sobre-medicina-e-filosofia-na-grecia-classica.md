@@ -5,6 +5,7 @@ date: 2024-04-07T23:43:00.008Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "O Que Aborda o Livro "Doença do Corpo, Doença da Alma"?"
+image: "https://i.ibb.co/P3qFw8L/070ffb497a14.png"
 ---
 
 ![](https://i.ibb.co/P3qFw8L/070ffb497a14.png)

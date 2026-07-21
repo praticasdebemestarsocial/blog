@@ -5,6 +5,7 @@ date: 2024-01-16T05:00:00.005Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "Livros de Manuel Lezaeta Acharán – Conheça as Obras do Pioneiro da Medicina Natural!"
+image: "https://i.ibb.co/MDGzVNzZ/cc111c3af07f.png"
 ---
 
 ![](https://i.ibb.co/MDGzVNzZ/cc111c3af07f.png)

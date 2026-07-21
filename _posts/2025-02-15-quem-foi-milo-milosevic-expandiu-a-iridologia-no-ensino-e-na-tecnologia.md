@@ -5,6 +5,7 @@ date: 2025-02-15T07:38:00.008Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Milo Milosevic e a Iridologia Constitucional: Um Legado na Naturopatia"
+image: "https://i.ibb.co/9Q4136C/d15258158fd6.png"
 ---
 
 ![](https://i.ibb.co/9Q4136C/d15258158fd6.png)

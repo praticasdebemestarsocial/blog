@@ -5,6 +5,7 @@ date: 2025-02-04T17:56:00.002Z
 tags: []
 categories: ["bem-estar"]
 description: "Diferença entre Optometria e Optometria Holística"
+image: "https://chatgpt.com/backend-api/content?id=file-M1df4Ab7Ow6QCJ871tBUsi0x&gizmo_id=g-pmuQfob8d&ts=482876&p=gpp&sig=a13ccc33a09738073a388c80d1f1bab7ecaf43e82ce542d0ceb01b48c2fb8929&v=0"
 ---
 
 ### **Diferença entre Optometria e Optometria Holística**

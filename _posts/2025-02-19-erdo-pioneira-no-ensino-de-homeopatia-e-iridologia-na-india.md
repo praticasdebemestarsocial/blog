@@ -5,6 +5,7 @@ date: 2025-02-19T21:34:00.008Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "ERDO: Pioneira no Ensino de Homeopatia e Iridologia na Índia"
+image: "https://i.ibb.co/mFqqf9q0/3fef005bbbae.jpg"
 ---
 
 ## ERDO: Pioneira no Ensino de Homeopatia e Iridologia na Índia

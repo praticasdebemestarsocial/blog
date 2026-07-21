@@ -5,6 +5,7 @@ date: 2024-10-24T18:34:00.010Z
 tags: ["metafísica"]
 categories: ["bem-estar"]
 description: "Capacidades Latentes na Alma: Como Descobrir Potenciais Ocultos e Despertar uma Vida Plena"
+image: "https://i.ibb.co/mCFzKLbp/1e172ad196a3.png"
 ---
 
 ![](https://i.ibb.co/mCFzKLbp/1e172ad196a3.png)

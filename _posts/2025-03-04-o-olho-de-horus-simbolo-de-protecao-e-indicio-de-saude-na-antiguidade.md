@@ -5,6 +5,7 @@ date: 2025-03-04T06:34:00.008Z
 tags: ["história da iridologia"]
 categories: ["bem-estar"]
 description: "O Olho de Hórus: Símbolo de Proteção e Indício de Saúde na Antiguidade"
+image: "https://i.ibb.co/wFyY40VF/3abd1ad22db5.jpg"
 ---
 
 ## O Olho de Hórus: Símbolo de Proteção e Indício de Saúde na Antiguidade

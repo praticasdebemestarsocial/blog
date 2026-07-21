@@ -5,6 +5,7 @@ date: 2024-04-11T08:36:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O que é Iridologia?"
+image: "https://i.ibb.co/WNSBnVfj/37d751baddbf.png"
 ---
 
 ![](https://i.ibb.co/WNSBnVfj/37d751baddbf.png)

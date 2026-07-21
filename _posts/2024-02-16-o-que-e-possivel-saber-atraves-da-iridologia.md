@@ -5,6 +5,7 @@ date: 2024-02-16T07:18:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "1- O que é possível saber através da Iridologia?"
+image: "https://i.ibb.co/9CfZrQm/a5c5bf5c6b1b.jpg"
 ---
 
 ![](https://i.ibb.co/9CfZrQm/a5c5bf5c6b1b.jpg)

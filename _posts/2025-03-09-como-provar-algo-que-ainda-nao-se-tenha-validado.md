@@ -5,6 +5,7 @@ date: 2025-03-09T22:12:00.054Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "A Validade do Conhecimento Científico e o Papel da Revisão por Pares"
+image: "https://i.ibb.co/P8Vd7rY/a25bddae1b99.png"
 ---
 
 ![](https://i.ibb.co/P8Vd7rY/a25bddae1b99.png)

@@ -5,6 +5,7 @@ date: 2024-01-14T03:18:00.005Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "Tempo de leitura estimado: 5 minutos"
+image: "https://malaysiairidology.com/wp-content/uploads/2022/03/01_president.jpeg"
 ---
 
 ### 

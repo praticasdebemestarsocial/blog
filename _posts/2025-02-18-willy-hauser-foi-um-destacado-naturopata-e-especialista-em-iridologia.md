@@ -5,6 +5,7 @@ date: 2025-02-18T03:30:00.062Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Willy Hauser foi um destacado naturopata e especialista em iridologia"
+image: "https://i.ibb.co/RdcgwdK/9ee71f290ca8.png"
 ---
 
 ![](https://i.ibb.co/RdcgwdK/9ee71f290ca8.png)

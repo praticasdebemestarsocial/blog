@@ -5,6 +5,7 @@ date: 2025-02-21T03:30:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Iridologia e a Reflexologia Ocular: Como Novas Pesquisas Podem Fortalecer Essa Conexão"
+image: "https://i.ibb.co/dJHqgJCy/2f56875f000c.jpg"
 ---
 
 ![](https://i.ibb.co/dJHqgJCy/2f56875f000c.jpg)

@@ -5,6 +5,7 @@ date: 2024-02-16T23:15:00.005Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O que é Iridologia Contemporânea?"
+image: "https://i.ibb.co/RTL0qsWf/8d4ff6c982ff.jpg"
 ---
 
 ![](https://i.ibb.co/RTL0qsWf/8d4ff6c982ff.jpg)

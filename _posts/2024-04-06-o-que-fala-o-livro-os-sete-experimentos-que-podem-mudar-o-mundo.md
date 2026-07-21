@@ -5,6 +5,7 @@ date: 2024-04-06T08:48:00.005Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "Sete Experimentos que Podem Mudar o Mundo"
+image: "https://i.ibb.co/21qXmJNK/494afc0ea3bd.png"
 ---
 
 ![](https://i.ibb.co/21qXmJNK/494afc0ea3bd.png)

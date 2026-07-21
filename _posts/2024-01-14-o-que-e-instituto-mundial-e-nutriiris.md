@@ -5,6 +5,7 @@ date: 2024-01-14T06:49:00.002Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "(https://yata-apix-afcbd886-1a4c-4b28-98f8-4df0da96af96.s3-object.locaweb.com.br/8ff42750077c4d2e88756d46bf8483cc.jpg)"
+image: "https://i.ibb.co/q67BzPb/44a725285db3.jpg"
 ---
 
 [![](https://i.ibb.co/q67BzPb/44a725285db3.jpg)](https://yata-apix-afcbd886-1a4c-4b28-98f8-4df0da96af96.s3-object.locaweb.com.br/8ff42750077c4d2e88756d46bf8483cc.jpg)

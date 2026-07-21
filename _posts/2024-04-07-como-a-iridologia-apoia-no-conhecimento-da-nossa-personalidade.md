@@ -5,6 +5,7 @@ date: 2024-04-07T07:01:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Como a Iridologia apoia no auto conhecimento?"
+image: "https://i.ibb.co/zW7Vc5Gb/a7d3272cedfd.jpg"
 ---
 
 ![](https://i.ibb.co/zW7Vc5Gb/a7d3272cedfd.jpg)

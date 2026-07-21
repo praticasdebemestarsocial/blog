@@ -5,6 +5,7 @@ date: 2024-02-16T02:06:00.008Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Tempo de leitura estimado: 5 minutos Como a Iridologia apoia no auto conhecimento?"
+image: "https://i.ibb.co/dsJgRsx3/7086907ccbeb.png"
 ---
 
 ## *Tempo de leitura estimado: 5 minutos* Como a Iridologia apoia no auto conhecimento?

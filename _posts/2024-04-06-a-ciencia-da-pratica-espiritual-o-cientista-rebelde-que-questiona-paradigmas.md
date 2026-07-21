@@ -5,6 +5,7 @@ date: 2024-04-06T08:29:00.004Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "O Cientista Rebelde que Questiona Paradigmas"
+image: "https://i.ibb.co/JbrkTRL/de7e44fd0575.png"
 ---
 
 ![](https://i.ibb.co/JbrkTRL/de7e44fd0575.png)

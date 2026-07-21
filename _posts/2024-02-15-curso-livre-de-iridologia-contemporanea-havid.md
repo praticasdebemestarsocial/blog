@@ -5,6 +5,7 @@ date: 2024-02-15T23:53:00.004Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
 description: "Centro de Documentação, Pesquisas e Estudos em Iridologia Contemporânea (Microsemiótica Irídea), Fisionomia e Terapias Integrativas"
+image: "https://i.ibb.co/HL9ThkfL/0c5ec2fae5d3.png"
 ---
 
 ![](https://i.ibb.co/HL9ThkfL/0c5ec2fae5d3.png)

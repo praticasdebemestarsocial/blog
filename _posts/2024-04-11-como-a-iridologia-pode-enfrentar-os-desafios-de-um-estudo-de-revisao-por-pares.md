@@ -5,6 +5,7 @@ date: 2024-04-11T09:21:00.003Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "Vemos muitas vezes pessoas dizer que a Iridologia não tem comprovação científica"
+image: "https://i.ibb.co/LXvb070Y/83fd87fdd836.png"
 ---
 
 ![](https://i.ibb.co/LXvb070Y/83fd87fdd836.png)

@@ -5,9 +5,10 @@ date: 2025-09-11T06:08:00Z
 tags: ["fitoterapia"]
 categories: ["bem-estar"]
 description: "Amora Miúra: Para que Serve e Quais são suas Contraindicações?"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC1tqqIaLPFXRGpWKrutprse7w-TEUpLjKpqJ8BuEGXGvDHuig-wZ4bJIdgXfonH6dv0dDDkxFkUB3gqMvJsD9bjzCUR3BvZMIgfzWlcELUYrzoXcEnB7Jnl_ASfuzfmxOmp3743_Ix_mxmSPit_MaJC_Ta-rMIP2-mYKI5Gbo_G5Ki61XVWJG59hEMUY/w524-h294/amora_miura_cerebral_pele_cabelos_hormonal.jpg"
 ---
 
-![](https://i.ibb.co/B5rQqm6M/09d2ec79d08f.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC1tqqIaLPFXRGpWKrutprse7w-TEUpLjKpqJ8BuEGXGvDHuig-wZ4bJIdgXfonH6dv0dDDkxFkUB3gqMvJsD9bjzCUR3BvZMIgfzWlcELUYrzoXcEnB7Jnl_ASfuzfmxOmp3743_Ix_mxmSPit_MaJC_Ta-rMIP2-mYKI5Gbo_G5Ki61XVWJG59hEMUY/w524-h294/amora_miura_cerebral_pele_cabelos_hormonal.jpg)
 
 # Amora Miúra: Para que Serve e Quais são suas Contraindicações?
 
@@ -190,7 +191,7 @@ em: <https://tempodesaudecomplementar.blogspot.com/2021/07/voce-sabe-qual-canal
 Acesso em: [Insira aqui o dia, mês e ano em que você acessou esta página do
 blog].
 
-![](https://i.ibb.co/whLqM8GV/ce5009239786.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyb-JPzUUo4qsbU7oqiIws1E51piCjbNEqS8cKgKmO6H4fv5egbxy0G_zcp5jqlJxphXctHzhNXbhIv6iOSoUuCooepjXG1Ohc8AW78s0FdqBNtye6O3lCVKJs_6emGQhvxpMdHm7xlVw/s320/euu.jpg)
 
   
 > "Quando utilizamos uma ferramenta que pode dar luz a respeito **desses fatores

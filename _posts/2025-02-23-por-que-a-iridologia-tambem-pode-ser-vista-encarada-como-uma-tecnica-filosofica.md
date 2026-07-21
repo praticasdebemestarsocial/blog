@@ -5,6 +5,7 @@ date: 2025-02-23T10:59:00.057Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Por que a iridologia também pode ser vista encarada como uma técnica filosófica?"
+image: "https://i.ibb.co/3mqkFQww/127ff71b0e2f.png"
 ---
 
 ![](https://i.ibb.co/3mqkFQww/127ff71b0e2f.png)

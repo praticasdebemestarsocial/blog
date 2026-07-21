@@ -5,9 +5,10 @@ date: 2025-07-25T05:31:00.002Z
 tags: ["metafísica"]
 categories: ["bem-estar"]
 description: "O século XXI exige não apenas inovação tecnológica, mas também uma profunda revisão das mentalidades herdadas do século XX. Abaixo, listo algumas ment..."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIupBNl3qI03ojd5hfVKLTbMGF5WAOgSB3WVZt_gz7yGA6douZavs-fcm9HS4MTP1V67TsF8HQJ546Col8NkdMQty6Fk-TPixSaPS_0yfdAkvbHCZOt600w0b3O4LwOOXIWtToOJLp7EwkByoV7yQdOZOT8Jvbl8SOAs1GcCwKD2iJEvTuU0A4e7tNcS0/w588-h331/Qual_mentalidade_fica_obsoleta_para_nova_era_da_tecnologia_e_informa%C3%A7%C3%A3o.png"
 ---
 
-![](https://i.ibb.co/N8cjvjF/76f147db9b6e.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIupBNl3qI03ojd5hfVKLTbMGF5WAOgSB3WVZt_gz7yGA6douZavs-fcm9HS4MTP1V67TsF8HQJ546Col8NkdMQty6Fk-TPixSaPS_0yfdAkvbHCZOt600w0b3O4LwOOXIWtToOJLp7EwkByoV7yQdOZOT8Jvbl8SOAs1GcCwKD2iJEvTuU0A4e7tNcS0/w588-h331/Qual_mentalidade_fica_obsoleta_para_nova_era_da_tecnologia_e_informa%C3%A7%C3%A3o.png)
 
   
  O século XXI exige não apenas inovação tecnológica, mas também uma profunda revisão das **mentalidades herdadas do século XX**. Abaixo, listo algumas **mentalidades que se tornaram obsoletas** e os **novos paradigmas que estão surgindo** com a expansão tecnológica e o avanço da consciência coletiva:

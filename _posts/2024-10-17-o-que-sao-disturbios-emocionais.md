@@ -5,6 +5,7 @@ date: 2024-10-17T06:31:00.001Z
 tags: ["psicanalise hipnoterapia"]
 categories: ["bem-estar"]
 description: "Olá! Seja muito bem-vindo ao canal 'Iridologia: Tecnologia do Autoconhecimento e Bem-Estar'."
+image: "https://i.ibb.co/nNTHN2bf/07de1ffea3a0.png"
 ---
 
 ![](https://i.ibb.co/nNTHN2bf/07de1ffea3a0.png)
