@@ -1,5 +1,5 @@
 {% if entry.id %}
-  {% assign title = entry.title | markdownify | strip_html %}
+  {% assign title = entry.title | strip_html %}
 {% else %}
   {% assign title = entry.title %}
 {% endif %}
@@ -13,8 +13,16 @@
         <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
       {% endif %}
     </h3>
+    {% assign entry_image = nil %}
     {% if entry.image.thumbnail %}
       {% assign entry_image = entry.image.thumbnail %}
+    {% elsif entry.image.path %}
+      {% assign entry_image = entry.image.path %}
+    {% elsif entry.image %}
+      {% assign entry_image = entry.image %}
+    {% endif %}
+    
+    {% if entry_image %}
       {% unless entry_image contains '://' %}
         {% assign entry_image = entry_image | relative_url %}
       {% endunless %}
@@ -22,13 +30,13 @@
       <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
     {% endif %}
   </header>
-  {% unless page.show_excerpts == false %}
+  {% if page.show_excerpts == true %}
     <div class="entry-excerpt p-summary">
       {% if entry.excerpt %}
         {{ entry.excerpt | markdownify }}
       {% endif %}
     </div>
-  {% endunless %}
+  {% endif %}
   {% if site.read_time or entry.date and page.layout != 'collection' %}
     <footer class="entry-meta">
       {% if site.read_time %}{% include read-time.html %}{% endif %}

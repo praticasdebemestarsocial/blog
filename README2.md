@@ -28,13 +28,3 @@ O Jekyll irá compilar o site e fornecer um endereço local. Geralmente, você p
 **http://localhost:4000**
 
 O servidor continuará rodando no terminal e vai atualizar o site automaticamente (live reload) sempre que você salvar um arquivo. Para parar o servidor, pressione `Ctrl + C` no terminal.
-
-## (Opcional) Rodando com Docker
-
-Se você preferir não instalar o Ruby na sua máquina e já tiver o **Docker** e o **Docker Compose** instalados, basta rodar:
-
-```bash
-docker compose up
-```
-
-O site também ficará disponível em **http://localhost:4000**.
