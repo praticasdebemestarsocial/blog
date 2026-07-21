@@ -5,10 +5,10 @@ date: 2025-03-10T04:25:00.005Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "Mapeamento de Retina: Como é Feito e Por Que é Importante para Sua Saúde Ocular"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8a6X2GMQOOe60wNFyvKIWWqZC0oOqB9_kDNg7hnQihqZSR653RrCZXtv5aIrxTG6fKfELQff3l46jhW-G0QAud69q-RE23daWYlF6k4CYKZVgYfjE8fYE8SUa9hobryXBz600QiBVaeR3cv8uiXPBLoo8Gh11Qc3bdravNO4kCkiV8T8qGf5FIJafK9c/w601-h339/Mapeamento_de_Retina_Como_%C3%A9_Feito_e_Por_Que_%C3%A9_Importante_para_Sua_Sa%C3%BAde_Ocular.png"
+image: "/assets/img/posts/Mapeamento_de_Retina_Como_%C3%A9_Feito_e_Por_Que_%C3%A9_Importante_para_Sua_Sa%C3%BAde_Ocular.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8a6X2GMQOOe60wNFyvKIWWqZC0oOqB9_kDNg7hnQihqZSR653RrCZXtv5aIrxTG6fKfELQff3l46jhW-G0QAud69q-RE23daWYlF6k4CYKZVgYfjE8fYE8SUa9hobryXBz600QiBVaeR3cv8uiXPBLoo8Gh11Qc3bdravNO4kCkiV8T8qGf5FIJafK9c/w601-h339/Mapeamento_de_Retina_Como_%C3%A9_Feito_e_Por_Que_%C3%A9_Importante_para_Sua_Sa%C3%BAde_Ocular.png)
+![](/assets/img/posts/Mapeamento_de_Retina_Como_%C3%A9_Feito_e_Por_Que_%C3%A9_Importante_para_Sua_Sa%C3%BAde_Ocular
 
   
 

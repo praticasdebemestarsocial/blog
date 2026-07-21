@@ -4,11 +4,11 @@ title: "Os conceitos da ética podem ser usados em terapias para o autoconhecime
 date: 2024-10-19T03:29:00.013Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
-description: ".png).png)"
+description: ""
 image: "https://i.ibb.co/1fYf267z/8f8dc68b4d75.png"
 ---
 
-![](https://i.ibb.co/1fYf267z/8f8dc68b4d75.png).png).png)
+![](https://i.ibb.co/1fYf267z/8f8dc68b4d75
 
 Olá, pessoal! Eu sou Silviane Silvério, naturologista e biomédica, e quero dar as boas-vindas ao meu canal!
 

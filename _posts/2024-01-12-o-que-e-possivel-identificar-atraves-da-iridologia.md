@@ -8,7 +8,7 @@ description: "A Iridologia: Uma Ferramenta Poderosa na Prevenção e Promoção 
 image: "https://i.ibb.co/YTwz3dvf/0202c51a050a.jpg"
 ---
 
-![](https://i.ibb.co/YTwz3dvf/0202c51a050a.jpg)
+![](https://i.ibb.co/YTwz3dvf/0202c51a050a
 
 # A Iridologia: Uma Ferramenta Poderosa na Prevenção e Promoção da Saúde
 
@@ -192,7 +192,7 @@ Benefícios da Iridologia para a saúde, Iridologia e autoconhecimento, Como a
 Iridologia pode melhorar o estilo de vida, Iridologia e hábitos saudáveis,
 Relação entre sistema nervoso e Iridologia, Iridologia e reflexologia
 
-![](https://i.ibb.co/1G4mVJqG/22d5e6228229.png).png).png)
+![](https://i.ibb.co/1G4mVJqG/22d5e6228229
 
 #
 

@@ -15,7 +15,7 @@ image: "https://i.ibb.co/1f70mvsv/f8a02bff003f.jpg"
 Eva Flink, de origem sueca, é uma figura reconhecida na área da iridologia,
 sendo uma das principais representantes e educadoras dessa prática.
 
-![](https://i.ibb.co/1f70mvsv/f8a02bff003f.jpg)
+![](https://i.ibb.co/1f70mvsv/f8a02bff003f
 
 Herdou o trabalho da Iridologia da sua mãe, [Magdalene
 Madaus](https://tecnologiasdoautoconhecimento.blogspot.com/2025/05/magdalene-madaus-pioneira-feminina-da.html),

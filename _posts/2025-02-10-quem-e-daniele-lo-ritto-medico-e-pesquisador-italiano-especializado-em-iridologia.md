@@ -8,7 +8,7 @@ description: "Quem é  Daniele Lo Ritto? Médico e pesquisador italiano especia
 image: "https://i.ibb.co/dsj60dwv/4f19e8dacdda.png"
 ---
 
-![](https://i.ibb.co/dsj60dwv/4f19e8dacdda.png)
+![](https://i.ibb.co/dsj60dwv/4f19e8dacdda
 
 ## Quem é  Daniele Lo Ritto? Médico e pesquisador italiano especializado em iridologia
 

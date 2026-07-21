@@ -5,10 +5,10 @@ date: 2025-05-22T23:50:00.006Z
 tags: ["autores"]
 categories: ["bem-estar"]
 description: "Bem-vindos ao Blog de Jornalismo Científico em Práticas Integrativas e Complementares"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAsEUZGH7dSO7d9ldCvncJiqylKKRgIfjOFat0HHXescjZzVHsW_kOKjMacvXR-aplXRZqS5lEw8Q3Ds4OTHhmiuI6pdohFz0rfsR4ONkML8NctF7cNmZLHuAMxb7XJ54-ONtTzxV5HLQZTGTs9xch_vhOFr1HQgnyg79LWa81SE4K-KrOu4rIprr5Le8/w579-h255/sci-blogger.jpg"
+image: "/assets/img/posts/sci-blogger.jpg"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAsEUZGH7dSO7d9ldCvncJiqylKKRgIfjOFat0HHXescjZzVHsW_kOKjMacvXR-aplXRZqS5lEw8Q3Ds4OTHhmiuI6pdohFz0rfsR4ONkML8NctF7cNmZLHuAMxb7XJ54-ONtTzxV5HLQZTGTs9xch_vhOFr1HQgnyg79LWa81SE4K-KrOu4rIprr5Le8/w579-h255/sci-blogger.jpg)
+![](/assets/img/posts/sci-blogger
 
   
 

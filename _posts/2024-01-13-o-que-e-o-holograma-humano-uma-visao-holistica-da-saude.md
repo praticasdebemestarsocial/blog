@@ -8,7 +8,7 @@ description: "O Holograma Humano e a Iridologia Integrada: Uma Visão Holística
 image: "https://i.ibb.co/tTbXTP8X/8c627e2b565f.png"
 ---
 
-![](https://i.ibb.co/tTbXTP8X/8c627e2b565f.png)  
+![](https://i.ibb.co/tTbXTP8X/8c627e2b565f  
 
 # **O Holograma Humano e a Iridologia Integrada: Uma Visão Holística da Saúde**
 

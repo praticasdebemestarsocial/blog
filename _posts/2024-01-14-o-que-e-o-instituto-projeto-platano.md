@@ -8,7 +8,7 @@ description: "1- O que é o Projeto Plátano?"
 image: "https://i.ibb.co/jvHF7QdQ/0855ba1083bc.png"
 ---
 
-![](https://i.ibb.co/jvHF7QdQ/0855ba1083bc.png)
+![](https://i.ibb.co/jvHF7QdQ/0855ba1083bc
 
 ## 1- O que é o Projeto Plátano?
 

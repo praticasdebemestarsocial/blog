@@ -8,7 +8,7 @@ description: "Como a Iridologia apoia no auto conhecimento?"
 image: "https://i.ibb.co/zW7Vc5Gb/a7d3272cedfd.jpg"
 ---
 
-![](https://i.ibb.co/zW7Vc5Gb/a7d3272cedfd.jpg)
+![](https://i.ibb.co/zW7Vc5Gb/a7d3272cedfd
 
 ## 
 
@@ -36,7 +36,7 @@ uma conexão mais profunda consigo mesma e estimulando o autocuidado holístico.
  É importante ressaltar que a Iridologia não substitui a orientação médica, mas
 pode complementar a busca pelo equilíbrio e bem-estar.
 
-[![](https://i.ibb.co/bgcCQm1k/bdb32120bf33.jpg)](https://brasil.rayid.com/wp-content/uploads/2021/10/Denny.jpg)
+[![](https://i.ibb.co/bgcCQm1k/bdb32120bf33](https://brasil.rayid.com/wp-content/uploads/2021/10/Denny
 
   
 
@@ -56,7 +56,7 @@ ministrar cursos em diversos países.  
 Sua dedicação à compreensão profunda do ser humano torna o Modelo Rayid uma
 fonte valiosa para explorar as nuances da individualidade e dos relacionamentos.
 
-[![](https://i.ibb.co/BH0SmY2Y/52302f09f414.png)](https://brasil.rayid.com/wp-content/uploads/2021/10/12-Irises.png)
+[![](https://i.ibb.co/BH0SmY2Y/52302f09f414](https://brasil.rayid.com/wp-content/uploads/2021/10/12-Irises
 
   
 
@@ -76,7 +76,7 @@ Ele classificou em personalidades bases que são identificaveis através da iris
 
 A interpretação da íris para traços de personalidade é uma área que nos convida a mais entendimento e estudos para obter mais reconhecimento e divulgação.
 
-[![](https://i.ibb.co/dsJgRsx3/7086907ccbeb.png)](https://brasil.rayid.com/wp-content/uploads/2021/10/Family_Tree-2.png)
+[![](https://i.ibb.co/dsJgRsx3/7086907ccbeb](https://brasil.rayid.com/wp-content/uploads/2021/10/Family_Tree-2
 
 ## Denny Johnson desenvolveu mais algum estudo?
 
@@ -86,7 +86,7 @@ Ele  sugere que a ordem de nascimento entre irmãos e a dinâmica familiar pode
 
 Essas teorias estão mais associadas a perspectivas psicológicas e dinâmicas familiares do que a práticas médicas convencionais.
 
-![](https://i.ibb.co/fzpywBnk/32d58c0d92a2.jpg)
+![](https://i.ibb.co/fzpywBnk/32d58c0d92a2
 
   
 

@@ -8,7 +8,7 @@ description: "Existe relação entre a Iridologia e o stress oxidativo orgânico
 image: "https://i.ibb.co/Rpx0N7qj/4bed1b00cea2.png"
 ---
 
-![](https://i.ibb.co/Rpx0N7qj/4bed1b00cea2.png)
+![](https://i.ibb.co/Rpx0N7qj/4bed1b00cea2
 
 ## Existe relação entre a Iridologia e o stress oxidativo orgânico?
 

@@ -8,7 +8,7 @@ description: "Há diversos fatores que prejudicam a saúde, como hábitos inadeq
 image: "https://i.ibb.co/W44txmDw/94f8d6934e27.png"
 ---
 
-![](https://i.ibb.co/W44txmDw/94f8d6934e27.png)
+![](https://i.ibb.co/W44txmDw/94f8d6934e27
 
 Há diversos fatores que prejudicam a saúde, como hábitos inadequados, estresse e
 má alimentação. Descobrir essas influências demanda autoconsciência, exames
@@ -60,7 +60,7 @@ no corpo.
 
 ### 6- Os níveis de stress e até mesmo o emocional do indivíduo.
 
-[![](https://i.ibb.co/jkdPsFps/362fbbd963b0.jpg)](https://conteudo.imguol.com.br/2012/08/01/mapa-iridologia-adaptado-por-henrique-vieira-filho-versao-2-1343848659645_615x300.jpg)
+[![](https://i.ibb.co/jkdPsFps/362fbbd963b0](https://conteudo.imguol.com.br/2012/08/01/mapa-iridologia-adaptado-por-henrique-vieira-filho-versao-2-1343848659645_615x300
 
 ## 2- A Iridologia diagnostica doenças?
 
@@ -75,7 +75,7 @@ Mas também é muito importante descobrir o porquê que ela adoece, pois atravé
 dessa descoberta podemos fazer uma prevenção, eliminando os fatores geradores de
 doenças e assim recuperar a saúde de uma forma integral.
 
-[![](https://i.ibb.co/KcZFxPQJ/8059fe99d2fa.jpg)](https://planetabiologia.com/wp-content/uploads/2016/09/neurula-Organogenese-e-Morfogenese.jpg)
+[![](https://i.ibb.co/KcZFxPQJ/8059fe99d2fa](https://planetabiologia.com/wp-content/uploads/2016/09/neurula-Organogenese-e-Morfogenese
 
   
   
@@ -109,7 +109,7 @@ ao cérebro.
 
 Vemos refletido aqui na região superior da Íris.
 
-[![](https://i.ibb.co/Lz6w20ch/70f1da4e96cf.png)](https://anatomiaefisioterapia.files.wordpress.com/2021/09/sna4.png?w=598)
+[![](https://i.ibb.co/Lz6w20ch/70f1da4e96cf](https://anatomiaefisioterapia.files.wordpress.com/2021/09/sna4.png?w=598)
 
   
 
@@ -140,7 +140,7 @@ sistema nervoso através do nervo ótico. Mesmo nesse ponto, temos o quiasma
 ótico, que é o ponto que liga a hipófise e o hipotálamo, as glândulas do sistema
 nervoso.
 
-[![](https://i.ibb.co/wFzRms7J/17dfd4877aa2.png)](https://cdn.imweb.me/thumbnail/20201213/3ec9b876f24cd.png)  
+[![](https://i.ibb.co/wFzRms7J/17dfd4877aa2](https://cdn.imweb.me/thumbnail/20201213/3ec9b876f24cd  
 
 ## O que a medicina chinesa fala dessa reflexologia ocular?
 
@@ -171,7 +171,7 @@ Também observamos um mapa na mão, no pé, no rosto, e ainda existe outro estud
 a pulsologia, que através da observação da pulsação do coração no pulso, pode-se
 saber como é que está a atividade dos órgãos.
 
-[![](https://i.ibb.co/hRtXVhDT/ef9e443a1700.jpg)](https://i.etsystatic.com/32715594/r/il/3c0214/3495960430/il_1080xN.3495960430_r4fy.jpg)
+[![](https://i.ibb.co/hRtXVhDT/ef9e443a1700](https://i.etsystatic.com/32715594/r/il/3c0214/3495960430/il_1080xN.3495960430_r4fy
 
   
 

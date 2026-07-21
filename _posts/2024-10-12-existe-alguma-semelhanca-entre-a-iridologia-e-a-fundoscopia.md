@@ -8,7 +8,7 @@ description: "A Fundoscopia e a Iridologia: Uma Comparação"
 image: "https://i.ibb.co/v4vmJpqs/4a99c8eecf00.png"
 ---
 
-![](https://i.ibb.co/v4vmJpqs/4a99c8eecf00.png)
+![](https://i.ibb.co/v4vmJpqs/4a99c8eecf00
 
   
 

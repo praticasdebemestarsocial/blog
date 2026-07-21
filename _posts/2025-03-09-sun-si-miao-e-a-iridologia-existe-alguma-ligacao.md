@@ -8,7 +8,7 @@ description: "Sun Si Miao e a Iridologia: Existe Alguma Ligação?"
 image: "https://i.ibb.co/Z1g8qkZV/e76c7cf63c6e.png"
 ---
 
-![](https://i.ibb.co/Z1g8qkZV/e76c7cf63c6e.png)
+![](https://i.ibb.co/Z1g8qkZV/e76c7cf63c6e
 
   
 

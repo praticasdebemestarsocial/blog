@@ -5,7 +5,7 @@ date: 2025-05-12T23:57:00.004Z
 tags: ["anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "Como Johann Sigismund Elsholtz contribui para a iridologia irisdiagnose?"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqURXfTuXuJTHgP7co1G9SMTM6Tz5SViGununwSUZHDmLDjvJLNImcfqD8clU7lhCczS9isdwm-2J9NbAKzs86I0DaYhVbHrGozLL-oXl_eAbzirs3PG9uU3EevseQywb2gRVLXvlB9uVkeAeld-dqfT2limfixKc82lTp2EQR1z-CTpyHaMM3Ha-zPlw/s1600/Johann%20Sigismund%20Elsholtz_antropometria.jpg"
+image: "/assets/img/posts/Johann%20Sigismund%20Elsholtz_antropometria.jpg"
 ---
 
 # Como Johann Sigismund Elsholtz contribui para a iridologia irisdiagnose?
@@ -36,7 +36,7 @@ aspectos referentes ao desenvolvimento do corpo humano e as relações existente
 entre os aspectos físicos e a performance, considerada também a “área-base” para
 o estudo do desenvolvimento corporal humano  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqURXfTuXuJTHgP7co1G9SMTM6Tz5SViGununwSUZHDmLDjvJLNImcfqD8clU7lhCczS9isdwm-2J9NbAKzs86I0DaYhVbHrGozLL-oXl_eAbzirs3PG9uU3EevseQywb2gRVLXvlB9uVkeAeld-dqfT2limfixKc82lTp2EQR1z-CTpyHaMM3Ha-zPlw/s1600/Johann%20Sigismund%20Elsholtz_antropometria.jpg)
+![](/assets/img/posts/Johann%20Sigismund%20Elsholtz_antropometria
 
 ## Contribuições de Elsholtz para a Iridologia:
 

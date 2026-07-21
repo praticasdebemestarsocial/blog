@@ -5,7 +5,7 @@ date: 2025-05-17T22:52:00.003Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "A Importância do Dr. Alfred Vogel e Sua Defesa da Iridologia como Ciência"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6qVY3bDVqzRjmzZh77R_BoSB_4tX5pBGKCIE9Ka7qD0o7Pv4y8RjMvg-a0A7RNCjYRCptvJU-X2daClSoSfU2lHah5c3_xtZgteCrSxU-it1Gmz0IiGvibpeLcxPDeu7kHowfDufAVCWniiWLTbVBYod_B9JeFM_Un5k3c51FCfdwfWlJxbjYDjHQ9bA/s320/Screenshot_19.jpg"
+image: "/assets/img/posts/Screenshot_19.jpg"
 ---
 
 # A Importância do Dr. Alfred Vogel e Sua Defesa da Iridologia como Ciência
@@ -100,7 +100,7 @@ ciência pode resultar em avanços reais para a saúde humana. Sua defesa da
 iridologia como uma prática digna de estudo e respeito reflete seu compromisso
 com a verdade e com o bem-estar integral do ser humano.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6qVY3bDVqzRjmzZh77R_BoSB_4tX5pBGKCIE9Ka7qD0o7Pv4y8RjMvg-a0A7RNCjYRCptvJU-X2daClSoSfU2lHah5c3_xtZgteCrSxU-it1Gmz0IiGvibpeLcxPDeu7kHowfDufAVCWniiWLTbVBYod_B9JeFM_Un5k3c51FCfdwfWlJxbjYDjHQ9bA/s320/Screenshot_19.jpg)
+![](/assets/img/posts/Screenshot_19
 
   
 
@@ -117,7 +117,7 @@ produtora bem conhecida de remédios herbais e produtos de alimentação saudáv
 Autor do best-seller internacional "O Médico da Natureza", um manual de medicina
 tradicional e complementar.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1mVVPXkrN7hDz9oSuUYwSbOKRJ9zNdjczETq3o3WYRdHDonfGl4wAjCzL_TUCCxtsa2KliRUKz-CWRhhuyB7FPHB5aq5YGERk7e2BAQvYzK_MykGefNRHYfRfJBycV5FArMLTaiPR0zRXW8QqpCJwXFy3Fx7jXo5E4roX6Ies6Pwv3soYAFwsPHzWgQE/s320/vgn-002_1945_003_0049.jpg)
+![](/assets/img/posts/vgn-002_1945_003_0049
 
 Ele publicou uma revista mensal que evoluiu para "A. Vogel
 Gesundheits-Nachrichten" ("Notícias de Saúde A. Vogel").

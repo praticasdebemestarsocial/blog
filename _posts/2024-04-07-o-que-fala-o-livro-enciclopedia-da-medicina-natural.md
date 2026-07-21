@@ -8,7 +8,7 @@ description: "🌿 Enciclopédia da Medicina Natural: Seu Guia Definitivo para S
 image: "https://i.ibb.co/xqhbN2yc/da19e141b172.png"
 ---
 
-![](https://i.ibb.co/xqhbN2yc/da19e141b172.png)
+![](https://i.ibb.co/xqhbN2yc/da19e141b172
 
   
 

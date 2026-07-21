@@ -8,7 +8,7 @@ description: "Repertorium der Irisdiagnose de Joachim Broy: Um Guia Essencial pa
 image: "https://i.ibb.co/0jGDsJ0n/faead6aaceaf.png"
 ---
 
-![](https://i.ibb.co/0jGDsJ0n/faead6aaceaf.png)
+![](https://i.ibb.co/0jGDsJ0n/faead6aaceaf
 
   
 

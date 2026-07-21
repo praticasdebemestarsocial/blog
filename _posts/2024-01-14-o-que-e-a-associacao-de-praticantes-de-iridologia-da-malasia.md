@@ -114,7 +114,7 @@ pode ser regulamentada e promovida de maneira ética e profissional.
 
 ---
 
-[![](https://malaysiairidology.com/wp-content/uploads/2022/03/01_president.jpeg)](https://malaysiairidology.com/wp-content/uploads/2022/03/01_president.jpeg)
+[![](https://malaysiairidology.com/wp-content/uploads/2022/03/01_president](https://malaysiairidology.com/wp-content/uploads/2022/03/01_president
 
 Dr. Goh Kee Soon
 

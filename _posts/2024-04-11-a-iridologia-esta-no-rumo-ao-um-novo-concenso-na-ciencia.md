@@ -8,7 +8,7 @@ description: "A Iridologia está no rumo ao um novo concenso na ciência? A irid
 image: "https://i.ibb.co/VpSZqX7q/49f29327a604.png"
 ---
 
-![](https://i.ibb.co/VpSZqX7q/49f29327a604.png)
+![](https://i.ibb.co/VpSZqX7q/49f29327a604
 
   
 

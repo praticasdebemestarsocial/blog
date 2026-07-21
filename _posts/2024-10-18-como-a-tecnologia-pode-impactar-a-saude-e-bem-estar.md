@@ -8,7 +8,7 @@ description: "Olá, seja bem-vindo ao canal 'Iridologia: Tecnologia do Autoconhe
 image: "https://i.ibb.co/cX2FmNtj/af2ed206d351.png"
 ---
 
-![](https://i.ibb.co/cX2FmNtj/af2ed206d351.png)
+![](https://i.ibb.co/cX2FmNtj/af2ed206d351
 
 Olá, seja bem-vindo ao canal 'Iridologia: Tecnologia do Autoconhecimento e
 Bem-Estar'. Hoje, vamos conversar sobre um tema muito importante e atual: o

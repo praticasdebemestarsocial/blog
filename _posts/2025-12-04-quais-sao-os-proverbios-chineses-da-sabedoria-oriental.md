@@ -5,10 +5,10 @@ date: 2025-12-04T18:13:00.004Z
 tags: ["medicina tradicional chinesa"]
 categories: ["bem-estar"]
 description: "Quatro Provérbios Chineses para Cultivar Sabedoria, Resiliência e Prevenção no Dia a Dia"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcBaTCcthTpnUljXoDUOWhJewC-G0bJC56pf-s7tcc8-HRRnXnhcqnsvzJ-8aeVeFfLxK7iCn3vWOVFkegtmtQTlYGtQLBUmCcYDsiZ-gH1ZgDguCvDEeKWTain3XLQ64Gl5lENN05pgDoCjnp3UoGBTkQzl5weS5Qz9DT0_vdTBVYGm7QK-NaEdgJxlk/w524-h295/proverbios_chineses.png"
+image: "/assets/img/posts/proverbios_chineses.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcBaTCcthTpnUljXoDUOWhJewC-G0bJC56pf-s7tcc8-HRRnXnhcqnsvzJ-8aeVeFfLxK7iCn3vWOVFkegtmtQTlYGtQLBUmCcYDsiZ-gH1ZgDguCvDEeKWTain3XLQ64Gl5lENN05pgDoCjnp3UoGBTkQzl5weS5Qz9DT0_vdTBVYGm7QK-NaEdgJxlk/w524-h295/proverbios_chineses.png)
+![](/assets/img/posts/proverbios_chineses
 
   
 

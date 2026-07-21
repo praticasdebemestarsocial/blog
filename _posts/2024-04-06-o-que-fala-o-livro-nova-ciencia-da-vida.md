@@ -8,7 +8,7 @@ description: "Ressonância Mórfica: A Teoria Revolucionária de Rupert Sheldrak
 image: "https://i.ibb.co/RGMjms14/5b9ba0f0eebd.png"
 ---
 
-![](https://i.ibb.co/RGMjms14/5b9ba0f0eebd.png)
+![](https://i.ibb.co/RGMjms14/5b9ba0f0eebd
 
 ## Ressonância Mórfica: A Teoria Revolucionária de Rupert Sheldrake em "Uma Nova Ciência da Vida"
 
@@ -131,6 +131,6 @@ ideias.
 
 *   Adquira o livro para explorar em profundidade a visão de Rupert Sheldrake.
 
-[![](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra.png)](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra.png)
+[![](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra
 
 Neste livro, Sheldrake reinterpreta as regularidades da natureza como sendo mais similares a hábitos do que a leis imutáveis, desafiando conceitos estabelecidos na ciência. Ele argumenta que a ressonância mórfica oferece uma nova maneira de compreender a realidade biológica e física, promovendo uma investigação científica mais ampla e inclusiva sobre os processos da vida.

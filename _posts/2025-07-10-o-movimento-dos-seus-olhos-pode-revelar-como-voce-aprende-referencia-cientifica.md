@@ -5,10 +5,10 @@ date: 2025-07-10T05:04:00.005Z
 tags: ["anatomia fisiologia", "referência científica"]
 categories: ["bem-estar"]
 description: "O Movimento dos Seus Olhos Pode Revelar Como Você Aprende?"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwGV6F2ZaL_ZJExVRbXa_6BBdL2XmaX23axcGmHiWFOsPeFEq-v2TZqnZmcMn2WZMYTu0kkno-9blbK75Fu9Xm6oC80X5MLNKkkDlIwxYYeMh2rrnDbPz_XhyphyphenhyphenXOYEwicKt_H26m0ONtSUUBgWaFQEhhupsj1ipIyVB2Adgc9cAaTuMQPhf68UyRQHw/w584-h328/O%20Movimento_dos_Seus_Olhos_Pode_Revelar_Como_Voc%C3%AA_Aprende.png"
+image: "/assets/img/posts/O%20Movimento_dos_Seus_Olhos_Pode_Revelar_Como_Voc%C3%AA_Aprende.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwGV6F2ZaL_ZJExVRbXa_6BBdL2XmaX23axcGmHiWFOsPeFEq-v2TZqnZmcMn2WZMYTu0kkno-9blbK75Fu9Xm6oC80X5MLNKkkDlIwxYYeMh2rrnDbPz_XhyphyphenhyphenXOYEwicKt_H26m0ONtSUUBgWaFQEhhupsj1ipIyVB2Adgc9cAaTuMQPhf68UyRQHw/w584-h328/O%20Movimento_dos_Seus_Olhos_Pode_Revelar_Como_Voc%C3%AA_Aprende.png)
+![](/assets/img/posts/O%20Movimento_dos_Seus_Olhos_Pode_Revelar_Como_Voc%C3%AA_Aprende
 
 # O Movimento dos Seus Olhos Pode Revelar Como Você Aprende?
 

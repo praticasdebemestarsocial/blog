@@ -92,9 +92,9 @@ A citação ABNT completa da postagem discutida neste post está abaixo:
 
 SILVÉRIO, S. S. Saber a nossa personalidade é importante para o autoconhecimento? 2025. Disponível em: . Acesso em: [Insira aqui o dia, mês e ano em que você acessou esta página do blog].
 
-[![](https://i.ibb.co/Fkby8qw7/a48ab6444ba9.jpg)](https://i.ytimg.com/vi/KpBqZhphyJ0/maxresdefault.jpg)
+[![](https://i.ibb.co/Fkby8qw7/a48ab6444ba9](https://i.ytimg.com/vi/KpBqZhphyJ0/maxresdefault
 
-![](https://i.ibb.co/mF5GV4x7/447f022178b1.png)
+![](https://i.ibb.co/mF5GV4x7/447f022178b1
 
 ## Psicoiridologia: Jung e o Método Rayid
 

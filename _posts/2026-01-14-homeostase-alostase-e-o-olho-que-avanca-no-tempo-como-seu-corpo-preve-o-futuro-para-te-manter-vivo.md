@@ -4,11 +4,11 @@ title: "Homeostase, Alostase e o Olho que Avança no Tempo: como seu corpo prev�
 date: 2026-01-14T10:34:00.004Z
 tags: ["filosofia", "anatomia fisiologia"]
 categories: ["bem-estar"]
-description: ".jpg).jpg)"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiudsxU7jsN3cM4UNg49vCD-DWBagHkZ0N7vg6PpULrgm61Sy18xinvsheLQc8xP8Kcuu-njPI-7IYwQAw9iIDCYMRkgYEs1uExu84zMjENbszSgjXvV3dgA-nExGaM1BM8hqJr-Oiq_B7piBiBSlPym4gl607fyzs6qeTmd7135suxq7S9F92yERzwTHo/w467-h261/olho%20em%20um%20ambiente%20psicodelico%20verde%20com%20algoritmos%20no%20ar%20(3"
+description: ""
+image: "/assets/img/posts/image_-2810491378980035803.jpg"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiudsxU7jsN3cM4UNg49vCD-DWBagHkZ0N7vg6PpULrgm61Sy18xinvsheLQc8xP8Kcuu-njPI-7IYwQAw9iIDCYMRkgYEs1uExu84zMjENbszSgjXvV3dgA-nExGaM1BM8hqJr-Oiq_B7piBiBSlPym4gl607fyzs6qeTmd7135suxq7S9F92yERzwTHo/w467-h261/olho%20em%20um%20ambiente%20psicodelico%20verde%20com%20algoritmos%20no%20ar%20(3).jpg).jpg)
+![](/assets/img/posts/image_-2810491378980035803
 
   
 Homeostase, Alostase e o Olho que Avança no Tempo: como seu corpo prevê o futuro para te manter vivo

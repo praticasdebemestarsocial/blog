@@ -10,7 +10,7 @@ image: "https://i.ibb.co/9Hz5xyrb/8690ab5d924b.jpg"
 
 ## 
 
-![](https://i.ibb.co/9Hz5xyrb/8690ab5d924b.jpg)
+![](https://i.ibb.co/9Hz5xyrb/8690ab5d924b
 
 ## O sistema nervoso controla os órgãos
 

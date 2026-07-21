@@ -8,7 +8,7 @@ description: "Quem é Louis Kuhne?"
 image: "https://i.ibb.co/Kz6QxcSx/11d93b2d0919.png"
 ---
 
-![](https://i.ibb.co/Kz6QxcSx/11d93b2d0919.png)
+![](https://i.ibb.co/Kz6QxcSx/11d93b2d0919
 
   
 

@@ -8,7 +8,7 @@ description: "Institute of Holistic Nutrition: Revolucionando a Saúde com Nutri
 image: "https://i.ibb.co/zVkktZVq/637fcecf871e.png"
 ---
 
-![](https://i.ibb.co/zVkktZVq/637fcecf871e.png)
+![](https://i.ibb.co/zVkktZVq/637fcecf871e
 
 # **Institute of Holistic Nutrition: Revolucionando a Saúde com Nutrição Integrativa**
 

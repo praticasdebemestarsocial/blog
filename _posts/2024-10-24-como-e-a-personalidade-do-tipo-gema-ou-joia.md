@@ -8,7 +8,7 @@ description: "As  personalidades segundo o método rayid é uma avaliação que
 image: "https://i.ibb.co/hJStMHvy/8543a75db080.png"
 ---
 
-![](https://i.ibb.co/hJStMHvy/8543a75db080.png)
+![](https://i.ibb.co/hJStMHvy/8543a75db080
 
   
 As  personalidades segundo o método rayid é uma avaliação que é realizada segundo o seu biotipo irídeo.
@@ -35,7 +35,7 @@ Essas características latentes podem ser inatas ou adquiridas ao longo da vida,
 porém, por diversas razões, elas não se manifestam claramente no comportamento
 diário ou nas decisões da pessoa.
 
-![](https://i.ibb.co/7dMcpnWD/86281ffcc86d.jpg)
+![](https://i.ibb.co/7dMcpnWD/86281ffcc86d
 
 ## Como é a personalidade do tipo Gema ou Jóia?
 

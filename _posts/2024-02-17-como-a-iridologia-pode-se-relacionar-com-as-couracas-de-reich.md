@@ -43,7 +43,7 @@ que podem existir de forma unitária ou sobrepostos.
 
 ### * **Anel de tensão ou realização:**
 
-[![](https://i.ibb.co/Jw0hHPcV/849cad48171d.jpg)](https://www.bemstarsb.com.br/media/posts/g/20190906112815.jpg)
+[![](https://i.ibb.co/Jw0hHPcV/849cad48171d](https://www.bemstarsb.com.br/media/posts/g/20190906112815
 
 O **Anel de Tensão**, também conhecido como **Anel de Realização**, é um dos sinais observados na iridologia, uma prática que envolve a análise dos padrões e características da íris para inferir informações sobre a saúde física e emocional de uma pessoa.
 
@@ -61,7 +61,7 @@ No entanto, os iridologistas podem usar a presença desse anel como uma pista pa
 
 ### * **Anel de pele ou propósito:**
 
-[![](https://i.ibb.co/VdPQ1pd/30f612e16fa0.jpg)](https://drhiltonoliveira.com.br/wp-content/uploads/2021/08/pupila-olho.jpg)
+[![](https://i.ibb.co/VdPQ1pd/30f612e16fa0](https://drhiltonoliveira.com.br/wp-content/uploads/2021/08/pupila-olho
 
   
 
@@ -77,7 +77,7 @@ Assim como em outros aspectos da iridologia, a presença do **Anel de Pele** pod
 
 ### * **Anel de harmonia ou rosário linfático:**
 
-![](https://i.ibb.co/spZBjnKY/2aa45abe21c8.jpg)
+![](https://i.ibb.co/spZBjnKY/2aa45abe21c8
 
 O **Anel de Harmonia**, também conhecido como **Rosário Linfático**, é um dos sinais que os iridologistas observam durante a análise da íris, uma prática conhecida como iridologia. Este anel aparece como uma série de pequenas marcas ou círculos ao redor da íris, geralmente na área externa à pupila.
 
@@ -89,7 +89,7 @@ Assim como em outros aspectos da iridologia, a presença do **Anel de Harmonia**
 
 ### * **Anel senil ou determinação:**
 
-![](https://i.ibb.co/Q3H8q5CD/e180ac20ed9b.jpg)
+![](https://i.ibb.co/Q3H8q5CD/e180ac20ed9b
 
 O **Anel Senil**, também conhecido como **Anel de Determinação**, é um dos sinais que os iridologistas observam durante a análise da íris, uma prática conhecida como iridologia. Este anel aparece como uma linha fina e escura que circunda a íris, geralmente na região externa à pupila.
 
@@ -101,7 +101,7 @@ Assim como em outros aspectos da iridologia, a presença do **Anel Senil** pode 
 
 ### * **Anel de neurastenia:**
 
-[![](https://www.researchgate.net/profile/Tiago-Rusin/publication/324005442/figure/fig3/AS:608232955469826@1522025445681/Figura-06-Iris-Biliar_Q320.jpg)](https://www.researchgate.net/profile/Tiago-Rusin/publication/324005442/figure/fig3/AS:608232955469826@1522025445681/Figura-06-Iris-Biliar_Q320.jpg)
+[![](https://www.researchgate.net/profile/Tiago-Rusin/publication/324005442/figure/fig3/AS:608232955469826@1522025445681/Figura-06-Iris-Biliar_Q320](https://www.researchgate.net/profile/Tiago-Rusin/publication/324005442/figure/fig3/AS:608232955469826@1522025445681/Figura-06-Iris-Biliar_Q320
 
 O **Anel de Neurastenia** é um dos sinais observados na prática da iridologia, uma abordagem pseudocientífica que examina os padrões, características e mudanças na íris para inferir informações sobre a saúde e o bem-estar de uma pessoa. Esse anel é caracterizado por uma linha escura ou sombra que circunda a íris, geralmente mais próxima da borda externa.
 
@@ -176,7 +176,7 @@ Portanto, a presença do Anel do Estômago na íris pode ser considerada como um
 pista para orientar recomendações de estilo de vida e estratégias de cuidados
 com a saúde, mas não deve ser considerada como um diagnóstico médico definitivo.
 
-[![](https://www.researchgate.net/publication/283080396/figure/fig2/AS:391531371483142@1470359761664/Figura-2-Zonas-en-el-iris-humano-Bernard-1980.png)](https://www.researchgate.net/publication/283080396/figure/fig2/AS:391531371483142@1470359761664/Figura-2-Zonas-en-el-iris-humano-Bernard-1980.png)
+[![](https://www.researchgate.net/publication/283080396/figure/fig2/AS:391531371483142@1470359761664/Figura-2-Zonas-en-el-iris-humano-Bernard-1980](https://www.researchgate.net/publication/283080396/figure/fig2/AS:391531371483142@1470359761664/Figura-2-Zonas-en-el-iris-humano-Bernard-1980
 
 ## Como se classifica as couraças de Reich?
 

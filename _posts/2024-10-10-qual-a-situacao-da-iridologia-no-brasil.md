@@ -8,7 +8,7 @@ description: "Olá amigos sejam bem-vindos aqui a esse canal meu nome é silvian
 image: "https://i.ibb.co/Sw1m4Xx7/bdd2689bff23.png"
 ---
 
-![](https://i.ibb.co/Sw1m4Xx7/bdd2689bff23.png)
+![](https://i.ibb.co/Sw1m4Xx7/bdd2689bff23
 
 Olá amigos sejam bem-vindos aqui a esse canal meu nome é silvian silvel eu sou
 terapeuta e biomédica e eu quero falar hoje para vocês a respeito do que é

@@ -8,7 +8,7 @@ description: "Olá a todos Hoje vamos falar sobre iridologia que é uma técnica
 image: "https://i.ibb.co/8LmRDP7h/40653d612b0f.png"
 ---
 
-![](https://i.ibb.co/8LmRDP7h/40653d612b0f.png)
+![](https://i.ibb.co/8LmRDP7h/40653d612b0f
 
   
 Olá a todos Hoje vamos falar sobre iridologia que é uma técnica utilizada na naturopatia ou naturologia para avaliar a saúde de uma pessoa através de sinais que aparecem nos olhos.

@@ -8,7 +8,7 @@ description: "Qual a  Perspectiva da iridologia nas Ciências Subjetivas e sua 
 image: "https://i.ibb.co/kgxqRrGT/c130d66c4e4b.png"
 ---
 
-![](https://i.ibb.co/kgxqRrGT/c130d66c4e4b.png)
+![](https://i.ibb.co/kgxqRrGT/c130d66c4e4b
 
 ## Qual a  Perspectiva da iridologia nas Ciências Subjetivas e sua Integração nas Terapias Integrativas?
 

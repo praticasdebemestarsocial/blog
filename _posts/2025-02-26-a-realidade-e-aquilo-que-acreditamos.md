@@ -4,11 +4,11 @@ title: "A realidade é aquilo que acreditamos?"
 date: 2025-02-26T01:49:00.007Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
-description: ".png).png)"
+description: ""
 image: "https://i.ibb.co/mCLhfwb4/dd05b6ca1f69.png"
 ---
 
-![](https://i.ibb.co/mCLhfwb4/dd05b6ca1f69.png).png).png)
+![](https://i.ibb.co/mCLhfwb4/dd05b6ca1f69
 
 # **A Realidade é Aquilo em que Acreditamos? Uma Reflexão Sobre Crenças, Emoções e Autoconhecimento**
 

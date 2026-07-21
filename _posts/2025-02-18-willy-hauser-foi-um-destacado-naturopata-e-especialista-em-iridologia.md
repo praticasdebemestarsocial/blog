@@ -8,7 +8,7 @@ description: "Willy Hauser foi um destacado naturopata e especialista em iridolo
 image: "https://i.ibb.co/RdcgwdK/9ee71f290ca8.png"
 ---
 
-![](https://i.ibb.co/RdcgwdK/9ee71f290ca8.png)
+![](https://i.ibb.co/RdcgwdK/9ee71f290ca8
 
 ## Willy Hauser foi um destacado naturopata e especialista em iridologia
 
@@ -70,7 +70,7 @@ Uma de suas obras mais importantes é o livro "Information, Structure and Colour
 Nessa obra, os autores explicam de forma clara e concisa os conceitos
 fundamentais da iridologia, como topografia, constituição, disposição e diatese.
 
-![Imagem de Information, Structure and Colour (Iridology 1) book cover](https://i.ibb.co/TMzwx729/b8b18960a45b.jpg)
+![Imagem de Information, Structure and Colour (Iridology 1) book cover](https://i.ibb.co/TMzwx729/b8b18960a45b
 
 Information, Structure and Colour (Iridology 1) book cover
 

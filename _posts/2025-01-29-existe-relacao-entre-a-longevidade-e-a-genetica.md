@@ -8,7 +8,7 @@ description: "Existe Relação Entre a Longevidade e a Genética?"
 image: "https://i.ibb.co/8DzLmLmW/5c936101f9b9.png"
 ---
 
-![](https://i.ibb.co/8DzLmLmW/5c936101f9b9.png)
+![](https://i.ibb.co/8DzLmLmW/5c936101f9b9
 
   
 

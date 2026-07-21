@@ -8,7 +8,7 @@ description: "O que é a Olhodiagnose?"
 image: "https://i.ibb.co/xtpHYL3z/1d39b4507c78.png"
 ---
 
-![](https://i.ibb.co/xtpHYL3z/1d39b4507c78.png)
+![](https://i.ibb.co/xtpHYL3z/1d39b4507c78
 
   
 

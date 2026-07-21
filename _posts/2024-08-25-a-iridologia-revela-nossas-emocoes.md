@@ -41,14 +41,14 @@ biopersonalidades na iridologia. Nesse segmento, ele desenvolveu o modelo Rayid,
 uma abordagem inovadora que desvenda os mistérios da personalidade,
 comportamento e dinâmicas familiares.
 
-![](https://i.ibb.co/S4KpdCD4/e26485975e67.jpg)
+![](https://i.ibb.co/S4KpdCD4/e26485975e67
 
   
   
    
 Denny Johnson, com sua vasta experiência e anos de trabalho para compreender os sinais que aparecem nos olhos, trouxe à luz um modelo que oferece insights profundos e proporciona uma compreensão única da individualidade e dos relacionamentos. Denny Johnson não se limitou ao modelo Rayid; ele se aprofundou em suas pesquisas sobre sequências de filhos e a influência da árvore familiar na personalidade, como a ordem do nascimento e a dinâmica familiar que molda como somos. Vamos explorar essas intrigantes conexões.
 
-![](https://i.ibb.co/xtHKgPwf/f8a5bc1ea4d7.jpg)
+![](https://i.ibb.co/xtHKgPwf/f8a5bc1ea4d7
 
   
   

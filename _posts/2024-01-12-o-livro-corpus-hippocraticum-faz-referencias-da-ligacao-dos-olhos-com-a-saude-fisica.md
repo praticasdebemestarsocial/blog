@@ -121,7 +121,7 @@ SILVÉRIO, S. S. O Livro Corpus Hippocraticum e a Ligação dos Olhos com a Saú
 
 ## [🎥 [Vídeo incorporado](https://www.youtube.com/embed/4ZSym9zkLT4)](https://www.youtube.com/embed/4ZSym9zkLT4)
 
-[![](https://i.ibb.co/qMM8bL9B/b2c13d927641.jpg)](cvc)
+[![](https://i.ibb.co/qMM8bL9B/b2c13d927641](cvc)
 
 # Textos hipocráticos: o doente, o médico e a doença
 

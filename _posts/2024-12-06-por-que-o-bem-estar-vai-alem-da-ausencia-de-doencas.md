@@ -8,7 +8,7 @@ description: "Você já parou para pensar no que realmente significa estar bem? 
 image: "https://i.ibb.co/WNtf86Rr/b2541bca819d.png"
 ---
 
-![](https://i.ibb.co/WNtf86Rr/b2541bca819d.png)
+![](https://i.ibb.co/WNtf86Rr/b2541bca819d
 
   
  Você já parou para pensar no que realmente significa estar bem? Muitas pessoas acreditam que saúde é simplesmente não estar doente.

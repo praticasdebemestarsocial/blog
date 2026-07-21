@@ -23,7 +23,7 @@ Essa técnica possibilita um rastreamento metabólico do seu organismo com uma a
 * **porque você come um determinado alimento e não se sente bem,**
 * **porque você vem fazendo tratamento não tem resultado.**
 
-![](https://i.ibb.co/G4SXzQ7L/e1027df9a79b.png)
+![](https://i.ibb.co/G4SXzQ7L/e1027df9a79b
 
   
 
@@ -37,7 +37,7 @@ O que a iridologia pode revelar para você através de um exame simples rápido 
 
 E isso pode nortear um tratamento complementar para você ter mais eficácia na recuperação e promoção do bem estar.
 
-![](https://i.ibb.co/QF0wYBP0/ce1b8294c359.png)
+![](https://i.ibb.co/QF0wYBP0/ce1b8294c359
 
 ## 3- Como os olhos podem oferecer informações do nosso corpo?
 

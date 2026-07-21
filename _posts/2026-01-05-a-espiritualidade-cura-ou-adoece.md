@@ -4,11 +4,11 @@ title: "A Espiritualidade Cura ou Adoece?"
 date: 2026-01-05T20:56:00.004Z
 tags: ["anatomia fisiologia", "medicina tradicional chinesa", "psicoespiritualidade"]
 categories: ["bem-estar"]
-description: ".jpg).jpg)"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnMq2g7JxtbAeKlpBNlqw8QWXuEK0bR4_eSDUIIotgtcgCjw9sJ0yvhxbD9BALXd0tB5Nfu_nJmc_M6NcBsGxvhD7Rhw8_F3CNoVxnVM7_1NwLv37lnq8dvyVRTddNcBxVohpoz73XfPAQbr6d2FjAecEU5IE0bpSaLvxODa16ZyL9ck-q5jaIQWRYy8/w514-h288/cultura%20chinesa%20(1"
+description: ""
+image: "/assets/img/posts/image_-3028826403635955478.jpg"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnMq2g7JxtbAeKlpBNlqw8QWXuEK0bR4_eSDUIIotgtcgCjw9sJ0yvhxbD9BALXd0tB5Nfu_nJmc_M6NcBsGxvhD7Rhw8_F3CNoVxnVM7_1NwLv37lnq8dvyVRTddNcBxVohpoz73XfPAQbr6d2FjAecEU5IE0bpSaLvxODa16ZyL9ck-q5jaIQWRYy8/w514-h288/cultura%20chinesa%20(1).jpg).jpg)
+![](/assets/img/posts/image_-3028826403635955478
 
   
 Como a Espiritualidade Pode Curar — ou Adoecer — o Sistema Cognitivo: o que Yeshua já sabia

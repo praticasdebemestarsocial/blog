@@ -8,7 +8,7 @@ description: "Os Fundamentos da Iridologia: Os Olhos como Chave para o Seu Perfi
 image: "https://i.ibb.co/hJ9nkRjP/c96d1e4fb9f4.png"
 ---
 
-![](https://i.ibb.co/hJ9nkRjP/c96d1e4fb9f4.png)
+![](https://i.ibb.co/hJ9nkRjP/c96d1e4fb9f4
 
   
 

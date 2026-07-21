@@ -8,7 +8,7 @@ description: "Quem é o professor Clodoaldo Pacheco? O arquiteto da Microsemiót
 image: "https://i.ibb.co/pj0znfPJ/e704626181d1.png"
 ---
 
-![](https://i.ibb.co/pj0znfPJ/e704626181d1.png)
+![](https://i.ibb.co/pj0znfPJ/e704626181d1
 
 ## **Quem é o professor Clodoaldo Pacheco? O arquiteto da Microsemiótica Irídea no Brasil**
 
@@ -80,7 +80,7 @@ Silviane Silvério
 
 Mapas do Autoconhecimento
 
-[![](https://static-media.hotmart.com/Cz-UmCo5yuqKbq3tjMEIzdfPnYo=/filters:background_color(white)/hotmart/product_pictures/dfe4948d-4761-49f2-9d27-46bf12a0004f/microsemioticairidea.jpg)](https://static-media.hotmart.com/Cz-UmCo5yuqKbq3tjMEIzdfPnYo=/filters:background_color(white)/hotmart/product_pictures/dfe4948d-4761-49f2-9d27-46bf12a0004f/microsemioticairidea.jpg)
+[![](https://static-media.hotmart.com/Cz-UmCo5yuqKbq3tjMEIzdfPnYo=/filters:background_color(white)/hotmart/product_pictures/dfe4948d-4761-49f2-9d27-46bf12a0004f/microsemioticairidea](https://static-media.hotmart.com/Cz-UmCo5yuqKbq3tjMEIzdfPnYo=/filters:background_color(white)/hotmart/product_pictures/dfe4948d-4761-49f2-9d27-46bf12a0004f/microsemioticairidea
 
   
 

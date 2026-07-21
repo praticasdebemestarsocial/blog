@@ -5,10 +5,10 @@ date: 2026-01-14T07:28:00.004Z
 tags: ["anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "Quem Está no Comando? O diálogo entre cérebro consciente, inconsciente e os olhos que revelam tudo"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji3iHmRFhoBEQiAcrflFuJEG4YzCHbznrTxlPfIASoWVDWFzqp6rOG-wH2n4M7-ShIIbKA4ttwIZHdHPnQws6GWBTVa23Lnoyqy6ghm4kueRZKe1CKxLxLwAcLxsAr3ql_cGCqBqCjyfOuKHzBncqDa25qPQNppQ9L5vYXFx4bu4hClnbcQVddInd0b2I/w513-h287/CRIE%20VARIA%C3%87%C3%95ES%20VERDES.jpg"
+image: "/assets/img/posts/CRIE%20VARIA%C3%87%C3%95ES%20VERDES.jpg"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji3iHmRFhoBEQiAcrflFuJEG4YzCHbznrTxlPfIASoWVDWFzqp6rOG-wH2n4M7-ShIIbKA4ttwIZHdHPnQws6GWBTVa23Lnoyqy6ghm4kueRZKe1CKxLxLwAcLxsAr3ql_cGCqBqCjyfOuKHzBncqDa25qPQNppQ9L5vYXFx4bu4hClnbcQVddInd0b2I/w513-h287/CRIE%20VARIA%C3%87%C3%95ES%20VERDES.jpg)
+![](/assets/img/posts/CRIE%20VARIA%C3%87%C3%95ES%20VERDES
 
 # Quem Está no Comando? O diálogo entre cérebro consciente, inconsciente e os olhos que revelam tudo
 

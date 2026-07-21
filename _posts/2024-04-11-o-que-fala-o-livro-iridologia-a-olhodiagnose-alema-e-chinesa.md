@@ -8,7 +8,7 @@ description: "O que fala o livro Iridologia a olhodiagnose alemã e chinesa?"
 image: "https://i.ibb.co/S7RFJsjf/57a7ac14ee39.png"
 ---
 
-![](https://i.ibb.co/S7RFJsjf/57a7ac14ee39.png)
+![](https://i.ibb.co/S7RFJsjf/57a7ac14ee39
 
   
 

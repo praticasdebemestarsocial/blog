@@ -46,7 +46,7 @@ acessível e práticas autênticas. Seu objetivo era clarear divergências
 filosóficas e técnicas no campo da Electro Homeopatia, promovendo um diálogo
 entre tradição e inovação.
 
-![](https://i.ibb.co/mFqqf9q0/3fef005bbbae.jpg)
+![](https://i.ibb.co/mFqqf9q0/3fef005bbbae
 
 ## Iridologia como ferramenta diagnóstica: o legado de John Andrews
 

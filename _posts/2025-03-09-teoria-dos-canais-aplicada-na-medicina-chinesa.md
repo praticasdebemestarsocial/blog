@@ -8,7 +8,7 @@ description: "Teoria dos Canais Aplicada na Medicina Chinesa: ensinamentos de Wa
 image: "https://i.ibb.co/kgGpbTrH/869ff1e97546.png"
 ---
 
-![](https://i.ibb.co/kgGpbTrH/869ff1e97546.png)
+![](https://i.ibb.co/kgGpbTrH/869ff1e97546
 
 # Teoria dos Canais Aplicada na Medicina Chinesa: ensinamentos de Wang Ju-Yi sobre a terapêutica por canais
 

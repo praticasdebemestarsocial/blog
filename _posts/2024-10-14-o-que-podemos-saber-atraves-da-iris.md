@@ -8,7 +8,7 @@ description: "Iridologia: Reflexologia Ocular e Bem-Estar – O Que é e Para Qu
 image: "https://i.ibb.co/hJnJt70D/fbd11b1a9786.png"
 ---
 
-![](https://i.ibb.co/hJnJt70D/fbd11b1a9786.png)
+![](https://i.ibb.co/hJnJt70D/fbd11b1a9786
 
 ### Iridologia: Reflexologia Ocular e Bem-Estar – O Que é e Para Que Serve?
 

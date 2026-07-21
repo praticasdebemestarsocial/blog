@@ -8,7 +8,7 @@ description: "Como o Olho se Conecta com os Órgãos do Corpo? Uma Análise Deta
 image: "https://i.ibb.co/F45PVpwc/29d120d8b14a.jpg"
 ---
 
-![](https://i.ibb.co/F45PVpwc/29d120d8b14a.jpg)
+![](https://i.ibb.co/F45PVpwc/29d120d8b14a
 
 # Como o Olho se Conecta com os Órgãos do Corpo? Uma Análise Detalhada
 

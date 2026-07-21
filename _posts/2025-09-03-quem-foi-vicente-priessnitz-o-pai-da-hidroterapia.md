@@ -5,10 +5,10 @@ date: 2025-09-03T23:46:00.004Z
 tags: ["práticas integrativas complementares"]
 categories: ["bem-estar"]
 description: "Quem foi Vicente Priessnitz?"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm-TODzPc0ChR3k702fA6AKHS9Qdec5NGgP2z9-CrCq6PkD2hnTt29E_-ST1aNUg4h4RkYlmTCkYmc7v0NWxebuILHOjiXAAscRiWcxX7nZlMypd84ufxCG-8st8BYfhWqVtXBk4kFpaczwvV9ZJaGMh0lIsuiNTDoD4qf3KbiFUps_7ryeJgE5r_u-2Y/w521-h293/vicente_priessnitz_pai_hidroterapia.png"
+image: "/assets/img/posts/vicente_priessnitz_pai_hidroterapia.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm-TODzPc0ChR3k702fA6AKHS9Qdec5NGgP2z9-CrCq6PkD2hnTt29E_-ST1aNUg4h4RkYlmTCkYmc7v0NWxebuILHOjiXAAscRiWcxX7nZlMypd84ufxCG-8st8BYfhWqVtXBk4kFpaczwvV9ZJaGMh0lIsuiNTDoD4qf3KbiFUps_7ryeJgE5r_u-2Y/w521-h293/vicente_priessnitz_pai_hidroterapia.png)
+![](/assets/img/posts/vicente_priessnitz_pai_hidroterapia
 
 ## Quem foi Vicente Priessnitz?
 

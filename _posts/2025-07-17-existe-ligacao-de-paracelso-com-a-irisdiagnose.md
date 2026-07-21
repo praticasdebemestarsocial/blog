@@ -5,7 +5,7 @@ date: 2025-07-17T23:01:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Existe ligação de Paracelso com a Irisdiagnose?"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM7frDz-rKHRgk7ETlbWMIeOWMPS4pG6tp7hK-1J4x6xZQcTWeSE0bj4q9rhXFaHu8dUoAXpjVeAnXitFCgvTWSEBnmMiCSwsPF_P763WNHd5WkkqnwRrTTJflwM5jz4O0MbVAK7Sk3tnR6_0EaKl0IAOaIusC5cZyUSgYIYj4xp7330Db4uzZ8HTBvOE/s320/Screenshot_91.jpg"
+image: "/assets/img/posts/Screenshot_91.jpg"
 ---
 
 ## Existe ligação de Paracelso com a Irisdiagnose?
@@ -158,13 +158,13 @@ e filosófica.
 
 ### 
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM7frDz-rKHRgk7ETlbWMIeOWMPS4pG6tp7hK-1J4x6xZQcTWeSE0bj4q9rhXFaHu8dUoAXpjVeAnXitFCgvTWSEBnmMiCSwsPF_P763WNHd5WkkqnwRrTTJflwM5jz4O0MbVAK7Sk3tnR6_0EaKl0IAOaIusC5cZyUSgYIYj4xp7330Db4uzZ8HTBvOE/s320/Screenshot_91.jpg)
+![](/assets/img/posts/Screenshot_91
 
 Paracelso. Um chamado de: Paracelso e nosso futuro
 
   
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3YYwV_en1ptxBc9VPSH0_TDnOcn_SojGztg0jMSq7emTpAN75L8YNZQgIz3mrrlGOhwz1JyjfP9vcUXS_iS5wcZHUHtEehbCZbjHLue0vP1kbRt6neo8iVMtS5rx8zquXDXuo0xz9lBYEEEtJXSXrmWqtwsN7_00vrp1Z_Tr3RXeeqbJH7RGcHwLhmWM/s1600/Screenshot_90.jpg)
+![](/assets/img/posts/Screenshot_90
 
 Paracelso Filosofo - Médico - Profeta
 

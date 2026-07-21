@@ -8,7 +8,7 @@ description: "A Iridologia e a Reflexologia Ocular: Como Novas Pesquisas Podem F
 image: "https://i.ibb.co/dJHqgJCy/2f56875f000c.jpg"
 ---
 
-![](https://i.ibb.co/dJHqgJCy/2f56875f000c.jpg)
+![](https://i.ibb.co/dJHqgJCy/2f56875f000c
 
   
 

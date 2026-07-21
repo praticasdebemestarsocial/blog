@@ -92,7 +92,7 @@ Em suma, a convergência entre a história antiga e a inteligência artificial n
 apenas enriquece nossa compreensão do passado, mas também impulsiona a inovação
 em várias áreas, contribuindo para o avanço do conhecimento humano.
 
-[![](https://i.ibb.co/1t9g0zGp/6ebc37beff41.jpg)](https://amzn.to/421wVZH)
+[![](https://i.ibb.co/1t9g0zGp/6ebc37beff41](https://amzn.to/421wVZH)
 
   
 

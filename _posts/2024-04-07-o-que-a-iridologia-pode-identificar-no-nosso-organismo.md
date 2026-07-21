@@ -8,7 +8,7 @@ description: "A iridologia é uma ferramenta poderosa de prevenção de saúde, 
 image: "https://i.ibb.co/j9VSTY7r/34a234cd8fd7.jpg"
 ---
 
-![](https://i.ibb.co/j9VSTY7r/34a234cd8fd7.jpg)
+![](https://i.ibb.co/j9VSTY7r/34a234cd8fd7
 
 A iridologia é uma ferramenta poderosa de prevenção de saúde, pois ela oferece a possibilidade de entender quais são fatores estão condicionando a saúde da pessoa e que impedem a recuperação de uma doença ou de um sintoma.
 
@@ -39,7 +39,7 @@ A iris é um órgao complexo e pode refletir o estado de saúde geral do corpo. 
 
 Elaoferece insights sobre a natureza humana. Sinais na íris não indicam exclusivamente doenças, mas são influenciados por fatores comportamentais, alimentares, genéticos, ambientais e de estilo de vida.
 
-[![](https://i.ibb.co/XfbhbkVM/9d09da1c51c1.jpg)](https://aprenda.bio.br/wp-content/uploads/2019/02/Sistema-nervoso-Aula-completa.jpg)  
+[![](https://i.ibb.co/XfbhbkVM/9d09da1c51c1](https://aprenda.bio.br/wp-content/uploads/2019/02/Sistema-nervoso-Aula-completa  
 
 ## **2- Como ocorre que essa informação do corpo chega aos nossos olhos?**
 
@@ -56,7 +56,7 @@ de mapas daí eles e da esclera do olho.
 ainda não consegue entender muitos processos físico-químicos do organismo e nem
 oferece cura para a maioria das doenças crônico degenerativas.
 
-[![](https://i.ibb.co/DgkPFKL1/7013f0b5de7e.png)](https://opticanet.com.br/images/materias//2021/07/555137033_iridologia_mapa_451.png)
+[![](https://i.ibb.co/DgkPFKL1/7013f0b5de7e](https://opticanet.com.br/images/materias//2021/07/555137033_iridologia_mapa_451
 
 ## 3- O que pode a Iridologia ajudar na saúde e bem estar?
 
@@ -71,7 +71,7 @@ A Iridologia pode fornecer informações que dão norteamento para:
 melhora e mudanças no estilo no seu estado geral e facilitar uma recuperação é
 independente de estar fazendo qualquer outro tratamento médico.
 
-[![](https://i.ibb.co/yFVGg8dX/1729c74eddd0.jpg)](https://amzn.to/3U6Mhtn)
+[![](https://i.ibb.co/yFVGg8dX/1729c74eddd0](https://amzn.to/3U6Mhtn)
 
 # [Iridologia integrada: A ciência e a arte da revelação do holograma humano](https://amzn.to/3U6Mhtn)
 

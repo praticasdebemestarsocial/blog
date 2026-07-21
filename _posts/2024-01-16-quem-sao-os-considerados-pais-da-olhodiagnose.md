@@ -8,7 +8,7 @@ description: "Leonard Mehlmauer e Nenita Sarmiento: os pioneiros da Olhodiagnose
 image: "https://i.ibb.co/zhk21TQm/21fa6f886d4f.png"
 ---
 
-![](https://i.ibb.co/zhk21TQm/21fa6f886d4f.png)
+![](https://i.ibb.co/zhk21TQm/21fa6f886d4f
 
 # Leonard Mehlmauer e Nenita Sarmiento: os pioneiros da Olhodiagnose Integral
 

@@ -5,10 +5,10 @@ date: 2026-01-02T03:30:00.005Z
 tags: ["medicina tradicional chinesa", "psicanalise hipnoterapia"]
 categories: ["bem-estar"]
 description: "O Que É Cura Emocional? Uma Ponte Entre Jung e a Medicina Chinesa"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMKyP4ez6ceXvZuZk1egeGO91ddyXWZhDSlrrcuMbqbxJCqnyoR9eJ6abf6gpHL1J9_yN7icAvyHVIYc8LjMXEYxEEuFn6UQC8iUwRbnv0p_kiYkm3DiIrxxVwjP1DMxYPLA8Z_aRaQ3CX92KeavfB_c2lvUDGmCWJZD2RtSyLULXg9LIky5pQWh5lYIw/w475-h266/sabedoria%20ancestral%20e%20tecnologia.jpg"
+image: "/assets/img/posts/sabedoria%20ancestral%20e%20tecnologia.jpg"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMKyP4ez6ceXvZuZk1egeGO91ddyXWZhDSlrrcuMbqbxJCqnyoR9eJ6abf6gpHL1J9_yN7icAvyHVIYc8LjMXEYxEEuFn6UQC8iUwRbnv0p_kiYkm3DiIrxxVwjP1DMxYPLA8Z_aRaQ3CX92KeavfB_c2lvUDGmCWJZD2RtSyLULXg9LIky5pQWh5lYIw/w475-h266/sabedoria%20ancestral%20e%20tecnologia.jpg)
+![](/assets/img/posts/sabedoria%20ancestral%20e%20tecnologia
 
   
 O Que É Cura Emocional? Uma Ponte Entre Jung e a Medicina Chinesa

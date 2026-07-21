@@ -8,7 +8,7 @@ description: "David J. Pesek: O Pai da Iridologia Holística e Sua Revolução n
 image: "https://i.ibb.co/jZGJLQQ8/66a927b3f426.png"
 ---
 
-![](https://i.ibb.co/jZGJLQQ8/66a927b3f426.png)
+![](https://i.ibb.co/jZGJLQQ8/66a927b3f426
 
 # **David J. Pesek: O Pai da Iridologia Holística e Sua Revolução na Ciência da Íris**
 

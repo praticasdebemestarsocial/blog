@@ -8,7 +8,7 @@ description: "Quem é o autor Rupert Sheldrake?"
 image: "https://i.ibb.co/JWfpv9J2/904520220129.png"
 ---
 
-![](https://i.ibb.co/JWfpv9J2/904520220129.png)
+![](https://i.ibb.co/JWfpv9J2/904520220129
 
   
 

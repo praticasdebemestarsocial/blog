@@ -8,7 +8,7 @@ description: "O Mapeamento da Retina Pode Ajudar a Validar o Mapeamento da Íris
 image: "https://i.ibb.co/TxyNRf8M/d50432fad128.png"
 ---
 
-![](https://i.ibb.co/TxyNRf8M/d50432fad128.png)
+![](https://i.ibb.co/TxyNRf8M/d50432fad128
 
   
 

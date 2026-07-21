@@ -8,7 +8,7 @@ description: "Milo Milosevic e a Iridologia Constitucional: Um Legado na Naturop
 image: "https://i.ibb.co/9Q4136C/d15258158fd6.png"
 ---
 
-![](https://i.ibb.co/9Q4136C/d15258158fd6.png)
+![](https://i.ibb.co/9Q4136C/d15258158fd6
 
 ## **Milo Milosevic e a Iridologia Constitucional: Um Legado na Naturopatia**
 
@@ -165,7 +165,7 @@ Milosevic também estudou nos Estados Unidos com a ***Natural Iridology Research
 Association***, onde teve contato com o sistema Deck, amplamente utilizado na
 iridologia.
 
-![](https://i.ibb.co/YFmqkLwg/ea6f8dbdc849.jpg)
+![](https://i.ibb.co/YFmqkLwg/ea6f8dbdc849
 
 Além disso, lecionou por oito anos no ***[Australian College of Natural
 Medicine](https://www.torrens.edu.au/)***, em Brisbane, e foi professor no

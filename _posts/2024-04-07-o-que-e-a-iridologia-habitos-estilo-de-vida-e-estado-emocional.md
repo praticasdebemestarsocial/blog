@@ -8,7 +8,7 @@ description: "1- O que é Iridologia?"
 image: "https://i.ibb.co/7dyb7WMf/963ab90c7e3d.png"
 ---
 
-![](https://i.ibb.co/7dyb7WMf/963ab90c7e3d.png)
+![](https://i.ibb.co/7dyb7WMf/963ab90c7e3d
 
 ## 1- O que é Iridologia?
 
@@ -17,7 +17,7 @@ hábitos, estilo de vida e estado emocional que podem estar prejudicando a sua
 saúde física e mental, gerando auto conhecimento e informações de como realizar
 melhor um auto cuidado.
 
-![](https://i.ibb.co/Q3XHm3m0/90ea1985ca1e.jpg)
+![](https://i.ibb.co/Q3XHm3m0/90ea1985ca1e
 
 ## 2- Como é possível observar nos olhos informações do interior do nosso corpo?
 
@@ -31,7 +31,7 @@ O tálamo é responsável por transmitir os sinais visuais para áreas específi
 do córtex visual, que fica no lobo occipital, que é a região do cérebro
 responsável pelo processamento das informações visuais.
 
-![](https://i.ibb.co/XxJwJzJG/9596bb1e3d14.jpg)
+![](https://i.ibb.co/XxJwJzJG/9596bb1e3d14
 
 ## 3- Onde está guardada a informação do nosso, nossa memória no cérebro?
 
@@ -41,7 +41,7 @@ Ele está envolvido na determinação de cores, no reconhecimento facial, na
 percepção de profundidade, no processamento visuoespacial e até desempenha um
 papel na formação de memórias.  
 
-![](https://i.ibb.co/R4kQy1px/13b8a6ca9d23.png)
+![](https://i.ibb.co/R4kQy1px/13b8a6ca9d23
 
 O tronco cerebral é a parte do cérebro que se conecta com a medula espinhal, é
 onde ocorre o começo da transmissão de informações das vias neurais entre
@@ -59,14 +59,14 @@ pressão arterial - circulação sanguínea e rins
 
 digestão - estômago
 
-![](https://i.ibb.co/qM0rMQML/9010b1768e6a.png)
+![](https://i.ibb.co/qM0rMQML/9010b1768e6a
 
 Essas informações são sinais nervosos entre o cérebro e o restante do corpo.  
 
 A conecção entre medula espinhal e tronco cerebral proporciona a transmissão de
 sinais nervosos entre o cérebro e o restante do corpo.  
 
-![](https://i.ibb.co/nN6FxPJt/8f4bd1585da6.png)
+![](https://i.ibb.co/nN6FxPJt/8f4bd1585da6
 
 A medula espinhal atua como uma via de mão dupla de comunicação.
 
@@ -78,7 +78,7 @@ Envia sinais motores do cérebro para os músculos e órgãos do corpo.  
 manifestam nos olhos, pois essa via de mão de processamento de informações
 nervosas e quimicas ocorre em todo corpo."
 
-![](https://i.ibb.co/G4SkcPH9/2ac2a3963bb9.png)
+![](https://i.ibb.co/G4SkcPH9/2ac2a3963bb9
 
   
 
@@ -88,13 +88,13 @@ O sistema circulatório é responsável por transportar o sangue que contem
 oxigênio, nutrientes hormônios e outras substâncias e componentes para todo o
 corpo, incluindo os olhos.  
 
-[![](https://i.ibb.co/5mqB7FJ/8735c47ebab8.jpg)](https://imo.com.br/wp-content/uploads/2021/09/anatomia-olho-retina-imo.jpg)
+[![](https://i.ibb.co/5mqB7FJ/8735c47ebab8](https://imo.com.br/wp-content/uploads/2021/09/anatomia-olho-retina-imo
 
   
 
 Os olhos são irrigados por um rede complexa de vasos sanguíneos.  
 
-[![](https://big1news.com.br/wp-content/uploads/2016/05/Esclerite-nos-olhos-O-Que-%C3%89-Sintomas-e-Causas.jpg)](https://big1news.com.br/wp-content/uploads/2016/05/Esclerite-nos-olhos-O-Que-%C3%89-Sintomas-e-Causas.jpg)
+[![](https://big1news.com.br/wp-content/uploads/2016/05/Esclerite-nos-olhos-O-Que-%C3%89-Sintomas-e-Causas](https://big1news.com.br/wp-content/uploads/2016/05/Esclerite-nos-olhos-O-Que-%C3%89-Sintomas-e-Causas
 
   
 
@@ -104,7 +104,7 @@ As artérias fornecem sangue oxigenado e nutrientes aos tecidos oculares.
 
 As veias são responsáveis por remover resíduos metabólicos dos tecidos oculares, levando de volta para o sistema circulatório para serem eliminados.
 
-[![](https://static.tuasaude.com/media/article/jz/ke/oftalmologista_58637_l.jpg)](https://static.tuasaude.com/media/article/jz/ke/oftalmologista_58637_l.jpg)
+[![](https://static.tuasaude.com/media/article/jz/ke/oftalmologista_58637_l](https://static.tuasaude.com/media/article/jz/ke/oftalmologista_58637_l
 
 ## 4- Qual a diferença entre a Iridogia e a Medicina Oftalmologia?
 

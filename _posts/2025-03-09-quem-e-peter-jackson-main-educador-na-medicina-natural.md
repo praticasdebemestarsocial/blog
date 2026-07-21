@@ -8,7 +8,7 @@ description: "Peter Jackson-Main é um renomado profissional e educador na área
 image: "https://i.ibb.co/WWKq1vPp/90486e9a669d.png"
 ---
 
-![](https://i.ibb.co/WWKq1vPp/90486e9a669d.png)
+![](https://i.ibb.co/WWKq1vPp/90486e9a669d
 
   
 Peter Jackson-Main é um renomado profissional e educador na área de medicina natural, com mais de 40 anos de experiência.

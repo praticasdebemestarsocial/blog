@@ -8,7 +8,7 @@ description: "Os Olhos São as Janelas da Alma: O Que Leonardo da Vinci Quis Diz
 image: "https://i.ibb.co/WWRv1jx0/7ef43a2bceea.png"
 ---
 
-![](https://i.ibb.co/WWRv1jx0/7ef43a2bceea.png)
+![](https://i.ibb.co/WWRv1jx0/7ef43a2bceea
 
 ## Os Olhos São as Janelas da Alma: O Que Leonardo da Vinci Quis Dizer?
 

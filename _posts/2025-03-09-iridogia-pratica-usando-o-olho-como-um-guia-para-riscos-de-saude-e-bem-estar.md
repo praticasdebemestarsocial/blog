@@ -8,7 +8,7 @@ description: "'Iridologia Prática: Descubra os Segredos da Saúde Através dos 
 image: "https://i.ibb.co/p65rrPH3/326add028526.png"
 ---
 
-![](https://i.ibb.co/p65rrPH3/326add028526.png)
+![](https://i.ibb.co/p65rrPH3/326add028526
 
 ## "Iridologia Prática: Descubra os Segredos da Saúde Através dos Olhos com Peter Jackson-Main"
 

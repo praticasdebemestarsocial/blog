@@ -5,10 +5,10 @@ date: 2026-01-03T04:14:00.005Z
 tags: ["filosofia", "ciência e espiritualidade"]
 categories: ["bem-estar"]
 description: "Do Sagrado Aprisionado à Liberdade Espiritual: um chamado para a espiritualidade madura"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnF47gO70OMHaxVI4AIPBRZiHROuppMLeq-0_NLSfLbBY4hQVk3UE0uCZ3fdmPEeBIEnH26l3fz8SjDT6EmKUXnwFQLu8f9AnWDcm64a5w9fubA8QovSx1b43hSprlpjRm_bcmgCFatzrP9_GGoz0JVpMKudA0xNt4ksRgkPbIoTvF_7hJhprrqppwSw0/w488-h273/Liberdade%20Espiritual.jpg"
+image: "/assets/img/posts/Liberdade%20Espiritual.jpg"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnF47gO70OMHaxVI4AIPBRZiHROuppMLeq-0_NLSfLbBY4hQVk3UE0uCZ3fdmPEeBIEnH26l3fz8SjDT6EmKUXnwFQLu8f9AnWDcm64a5w9fubA8QovSx1b43hSprlpjRm_bcmgCFatzrP9_GGoz0JVpMKudA0xNt4ksRgkPbIoTvF_7hJhprrqppwSw0/w488-h273/Liberdade%20Espiritual.jpg)
+![](/assets/img/posts/Liberdade%20Espiritual
 
   
  Do Sagrado Aprisionado à Liberdade Espiritual: um chamado para a espiritualidade madura

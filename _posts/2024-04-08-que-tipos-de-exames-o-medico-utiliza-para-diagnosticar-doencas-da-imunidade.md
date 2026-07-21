@@ -75,7 +75,7 @@ Por isso, é essencial buscar ajuda médica caso haja suspeita de uma doença
 autoimune para que um diagnóstico preciso possa ser estabelecido e o tratamento
 adequado seja iniciado o mais cedo possível.
 
-![](https://i.ibb.co/nMkFssvP/1f8a8beef9dd.jpg)
+![](https://i.ibb.co/nMkFssvP/1f8a8beef9dd
 
   
 

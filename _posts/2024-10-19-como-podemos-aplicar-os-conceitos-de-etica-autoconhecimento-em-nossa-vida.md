@@ -8,7 +8,7 @@ description: "Para Sócrates, a ética e o autoconhecimento estão profundamente
 image: "https://i.ibb.co/zYt10WC/68b60a168d8b.png"
 ---
 
-![](https://i.ibb.co/zYt10WC/68b60a168d8b.png)
+![](https://i.ibb.co/zYt10WC/68b60a168d8b
 
   
 Para Sócrates, a ética e o autoconhecimento estão profundamente interligados.

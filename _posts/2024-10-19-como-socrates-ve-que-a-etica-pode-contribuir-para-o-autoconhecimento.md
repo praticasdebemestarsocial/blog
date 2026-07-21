@@ -8,7 +8,7 @@ description: "Sócrates: A Ética Antropológica"
 image: "https://i.ibb.co/B50JYrmQ/b57739cb954c.jpg"
 ---
 
-![](https://i.ibb.co/B50JYrmQ/b57739cb954c.jpg)
+![](https://i.ibb.co/B50JYrmQ/b57739cb954c
 
 ## Sócrates: A Ética Antropológica
 

@@ -10,7 +10,7 @@ image: "https://i.ibb.co/B5z49tLR/5a4ae4a450bf.png"
 
 ## 
 
-![](https://i.ibb.co/B5z49tLR/5a4ae4a450bf.png)
+![](https://i.ibb.co/B5z49tLR/5a4ae4a450bf
 
   
 

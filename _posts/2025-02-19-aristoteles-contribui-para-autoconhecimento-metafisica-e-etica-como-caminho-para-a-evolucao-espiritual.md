@@ -8,7 +8,7 @@ description: "Aristóteles contribui para  autoconhecimento, metafísica e éti
 image: "https://i.ibb.co/KPfZ2Lc/dd41fd42f134.png"
 ---
 
-![](https://i.ibb.co/KPfZ2Lc/dd41fd42f134.png)
+![](https://i.ibb.co/KPfZ2Lc/dd41fd42f134
 
 ## Aristóteles contribui para  autoconhecimento, metafísica e ética como caminho para a evolução espiritual?
 

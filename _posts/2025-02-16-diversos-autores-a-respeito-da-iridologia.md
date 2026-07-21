@@ -8,7 +8,7 @@ description: "Principais autores, suas nacionalidades (ou local de atuação), a
 image: "https://i.ibb.co/s9X8w0BJ/44a4f1fa1311.jpg"
 ---
 
-![](https://i.ibb.co/s9X8w0BJ/44a4f1fa1311.jpg)
+![](https://i.ibb.co/s9X8w0BJ/44a4f1fa1311
 
   
 Principais autores, suas nacionalidades (ou local de atuação), a obra citada e o respectivo ano de publicação (quando informado).

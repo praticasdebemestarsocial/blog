@@ -8,7 +8,7 @@ description: "O que é o Instituto Felke?"
 image: "https://i.ibb.co/60r70tVg/2abd4ad1dab7.jpg"
 ---
 
-![](https://i.ibb.co/60r70tVg/2abd4ad1dab7.jpg)
+![](https://i.ibb.co/60r70tVg/2abd4ad1dab7
 
 ## O que é o Instituto Felke?
 
@@ -49,7 +49,7 @@ Ele oferece:
 * Medicina Integrativa, unindo práticas naturais a métodos médicos convencionais.
 * Cursos e Treinamentos em Iridologia, uma das áreas de maior destaque do instituto.
 
-![](https://i.ibb.co/ycmKzzvp/cecf424a1cbe.jpg)
+![](https://i.ibb.co/ycmKzzvp/cecf424a1cbe
 
   
 Desde 1989, **[Joachim Geiger](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/quem-e-joachim-geiger-na-iridologia.html)** lidera o instituto, que se fundiu com o Institute for Fundamental Research de Josef Deck, expandindo a pesquisa e o ensino da iridologia.

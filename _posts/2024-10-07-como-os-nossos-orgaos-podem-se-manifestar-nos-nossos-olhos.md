@@ -8,7 +8,7 @@ description: "Como os nossos órgãos podem  se manifestar nos nossos olhos?"
 image: "https://i.ibb.co/2YhNWjb2/5362ef50201b.png"
 ---
 
-![](https://i.ibb.co/2YhNWjb2/5362ef50201b.png)
+![](https://i.ibb.co/2YhNWjb2/5362ef50201b
 
 ## Como os nossos órgãos podem  se manifestar nos nossos olhos?
 

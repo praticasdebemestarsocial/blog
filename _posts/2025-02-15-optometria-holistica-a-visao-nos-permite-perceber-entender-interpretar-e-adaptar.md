@@ -8,7 +8,7 @@ description: "Optometria Holística – A visão nos permite perceber, entender,
 image: "https://i.ibb.co/gZhcnrgH/7b05ab8b7aea.png"
 ---
 
-![](https://i.ibb.co/gZhcnrgH/7b05ab8b7aea.png)
+![](https://i.ibb.co/gZhcnrgH/7b05ab8b7aea
 
 ## Optometria Holística – A visão nos permite perceber, entender, interpretar e adaptar
 

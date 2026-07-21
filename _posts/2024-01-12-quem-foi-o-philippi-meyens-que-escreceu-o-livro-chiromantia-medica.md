@@ -44,7 +44,7 @@ Além da Chiromantia Medica, Meyens também escreveu outros livros sobre medicin
 
 Meyens foi um médico influente no século XVII. Seus livros foram amplamente lidos e ajudaram a promover a iridologia.
 
-![](https://i.ibb.co/nsRfjTtz/f37bc96c729a.jpg)
+![](https://i.ibb.co/nsRfjTtz/f37bc96c729a
 
 ## Do que se trata o livro Chiromantia Medica?
 
@@ -58,7 +58,7 @@ A Chiromantia Medica foi publicada durante um período de grandes avanços e mud
 
 No século 17, o pensamento medieval estava dando lugar a ideias mais modernas baseadas na observação e experimentação.
 
-![](https://i.ibb.co/5Wq3pFrn/3dac1b9ebca5.jpg)
+![](https://i.ibb.co/5Wq3pFrn/3dac1b9ebca5
 
   
 
@@ -68,7 +68,7 @@ Ao associar características das mãos, face e olhos a doenças, o livro aplicou
 
 A Chiromantia Medica representou uma mudança inicial importante no estudo dos sinais físicos como indicadores diagnósticos, abrindo caminho para o desenvolvimento futuro da iridologia e outras áreas. Foi uma obra importante em meio à transição do pensamento médico medieval para uma ciência médica mais moderna.
 
-![](https://i.ibb.co/C5P3knYh/6ff7268bd9f1.jpg)
+![](https://i.ibb.co/C5P3knYh/6ff7268bd9f1
 
   
 
@@ -90,13 +90,13 @@ A Chiromantia Medica descreve em detalhes as correlações entre característica
 
 O método envolvia observar cuidadosamente as mãos e os olhos para fazer diagnósticos e prever riscos à saúde.
 
-![](https://i.ibb.co/LXtnw84j/fc27d5799a9d.png)
+![](https://i.ibb.co/LXtnw84j/fc27d5799a9d
 
 ## Onde é possível achar o livro Chromantia Medica?
 
 A Chiromantia Medica está disponível em uma variedade de bibliotecas e livrarias. Uma maneira de encontrar o livro é pesquisar por "Chiromantia Medica" na biblioteca local ou na livraria on-line.
 
-![](https://i.ibb.co/rGh3cqhp/91d4ff118368.png)
+![](https://i.ibb.co/rGh3cqhp/91d4ff118368
 
 # A Ciência da Quirologia: Uma construção para a medicina
 

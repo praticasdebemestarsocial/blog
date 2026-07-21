@@ -8,7 +8,7 @@ description: "Essas quatro forças—opinião, fanatismo, adoecimento e corrupç
 image: "https://i.ibb.co/xSTTDQSH/3c3e4dfe898a.png"
 ---
 
-![](https://i.ibb.co/xSTTDQSH/3c3e4dfe898a.png)
+![](https://i.ibb.co/xSTTDQSH/3c3e4dfe898a
 
   
 Essas quatro forças—**opinião, fanatismo, adoecimento e corrupção**—podem, de fato, representar desafios significativos para o ser humano, mas é interessante analisá-las mais profundamente antes de afirmar que todas devem ser combatidas.

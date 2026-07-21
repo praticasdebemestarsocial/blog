@@ -5,7 +5,7 @@ date: 2025-07-30T17:09:00.006Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
 description: "Quem é Rudolf Steiner? Uma Breve Introdução ao Filósofo e Fundador da Antroposofia"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid4fQkys815siZsiFPRWhjdKrksCPt_hoWkfgKywx2Xe9LIiAFc7Pva6Nq_cYvVZRnn94cVGlaWVZobSjiy8riX5ov2KXB9qFUbh1jjteYZKyjpxNtwRTzmwhyphenhyphenLnoRxqvhlN2FuZ437e6kurE9l5iifcGBJWXQgHOo1322MBXVwPePw5VWil6MavV2hB0/s320/Screenshot_14.jpg"
+image: "/assets/img/posts/Screenshot_14.jpg"
 ---
 
 # Quem é Rudolf Steiner? Uma Breve Introdução ao Filósofo e Fundador da Antroposofia
@@ -121,7 +121,7 @@ corporais. É usada tanto como prática artística quanto como terapia.
 
 ## A Escola Superior de Ciência do Espírito
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid4fQkys815siZsiFPRWhjdKrksCPt_hoWkfgKywx2Xe9LIiAFc7Pva6Nq_cYvVZRnn94cVGlaWVZobSjiy8riX5ov2KXB9qFUbh1jjteYZKyjpxNtwRTzmwhyphenhyphenLnoRxqvhlN2FuZ437e6kurE9l5iifcGBJWXQgHOo1322MBXVwPePw5VWil6MavV2hB0/s320/Screenshot_14.jpg)
+![](/assets/img/posts/Screenshot_14
 
 Após reorganizar a Sociedade Antroposófica em 1923/24, Steiner fundou a Escola
 Superior de Ciência do Espírito no Goetheanum, em Dornach, Suíça.

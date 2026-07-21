@@ -8,7 +8,7 @@ description: "Livros de Manuel Lezaeta Acharán – Conheça as Obras do Pioneir
 image: "https://i.ibb.co/MDGzVNzZ/cc111c3af07f.png"
 ---
 
-![](https://i.ibb.co/MDGzVNzZ/cc111c3af07f.png)
+![](https://i.ibb.co/MDGzVNzZ/cc111c3af07f
 
   
 

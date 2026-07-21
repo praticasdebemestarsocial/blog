@@ -115,7 +115,7 @@ Ele ajuda a identificar bloqueios emocionais e padrões de comportamento que
 podem estar limitando o crescimento pessoal ou causando problemas emocionais e
 físicos através de um mapeamento.
 
-![](https://i.ibb.co/11QWjPW/6b3ae4e4498f.jpg)
+![](https://i.ibb.co/11QWjPW/6b3ae4e4498f
 
 ## Qual a Filosofia por trás do Modelo Rayid?
 

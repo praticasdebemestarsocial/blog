@@ -8,7 +8,7 @@ description: "A iridologia é a ferramenta de avaliação holística"
 image: "https://i.ibb.co/JN7jvdP/1e643651bddc.png"
 ---
 
-![](https://i.ibb.co/JN7jvdP/1e643651bddc.png)
+![](https://i.ibb.co/JN7jvdP/1e643651bddc
 
 ## A iridologia é a ferramenta de avaliação holística
 

@@ -8,7 +8,7 @@ description: "A teoria dos humores é de Hipócrates e a teoria dos temperamento
 image: "https://i.ibb.co/qMRWvNn7/6406d459e928.jpg"
 ---
 
-![](https://i.ibb.co/qMRWvNn7/6406d459e928.jpg)
+![](https://i.ibb.co/qMRWvNn7/6406d459e928
 
 ## A teoria dos humores é de Hipócrates e a teoria dos temperamentos é de Galeno?
 

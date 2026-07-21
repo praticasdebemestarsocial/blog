@@ -8,7 +8,7 @@ description: "International College of Holistic Health (ICHH): Formação Profis
 image: "https://i.ibb.co/k2YY6XDs/5c5ad75746ac.jpg"
 ---
 
-![](https://i.ibb.co/k2YY6XDs/5c5ad75746ac.jpg)
+![](https://i.ibb.co/k2YY6XDs/5c5ad75746ac
 
   
 

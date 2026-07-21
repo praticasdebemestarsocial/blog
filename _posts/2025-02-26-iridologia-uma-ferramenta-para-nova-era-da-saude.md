@@ -8,7 +8,7 @@ description: "Iridologia uma ferramenta para Nova Era da Saúde?"
 image: "https://i.ibb.co/spWK8mHX/32f2eee685f4.png"
 ---
 
-![](https://i.ibb.co/spWK8mHX/32f2eee685f4.png)
+![](https://i.ibb.co/spWK8mHX/32f2eee685f4
 
   
 
@@ -201,8 +201,8 @@ aparecem nos olhos.
 glândulas hipotálamo e hipófise** Essas glândulas possuem grupos de
 neurônios controlam o sistema fisiológico do corpo.
 
-[![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Bp3vhE5D9-hdLtbJ2sP7h1EC9JY4ZHq7YG-41lq8alfUDzAcpKEGMEN5SBMzPuw0X-j2gqdottr2u4N9C2A5Y2vvceLCoKRTubd6DozJvWnpcKnU-iiHPQXDIQrp_v82XzftKptZSeE/w612-h261/IRIS2.jpg
-"tempodesaudeiridologia")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Bp3vhE5D9-hdLtbJ2sP7h1EC9JY4ZHq7YG-41lq8alfUDzAcpKEGMEN5SBMzPuw0X-j2gqdottr2u4N9C2A5Y2vvceLCoKRTubd6DozJvWnpcKnU-iiHPQXDIQrp_v82XzftKptZSeE/s923/IRIS2.jpg)
+[![tempodesaudeiridologia](/assets/img/posts/IRIS2.jpg
+"tempodesaudeiridologia")](/assets/img/posts/IRIS2
 
     O **Hipotálamo** produz os hormônios  e tem ligação direta com o sistema
 nervoso e com o sistema endócrino. A hipófise ou glândula pituitária, a glândula
@@ -238,7 +238,7 @@ estômago.
 que na mesma área relacionada com o intestino, também podemos verificar o estado
 hormonal e nervoso.
 
-![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8L_cd5V3UyPhhB7FnJIAPusyVuqt1qCBeAdG2XqrVX7YW4xZJanJt0OTVu1SJ8Mf491wBN9S8KUgj5jc3_d-oOFv-JjoAV0Ra3kUsi5Gf2gvdRzCGKY7bzaDhL-w23r1YQE6kEziodQ/w320-h296/IRIS3.jpg "tempodesaudeiridologia")
+![tempodesaudeiridologia](/assets/img/posts/IRIS3.jpg "tempodesaudeiridologia")
 
 Veja esse artigo da Sociedade Brasileira de Imunologia, que fala da ligação da condição do intestino relacionado com o sistema imunológico e o desenvolvimento de doenças.
 
@@ -246,7 +246,7 @@ Veja esse artigo da Sociedade Brasileira de Imunologia, que fala da ligação da
 
 A Iridologia se traduz  num mecanismo de comunicação do nosso próprio corpo. Tem o mesmo princípio básico da Medicina Tradicional Chinesa que já está comprovado que todo nosso corpo possui uma reflexologia através de pontos que se interconectam e interligam todo o organismo. Como vemos na famosa acupuntura.
 
-![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEe3Pojjgb8w1PQmZOjGprghyZTlpHvudT42q96i5cJecRuse2z1-sM9Tv_tMWvMDj2Oy7oOdpfSo1CiBbMZZ79lHgpM-u1y_Q2Rsg5MCwyEnfF2pNoi3NNmsKfW81ixJVLi2wdyDYN_s/w640-h304/IRIS4.jpg "tempodesaudeiridologia")
+![tempodesaudeiridologia](/assets/img/posts/IRIS4.jpg "tempodesaudeiridologia")
 
   
 > ![tempodesaudeiridologia](https://i.ibb.co/B7rXv4k/e241a1892239.jpg "tempodesaudeiridologia")

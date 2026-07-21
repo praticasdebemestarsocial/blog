@@ -8,7 +8,7 @@ description: "Qual a importância de fazer uma anamnese na consulta de saúde e 
 image: "https://i.ibb.co/BSLVmBb/df5aef9c7c14.png"
 ---
 
-![](https://i.ibb.co/BSLVmBb/df5aef9c7c14.png)
+![](https://i.ibb.co/BSLVmBb/df5aef9c7c14
 
 ## Qual a importância de fazer uma anamnese na consulta de saúde e da Iridologia?
 
@@ -83,7 +83,7 @@ emocionais do indivíduo. Esses dados são cruciais para interpretar as
 características observadas na íris, proporcionando insights sobre possíveis
 desequilíbrios no corpo.
 
-[![](https://i.ibb.co/ZzkhRK9D/a4a59ae45fe0.jpg)](https://revistapremissas.files.wordpress.com/2013/03/iridologia.jpg?w=1200)
+[![](https://i.ibb.co/ZzkhRK9D/a4a59ae45fe0](https://revistapremissas.files.wordpress.com/2013/03/iridologia.jpg?w=1200)
 
 ## Como é possível relacionar o resultado da anmnese com a Iridologia?
 

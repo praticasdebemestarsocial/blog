@@ -8,7 +8,7 @@ description: "Desvendando a Mente Holotrópica: Os 3 Níveis de Consciência que
 image: "https://i.ibb.co/8L37ZTMS/731a306ebd3f.png"
 ---
 
-![](https://i.ibb.co/8L37ZTMS/731a306ebd3f.png)
+![](https://i.ibb.co/8L37ZTMS/731a306ebd3f
 
 ## Desvendando a Mente Holotrópica: Os 3 Níveis de Consciência que Moldam Sua Vida
 
@@ -21,7 +21,7 @@ fascinante através dos diferentes níveis da consciência humana.
 Este livro é um marco na psicologia transpessoal, oferecendo insights profundos
 sobre como nossas experiências moldam quem somos.
 
-[![](https://i.ibb.co/k2zhsdQ9/47a98ac06451.jpg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSvg8qaEoiBQ5XR3oHh1_kpcpR_WFwYpUD0J-oHk89A&s)
+[![](https://i.ibb.co/k2zhsdQ9/47a98ac06451](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSvg8qaEoiBQ5XR3oHh1_kpcpR_WFwYpUD0J-oHk89A&s)
 
 ### Stanislav Grof: Pioneiro da Psicologia Transpessoal e Estados Alterados de Consciência
 

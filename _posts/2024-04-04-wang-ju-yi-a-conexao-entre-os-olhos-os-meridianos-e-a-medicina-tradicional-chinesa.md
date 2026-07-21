@@ -8,7 +8,7 @@ description: "Wang Ju-Yi: A Conexão Entre os Olhos, os Meridianos e a Medicina 
 image: "https://i.ibb.co/DD7cfc7L/a9d9f53b6436.png"
 ---
 
-![](https://i.ibb.co/DD7cfc7L/a9d9f53b6436.png)
+![](https://i.ibb.co/DD7cfc7L/a9d9f53b6436
 
 ## Wang Ju-Yi: A Conexão Entre os Olhos, os Meridianos e a Medicina Tradicional Chinesa
 

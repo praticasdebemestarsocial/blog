@@ -8,7 +8,7 @@ description: "Desde quando existem vestígios e cogitações da iridologia?"
 image: "https://i.ibb.co/S4fQz8vT/087efbe9b2eb.png"
 ---
 
-![](https://i.ibb.co/S4fQz8vT/087efbe9b2eb.png)
+![](https://i.ibb.co/S4fQz8vT/087efbe9b2eb
 
   
 

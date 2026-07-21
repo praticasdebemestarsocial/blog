@@ -8,7 +8,7 @@ description: "A Relação Entre a Iridologia e a Saúde Geral: Uma Perspectiva H
 image: "https://i.ibb.co/mC7Cqgmp/1f1d8029868c.png"
 ---
 
-![](https://i.ibb.co/mC7Cqgmp/1f1d8029868c.png)
+![](https://i.ibb.co/mC7Cqgmp/1f1d8029868c
 
   
 

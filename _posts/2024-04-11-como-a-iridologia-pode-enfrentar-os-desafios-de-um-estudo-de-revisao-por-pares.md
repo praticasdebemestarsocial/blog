@@ -8,7 +8,7 @@ description: "Vemos muitas vezes pessoas dizer que a Iridologia não tem comprov
 image: "https://i.ibb.co/LXvb070Y/83fd87fdd836.png"
 ---
 
-![](https://i.ibb.co/LXvb070Y/83fd87fdd836.png)
+![](https://i.ibb.co/LXvb070Y/83fd87fdd836
 
   
 

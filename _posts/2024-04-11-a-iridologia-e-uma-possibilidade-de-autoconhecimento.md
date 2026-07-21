@@ -8,7 +8,7 @@ description: "Olá amigos, sejam bem-vindos aqui ao canal. Fiquem de olho na sua
 image: "https://i.ibb.co/3ySbkZJ4/b07a588323cc.png"
 ---
 
-![](https://i.ibb.co/3ySbkZJ4/b07a588323cc.png)
+![](https://i.ibb.co/3ySbkZJ4/b07a588323cc
 
   
 Olá amigos, sejam bem-vindos aqui ao canal. Fiquem de olho na sua saúde.
@@ -44,7 +44,7 @@ Então, todas essas informações nos dão embasamento para que a gente possa pa
 um tratamento de limpeza do organismo, suplementação, uma suplementação correta
 onde você vai fortalecer o órgão que está mais enfraquecido.
 
-[![](https://i.ibb.co/Jw7kpRF5/ab98c6c8294a.jpg)](https://i.pinimg.com/736x/9b/b1/d3/9bb1d33a98d51582888afcfc44fd6729.jpg)
+[![](https://i.ibb.co/Jw7kpRF5/ab98c6c8294a](https://i.pinimg.com/736x/9b/b1/d3/9bb1d33a98d51582888afcfc44fd6729
 
 ## Qual a importância de conhecer os órgãos de choque do nosso organismo?
 
@@ -72,7 +72,7 @@ problemas de circulação, eh, já começam a sentir sintomas como formigamentos
 câimbras, e isso a gente consegue ver através dos olhos que já ocorrem problemas
 circulatórios que corroboram com uma anamnese.
 
-[![](https://i.ibb.co/Ng0RRskY/2e7b4317c75e.jpg)](https://images.tcdn.com.br/img/img_prod/470367/mapa_a3_das_diateses_em_iridologia_digital_133_1_20170816135415.jpg)
+[![](https://i.ibb.co/Ng0RRskY/2e7b4317c75e](https://images.tcdn.com.br/img/img_prod/470367/mapa_a3_das_diateses_em_iridologia_digital_133_1_20170816135415
 
   
 

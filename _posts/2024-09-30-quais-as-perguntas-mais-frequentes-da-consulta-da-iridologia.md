@@ -8,7 +8,7 @@ description: "Quais as perguntas mais frequentes da consulta da Iridologia?"
 image: "https://i.ibb.co/p6tRdrcQ/c9e2a5a9e9e5.png"
 ---
 
-![](https://i.ibb.co/p6tRdrcQ/c9e2a5a9e9e5.png)
+![](https://i.ibb.co/p6tRdrcQ/c9e2a5a9e9e5
 
   
 

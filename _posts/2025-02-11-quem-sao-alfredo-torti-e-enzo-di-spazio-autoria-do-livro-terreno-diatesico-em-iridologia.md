@@ -8,7 +8,7 @@ description: "Quem são  Alfredo Torti e Enzo Di Spazio?"
 image: "https://i.ibb.co/DgwxDcXK/82d855686400.png"
 ---
 
-![](https://i.ibb.co/DgwxDcXK/82d855686400.png)
+![](https://i.ibb.co/DgwxDcXK/82d855686400
 
   
 

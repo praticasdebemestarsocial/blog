@@ -8,7 +8,7 @@ description: "Como se realiza e se fundamenta a bioenergética ocular?Iridololgi
 image: "https://i.ibb.co/GQnbBQcX/026aed37a284.png"
 ---
 
-![](https://i.ibb.co/GQnbBQcX/026aed37a284.png)
+![](https://i.ibb.co/GQnbBQcX/026aed37a284
 
 ## Como se realiza e se fundamenta a bioenergética ocular?Iridololgia.
 

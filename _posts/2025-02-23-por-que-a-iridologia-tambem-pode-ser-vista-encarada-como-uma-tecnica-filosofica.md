@@ -8,7 +8,7 @@ description: "Por que a iridologia também pode ser vista encarada como uma téc
 image: "https://i.ibb.co/3mqkFQww/127ff71b0e2f.png"
 ---
 
-![](https://i.ibb.co/3mqkFQww/127ff71b0e2f.png)
+![](https://i.ibb.co/3mqkFQww/127ff71b0e2f
 
 ## Por que a iridologia também pode ser vista encarada como uma técnica filosófica?
 

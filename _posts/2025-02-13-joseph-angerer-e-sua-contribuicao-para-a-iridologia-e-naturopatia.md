@@ -8,7 +8,7 @@ description: "Joseph Angerer: O Visionário da Iridologia e Naturopatia Germâni
 image: "https://i.ibb.co/99zKZrQQ/ecba43633fc8.png"
 ---
 
-![](https://i.ibb.co/99zKZrQQ/ecba43633fc8.png)
+![](https://i.ibb.co/99zKZrQQ/ecba43633fc8
 
   
 
@@ -77,7 +77,7 @@ Joseph Angerer expandiu a análise ocular para além da íris, estudando também
 Seu trabalho ajudou a refinar o diagnóstico iridológico, tornando-o mais preciso
 e abrangente.
 
-![](https://i.ibb.co/Pv190rvd/a46ad44cf17b.jpg)
+![](https://i.ibb.co/Pv190rvd/a46ad44cf17b
 
 ### [Fundação da Heilpraktiker-Fachschule](https://www.ausbildung-zum-heilpraktiker.de/)
 
@@ -90,7 +90,7 @@ ensino em naturopatia na Europa.
 A escola de medicina alternativa JAS é administrada pela [Associação de Medicina
 Alternativa da Baviera](https://heilpraktiker-akademie-bayern.de/)    
 
-![](https://i.ibb.co/pBzvCRgj/6b928ae6f227.jpg)
+![](https://i.ibb.co/pBzvCRgj/6b928ae6f227
 
   
 
@@ -168,7 +168,7 @@ Ele trabalhou na compilação de uma obra de doze volumes sobre “**Fenomenolog
 
 Esse estudo contou com a colaboração dos melhores naturopatas da Alemanha e ajudou a consolidar uma visão mais abrangente e precisa da iridologia.
 
-![](https://i.ibb.co/pv2WyfJ3/6139dcce0976.jpg)
+![](https://i.ibb.co/pv2WyfJ3/6139dcce0976
 
 ### Diagnóstico Ocular como a Ciência das Configurações de Reflexo Opticamente Reguladas.
 

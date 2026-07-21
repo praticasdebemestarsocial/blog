@@ -8,7 +8,7 @@ description: "Capacidades Latentes na Alma: Como Descobrir Potenciais Ocultos e 
 image: "https://i.ibb.co/mCFzKLbp/1e172ad196a3.png"
 ---
 
-![](https://i.ibb.co/mCFzKLbp/1e172ad196a3.png)
+![](https://i.ibb.co/mCFzKLbp/1e172ad196a3
 
 ## **Capacidades Latentes na Alma: Como Descobrir Potenciais Ocultos e Despertar uma Vida Plena**
 

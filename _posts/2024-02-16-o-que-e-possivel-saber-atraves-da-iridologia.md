@@ -8,7 +8,7 @@ description: "1- O que é possível saber através da Iridologia?"
 image: "https://i.ibb.co/9CfZrQm/a5c5bf5c6b1b.jpg"
 ---
 
-![](https://i.ibb.co/9CfZrQm/a5c5bf5c6b1b.jpg)
+![](https://i.ibb.co/9CfZrQm/a5c5bf5c6b1b
 
 ## 1- O que é possível saber através da Iridologia?
 

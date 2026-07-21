@@ -8,7 +8,7 @@ description: "A Expansão da Iridologia – América Latina e EUA"
 image: "https://i.ibb.co/G44HNn99/bce4cc9c4fce.png"
 ---
 
-![](https://i.ibb.co/G44HNn99/bce4cc9c4fce.png)
+![](https://i.ibb.co/G44HNn99/bce4cc9c4fce
 
 ## **A Expansão da Iridologia – América Latina e EUA**
 

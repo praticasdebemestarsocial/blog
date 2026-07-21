@@ -8,7 +8,7 @@ description: "A Iridologia pode ajudar a entender as crises emocionais?"
 image: "https://i.ibb.co/6J0RTJNY/c4bcf04af2a9.png"
 ---
 
-![](https://i.ibb.co/6J0RTJNY/c4bcf04af2a9.png)
+![](https://i.ibb.co/6J0RTJNY/c4bcf04af2a9
 
   
 

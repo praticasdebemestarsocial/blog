@@ -5,10 +5,10 @@ date: 2025-05-22T08:39:00.005Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Grandes Autores da Iridologia: A Evolução do Estudo da Íris"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9xmMovxur2G78G4HA2QL8-yjzs_G9GXxzPOOdcjCOsAFszMxoNShKkzzwe-WtkE_1zOGusDzh7Gm8aBZf6ftFH18GaWo9PVig1cw7k-nF-ss_8vYMHR7f-5uXr5BjuCyqcSxmagqph0Von4fTskMntc_LDVRPL4Gx5XPFcNwxa0yPJyEDlQSqELiNqpI/w565-h318/Grandes_Autores_da_Iridologia_A_Evolu%C3%A7%C3%A3o_do_Estudo_da_%C3%8Dris.png"
+image: "/assets/img/posts/Grandes_Autores_da_Iridologia_A_Evolu%C3%A7%C3%A3o_do_Estudo_da_%C3%8Dris.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9xmMovxur2G78G4HA2QL8-yjzs_G9GXxzPOOdcjCOsAFszMxoNShKkzzwe-WtkE_1zOGusDzh7Gm8aBZf6ftFH18GaWo9PVig1cw7k-nF-ss_8vYMHR7f-5uXr5BjuCyqcSxmagqph0Von4fTskMntc_LDVRPL4Gx5XPFcNwxa0yPJyEDlQSqELiNqpI/w565-h318/Grandes_Autores_da_Iridologia_A_Evolu%C3%A7%C3%A3o_do_Estudo_da_%C3%8Dris.png)
+![](/assets/img/posts/Grandes_Autores_da_Iridologia_A_Evolu%C3%A7%C3%A3o_do_Estudo_da_%C3%8Dris
 
   
 

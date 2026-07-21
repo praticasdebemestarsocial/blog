@@ -4,11 +4,11 @@ title: "Profetas e Poetas da Nova Era: por uma espiritualidade que liberta, não
 date: 2026-01-06T17:55:00.001Z
 tags: ["psicoespiritualidade"]
 categories: ["bem-estar"]
-description: ".jpeg).jpeg)"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqLCbN6AISoOD41oDCNWbey7oUxE5Z5tB8xBxOFYhFVuGcuVIH_doc4cGfW2Uh_EF5Ejg0SIwwBEO0z38B4E_EAu_Rk3n6Y3KGwxxDUX9hWzy-hApS3cXjenXmBeI3uwJfx0RBhXudmC2lwQb4gsXUBZlLg7vEoFUzTlCepEdT9NyYAAgjwKTgX7dj0ho/w497-h281/profetas_e_poetas_da_nova_era_por%20(2"
+description: ""
+image: "/assets/img/posts/image_-2306058718766213314.jpg"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqLCbN6AISoOD41oDCNWbey7oUxE5Z5tB8xBxOFYhFVuGcuVIH_doc4cGfW2Uh_EF5Ejg0SIwwBEO0z38B4E_EAu_Rk3n6Y3KGwxxDUX9hWzy-hApS3cXjenXmBeI3uwJfx0RBhXudmC2lwQb4gsXUBZlLg7vEoFUzTlCepEdT9NyYAAgjwKTgX7dj0ho/w497-h281/profetas_e_poetas_da_nova_era_por%20(2).jpeg).jpeg)
+![](/assets/img/posts/image_-2306058718766213314
 
   
  Profetas e Poetas da Nova Era: por uma espiritualidade que liberta, não aprisiona

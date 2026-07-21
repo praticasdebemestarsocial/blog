@@ -8,7 +8,7 @@ description: "Autoconhecimento e Propósito:"
 image: "https://i.ibb.co/dN2Tdhy/7dca40d1a98f.png"
 ---
 
-![](https://i.ibb.co/dN2Tdhy/7dca40d1a98f.png)
+![](https://i.ibb.co/dN2Tdhy/7dca40d1a98f
 
 ## Autoconhecimento e Propósito:
 

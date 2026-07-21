@@ -8,7 +8,7 @@ description: "A Iridologia oferece insights do bem estar?"
 image: "https://i.ibb.co/NnKmm03h/3c0eb57f9fcc.png"
 ---
 
-![](https://i.ibb.co/NnKmm03h/3c0eb57f9fcc.png)
+![](https://i.ibb.co/NnKmm03h/3c0eb57f9fcc
 
   
 

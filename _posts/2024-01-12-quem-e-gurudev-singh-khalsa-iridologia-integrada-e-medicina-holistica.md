@@ -137,7 +137,7 @@ Suas contribuições seguem impactando o campo da saúde integrativa, promovendo
 uma visão onde corpo, mente e emoções são partes de um único sistema
 interligado.
 
-![](https://i.ibb.co/1G4mVJqG/22d5e6228229.png).png).png)
+![](https://i.ibb.co/1G4mVJqG/22d5e6228229
 
 # Iridologia integrada: A ciência e a arte da revelação do holograma humano
 

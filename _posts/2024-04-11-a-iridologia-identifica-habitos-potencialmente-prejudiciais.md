@@ -8,7 +8,7 @@ description: "A Iridologia seja uma ferramenta poderosa muito utilizada por tera
 image: "https://i.ibb.co/wZ1SjLMR/c1c1b1080da9.png"
 ---
 
-![](https://i.ibb.co/wZ1SjLMR/c1c1b1080da9.png)
+![](https://i.ibb.co/wZ1SjLMR/c1c1b1080da9
 
 A Iridologia seja uma ferramenta poderosa muito utilizada por terapeutas,
 naturopatas e naturólogos para auxiliar no bem estar atrás do auto conhecimento

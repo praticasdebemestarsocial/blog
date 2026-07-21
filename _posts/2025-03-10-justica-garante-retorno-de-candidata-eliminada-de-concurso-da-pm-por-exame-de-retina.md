@@ -5,10 +5,10 @@ date: 2025-03-10T03:44:00.003Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "Justiça Garante Retorno de Candidata Eliminada de Concurso da PM por Exame de Retina"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCeWZK-5EiCF83Yc7DMaOug1YpxB9uCA0hAml5UPIbeNM5hcT10JH3JMOvKIrkoW8N61sxHnzyU40KWrlO1Ewty3C0ZL0IEbI4KfoByVXYPB_-ljSsQizYpeYY4AslXDawghJ21imoNyNs_LP1_AGdnui6dSiKTbDAAT8Pt_BlSXwB5QtTjA62Ax_Hgt0/w617-h347/Justi%C3%A7a_Garante_Retorno%20_de_Candidata_Eliminada_de_Concurso_da_PM_por_Exame_de_Retina.png"
+image: "/assets/img/posts/Justi%C3%A7a_Garante_Retorno%20_de_Candidata_Eliminada_de_Concurso_da_PM_por_Exame_de_Retina.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCeWZK-5EiCF83Yc7DMaOug1YpxB9uCA0hAml5UPIbeNM5hcT10JH3JMOvKIrkoW8N61sxHnzyU40KWrlO1Ewty3C0ZL0IEbI4KfoByVXYPB_-ljSsQizYpeYY4AslXDawghJ21imoNyNs_LP1_AGdnui6dSiKTbDAAT8Pt_BlSXwB5QtTjA62Ax_Hgt0/w617-h347/Justi%C3%A7a_Garante_Retorno%20_de_Candidata_Eliminada_de_Concurso_da_PM_por_Exame_de_Retina.png)
+![](/assets/img/posts/Justi%C3%A7a_Garante_Retorno%20_de_Candidata_Eliminada_de_Concurso_da_PM_por_Exame_de_Retina
 
   
 

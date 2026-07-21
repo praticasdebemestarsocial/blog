@@ -8,7 +8,7 @@ description: "O que é o sentido ocular ou visual?"
 image: "https://i.ibb.co/v4hV5scq/41c577825a9b.jpg"
 ---
 
-![](https://i.ibb.co/v4hV5scq/41c577825a9b.jpg)
+![](https://i.ibb.co/v4hV5scq/41c577825a9b
 
 ## O que é o sentido ocular ou visual?
 

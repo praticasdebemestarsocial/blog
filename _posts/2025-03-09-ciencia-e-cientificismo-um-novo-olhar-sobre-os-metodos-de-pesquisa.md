@@ -8,7 +8,7 @@ description: "'Ciência é Cientificismo? Um Novo Olhar Sobre os Métodos de Pes
 image: "https://i.ibb.co/N6PW6chF/c27bfba62213.png"
 ---
 
-![](https://i.ibb.co/N6PW6chF/c27bfba62213.png)
+![](https://i.ibb.co/N6PW6chF/c27bfba62213
 
   
 

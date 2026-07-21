@@ -8,7 +8,7 @@ description: "O que é Iridologia Contemporânea?"
 image: "https://i.ibb.co/RTL0qsWf/8d4ff6c982ff.jpg"
 ---
 
-![](https://i.ibb.co/RTL0qsWf/8d4ff6c982ff.jpg)
+![](https://i.ibb.co/RTL0qsWf/8d4ff6c982ff
 
   
 
@@ -158,7 +158,7 @@ técnicas e descubra o potencial dessa ciência fascinante!
 
   
 
-![](https://i.ibb.co/DP0WQwDQ/f5700e9c53ca.jpg)
+![](https://i.ibb.co/DP0WQwDQ/f5700e9c53ca
 
   
 

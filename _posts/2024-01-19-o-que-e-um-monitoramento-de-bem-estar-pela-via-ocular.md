@@ -8,7 +8,7 @@ description: "O que é um monitoramento de bem estar pela via ocular?"
 image: "https://i.ibb.co/Ld8npKJT/3b114fb9aab8.jpg"
 ---
 
-![](https://i.ibb.co/Ld8npKJT/3b114fb9aab8.jpg)
+![](https://i.ibb.co/Ld8npKJT/3b114fb9aab8
 
 ## 
 

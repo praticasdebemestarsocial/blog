@@ -152,7 +152,7 @@ expandir sua jornada.
 
 ## Quem é o gestor do da AMB Iridologia?
 
-[![](https://i.ibb.co/nqTnNZ1j/e06ed96c07bf.jpg)](https://batello.med.br/assets/images/man.jpg)
+[![](https://i.ibb.co/nqTnNZ1j/e06ed96c07bf](https://batello.med.br/assets/images/man
 
 Dr. Celso Fernandes Batello
 

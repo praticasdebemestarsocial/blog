@@ -5,10 +5,10 @@ date: 2026-01-12T18:57:00.007Z
 tags: ["metafísica"]
 categories: ["bem-estar"]
 description: "A Metafísica do Olhar: Decodificando a Linguagem Oculta do Corpo"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHNslQGWk8nq0sJo1mWjmCwcpBsDIGlc4Q5t08SftnF_Vrjtw4j9uWUJOIwvKY4_8x37K55RJCFLf2O2jiPLtDAgVULpaSiNNWERbAzoeRX0JXDygC9g5bmNxLPrQQekNcnUpSpkcD1wEaZzBIegD4tNKxUscvAZHApSdY8Dm1_TjfsNCnGls5kEAAik/w612-h344/iridologia_metafisica.jpeg"
+image: "/assets/img/posts/iridologia_metafisica.jpeg"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHNslQGWk8nq0sJo1mWjmCwcpBsDIGlc4Q5t08SftnF_Vrjtw4j9uWUJOIwvKY4_8x37K55RJCFLf2O2jiPLtDAgVULpaSiNNWERbAzoeRX0JXDygC9g5bmNxLPrQQekNcnUpSpkcD1wEaZzBIegD4tNKxUscvAZHApSdY8Dm1_TjfsNCnGls5kEAAik/w612-h344/iridologia_metafisica.jpeg)
+![](/assets/img/posts/iridologia_metafisica
 
 # A Metafísica do Olhar: Decodificando a Linguagem Oculta do Corpo
 

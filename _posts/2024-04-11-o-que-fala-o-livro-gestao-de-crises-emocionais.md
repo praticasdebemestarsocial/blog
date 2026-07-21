@@ -8,7 +8,7 @@ description: "'Gestão de Crises Emocionais: Transformando Tempestades em Oportu
 image: "https://i.ibb.co/BV7c6mB4/b2ef64476225.png"
 ---
 
-![](https://i.ibb.co/BV7c6mB4/b2ef64476225.png)
+![](https://i.ibb.co/BV7c6mB4/b2ef64476225
 
 ## "Gestão de Crises Emocionais: Transformando Tempestades em Oportunidades de Crescimento"
 

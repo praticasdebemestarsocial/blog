@@ -8,7 +8,7 @@ description: "Quem foi Theodor Kriege?"
 image: "https://i.ibb.co/93kg9Kb1/192215b91783.png"
 ---
 
-![](https://i.ibb.co/93kg9Kb1/192215b91783.png)
+![](https://i.ibb.co/93kg9Kb1/192215b91783
 
 ## Quem foi Theodor Kriege?
 

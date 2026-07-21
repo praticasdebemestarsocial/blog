@@ -8,7 +8,7 @@ description: "A Medicina Ayurvédica , que é um dos sistemas de medicina tradic
 image: "https://i.ibb.co/DDqzwCh3/b6775186e52c.png"
 ---
 
-![](https://i.ibb.co/DDqzwCh3/b6775186e52c.png)
+![](https://i.ibb.co/DDqzwCh3/b6775186e52c
 
   
 A Medicina Ayurvédica , que é um dos sistemas de medicina tradicional mais antigos do mundo, originário da Índia e com mais de 5.000 anos de existência, reconhece os olhos como um reflexo do estado geral de saúde e equilíbrio do corpo.

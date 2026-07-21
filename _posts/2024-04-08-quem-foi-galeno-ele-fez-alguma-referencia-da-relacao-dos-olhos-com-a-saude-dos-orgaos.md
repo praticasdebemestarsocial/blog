@@ -68,7 +68,7 @@ Embora suas observações sobre a relação entre os olhos e a saúde dos órgã
 
 Galeno certamente reconheceu a importância dos olhos como indicadores de saúde em todo o corpo em suas práticas médicas e escritos.
 
-![](https://i.ibb.co/DgCTKXXv/62b2cf39aeb6.png)
+![](https://i.ibb.co/DgCTKXXv/62b2cf39aeb6
 
 > **"De usu partium corporis humani" (Sobre o Uso das Partes do Corpo Humano):** Neste tratado, Galeno discute a anatomia e fisiologia dos olhos, incluindo sua conexão com o cérebro e outros órgãos. Ele também descreve como certos sinais nos olhos, como vermelhidão, inchaço e secreção, podem indicar doenças em outras partes do corpo.
 

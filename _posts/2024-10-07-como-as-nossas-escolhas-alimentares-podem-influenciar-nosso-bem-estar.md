@@ -8,7 +8,7 @@ description: "Olá, pessoal! Bem-vindos ao canal! Hoje, vamos explorar como noss
 image: "https://i.ibb.co/84j8jZmF/7349958eb653.png"
 ---
 
-![](https://i.ibb.co/84j8jZmF/7349958eb653.png)
+![](https://i.ibb.co/84j8jZmF/7349958eb653
 
 Olá, pessoal! Bem-vindos ao canal! Hoje, vamos explorar como nossos valores
 pessoais e como eles podem influenciar nossas escolhas alimentares e nossa

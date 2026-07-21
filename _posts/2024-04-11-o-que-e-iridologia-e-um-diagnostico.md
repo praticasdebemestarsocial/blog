@@ -8,7 +8,7 @@ description: "O que é Iridologia?"
 image: "https://i.ibb.co/WNSBnVfj/37d751baddbf.png"
 ---
 
-![](https://i.ibb.co/WNSBnVfj/37d751baddbf.png)
+![](https://i.ibb.co/WNSBnVfj/37d751baddbf
 
 ## **O que é Iridologia?**
 
@@ -46,7 +46,7 @@ aos hábitos alimentares e estilo de vida.
 Também é possivel fazer essa identificação através de lupa ou de equipamentos
 especializados e softwares para realizar essa identificação com mais precisão.
 
-![](https://i.ibb.co/RTswcpcw/d89326f9299e.jpg)
+![](https://i.ibb.co/RTswcpcw/d89326f9299e
 
 ### 3- O que significa os sinais que são vistos nos olhos?
 

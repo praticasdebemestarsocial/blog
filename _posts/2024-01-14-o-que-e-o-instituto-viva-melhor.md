@@ -38,7 +38,7 @@ aos alunos a oportunidade de aprender com os melhores especialistas do Brasil.
 
 ## 3- Quem é o Gestor do Instituto Viva Melhor?
 
-[![](https://i.ibb.co/G47ynfvJ/e8af5b63747d.jpg)](https://institutovivamelhor.com/wp-content/uploads/2023/12/Felix-foto.jpg)
+[![](https://i.ibb.co/G47ynfvJ/e8af5b63747d](https://institutovivamelhor.com/wp-content/uploads/2023/12/Felix-foto
 
   
 

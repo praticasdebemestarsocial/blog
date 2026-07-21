@@ -8,7 +8,7 @@ description: "'Minha Cura d'Água de Sebastião Kneipp: A Hidroterapia como Cami
 image: "https://i.ibb.co/nsnv8G0x/1dd7d0866cf8.png"
 ---
 
-![](https://i.ibb.co/nsnv8G0x/1dd7d0866cf8.png)
+![](https://i.ibb.co/nsnv8G0x/1dd7d0866cf8
 
 ## "Minha Cura d'Água de Sebastião Kneipp: A Hidroterapia como Caminho Natural para a Saúde"
 

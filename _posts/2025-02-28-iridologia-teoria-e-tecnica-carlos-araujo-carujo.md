@@ -8,7 +8,7 @@ description: "Iridologia – Teoria e Técnica | Carlos Araujo Carujo"
 image: "https://i.ibb.co/ch5TtNyR/aa7fc6274c3a.png"
 ---
 
-![](https://i.ibb.co/ch5TtNyR/aa7fc6274c3a.png)
+![](https://i.ibb.co/ch5TtNyR/aa7fc6274c3a
 
   
 

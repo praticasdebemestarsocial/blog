@@ -8,7 +8,7 @@ description: "Quem é Robin Kelly? Autor do Holograma Humano."
 image: "https://i.ibb.co/3Jd13Bm/f3db33dc6802.jpg"
 ---
 
-![](https://i.ibb.co/3Jd13Bm/f3db33dc6802.jpg)
+![](https://i.ibb.co/3Jd13Bm/f3db33dc6802
 
 ## Quem é Robin Kelly? Autor do Holograma Humano.
 

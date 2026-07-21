@@ -8,7 +8,7 @@ description: "Silviane Silvério - Terapeuta, Naturologa e Biomédica, Escritora
 image: "https://i.ibb.co/m5G2RgTP/451527e42f07.png"
 ---
 
-![](https://i.ibb.co/m5G2RgTP/451527e42f07.png)
+![](https://i.ibb.co/m5G2RgTP/451527e42f07
 
 Silviane Silvério - Terapeuta, Naturologa e Biomédica, Escritora e Professora. Há mais de 15 anos promovendo Bem Estar e Terapias Integrativas e Complementares. Crth br 1741.
 
@@ -46,47 +46,47 @@ Tive a oportunidade de conhecer pessoalmente alguns dos iridologistas famosos no
 
 [🎥 [Vídeo incorporado](https://www.youtube.com/embed/_v9NCemdCG0)](https://www.youtube.com/embed/_v9NCemdCG0)
 
-![](https://i.ibb.co/CsTrVgqB/b545ff8ce089.jpg)
+![](https://i.ibb.co/CsTrVgqB/b545ff8ce089
 
 [Dr. Leonard Mehlmauer e Nenita Sarmieto](https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/quem-sao-os-considerados-pais-da.html)
 
   
 
-![](https://i.ibb.co/GfpFhtjS/41ce49b5dc75.jpg)
+![](https://i.ibb.co/GfpFhtjS/41ce49b5dc75
 
 [André Werlang Garcia](https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/o-que-e-o-instituto-internacional-de_14.html)
 
   
 
-![](https://i.ibb.co/gZCH9m3n/c7e20a6ef646.jpg)
+![](https://i.ibb.co/gZCH9m3n/c7e20a6ef646
 
 [Dr Daniele Lo Ritto](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/quem-e-daniele-lo-rito.html)
 
   
 
-![](https://i.ibb.co/xSr04LkQ/7b561bca226e.jpg)
+![](https://i.ibb.co/xSr04LkQ/7b561bca226e
 
 [Dr David Pesek](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/david-j-pesek-o-pai-da-iridologia.html)
 
   
 
-![](https://i.ibb.co/xtB8jcR0/a0f4af846fe6.jpg)
+![](https://i.ibb.co/xtB8jcR0/a0f4af846fe6
 
 [Dr Paulo Solano](https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/o-que-e-o-instituto-brasileiro-de.html)
 
   
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-QVKhR2uLOk_TKZ-vUb1Ch0MLNrmQ7ESkJFZEVXyTSNbnLtB_fuvPlOX8FB0UFBilpNgb6hUKytSehIPWhL5NlkVSAyoRZ0g4cauP_y0Sd9oNTOaAY8vgOLVBnxg_sfSbxRhXUssP5C-wBzMX7RDrqVkDERbAxLb0iTBJjNZSC3BMXEZcBnKzzTDKHzU/s1600/jean.jpg)
+![](/assets/img/posts/jean
 
                                                                                 
 
 [Dr Jean Cabral](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/quem-e-prof-dr-pr-jean-alves-cabral.html)
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim1QpNairXjIj13jcbV5tb6LDedMDp2Kx-oCTP4mU6KLjidzEZhwd2ziFox7lktYD1MKvlL0aAewT2AUZIKau8-Q-dhabIuE62T_o0xKaGS-QFDPgLo-O4TpOQSE0cb0qWX9k4vX1GKBLTN_GEbCedaQ7dLjwrB8myTvL7KxHsBYhiY2dmTBdT-x3wcbE/s320/Screenshot_56.jpg)
+![](/assets/img/posts/Screenshot_56
 
 Formatura do Curso de Naturologia Clínica em 2009
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_o-Mbn7EegRUClRgNyRaLrBk0iH-PQEiZ5jLXcwd7NztPhb-yKqv_nPqEKnhWOOnbkn3uJkEdCTlUKIM53dA6o9Kx6hfj9LXZksBlYMKNfo5hUwlKaFz6roPwTNQnoFkLTycwEwBZEu1TU8R9PU7oIz7c3hWk-tWPyVkCRRXTRbrqc9h5Go1qmsRB6_w/s320/Screenshot_57.jpg)
+![](/assets/img/posts/Screenshot_57
 
   
 

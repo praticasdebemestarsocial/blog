@@ -5,10 +5,10 @@ date: 2026-01-01T21:45:00.002Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "Nova Visão: onde ciência, sabedoria ancestral e autoconhecimento se encontram"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTUwD7E7CzK7duVq_vHX-M5qjKVHlWGkB0aVI1qm9DwGhVSJ4KQhfRWLu-Wn-b5CXuDah2enWANn3G_X_wn1Q-ulmXHPLf0HXKwyud81Lph7qd2PII5pcdDltLJee_9TakN6I9M6Aql2ugpqjcVmStjVM-LKqnp8Pi2S9WEhF830TFvnwsyxbqqZIG5aI/w508-h284/Nova%20Vis%C3%A3o_%20onde%20ci%C3%AAncia,%20sabedoria%20ancestral%20e%20autoconhecimento%20se%20encontram.jpg"
+image: "/assets/img/posts/Nova%20Vis%C3%A3o_%20onde%20ci%C3%AAncia,%20sabedoria%20ancestral%20e%20autoconhecimento%20se%20encontram.jpg"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTUwD7E7CzK7duVq_vHX-M5qjKVHlWGkB0aVI1qm9DwGhVSJ4KQhfRWLu-Wn-b5CXuDah2enWANn3G_X_wn1Q-ulmXHPLf0HXKwyud81Lph7qd2PII5pcdDltLJee_9TakN6I9M6Aql2ugpqjcVmStjVM-LKqnp8Pi2S9WEhF830TFvnwsyxbqqZIG5aI/w508-h284/Nova%20Vis%C3%A3o_%20onde%20ci%C3%AAncia,%20sabedoria%20ancestral%20e%20autoconhecimento%20se%20encontram.jpg)
+![](/assets/img/posts/Nova%20Vis%C3%A3o_%20onde%20ci%C3%AAncia,%20sabedoria%20ancestral%20e%20autoconhecimento%20se%20encontram
 
   
 Nova Visão: onde ciência, sabedoria ancestral e autoconhecimento se encontram

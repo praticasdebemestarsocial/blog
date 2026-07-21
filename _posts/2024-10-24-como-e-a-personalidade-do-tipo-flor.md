@@ -8,7 +8,7 @@ description: "Como é a personalidade do tipo Flor?"
 image: "https://i.ibb.co/GvfM5d4p/139c514937e2.png"
 ---
 
-![](https://i.ibb.co/GvfM5d4p/139c514937e2.png)
+![](https://i.ibb.co/GvfM5d4p/139c514937e2
 
 ## Como é a personalidade do tipo Flor?
 

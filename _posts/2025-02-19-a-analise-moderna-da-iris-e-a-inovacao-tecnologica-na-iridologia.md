@@ -8,7 +8,7 @@ description: "A Análise Moderna da Íris e a Inovação Tecnológica na Iridolo
 image: "https://i.ibb.co/0V2xRy7Q/0988d1fec08a.png"
 ---
 
-![](https://i.ibb.co/0V2xRy7Q/0988d1fec08a.png)
+![](https://i.ibb.co/0V2xRy7Q/0988d1fec08a
 
   
 
@@ -27,7 +27,7 @@ Andrews](https://tecnologiasdoautoconhecimento.blogspot.com/2024/07/quem-e-o-pro
 que amplia a tradição da iridologia clássica, incorporando novas ciências como a
 epigenética e a psiconeuroimunologia (PNEI).
 
-![](https://i.ibb.co/YF17CcCZ/5ef585f3182f.jpg)
+![](https://i.ibb.co/YF17CcCZ/5ef585f3182f
 
 ### **A Revolução Tecnológica na Iridologia**
 
@@ -50,7 +50,7 @@ Com os avanços na **visão computacional e inteligência artificial**, a análi
 da íris agora pode ser realizada com **softwares que mapeiam automaticamente os
 sinais iridianos**, oferecendo uma leitura mais detalhada e confiável.
 
-![](https://i.ibb.co/jPzgsyMK/ee3bc7fa5078.jpg)
+![](https://i.ibb.co/jPzgsyMK/ee3bc7fa5078
 
 ### **O Que a Análise Moderna da Íris Oferece?**
 

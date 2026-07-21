@@ -8,7 +8,7 @@ description: "Platão: A Ética e o Mundo das Ideias"
 image: "https://i.ibb.co/kLKQCg1/c89ca0ce8a95.png"
 ---
 
-![](https://i.ibb.co/kLKQCg1/c89ca0ce8a95.png)
+![](https://i.ibb.co/kLKQCg1/c89ca0ce8a95
 
   
 

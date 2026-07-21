@@ -8,7 +8,7 @@ description: "Quem é a  Toni Miller é uma renomada especialista em iridologia
 image: "https://i.ibb.co/vphK4NT/4c552a922b5f.png"
 ---
 
-![](https://i.ibb.co/vphK4NT/4c552a922b5f.png)
+![](https://i.ibb.co/vphK4NT/4c552a922b5f
 
 ## Quem é a  Toni Miller é uma renomada especialista em iridologia?
 
@@ -86,7 +86,7 @@ aspectos emocionais e mentais.
 Finalmente, a Integrated Iridology nasceu em 1998. Após usar dois gráficos por
 quase dez anos, ela produziu o gráfico Integrated Iridology .  
 
-[![](https://i.ibb.co/1G3QHHxx/8ffb880c8cb6.jpg)](https://www.iridologyonline.com/product-page/iris-1-plus)
+[![](https://i.ibb.co/1G3QHHxx/8ffb880c8cb6](https://www.iridologyonline.com/product-page/iris-1-plus)
 
 Este foi o primeiro gráfico híbrido do mundo . No mesmo ano, foram lançados os
 gráficos Pupil Signs, the Sclera e The Structure, juntamente com o [“The
@@ -95,7 +95,7 @@ Report”](https://www.iridologyonline.com/product-page/the-iridologist-report) 
 o primeiro software de dados de Iridologia abrangente do mundo.  
 
                                      
-  ![](https://i.ibb.co/ccKCkcvv/e71435ac553e.jpg)
+  ![](https://i.ibb.co/ccKCkcvv/e71435ac553e
 
 Desde então, ela produziu uma série de títulos de software educacional e dois
 conjuntos de Flash Cards.
@@ -113,25 +113,25 @@ a premiou com uma placa comemorativa por sua dedicação de trinta anos de
 contribuição à Iridologia e, em seguida, elegeu Toni Iridologista do
 ano e Instrutora de Iridologia do ano em 2014.
 
-![](https://i.ibb.co/R4h2Rz1C/78fb1f75f2f7.jpg)
+![](https://i.ibb.co/R4h2Rz1C/78fb1f75f2f7
 
 [Dorothy Hall](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/dorothy-hall-foi-uma-renomada.html) e Toni Miller
 
   
 
-![](https://i.ibb.co/KxWhtcWW/cdcc0c5fff0e.jpg)
+![](https://i.ibb.co/KxWhtcWW/cdcc0c5fff0e
 
 Toni Miller, [Leonard Mehlmauer](https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/quem-sao-os-considerados-pais-da.html), [Ellen Jensen](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/quem-e-ellen-tart-jensen.html), [David Pesek](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/david-j-pesek-o-pai-da-iridologia.html)
 
   
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEignzssp5x8nQkyVAFAOHuRWkemRTsh1KnHGvIPcMiEJUNMq9ihv-GlE1MuRaJIft1-ouEIEloFYDzzliHKA-wEt_LlMYCWKEeHC6RGnWKCNXh8boE48ZZoQJgt0RKDNDMoI-0ErMXyvwRx6QzDUAJZfzKhZiKGzqO0eVzc_8ViapHIaItNggR_qyToHlA/s320/Screenshot_44.jpg)
+![](/assets/img/posts/Screenshot_44
 
 [Daniele Lo Ritto](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/quem-e-daniele-lo-rito.html) e Toni Miller
 
   
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2bOhVglQGdDDQT7MOXbp9C3itTRAFsTB7oCB9gA13JfF_AhB_bBY5RsLIZudsyyZAcpaR8mAjCFj-YuS4VjSBa_U1rxdJdPVOorRJxls00uudsUpHgzbwjCZPmlS8CvbnvRQN3j-G6CbVT2NsXAIyBSGwfyb1q8UlL2M1bST6P_Y2QqEwCm9uNDUcZxo/s320/Screenshot_45.jpg)
+![](/assets/img/posts/Screenshot_45
 
 [Denny Jonhson](https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/quem-e-denny-johnson-o-criador-do.html) e Toni Miller
 
@@ -175,7 +175,7 @@ e pacientes. Sua abordagem integrativa e seu compromisso com a pesquisa e a
 educação a tornam uma das vozes mais respeitadas e influentes na área da
 iridologia.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuNXOtCn1ARPxgKS5WYSXnxAsZSKA9NSdYEMZCzVk4CAS3fi8ORsCErWrgP-yq3Et2bEPJW1PQhCwW__S6X4jDhzvZs2DWIvU93R1527n72cbCQFAwnGvc6qUubPER7rGeZdYHkJPK6PDttW-C6YTa1kxLTCGZ2_107MvcS5c4bCe0HIPP8914d0rhj-4/s320/9780980546903.jpg)
+![](/assets/img/posts/9780980546903
 
   
 
@@ -183,7 +183,7 @@ iridologia.
 qual ela apresenta sua abordagem única para a iridologia, combinando métodos
 tradicionais e modernos para interpretação da íris.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYcep0PAirJ1h5N8bcLXizqywdc8zERp0bp-Cr8Ipr5rGm9V8S_WgXsCxb9D4EFWVemXVXMwyccFYlh6BBh3N9wFnuEKhWTmNcKEIGat7tMYIIRdk4Sl25pYgJ0YxcLKaRM7o64JQrrrpAFiNS4cX57N4Ix0RS_-4zbtCi7tyvnWrWZQpKhgvXMnmQFJE/s320/Screenshot_20.jpg)
+![](/assets/img/posts/Screenshot_20
 
 ### Referências Bibliográficas:
 

@@ -8,7 +8,7 @@ description: "Você sabe o que controla seus órgãos?"
 image: "https://i.ibb.co/6RX3tnGF/d942f4429d0d.png"
 ---
 
-![](https://i.ibb.co/6RX3tnGF/d942f4429d0d.png)
+![](https://i.ibb.co/6RX3tnGF/d942f4429d0d
 
   
 

@@ -8,7 +8,7 @@ description: "O que pode oferecer um atendimento de iridologia on line?"
 image: "https://i.ibb.co/dwMfr8g9/8c71a7c9679d.png"
 ---
 
-![](https://i.ibb.co/dwMfr8g9/8c71a7c9679d.png)
+![](https://i.ibb.co/dwMfr8g9/8c71a7c9679d
 
   
 
@@ -78,7 +78,7 @@ Iridologia a abordagens convencionais quando apropriado.
     - Acesso a esses serviços a partir de qualquer localização geográfica,
 proporcionando conveniência para os clientes.
 
-[![](https://i.ibb.co/DgkPFKL1/7013f0b5de7e.png)](https://opticanet.com.br/images/materias//2021/07/555137033_iridologia_mapa_451.png)
+[![](https://i.ibb.co/DgkPFKL1/7013f0b5de7e](https://opticanet.com.br/images/materias//2021/07/555137033_iridologia_mapa_451
 
   
   

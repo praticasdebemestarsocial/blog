@@ -8,7 +8,7 @@ description: "Iridologia e Tratamento Integral: Uma Abordagem Completa para a Sa
 image: "https://i.ibb.co/dFC3DzH/df86df49ab54.png"
 ---
 
-![](https://i.ibb.co/dFC3DzH/df86df49ab54.png)
+![](https://i.ibb.co/dFC3DzH/df86df49ab54
 
 ## Iridologia e Tratamento Integral: Uma Abordagem Completa para a Saúde
 
@@ -54,7 +54,7 @@ auxilia na compreensão da conexão entre os olhos e a saúde sistêmica.
 Dr. Hector Miguel Alonso Dominguez e Joel Alonso: Especialistas em Iridologia e
 Medicina Integrativa
 
-![](https://i.ibb.co/5J9jySj/84799c952113.jpg)
+![](https://i.ibb.co/5J9jySj/84799c952113
 
   
   

@@ -8,7 +8,7 @@ description: "Olá amigos sejam bem vindos aqui nesse canal Tecnologias do Autoc
 image: "https://i.ibb.co/7tBLtmSc/60cc8d7fc8a8.png"
 ---
 
-![](https://i.ibb.co/7tBLtmSc/60cc8d7fc8a8.png)
+![](https://i.ibb.co/7tBLtmSc/60cc8d7fc8a8
 
   
   

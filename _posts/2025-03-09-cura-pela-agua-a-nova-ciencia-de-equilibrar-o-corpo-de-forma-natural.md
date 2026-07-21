@@ -8,7 +8,7 @@ description: "'Cura Pela Água: A Nova Ciência de Equilibrar o Corpo sem Quími
 image: "https://i.ibb.co/6JnW1f7S/2461e3455113.png"
 ---
 
-![](https://i.ibb.co/6JnW1f7S/2461e3455113.png)
+![](https://i.ibb.co/6JnW1f7S/2461e3455113
 
 ## "Cura Pela Água: A Nova Ciência de Equilibrar o Corpo sem Químicos"
 

@@ -8,7 +8,7 @@ description: ".webp).webp)"
 image: "https://i.ibb.co/WvDTYJG1/deeef0acf6f4.jpg"
 ---
 
-![](https://i.ibb.co/WvDTYJG1/deeef0acf6f4.jpg).webp).webp)
+![](https://i.ibb.co/WvDTYJG1/deeef0acf6f4.webp).webp)
 
  A Iridologia é uma técnica cada vez mais procurada  ainda existem poucos profissionais no Brasil, um atendimento a distância pode favorecer muitas pessoas que não tem um iridologista perto ou para aqueles que querem fazer um tratamento natural mais qualificado.
 
@@ -56,7 +56,7 @@ facilita.
 mais à vontade ao adotar a terapia a distância como meio de expressar seus
 sentimentos.
 
-[![](https://i.ibb.co/zWgtnnM0/7d432f44d3d5.jpg)](https://centralterapia.com.br/wp-content/uploads/2020/06/Terapia-Online-e-privacidade-em-%C3%A9poca-de-coronav%C3%ADrus-Central-Terapia.jpg)
+[![](https://i.ibb.co/zWgtnnM0/7d432f44d3d5](https://centralterapia.com.br/wp-content/uploads/2020/06/Terapia-Online-e-privacidade-em-%C3%A9poca-de-coronav%C3%ADrus-Central-Terapia
 
 ### 6. Expatriados e Viajantes:
 

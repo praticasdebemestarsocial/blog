@@ -5,10 +5,10 @@ date: 2026-06-15T19:55:48.431Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "A Anatomia da Percepção Expandida: O Mapa Somático da Consciência Sem Misticismo"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgICbxRZcIewIOu4VOmuER4eVg31iLzY4x6y-OSxAQ8nB7saIFnQWz_TUhytpkh8cORFhnJ_TvmMzSgE_-sv2VLDmtV_gWbjdyrMBvFRJxdN6vJP-IfxFVYPQ7ZGKq4to-yvfzleaBLq16dBhj8an3hskATt_L3cO_wE0u929ysn0qE3I4P48ZpL_ipi4M/w478-h273/mapa_somatico_percepcao_expandida.png"
+image: "/assets/img/posts/mapa_somatico_percepcao_expandida.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgICbxRZcIewIOu4VOmuER4eVg31iLzY4x6y-OSxAQ8nB7saIFnQWz_TUhytpkh8cORFhnJ_TvmMzSgE_-sv2VLDmtV_gWbjdyrMBvFRJxdN6vJP-IfxFVYPQ7ZGKq4to-yvfzleaBLq16dBhj8an3hskATt_L3cO_wE0u929ysn0qE3I4P48ZpL_ipi4M/w478-h273/mapa_somatico_percepcao_expandida.png)
+![](/assets/img/posts/mapa_somatico_percepcao_expandida
 
   
 
@@ -73,7 +73,7 @@ momento presente:
 Esta cartografia da percepção expandida organiza-se em três eixos estruturais,
 que se manifestam através de nove sinais fisiológicos clássicos no organismo:
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggzX_jgZlZ-l_iFNpdpOxtr5E9Yag8FMP8fvGOYbG-yS5033OPvTYWDaLJ76UVtULiDhlyJHTXeEEdIhQ3yWJ4-9UQf3LZi2S7-vmy_ljLs7yNanWRAUGC78mZD34CBOEa_ZKaeJywOXXRG4HA7rV0byDMyw71wM43kHACrneui9h8gqCneFFjJxxlly0/w473-h235/pilares_mapa_somatico.png)
+![](/assets/img/posts/pilares_mapa_somatico
 
 #### Pilar 1: Ancoragem Física (Marcadores Táteis)
 

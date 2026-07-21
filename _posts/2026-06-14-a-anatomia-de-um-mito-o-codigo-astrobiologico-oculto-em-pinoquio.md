@@ -4,11 +4,11 @@ title: "A Anatomia de um Mito: O Código Astrobiológico Oculto em Pinóquio"
 date: 2026-06-14T02:20:48.787Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
-description: ".jpeg).jpeg)"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwMnH2kJDB2QLUnUQMRk4F_tVYlP4rrY6MwwFOZs3Y5JezBI5u0lMqHIZzlabvD3lc5X9Wksj3-f-mcsTyvzIa1Sdoiwf3VmtxUUYaFqEKyTHelhmDgOcL7w9rvQx5cLOsNWY1wB7Da5DmbmxAw-Ujq9vcR5vMW6MtMETT-Pms3OtXzHfTTDFVkp6c6ns/w420-h236/cinematic-169-illustration-representing-sinal-1-an%20(3"
+description: ""
+image: "/assets/img/posts/image_1246950842892600325.jpg"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwMnH2kJDB2QLUnUQMRk4F_tVYlP4rrY6MwwFOZs3Y5JezBI5u0lMqHIZzlabvD3lc5X9Wksj3-f-mcsTyvzIa1Sdoiwf3VmtxUUYaFqEKyTHelhmDgOcL7w9rvQx5cLOsNWY1wB7Da5DmbmxAw-Ujq9vcR5vMW6MtMETT-Pms3OtXzHfTTDFVkp6c6ns/w420-h236/cinematic-169-illustration-representing-sinal-1-an%20(3).jpeg).jpeg)
+![](/assets/img/posts/image_1246950842892600325
 
   
 

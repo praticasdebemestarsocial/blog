@@ -8,7 +8,7 @@ description: "Método Rayid: uma nova maneira de ver as íris dos olhos"
 image: "https://i.ibb.co/YBMNqgnB/dab7121b1589.png"
 ---
 
-![](https://i.ibb.co/YBMNqgnB/dab7121b1589.png)  
+![](https://i.ibb.co/YBMNqgnB/dab7121b1589  
 
 # Método Rayid: uma nova maneira de ver as íris dos olhos
 

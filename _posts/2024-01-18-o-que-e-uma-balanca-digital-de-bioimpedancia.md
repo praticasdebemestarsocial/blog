@@ -8,7 +8,7 @@ description: "Balança Digital Bioimpedância App Relaxmedic"
 image: "https://i.ibb.co/cXXC26nF/f4ee2bc87d27.jpg"
 ---
 
-![](https://i.ibb.co/cXXC26nF/f4ee2bc87d27.jpg)
+![](https://i.ibb.co/cXXC26nF/f4ee2bc87d27
 
 # Balança Digital Bioimpedância App Relaxmedic
 

@@ -8,7 +8,7 @@ description: "Iridologia e Sistema Glandular"
 image: "https://i.ibb.co/Mkp7MVwV/297bfeb46f9a.png"
 ---
 
-![](https://i.ibb.co/Mkp7MVwV/297bfeb46f9a.png)
+![](https://i.ibb.co/Mkp7MVwV/297bfeb46f9a
 
 # Iridologia e Sistema Glandular
 

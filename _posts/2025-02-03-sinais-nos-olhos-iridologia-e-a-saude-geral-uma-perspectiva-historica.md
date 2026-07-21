@@ -8,7 +8,7 @@ description: "Sinais nos olhos, Iridologia e a Saúde Geral: Uma Perspectiva His
 image: "https://i.ibb.co/9kLB7xxr/f7e7a442aca2.png"
 ---
 
-![](https://i.ibb.co/9kLB7xxr/f7e7a442aca2.png)
+![](https://i.ibb.co/9kLB7xxr/f7e7a442aca2
 
 ## Sinais nos olhos, Iridologia e a Saúde Geral: Uma Perspectiva Histórica
 
@@ -77,7 +77,7 @@ entendimento da vida e da morte. O culto aos deuses e a crença na vida após a
 morte influenciaram muitos aspectos da vida cotidiana e da arte, refletindo um
 nível de pensamento filosófico que ainda não é totalmente compreendido.
 
-![](https://i.ibb.co/WNR55Xdz/a2aae89ff218.jpg)
+![](https://i.ibb.co/WNR55Xdz/a2aae89ff218
 
 #### O **Olho de Hórus:**mitologia, a saúde e a visão holística
 

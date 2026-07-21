@@ -8,7 +8,7 @@ description: "A iridologia é uma ferramenta poderosa de prevenção de saúde, 
 image: "https://i.ibb.co/SDnVkcSP/b0a88bccfab8.jpg"
 ---
 
-![](https://i.ibb.co/SDnVkcSP/b0a88bccfab8.jpg)
+![](https://i.ibb.co/SDnVkcSP/b0a88bccfab8
 
   
 
@@ -33,7 +33,7 @@ modificações nos genes no dna da pessoa causado pela:
 
   
 
-[![](https://i.ibb.co/DgkPFKL1/7013f0b5de7e.png)](https://opticanet.com.br/images/materias//2021/07/555137033_iridologia_mapa_451.png)
+[![](https://i.ibb.co/DgkPFKL1/7013f0b5de7e](https://opticanet.com.br/images/materias//2021/07/555137033_iridologia_mapa_451
 
 Isso acontece porque a íris é um órgão complexo que pode refletir o estado de saúde geral do corpo.
 
@@ -45,7 +45,7 @@ No entando, é importante ressaltar que a Iridologia não é uma ciência exata 
 
 Elaoferece insights sobre a natureza humana. Sinais na íris não indicam exclusivamente doenças, mas são influenciados por fatores comportamentais, alimentares, genéticos, ambientais e de estilo de vida.
 
-[![](https://i.ibb.co/XfbhbkVM/9d09da1c51c1.jpg)](https://aprenda.bio.br/wp-content/uploads/2019/02/Sistema-nervoso-Aula-completa.jpg)  
+[![](https://i.ibb.co/XfbhbkVM/9d09da1c51c1](https://aprenda.bio.br/wp-content/uploads/2019/02/Sistema-nervoso-Aula-completa  
 
 ## **Como ocorre que essa informação do corpo chega aos nossos olhos?**
 
@@ -83,7 +83,7 @@ independente de estar fazendo qualquer outro tratamento médico.
 diagnóstico médico, mas complementa com uma visão holística da saúde e do bem
 estar.  
 
-[![](https://i.ibb.co/yFVGg8dX/1729c74eddd0.jpg)](https://amzn.to/3SIqPJj)
+[![](https://i.ibb.co/yFVGg8dX/1729c74eddd0](https://amzn.to/3SIqPJj)
 
 # Iridologia integrada: A ciência e a arte da revelação do holograma humano
 

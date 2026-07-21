@@ -5,7 +5,7 @@ date: 2025-07-25T06:19:00.006Z
 tags: ["plantas medicinais"]
 categories: ["bem-estar"]
 description: "A Cannabis Pode efetar Pessoas com Epilepsia?"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbCeNqpkbvaaJyQJZ6ndSiFO7MUYf6vyZsuYnRN3Ty7EOSHhx9JmBco9wblwcVg4uVH8M0XH7ssaNNiRG11HzDuHAxJNYmP7Sj-fTVtNWiWockY48XrpdB57HGhsq71Nz8rUC_TS_SmXusOH3Zo3Zg-ZAZ3IFG_2zf0lZ7Nmd38Ig6rrrD75w9091lye2D/w406-h198/Screenshot_6c.jpg"
+image: "/assets/img/posts/Screenshot_6c.jpg"
 ---
 
 # A Cannabis Pode efetar Pessoas com Epilepsia?
@@ -119,7 +119,7 @@ epilepsia.
 Além disso, a epilepsia é vista como uma disfunção do sistema endocanabinoide no
 organismo humano.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbCeNqpkbvaaJyQJZ6ndSiFO7MUYf6vyZsuYnRN3Ty7EOSHhx9JmBco9wblwcVg4uVH8M0XH7ssaNNiRG11HzDuHAxJNYmP7Sj-fTVtNWiWockY48XrpdB57HGhsq71Nz8rUC_TS_SmXusOH3Zo3Zg-ZAZ3IFG_2zf0lZ7Nmd38Ig6rrrD75w9091lye2D/w406-h198/Screenshot_6c.jpg)
+![](/assets/img/posts/Screenshot_6c
 
 ## Prevalência da Epilepsia no Mundo
 

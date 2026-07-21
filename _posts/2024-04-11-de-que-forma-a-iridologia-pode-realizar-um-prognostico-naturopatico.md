@@ -8,7 +8,7 @@ description: "Um prognóstico na Iridologia é bem diferente e ao mesmo tempo co
 image: "https://i.ibb.co/9kctxmr2/c775a5c2292b.png"
 ---
 
-![](https://i.ibb.co/9kctxmr2/c775a5c2292b.png)
+![](https://i.ibb.co/9kctxmr2/c775a5c2292b
 
 Um prognóstico na Iridologia é bem diferente e ao mesmo tempo complementar do
 prognóstico que um médico realiza.
@@ -41,7 +41,7 @@ momento e o paciente necessita de um acompanhamento para tomadas de decições e
 planejamento do futuro, conforme a doença e a necessidade de tratamentos e
 exames complementares.
 
-[![](https://i.ibb.co/tTdsNVZ7/cd5767dd2427.jpg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZm3B7xLk7qJfqLP5s7GqKZRNNq9wv4o9Qsg&usqp=CAU)
+[![](https://i.ibb.co/tTdsNVZ7/cd5767dd2427](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZm3B7xLk7qJfqLP5s7GqKZRNNq9wv4o9Qsg&usqp=CAU)
 
 ### De que forma a Iridologia pode realizar um prognóstico naturopatico?
 

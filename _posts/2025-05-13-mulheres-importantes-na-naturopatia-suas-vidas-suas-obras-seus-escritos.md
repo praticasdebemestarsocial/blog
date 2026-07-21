@@ -5,17 +5,17 @@ date: 2025-05-13T01:12:00.003Z
 tags: ["livros"]
 categories: ["bem-estar"]
 description: "O livro 'Mulheres Importantes na Naturopatia: Suas Vidas – Suas Obras – Seus Escritos' (título original em alemão: 'Wichtige Frauen in der Naturheilku..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiViRlsZ610BpCWjSynRyekVV_f62r2buxQ1-O11IvvM1MUv8avghk2LhICG1QXna5nglgchTpX6nk_OgeGY0QImifivxiwOmOSaik2kMaUiP7QsVSIkwnI57gS1zdmUwvemqbLlpOHIMSoyDOHeccEDN1eyYIAPCprG1gcOJBLJ2XmNWPVQFkE4-hugI/w464-h261/Mulheres_Importantes_na_Naturopatia_Suas_Vidas%20_Suas_Obras%20_Seus_Escritos.png"
+image: "/assets/img/posts/Mulheres_Importantes_na_Naturopatia_Suas_Vidas%20_Suas_Obras%20_Seus_Escritos.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiViRlsZ610BpCWjSynRyekVV_f62r2buxQ1-O11IvvM1MUv8avghk2LhICG1QXna5nglgchTpX6nk_OgeGY0QImifivxiwOmOSaik2kMaUiP7QsVSIkwnI57gS1zdmUwvemqbLlpOHIMSoyDOHeccEDN1eyYIAPCprG1gcOJBLJ2XmNWPVQFkE4-hugI/w464-h261/Mulheres_Importantes_na_Naturopatia_Suas_Vidas%20_Suas_Obras%20_Seus_Escritos.png)
+![](/assets/img/posts/Mulheres_Importantes_na_Naturopatia_Suas_Vidas%20_Suas_Obras%20_Seus_Escritos
 
   
  O livro **"Mulheres Importantes na Naturopatia: Suas Vidas – Suas Obras – Seus Escritos"** (título original em alemão: *"Wichtige Frauen in der Naturheilkunde – Ihr Leben, ihr Wirken, ihre Schriften"*), escrito por **Annette Kerckhoff** e publicado em **18 de abril de 2020**, é uma obra de resgate histórico, científico e cultural que dá **visibilidade às mulheres que contribuíram significativamente para a naturopatia europeia** entre os séculos XIX e XX.
 
 ### Sobre a autora:
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3XbXos9eW679FjQOaDaM0RD2RuZPMkddon5icVh6O2gtIz1S-f13IphIYacSo8uRUIbhgMeyHe760u2KJS-yq-KBpr451f2cvQFKdhbNHGvGR06HGeRZ7MnQ7qGl5UfsFArdNA58_U5_7ahBaG4wsK2FVa_UXG7_3QJEWsZeYOvCQQZxDffYA3s_cxx4/w246-h248/Screenshot_19.jpg)
+![](/assets/img/posts/Screenshot_19
 
 **Annette Kerckhoff** é uma autora e pesquisadora alemã com forte atuação na
 área de **medicina natural, comunicação em saúde e história da medicina

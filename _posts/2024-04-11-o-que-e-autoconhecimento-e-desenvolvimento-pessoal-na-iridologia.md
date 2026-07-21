@@ -8,7 +8,7 @@ description: "A iridologia é uma prática que envolve a análise da íris para 
 image: "https://i.ibb.co/Hpq6hJnK/d9cc2bfff250.png"
 ---
 
-![](https://i.ibb.co/Hpq6hJnK/d9cc2bfff250.png)
+![](https://i.ibb.co/Hpq6hJnK/d9cc2bfff250
 
   
 A iridologia é uma prática que envolve a análise da íris para compreender aspectos físicos e emocionais. No contexto do autoconhecimento e desenvolvimento pessoal, a iridologia pode oferecer insights sobre a saúde física, padrões emocionais e predisposições genéticas.

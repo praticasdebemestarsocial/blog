@@ -8,7 +8,7 @@ description: "Quem foi Bernard Jensen?Um icone na iridologia dos EUA"
 image: "https://i.ibb.co/pBf8Pc0n/980f6ce5ab7f.png"
 ---
 
-![](https://i.ibb.co/pBf8Pc0n/980f6ce5ab7f.png)
+![](https://i.ibb.co/pBf8Pc0n/980f6ce5ab7f
 
 ## Quem foi Bernard Jensen?Um icone na iridologia dos EUA
 
@@ -46,22 +46,22 @@ a saúde.
 
 ### **Obras de Destaque de Bernard Jensen**
 
-![](https://i.ibb.co/c9qSNcb/98a3d3d66322.png)
+![](https://i.ibb.co/c9qSNcb/98a3d3d66322
 
 **Iridology Simplified**  
 Este livro é uma introdução prática à ciência da iridologia, onde Jensen relaciona os padrões e sinais da íris com a saúde geral. A obra se tornou uma referência indispensável para iniciantes e profissionais da área.  
-                                                          ![](https://i.ibb.co/Pvyk0QFh/68a77619b796.png)
+                                                          ![](https://i.ibb.co/Pvyk0QFh/68a77619b796
 
 **Visions of Health: Understanding Iridology**
 
 Neste livro, Jensen amplia suas ideias sobre como a análise da íris pode ser usada em conjunto com a nutrição para promover o bem-estar.
 
-![](https://i.ibb.co/x8mnFnw5/5f60e6a6fa00.png)
+![](https://i.ibb.co/x8mnFnw5/5f60e6a6fa00
 
 **The Science and Practice of Iridology**  
 Uma publicação mais técnica, onde Jensen detalha seus métodos e descobertas na área de iridologia.  
 
-1. ![](https://i.ibb.co/zhMWt8h9/33355e03e700.png)
+1. ![](https://i.ibb.co/zhMWt8h9/33355e03e700
 
 **Iridology: The Science and Practice in the Healing Arts, Volume (Vol.) 2 -**
 

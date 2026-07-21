@@ -5,13 +5,13 @@ date: 2025-10-13T07:20:00.003Z
 tags: []
 categories: ["bem-estar"]
 description: "Dr. Jagdeep Singh e a Institucionalização da Iridologia na Índia"
-image: "https://blogger.googleusercontent.com/img/a/AVvXsEjYRl8QZwk6RWkgeG9JxiIRsZhcGw66kmtwGOzmvBOUGi7GVUucgsWc0xv41eFDyxusauvuzELgKRSuxwgoxKfXg_7TkBngX0jdzcjp2c__gNjH4-47i7xu92MvocmdHRwbMZ2tJDRvJ4jZOSr9c37oV_puQ_unw9FGPmCs3Myb2gua9mF3Tw6Mgywdaik"
+image: "/assets/img/posts/image_-2080845791872036453.jpg"
 ---
 
 #### Dr. Jagdeep Singh e a Institucionalização da Iridologia na Índia
 
   
-![](https://blogger.googleusercontent.com/img/a/AVvXsEjYRl8QZwk6RWkgeG9JxiIRsZhcGw66kmtwGOzmvBOUGi7GVUucgsWc0xv41eFDyxusauvuzELgKRSuxwgoxKfXg_7TkBngX0jdzcjp2c__gNjH4-47i7xu92MvocmdHRwbMZ2tJDRvJ4jZOSr9c37oV_puQ_unw9FGPmCs3Myb2gua9mF3Tw6Mgywdaik)
+![](/assets/img/posts/image_-2080845791872036453
 
 A validação da Iridologia em novos contextos é exemplificada de forma
 contundente pela Electrohomoeopathic Research and Development Organization

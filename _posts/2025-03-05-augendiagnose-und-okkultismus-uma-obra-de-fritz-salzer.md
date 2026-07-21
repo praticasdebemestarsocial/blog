@@ -4,11 +4,11 @@ title: " 'Augendiagnose und Okkultismus' uma obra de Fritz Salzer"
 date: 2025-03-05T00:07:00.009Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
-description: ".png).png)"
+description: ""
 image: "https://i.ibb.co/9Hyj13tj/5371eadb5c87.png"
 ---
 
-![](https://i.ibb.co/9Hyj13tj/5371eadb5c87.png).png).png)
+![](https://i.ibb.co/9Hyj13tj/5371eadb5c87
 
   
 "Augendiagnose und Okkultismus" uma obra de Fritz Salzer

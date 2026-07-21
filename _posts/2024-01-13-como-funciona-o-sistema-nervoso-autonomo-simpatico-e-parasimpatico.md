@@ -8,7 +8,7 @@ description: "O Que é o Sistema Nervoso Autônomo Simpático e Parasimpático?"
 image: "https://i.ibb.co/KpR1KKTk/3725d5e0f159.jpg"
 ---
 
-![](https://i.ibb.co/KpR1KKTk/3725d5e0f159.jpg)
+![](https://i.ibb.co/KpR1KKTk/3725d5e0f159
 
 # O Que é o Sistema Nervoso Autônomo Simpático e Parasimpático?
 

@@ -8,7 +8,7 @@ description: "Ética e Moral: Como Essas Questões Moldam Nossas Decisões?"
 image: "https://i.ibb.co/cKfvHXNc/fd01cded89ab.png"
 ---
 
-![](https://i.ibb.co/cKfvHXNc/fd01cded89ab.png)  
+![](https://i.ibb.co/cKfvHXNc/fd01cded89ab  
   
 
 ## Ética e Moral: Como Essas Questões Moldam Nossas Decisões?

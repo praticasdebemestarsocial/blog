@@ -8,7 +8,7 @@ description: "(Dr. Josef Deck de Ettlingen,Alemanha-1814-1992)"
 image: "https://i.ibb.co/k6JYrxX7/ed2f6ddbe68b.png"
 ---
 
-![](https://i.ibb.co/k6JYrxX7/ed2f6ddbe68b.png)
+![](https://i.ibb.co/k6JYrxX7/ed2f6ddbe68b
 
   
 
@@ -124,6 +124,6 @@ DECK, Joseph. Die Prinzipien der Irisdiagnose. 1965.
 
 <https://www.booklooker.de/B%C3%BCcher/Josef-Deck+Grundlagen-der-Irisdiagnostik-Lehrbuch-mit-Bildatlas-und-Therapiehinweisen/id/A02ASWX101ZZ1>
 
-![](https://i.ibb.co/tTcJRVgZ/28fc550e99de.png)
+![](https://i.ibb.co/tTcJRVgZ/28fc550e99de
 
 # Principles of Iris Diagnosis: Textbook One With Atlas and Indications of Treatment

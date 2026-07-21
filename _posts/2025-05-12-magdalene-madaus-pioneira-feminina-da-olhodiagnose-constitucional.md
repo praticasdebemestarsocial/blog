@@ -5,10 +5,10 @@ date: 2025-05-12T15:22:00.006Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "Magdalene Madaus: A Pioneira da Iridologia Constitucional e da Homeopatia Complexa na Alemanha"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWEp4UZeF-oOuXfgHCUNB0c2y0D6X_twL6uccS-iiIewA99RF84QCGTyBDbE6m2eLfRT4qZwckxujZFqxVdYF5IDoai2krs3qJTnAk4ej9o9gkRQYrBjkQwreGuHYTy-XLL0-ng7ycQrRDX9q2YmJ7m2mWY3Fg1jqIcGE-ZiyaS3cqUWitnd-7eUMHRqo/w560-h315/Magdalene_Madaus_Pioneira_Feminina_da_Olhodiagnose_Constitucional.png"
+image: "/assets/img/posts/Magdalene_Madaus_Pioneira_Feminina_da_Olhodiagnose_Constitucional.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWEp4UZeF-oOuXfgHCUNB0c2y0D6X_twL6uccS-iiIewA99RF84QCGTyBDbE6m2eLfRT4qZwckxujZFqxVdYF5IDoai2krs3qJTnAk4ej9o9gkRQYrBjkQwreGuHYTy-XLL0-ng7ycQrRDX9q2YmJ7m2mWY3Fg1jqIcGE-ZiyaS3cqUWitnd-7eUMHRqo/w560-h315/Magdalene_Madaus_Pioneira_Feminina_da_Olhodiagnose_Constitucional.png)
+![](/assets/img/posts/Magdalene_Madaus_Pioneira_Feminina_da_Olhodiagnose_Constitucional
 
 # **Magdalene Madaus: A Pioneira da Iridologia Constitucional e da Homeopatia Complexa na Alemanha**
 
@@ -42,7 +42,7 @@ Em 1919, com o apoio dos filhos **Friemund, Germand e Hans**, fundou a empresa
 uma das organizações mais influentes na área de medicamentos naturais e
 fitoterápicos da Europa.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWW1kLsYYiYRV8WJ9H9vGjWyXmfUOu9IxUAX-CvqI-dWUQdwlf3a0QeDrYE-0N2uRthuoEewvnaXdEzvgNND7nmQ7G63_nlbilTfsCmCLbE2II7ML5dgwpx49VF6etLeCdaf6bVqb3PQTc9zyMuh5tUf56vHbYCUV9BA92cxAyPF9-bO3f08Q75KGzAU/w185-h269/Screenshot_15.jpg)
+![](/assets/img/posts/Screenshot_15
 
   
 
@@ -60,7 +60,7 @@ Segundo esse modelo, a coloração e a estrutura da íris revelam:
 Essa visão tornou a iridologia mais científica e confiável, conectando-a com os
 estudos de constituição da medicina natural.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcVh8voPtWLoSk1Nkc54N-H3tKsy7OyF-CNCb8A9TyCvBd567wrVEHhxPXi1fGaine4Fh8U5kPNUIJ6AGJJ8aHARfjTIJKfjAgaf0RC1-bgYsb4wwZiJoLliZV1-LvVDu1udM7adVKcfyndnUMovwp8qQGxBK5qmJt2VEFxbAYUkGXL2a6ix9NlgRm9aU/w178-h298/Screenshot_16.jpg)
+![](/assets/img/posts/Screenshot_16
 
 Apesar das críticas da comunidade médica ortodoxa — que inclusive fizeram com
 que sua obra fosse retirada de circulação ainda em 1915 — o livro foi relançado

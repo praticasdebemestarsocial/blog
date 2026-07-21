@@ -8,7 +8,7 @@ description: "Tempo estimado de leitura: 2 minutos"
 image: "https://i.ibb.co/m5VpV4cQ/798a69cabcc2.png"
 ---
 
-![](https://i.ibb.co/m5VpV4cQ/798a69cabcc2.png)
+![](https://i.ibb.co/m5VpV4cQ/798a69cabcc2
 
   
 
@@ -24,7 +24,7 @@ Herdou a vocação do pai, continuando o seu trabalho com entusiasmo e sendo um
 activo divulgador dos seus ideais naturistas. Autor do livro *“Manual de
 Alimentação Saudável”  e "A saúde pela natureza"*
 
-[![](https://i.ibb.co/2Y3C0kbS/621fa552ef7a.jpg)](https://amzn.to/3TUNDrI)
+[![](https://i.ibb.co/2Y3C0kbS/621fa552ef7a](https://amzn.to/3TUNDrI)
 
 ## [A saúde pela Natureza](https://amzn.to/3TUNDrI)
 
@@ -53,7 +53,7 @@ Rafael Lezaeta Pérez-Cotapos escreveu vários livros sobre iridologia, incluind
 
 * Ele foi membro da Sociedade Iridológica Internacional.
 
-![](https://i.ibb.co/0RRXnpP6/3303cd2843b6.png)
+![](https://i.ibb.co/0RRXnpP6/3303cd2843b6
 
 Ele também foi um dos fundadores da Associação Chilena de Iridologia.
 
@@ -72,7 +72,7 @@ América Latina.
 – Centro orientado a fomentar e difundir la medicina natural no Chile., situado
 en Las Condes, con 100 camas habilitadas.
 
-[![](https://vidanatural.cl/wp-content/uploads/2023/12/Diseno-sin-titulo-890x664.png)](https://vidanatural.cl/wp-content/uploads/2023/12/Diseno-sin-titulo-890x664.png)
+[![](https://vidanatural.cl/wp-content/uploads/2023/12/Diseno-sin-titulo-890x664](https://vidanatural.cl/wp-content/uploads/2023/12/Diseno-sin-titulo-890x664
 
   
 Contato:

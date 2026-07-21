@@ -10,7 +10,7 @@ image: "https://i.ibb.co/VcV3HRjH/f0c5d96d5405.png"
 
 ## 
 
-![](https://i.ibb.co/VcV3HRjH/f0c5d96d5405.png)
+![](https://i.ibb.co/VcV3HRjH/f0c5d96d5405
 
   
 
@@ -44,7 +44,7 @@ impresso e digital.
 
 ## Quem é o autor do livro Os Pilares da Iridologia?
 
-[![](https://i.ibb.co/nqTnNZ1j/e06ed96c07bf.jpg)](https://batello.med.br/assets/images/man.jpg)
+[![](https://i.ibb.co/nqTnNZ1j/e06ed96c07bf](https://batello.med.br/assets/images/man
 
 **[Dr. Celso Battello](https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/quem-e-o-professor-dr-celso-batello.html)**
 

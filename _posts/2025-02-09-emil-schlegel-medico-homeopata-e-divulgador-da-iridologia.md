@@ -8,7 +8,7 @@ description: "Emil Schlegel (1852–1934): Médico, Homeopata e Divulgador da Ir
 image: "https://i.ibb.co/s9WRKcTT/979bd9a90343.png"
 ---
 
-![](https://i.ibb.co/s9WRKcTT/979bd9a90343.png)
+![](https://i.ibb.co/s9WRKcTT/979bd9a90343
 
 # **Emil Schlegel (1852–1934): Médico, Homeopata e Divulgador da Iridologia**
 
@@ -108,15 +108,15 @@ Entre os trabalhos que publicou, destacam-se:
 3. **Câncer – Sua Natureza e Remédios**
 4. **A Cura como Centro do Mundo**
 
-![](https://i.ibb.co/Mk1yNTs5/5651bc82123e.jpg)![](https://i.ibb.co/mFqZY56g/b03cdc774e81.jpg)![](https://i.ibb.co/rRhvbXtw/d9ac7e5f909e.jpg)
+![](https://i.ibb.co/Mk1yNTs5/5651bc82123e![](https://i.ibb.co/mFqZY56g/b03cdc774e81![](https://i.ibb.co/rRhvbXtw/d9ac7e5f909e
 
   
 
-![](https://i.ibb.co/qFF46mYC/d09a045bb176.jpg)![](https://i.ibb.co/WW4wDbFD/fc90ec505632.jpg)![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV1nufknCsvZbtVzAjPxB-Y6B5a2dzJbudB9ojDka3bgTZId5mxSEDhnpL3Fi0hShyBU2uZavcbBGt0ygjfIqco7GcwcS5C4Gq5aDzr0-G51b1NP5xjjIUtZN9FqTBgkQE8szKbc0wa4aNGuC_R5tcjmds2ZLhNq2lYtGHhYAMae6VpkwdG5HMoCbY3Gc/w192-h271/Screenshot_50.jpg)
+![](https://i.ibb.co/qFF46mYC/d09a045bb176![](https://i.ibb.co/WW4wDbFD/fc90ec505632![](/assets/img/posts/Screenshot_50
 
   
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnWiz23XI3tTkUccAMJMSOHM5QTTnAG-aYk07pnnjNmSJqwoRO5s3-p7Pmw_tdr1PD8r6bASHfTZxu77WtNtWPXJ43IMqL0xIScfFagxMzmdvif92e0wCmDry2djygkZJPO35__bbkM4BkY_Tx-g1xCkPP9qUdgFbOmAc5DzrZePUn-fKj-TkNUIA5Tjg/w183-h285/Screenshot_51.jpg)![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHDK7w7R2uD8touED2svpZXNwcpdxBuLjN1Sklnd-LAiU4aPeQlYOnut6CvxqPJHTFe1-Q1SThW734xREhVmT1m80prTMcs6VomehwzkSbbGZPD39T8gvscB2YYqiF5wZqZxFWGVtIWYZfHHFF-22Is-ZtftIMNfEWCg14d3qg5gtYkvKvj6_0Rb9AqpI/w184-h281/Screenshot_53.jpg)![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiJYkv7IrCfZkvbnE7gbzN5JsdspjHKsDIJZP0RI5JUKX32bnuKpdwI1b6OVGIiofzMDjpr7G0JT_GyLgXwjc0WFwjgDZFtM9j0Wc0X524Y2UUt96oCrzYqmOL6nX2n1abwKaDUDst3WgZDBSYGq9PqmF6rhXtUbHqX_ZkXNAYMlmwSnY6kWolBQbVWVA/w174-h244/Screenshot_44.jpg)
+![](/assets/img/posts/Screenshot_51![](/assets/img/posts/Screenshot_53![](/assets/img/posts/Screenshot_44
 
 ---
 

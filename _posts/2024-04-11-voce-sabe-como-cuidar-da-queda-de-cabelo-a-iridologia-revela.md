@@ -8,7 +8,7 @@ description: "Você sabe como cuidar da queda de cabelo? A Iridologia revela."
 image: "https://i.ibb.co/kVPh9Wtk/0ae419059d44.png"
 ---
 
-![](https://i.ibb.co/kVPh9Wtk/0ae419059d44.png)
+![](https://i.ibb.co/kVPh9Wtk/0ae419059d44
 
 ## **Você sabe como cuidar da queda de cabelo? A Iridologia revela.**
 

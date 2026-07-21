@@ -5,10 +5,10 @@ date: 2025-05-26T01:59:00.005Z
 tags: ["anatomia fisiologia"]
 categories: ["bem-estar"]
 description: "Prisão de ventre:Um Problema"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0-1ODyp1PMnzpKjWbWb9y4ak-9ByBnPvAqNT82z8frpA0KnA4HzeDKV-t9fVqyvbIeMVNK9ZfylqG58GYnkmiC51CwFO60SWY6biWQzJq3BEi1s3HBvDMSxyM_0hg5pyUFBO_BJOtnhGdETnksTVeAP-fTaiHqguOn03LBgKwKWGN9OKNZTp-sSyvTkg/w582-h328/Pris%C3%A3o_de_ventre_Um_Problema_Silencioso_Comum.png"
+image: "/assets/img/posts/Pris%C3%A3o_de_ventre_Um_Problema_Silencioso_Comum.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0-1ODyp1PMnzpKjWbWb9y4ak-9ByBnPvAqNT82z8frpA0KnA4HzeDKV-t9fVqyvbIeMVNK9ZfylqG58GYnkmiC51CwFO60SWY6biWQzJq3BEi1s3HBvDMSxyM_0hg5pyUFBO_BJOtnhGdETnksTVeAP-fTaiHqguOn03LBgKwKWGN9OKNZTp-sSyvTkg/w582-h328/Pris%C3%A3o_de_ventre_Um_Problema_Silencioso_Comum.png)
+![](/assets/img/posts/Pris%C3%A3o_de_ventre_Um_Problema_Silencioso_Comum
 
   
 

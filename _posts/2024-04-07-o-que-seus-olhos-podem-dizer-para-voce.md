@@ -8,7 +8,7 @@ description: "O que seus olhos podem dizer para você?"
 image: "https://i.ibb.co/4RThF4hC/f6fcf30e2d51.jpg"
 ---
 
-![](https://i.ibb.co/4RThF4hC/f6fcf30e2d51.jpg)
+![](https://i.ibb.co/4RThF4hC/f6fcf30e2d51
 
   
 
@@ -49,7 +49,7 @@ Todas essas informações nos dão embasamento para que a gente possa passar um 
 
 É muito importante a gente descobrir quais os nossos órgãos de choque, que assim como chamamos Neurologia, esses órgãos que são geneticamente já mais fragilizados e com necessidade de uma maior suplementação.
 
-[![](https://i.ibb.co/bgZVR5G0/fbab26d950d9.jpg)](https://news.feng.com.my/v2/wp-content/uploads/2010/08/eye001.jpg)
+[![](https://i.ibb.co/bgZVR5G0/fbab26d950d9](https://news.feng.com.my/v2/wp-content/uploads/2010/08/eye001
 
   
 
@@ -71,7 +71,7 @@ Muitas vezes as pessoas têm alguns tipos de problemas e vão fazer exames médi
 
 Mas através da iridologia, a gente consegue descobrir aquilo que a medicina ainda não consegue detectar através dos exames.
 
-[![](https://i.ibb.co/wFzRms7J/17dfd4877aa2.png)](https://cdn.imweb.me/thumbnail/20201213/3ec9b876f24cd.png)
+[![](https://i.ibb.co/wFzRms7J/17dfd4877aa2](https://cdn.imweb.me/thumbnail/20201213/3ec9b876f24cd
 
 ## 3- A Iridologia se relaciona com alguma ciência?
 
@@ -97,7 +97,7 @@ Eu estou falando para você que aquilo que a iridologia pode proporcionar para v
 
   
 
-![](https://i.ibb.co/pv6TQjP8/fe1decb1cee1.jpg)
+![](https://i.ibb.co/pv6TQjP8/fe1decb1cee1
 
 # As Bases da Iridologia Alemã
 

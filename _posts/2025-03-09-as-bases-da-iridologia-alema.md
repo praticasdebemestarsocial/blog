@@ -8,7 +8,7 @@ description: "'As Bases da Iridologia Alemã: A Herança Científica e Artístic
 image: "https://i.ibb.co/TDzFKY2m/dd23d6bfeca8.png"
 ---
 
-![](https://i.ibb.co/TDzFKY2m/dd23d6bfeca8.png)
+![](https://i.ibb.co/TDzFKY2m/dd23d6bfeca8
 
 ## "As Bases da Iridologia Alemã: A Herança Científica e Artística do Dr. Celso Battello"
 

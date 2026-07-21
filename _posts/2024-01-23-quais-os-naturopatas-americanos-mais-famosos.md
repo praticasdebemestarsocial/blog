@@ -20,7 +20,7 @@ naturopatas americanos da atualidade:
 
 ## 1- Quais os naturopatas americanos mais famosos?
 
-[![](https://i.ibb.co/KjHF4KWL/91616d6472f1.png)](https://bioclinicnaturals.com/en-us/wp-content/uploads/sites/5/2016/05/dr-pizzorno-hair-correction-e1467840178584.png)
+[![](https://i.ibb.co/KjHF4KWL/91616d6472f1](https://bioclinicnaturals.com/en-us/wp-content/uploads/sites/5/2016/05/dr-pizzorno-hair-correction-e1467840178584
 
   
 
@@ -41,7 +41,7 @@ credenciada neste campo no mundo.
 
    Saiba mais em [IFM](<https://www.ifm.org/>).
 
-[![](https://i.ibb.co/wvbmkQt/5051dd24df49.jpg)](https://images.squarespace-cdn.com/content/v1/5ae4ecccfcf7fd2d8744ace5/1526767009607-3SLED4XH41KBLT986SUF/andrew_weil.jpg)
+[![](https://i.ibb.co/wvbmkQt/5051dd24df49](https://images.squarespace-cdn.com/content/v1/5ae4ecccfcf7fd2d8744ace5/1526767009607-3SLED4XH41KBLT986SUF/andrew_weil
 
 ### 2. Andrew Weil
 
@@ -56,7 +56,7 @@ Arizona.
 
    Saiba mais em [Dr. Weil](<https://www.drweil.com/>).
 
-[![](https://i.ibb.co/SXGVbqVr/fab0b7896f77.jpg)](https://dadamo.com/images/pdabooks.jpg)
+[![](https://i.ibb.co/SXGVbqVr/fab0b7896f77](https://dadamo.com/images/pdabooks
 
 ### 3. Dr. Peter J. D'Adamo
 
@@ -72,7 +72,7 @@ microbioma.
 
    Saiba mais em [Dr. D'Adamo](<https://www.4yourtype.com/dr-peter-j-dadamo/>).
 
-[![](https://i.ibb.co/KjdNmnwx/88c624f7f35f.jpg)](https://pbs.twimg.com/profile_images/666748249395499010/YSpj6vsy_400x400.jpg)
+[![](https://i.ibb.co/KjdNmnwx/88c624f7f35f](https://pbs.twimg.com/profile_images/666748249395499010/YSpj6vsy_400x400
 
 ### 4. Tieraona Low Dog
 
@@ -85,7 +85,7 @@ Medicina Complementar e Alternativa.
 
    Saiba mais em [Dr. Low Dog](<https://www.drlowdog.com/>).
 
-[![](https://i.ibb.co/G3bwH0RL/c01795d99054.jpg)](https://m.media-amazon.com/images/I/81az1HtCiLL.jpg)
+[![](https://i.ibb.co/G3bwH0RL/c01795d99054](https://m.media-amazon.com/images/I/81az1HtCiLL
 
 ### 5. Aviva Romm
 
@@ -100,7 +100,7 @@ Herbal Pharmacopoeia.
 
 ## 2- Como Tornar-se um Bom Naturopata: Dicas da Profissional Silviane Silvério
 
-![](https://i.ibb.co/NgzCN9B4/10d69b619037.png)
+![](https://i.ibb.co/NgzCN9B4/10d69b619037
 
 Se tornar um bom naturopata requer estudo, dedicação e busca constante pelo
 conhecimento.

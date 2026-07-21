@@ -5,10 +5,10 @@ date: 2026-06-17T00:13:50.215Z
 tags: ["autoconhecimento", "anatomia fisiologia", "filosofia"]
 categories: ["bem-estar"]
 description: "A Ponte de Descartes: A Glândula Pineal entre a Geometria e a Sede da Alma"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVvusS4WKuirvVoyr8LD09DkpYdyH08dn9zIjVdSXYo7fFTqT1IWHONGRwWFnXc_wbYHKwY1fE9XVQluLV_dA0Kp8lxlXj9lY3IPSlP6BzMSuqxrs6YbgAAFHp_42ZQlhR4fjw10dkhPXC3hGzgZVtz-N3XtBSGv7KOl-27hUUraAiZh9C5-sadGttTVU/w473-h259/5.png"
+image: "/assets/img/posts/5.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVvusS4WKuirvVoyr8LD09DkpYdyH08dn9zIjVdSXYo7fFTqT1IWHONGRwWFnXc_wbYHKwY1fE9XVQluLV_dA0Kp8lxlXj9lY3IPSlP6BzMSuqxrs6YbgAAFHp_42ZQlhR4fjw10dkhPXC3hGzgZVtz-N3XtBSGv7KOl-27hUUraAiZh9C5-sadGttTVU/w473-h259/5.png)
+![](/assets/img/posts/5
 
   
   

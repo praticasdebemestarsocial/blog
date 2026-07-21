@@ -8,7 +8,7 @@ description: "O Cientista Rebelde que Questiona Paradigmas"
 image: "https://i.ibb.co/JbrkTRL/de7e44fd0575.png"
 ---
 
-![](https://i.ibb.co/JbrkTRL/de7e44fd0575.png)
+![](https://i.ibb.co/JbrkTRL/de7e44fd0575
 
 ## O Cientista Rebelde que Questiona Paradigmas
 
@@ -115,7 +115,7 @@ espiritualidade.
 
 Adquira o livro para se aprofundar nas ideias de Sheldrake.
 
-[![](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra.png)](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra.png)
+[![](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra
 
   
                                                                               Rupert Sheldrake  

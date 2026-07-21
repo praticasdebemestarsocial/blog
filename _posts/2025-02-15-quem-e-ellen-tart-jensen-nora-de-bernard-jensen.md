@@ -4,11 +4,11 @@ title: "Quem é Ellen Tart-Jensen?Nora de Bernard Jensen"
 date: 2025-02-15T06:42:00.006Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
-description: ".png).png)"
+description: ""
 image: "https://i.ibb.co/6JZwT84C/1e2b1e3497c1.png"
 ---
 
-![](https://i.ibb.co/6JZwT84C/1e2b1e3497c1.png).png).png)
+![](https://i.ibb.co/6JZwT84C/1e2b1e3497c1
 
   
 

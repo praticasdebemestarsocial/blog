@@ -8,7 +8,7 @@ description: "O Papiro de Kahun: Uma Visão Antiga sobre Saúde e a Relação co
 image: "https://i.ibb.co/tp8jcZCx/db1c743f6eae.png"
 ---
 
-![](https://i.ibb.co/tp8jcZCx/db1c743f6eae.png)
+![](https://i.ibb.co/tp8jcZCx/db1c743f6eae
 
 # O Papiro de Kahun: Uma Visão Antiga sobre Saúde e a Relação com os Olhos Autora: Silviane Silverío, Naturóloga e Biomédica
 

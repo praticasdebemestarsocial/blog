@@ -4,11 +4,11 @@ title: "Quais pesquisadores são considerados os pais da Iridologia?"
 date: 2024-07-01T22:44:00.002Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
-description: ".png).png)"
+description: ""
 image: "https://i.ibb.co/cSxRjwq0/9997f84081ea.png"
 ---
 
-![](https://i.ibb.co/cSxRjwq0/9997f84081ea.png).png).png)
+![](https://i.ibb.co/cSxRjwq0/9997f84081ea
 
   
 

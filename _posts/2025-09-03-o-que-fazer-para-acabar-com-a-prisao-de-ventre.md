@@ -5,7 +5,7 @@ date: 2025-09-03T14:52:00.006Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O que Fazer para Acabar com a Prisão de Ventre?"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmznmq1clApEwJAis4cIXPkjnG6Ywh1aA0ah9bQLn2B6dZztvGyBJ7GInAPBJjiCI9NkR-_0Z2mwRatL1_O_00Dq7EUJ45zCC0HMgLMVFY60Ww2CcE18lW6eqCgv_QgRLUk9c112dlFrc/s320/Intestino-delgado-de-bezerro-com-criptosporidiose-distendido-por-gas-Observa-se+%25281%2529.png"
+image: "/assets/img/posts/Intestino-delgado-de-bezerro-com-criptosporidiose-distendido-por-gas-Observa-se+%25281%2529.png"
 ---
 
 ## O que Fazer para Acabar com a Prisão de Ventre?
@@ -92,7 +92,7 @@ o organismo. Isso pode resultar em diversas doenças crônicas, incluindo cânce
 Nosso intestino grosso absorve cerca de 1,5 litros de água por dia e produz
 cerca de 150 gramas de fezes diárias (Jaleco, 2021).
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmznmq1clApEwJAis4cIXPkjnG6Ywh1aA0ah9bQLn2B6dZztvGyBJ7GInAPBJjiCI9NkR-_0Z2mwRatL1_O_00Dq7EUJ45zCC0HMgLMVFY60Ww2CcE18lW6eqCgv_QgRLUk9c112dlFrc/s320/Intestino-delgado-de-bezerro-com-criptosporidiose-distendido-por-gas-Observa-se+%25281%2529.png)
+![](/assets/img/posts/Intestino-delgado-de-bezerro-com-criptosporidiose-distendido-por-gas-Observa-se+%25281%2529
 
 Ele está conectado a vasos sanguíneos, nervos e nódulos linfáticos,
 comunicando-se diretamente com outros órgãos. Qualquer desequilíbrio no
@@ -204,8 +204,8 @@ indiretos são o mau metabolismo de gorduras, açúcares, lactose, carboidratos,
 sais e proteínas.
 
                                  
-  [![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv_NjT_ndwdYVpr2ZNw8vrIpk6m80FcAcYI59D6xrFnSadCg4oYNyXFi59nbnAxHpMuRY3mmezKm19shd_lQtco6JBFlKmuWRDActloDzmfWy80rM4ch41tQD7Y7-bZpxAoHdOVkCsVWc/w320-h296/IRIS3.jpg
-"tempodesaudeiridologia")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv_NjT_ndwdYVpr2ZNw8vrIpk6m80FcAcYI59D6xrFnSadCg4oYNyXFi59nbnAxHpMuRY3mmezKm19shd_lQtco6JBFlKmuWRDActloDzmfWy80rM4ch41tQD7Y7-bZpxAoHdOVkCsVWc/s424/IRIS3.jpg)
+  [![tempodesaudeiridologia](/assets/img/posts/IRIS3.jpg
+"tempodesaudeiridologia")](/assets/img/posts/IRIS3
 
 Nesse mapa você pode observar como o intestino se liga com todos os órgãos do
 corpo e muitas vezes disfunções em alguns órgãos podem ser reflexo da condição
@@ -213,7 +213,7 @@ do sistema gastrointestinal. Vejamos alguns exemplos:
 
 ### Prisão e ventre por um desequilibrios dos ácidos digestivos
 
-![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5ERTLiL8UUhcFZPWoTy7QwhUfhxoJQdbNl7tBd-KLu_el6c7KomxYh0qPvNwkOBA9ISI6Xw8zg5RYFezKl7eTDfZkTHTOOnrexZ6OQXEUdKuJMSD2RIJgTQf8OR6iiPaq1RW3w24HTes/w320-h204/iris1.jpg "tempodesaudeiridologia")
+![tempodesaudeiridologia](/assets/img/posts/iris1.jpg "tempodesaudeiridologia")
 
 Essa pessoa pode estar sofrendo de prisão de ventre por desequilíbrio dos
 ácidos, gerando acúmulo de toxinas que podem afetar o bom funcionamento dos
@@ -233,7 +233,7 @@ resultado integrativo e complementar do tratamento.  
 
  
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6sl8gtVVfHCQZMNg96lzQpx8tuxnFXjEOtqfCca0Vj_SW4c9O-J9aIcj0Y_LVr2Y4SQz2DuH4aJiId9KUh4WJ_NRVx6NNy43FX05AOfYU2MdokjdYEOuwhyphenhyphenQfSSLi2bcybq46XFSwA20/s320/iris6.jpg)
+![](/assets/img/posts/iris6
 
     Esse outro exemplo onde a pessoa pode estar sofrendo **prisão de ventre
 devido ao sistema nervoso de muito estresse**, sensação de empachamento,
@@ -242,7 +242,7 @@ defesas, deficiente de minerais e onde pode ocorrer diversos acometimentos.
 
 ### Prisão e ventre por deficiência de ácidos e enzimas digestivas.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtu8tKgEV7RsUQG2hQDVb9GAPPQ013pJqCUinKx74hr_KsVdnXJFsiCOjLMuKeDN_rd1WQuWo0R60K9jvva4Wa-QrXpEwIBlpNc269lAhkPhEtXNfw3pFj2zUw1eVUcKqaIqM2DrKDK9k/w320-h254/10a.jpg)
+![](/assets/img/posts/10a
 
     Esse outro exemplo a pessoa sofre com prisão de ventre por redução da acidez
 no estômago. Está com  excesso de acidez no sangue  e também sofre de diversas
@@ -252,7 +252,7 @@ manifestações na pele.
 
 ### Prisão e ventre por excesso de toxinas.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI1tKEq9o8dcJFr_AafIr2WTQi41bOWjPh5dhBP2lzSJxIROyhtLa6kQbpGFdbmxZdld1Wu71zkEPU-gdXQFiqXrVTNmEaKuSps_JPtqHwbRCc3goVb6pTgvKdpSav5Swmn9E3-xP1YDI/s320/iris11.jpg)
+![](/assets/img/posts/iris11
 
      Essa pessoa sofre com prisão de ventre e isso está a prejudicar as funções
 cognitivas cerebrais, como memória e estado de humor e até pode inibir o desejo
@@ -260,7 +260,7 @@ sexual.  
 
 ### Prisão e ventre por grave intoxicação do sistema digestivo e toxinas no fígado.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKb8SBQxWgzJJsclxbh9F0Z9sBIRQh8qLnGjb283vwXrruqQqEHIzu73_wsNG-L_uu9j7-3CZwl12MSOLU1NyeN0lAoyZAoMoIDZ2Xr3KhyizDLFLW6kgz2NA3cNr2m5QLeezxtbeDhy4/s0/iris7.jpg)
+![](/assets/img/posts/iris7
 
     Esse outro exemplo, a pessoa pode sofrer de prisão de ventre severa e isso
 já pode estar afetando diversos sistemas do corpo e as funções cerebrais e
@@ -268,7 +268,7 @@ alterando o seu estado de humor drasticamente.
 
 ### Prisão e ventre por acúmulo de mau metabolismo de gorduras e sais.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY08PCihpxCM6GImLDG8Q1rZmw3eaJjCWrq3r6TX45eSB1ImvtpsHptaIlI8ADLDOOk56lyHBq41BLL03JOsU8Q-50EjipME4e4b7NIGhJYEJquHXM8kp3rEXDxntiPjS3kfDEUrOVDg4/s320/iris8.jpg)
+![](/assets/img/posts/iris8
 
       Neste outro caso a pessoa sofre de prisão de ventre devido a mau
 metabolismo de gorduras e sais minerais e ainda por conta da sua genética pode
@@ -276,7 +276,7 @@ ter alterações hormonais e fraqueza imunológica devido a essa prisão de vent
 
 ### Prisão e ventre por intolerância ao leite e derivados e ansiedade.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmgTG8YQK1iQZwNt39dIlhekWm8ssYjKX8xydBwXV50TzSrts_FoEIEXPSBdzCmaQXcEKpwkBt46oiPwYczJlpVN3SYBUx-tBw3MVXt-UXn5jsYkgnqFD_Q50Uxgnua5QIL5DcttBaM-E/s320/iris9.jpg)
+![](/assets/img/posts/iris9
 
     Neste caso a pessoa sofre de prisão de ventre devido ao acesso de ansiedade
 e o metabolismo do baco pâncreas, má digestão de carboidratos e laticínios.
@@ -350,7 +350,7 @@ Para citar este artigo (ABNT):
 SILVÉRIO, Silviane de Souza. O que fazer para acabar com a prisão de ventre?
 2021. Tempo de Saúde. Disponível em: [link]. Acesso em: [insira a data].
 
-![tempodesaudeiridologia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyb-JPzUUo4qsbU7oqiIws1E51piCjbNEqS8cKgKmO6H4fv5egbxy0G_zcp5jqlJxphXctHzhNXbhIv6iOSoUuCooepjXG1Ohc8AW78s0FdqBNtye6O3lCVKJs_6emGQhvxpMdHm7xlVw/w290-h320/euu.jpg "tempodesaudeiridologia")
+![tempodesaudeiridologia](/assets/img/posts/euu.jpg "tempodesaudeiridologia")
 
 > "Quando utilizamos uma ferramenta que pode dar luz a respeito **desses fatores nocivos e prejudiciais para o nosso organismo** podemos ter uma informação  relevante a respeito de que forma podemos cuidar melhor do nosso corpo, da nossa saúde, da alimentação e do nosso estado emocional."
 

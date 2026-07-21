@@ -8,7 +8,7 @@ description: "Quem é Prof. Dr. Pr. Jean Alves Cabral?"
 image: "https://i.ibb.co/rGzpwqsJ/452657d2c6ab.png"
 ---
 
-![](https://i.ibb.co/rGzpwqsJ/452657d2c6ab.png)
+![](https://i.ibb.co/rGzpwqsJ/452657d2c6ab
 
 ## Quem é Prof. Dr. Pr. Jean Alves Cabral?
 
@@ -34,15 +34,15 @@ tradição, responsável por formar inúmeros profissionais na área.
 Seu trabalho é pautado por uma visão cristã da vida e da realidade, enfatizando
 a importância da saúde integral e do bem-estar espiritual.  
 
-![](https://i.ibb.co/jPH31Zm4/41c1c53ed084.jpg)
+![](https://i.ibb.co/jPH31Zm4/41c1c53ed084
 
-![](https://i.ibb.co/5WCy7B44/278f1cc7ca4d.jpg)
+![](https://i.ibb.co/5WCy7B44/278f1cc7ca4d
 
 Formatura do Curso de Naturologia Clínica em 2009
 
   
 
-![](https://i.ibb.co/M51nyLD8/631d34cb13d0.jpg)
+![](https://i.ibb.co/M51nyLD8/631d34cb13d0
 
 ### Referências Bibliográticas:
 

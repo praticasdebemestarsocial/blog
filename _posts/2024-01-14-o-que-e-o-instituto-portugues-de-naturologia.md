@@ -150,7 +150,7 @@ Se você está interessado em seguir uma carreira na área da saúde natural, o 
 
 ##
 
-[![](https://i.ibb.co/NQQjc5K/242946b88c77.png)](https://www.ipnaturologia.com/wp-content/uploads/2017/10/Revista-de-medicina-natural.png)
+[![](https://i.ibb.co/NQQjc5K/242946b88c77](https://www.ipnaturologia.com/wp-content/uploads/2017/10/Revista-de-medicina-natural
 
 O  Instituto Português de Naturologia conta com já com 3 números da sua Revista
 de Medicina Natural.

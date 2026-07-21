@@ -8,7 +8,7 @@ description: "O Que é Reflexologia Ocular?"
 image: "https://i.ibb.co/9C5XwS4/90c4b5facd6d.jpg"
 ---
 
-![](https://i.ibb.co/9C5XwS4/90c4b5facd6d.jpg)
+![](https://i.ibb.co/9C5XwS4/90c4b5facd6d
 
 ## O Que é Reflexologia Ocular?
 
@@ -68,7 +68,7 @@ Os especialistas observam as mudanças na íris e na esclera para identificar pa
 
 A análise dessas informações permite a prevenção de doenças e a recomendação de tratamentos naturais, reforçando a importância da reflexologia ocular como ferramenta integrativa na saúde.
 
-![](https://i.ibb.co/jkGwxSwn/c771bcb4ccde.jpg)
+![](https://i.ibb.co/jkGwxSwn/c771bcb4ccde
 
 ### Pesquisa a respeito da reflexologia corporal
 
@@ -87,7 +87,7 @@ Os pesquisadores analisaram dois métodos de reflexologia podal:
 Os pacientes tiveram a pressão intraocular (PIO) medida antes e depois de cada
 método, em diferentes momentos do dia.
 
-![](https://i.ibb.co/KxZqfZ9B/3a8115fab9f5.jpg)
+![](https://i.ibb.co/KxZqfZ9B/3a8115fab9f5
 
 #### **Resultados**
 

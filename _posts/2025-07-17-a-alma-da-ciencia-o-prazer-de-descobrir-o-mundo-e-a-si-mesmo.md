@@ -5,10 +5,10 @@ date: 2025-07-17T07:03:00.003Z
 tags: ["filosofia"]
 categories: ["bem-estar"]
 description: "A Alma da Ciência: O Prazer de Descobrir o Mundo e a Si Mesmo"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4C9Rf-HvUKHcT8vPC9Kzl8J8tYnpf93yQBdh1zZgw7v-f8_Fdp8F7ux5BQMersZcMq1jbx9SNHZHAI4dUHow9fp3oYrQqQUeGC0LecarkjeGdgjyU36E-s4FGCKkOTsfendD3BPzvWXX8mDanFhBxMANhMox51k9nX4ufCCjf-cjoeEFZGmAru6ORIfM/w605-h340/Ci%C3%AAncia_O_Prazer_de_Descobrir_Um_Convite_%C3%A0_Reflex%C3%A3o.png"
+image: "/assets/img/posts/Ci%C3%AAncia_O_Prazer_de_Descobrir_Um_Convite_%C3%A0_Reflex%C3%A3o.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4C9Rf-HvUKHcT8vPC9Kzl8J8tYnpf93yQBdh1zZgw7v-f8_Fdp8F7ux5BQMersZcMq1jbx9SNHZHAI4dUHow9fp3oYrQqQUeGC0LecarkjeGdgjyU36E-s4FGCKkOTsfendD3BPzvWXX8mDanFhBxMANhMox51k9nX4ufCCjf-cjoeEFZGmAru6ORIfM/w605-h340/Ci%C3%AAncia_O_Prazer_de_Descobrir_Um_Convite_%C3%A0_Reflex%C3%A3o.png)
+![](/assets/img/posts/Ci%C3%AAncia_O_Prazer_de_Descobrir_Um_Convite_%C3%A0_Reflex%C3%A3o
 
 # A Alma da Ciência: O Prazer de Descobrir o Mundo e a Si Mesmo
 

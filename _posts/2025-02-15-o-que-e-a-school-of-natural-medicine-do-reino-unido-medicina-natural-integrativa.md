@@ -18,7 +18,7 @@ A School of Natural Medicine UK (Escola de Medicina Natural do Reino Unido)
 oferece uma abordagem profunda e transformadora à medicina naturopática e à
 iridologia.
 
-![](https://i.ibb.co/F4d7fTkF/d6bdc79d63b5.jpg)
+![](https://i.ibb.co/F4d7fTkF/d6bdc79d63b5
 
   
 
@@ -29,7 +29,7 @@ Ela oferece uma variedade de cursos líderes do setor, tanto online quanto
 presenciais, todos profissionalmente credenciados e com orientação
 individualizada para cada aluno.
 
-![](https://i.ibb.co/rfbfHgfR/011f8838870d.jpg)
+![](https://i.ibb.co/rfbfHgfR/011f8838870d
 
   
 

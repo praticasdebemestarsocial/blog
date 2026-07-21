@@ -110,7 +110,7 @@ image: "https://i.ibb.co/s9wZ8Jtm/ef3fe103f939.jpg"
 
 ## E talvez, nesse olhar compassivo, esteja a verdadeira “leitura dos olhos”.
 
-[![](https://i.ibb.co/s9wZ8Jtm/ef3fe103f939.jpg)](https://i.ytimg.com/vi/XfcFR39Qkrc/maxresdefault.jpg)
+[![](https://i.ibb.co/s9wZ8Jtm/ef3fe103f939](https://i.ytimg.com/vi/XfcFR39Qkrc/maxresdefault
 
 ## Referências Bibliográficas:
 

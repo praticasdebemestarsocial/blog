@@ -8,7 +8,7 @@ description: "Iridologia na Europa – A Evolução dos Estudos  no Sul da Euro
 image: "https://i.ibb.co/n81jvxDK/67c02bbc5f9a.png"
 ---
 
-![](https://i.ibb.co/n81jvxDK/67c02bbc5f9a.png)
+![](https://i.ibb.co/n81jvxDK/67c02bbc5f9a
 
 ## Iridologia na Europa – A Evolução dos Estudos  no Sul da Europa
 

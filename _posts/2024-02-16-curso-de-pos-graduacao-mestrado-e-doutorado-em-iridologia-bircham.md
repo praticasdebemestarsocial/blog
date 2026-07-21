@@ -33,7 +33,7 @@ da educação a distância.
 
 ## 2- Como é o curso de Iridologia da Universidade Bircham?
 
-[![](https://i.ibb.co/cckqxVgr/30d2eb0badc8.jpg)](https://www.bircham.org/images/biu/Diploma-Doctor.jpg)
+[![](https://i.ibb.co/cckqxVgr/30d2eb0badc8](https://www.bircham.org/images/biu/Diploma-Doctor
 
   
 

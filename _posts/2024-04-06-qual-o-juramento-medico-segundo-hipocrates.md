@@ -8,7 +8,7 @@ description: "Qual o juramento médico segundo Hipócrates(https://tecnologiasdo
 image: "https://i.ibb.co/jkZFB2dw/a80225133e10.png"
 ---
 
-![](https://i.ibb.co/jkZFB2dw/a80225133e10.png)
+![](https://i.ibb.co/jkZFB2dw/a80225133e10
 
   
 

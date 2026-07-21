@@ -4,11 +4,11 @@ title: "Software Irisdiag "
 date: 2024-02-16T01:31:00.003Z
 tags: ["equipamentos atendimento"]
 categories: ["bem-estar"]
-description: "/hotmart/productpictures/8394bac4-44a8-4214-a064-9e6c2645ead7/IRISDIAG2023600x720pxTINY.png)(https://go.hotmart.com/R90949078E)"
+description: "/hotmart/productpictures/8394bac4-44a8-4214-a064-9e6c2645ead7/IRISDIAG2023600x720pxTINY(https://go.hotmart.com/R90949078E)"
 image: "https://static-media.hotmart.com/OBDZckHxq5w4TyU5Nh9R4G7TXYk=/filters:background_color(white"
 ---
 
-[![](https://static-media.hotmart.com/OBDZckHxq5w4TyU5Nh9R4G7TXYk=/filters:background_color(white)/hotmart/product_pictures/8394bac4-44a8-4214-a064-9e6c2645ead7/IRISDIAG2023600x720pxTINY.png)](https://go.hotmart.com/R90949078E)
+[![](https://static-media.hotmart.com/OBDZckHxq5w4TyU5Nh9R4G7TXYk=/filters:background_color(white)/hotmart/product_pictures/8394bac4-44a8-4214-a064-9e6c2645ead7/IRISDIAG2023600x720pxTINY](https://go.hotmart.com/R90949078E)
 
 ## Descubra o Poder da Iridologia para Saúde e Bem-Estar!
 
@@ -50,4 +50,4 @@ O IrisDiag Plus é uma ferramenta indispensável para profissionais de saúde qu
 
 Comece a atender seus clientes de forma mais rápida e eficiente, aumentando sua produtividade e garantindo a satisfação deles. Adquira agora o IrisDiag e aproveite todos os benefícios que ele pode oferecer para o seu negócio!
 
-[![](https://i.ibb.co/yF0Z2qLf/90b4d95ee2a5.jpg)](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=656,h=520,fit=crop/YbNZMgzXBlIwVJpM/irisdiag_casal-AwvJZqWOQ3tOOpXN.jpeg)
+[![](https://i.ibb.co/yF0Z2qLf/90b4d95ee2a5](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=656,h=520,fit=crop/YbNZMgzXBlIwVJpM/irisdiag_casal-AwvJZqWOQ3tOOpXN

@@ -8,7 +8,7 @@ description: "Paracelso, também conhecido como Philippus Aureolus Theophrastus 
 image: "https://i.ibb.co/5hgkpzfL/8065400949e0.png"
 ---
 
-![](https://i.ibb.co/5hgkpzfL/8065400949e0.png)
+![](https://i.ibb.co/5hgkpzfL/8065400949e0
 
   
 Paracelso, também conhecido como Philippus Aureolus Theophrastus Bombastus von Hohenheim, foi um médico e alquimista do Renascimento que fez contribuições significativas à medicina, à química e à filosofia.

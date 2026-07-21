@@ -5,7 +5,7 @@ date: 2025-10-08T21:02:00.008Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
 description: "Iridologia na detecção de anormalidades no sistema reprodutor feminino – o que a ciência encontrou?"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXX9DdKdQhCrSVoqzTKqS4uLz5MGpcdXwYyJJ8oFFS_cQpCmU8eEoojhSGDl8JRQ6wjNAEM8F4WgASfjawo7CqK5p_8Saik1XLmUsIUXAT9RZDmzKyIkftVjEYZwjeF8Pnwc8IaPRTWSo5alBeM0SwWiJHDM3lkOHuaXZCrMI6uRgX4N9vZfYw015AeLs/s320/MAPA_BERNARD_JENSEN.jpg"
+image: "/assets/img/posts/MAPA_BERNARD_JENSEN.jpg"
 ---
 
 # Iridologia na detecção de anormalidades no sistema reprodutor feminino – o que a ciência encontrou?
@@ -33,7 +33,7 @@ iridológica.
 
   
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXX9DdKdQhCrSVoqzTKqS4uLz5MGpcdXwYyJJ8oFFS_cQpCmU8eEoojhSGDl8JRQ6wjNAEM8F4WgASfjawo7CqK5p_8Saik1XLmUsIUXAT9RZDmzKyIkftVjEYZwjeF8Pnwc8IaPRTWSo5alBeM0SwWiJHDM3lkOHuaXZCrMI6uRgX4N9vZfYw015AeLs/s320/MAPA_BERNARD_JENSEN.jpg)
+![](/assets/img/posts/MAPA_BERNARD_JENSEN
 
   
   
@@ -93,7 +93,7 @@ degenerativos em curso.
 
 [🎥 [Vídeo incorporado](https://www.youtube.com/embed/Ys2gPKM8iQ0)](https://www.youtube.com/embed/Ys2gPKM8iQ0)
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-TpeedJKYG7NtaB_st7xTU3TruMA52-PNEmZ52E8TDPLEHm3cMoGisP5J-Qj6NqU1zyHpMje9djlKXAc5dWpuXw5zlgCXSxSdOUoH9B4kRVqhcG9lH3RMN6D6EsxBtMAxRmgzuOefI-B1SlFNd2zXjHNfC77eEq5Tj98CkX_QR-P3HWkupWQbfHNhe64/w579-h103/Siga%20nosso%20canal%20no%20Youtube.gif)](https://www.youtube.com/@mapasdoautoconhecimento)
+[![](/assets/img/posts/Siga%20nosso%20canal%20no%20Youtube](https://www.youtube.com/@mapasdoautoconhecimento)
 
 **Conclusão**
 

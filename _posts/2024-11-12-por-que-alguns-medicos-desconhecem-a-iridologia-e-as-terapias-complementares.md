@@ -8,7 +8,7 @@ description: "Por Que alguns Médicos Desconhecem a Iridologia e as Terapias Com
 image: "https://i.ibb.co/23KCFZYt/174321e2bf78.png"
 ---
 
-![](https://i.ibb.co/23KCFZYt/174321e2bf78.png)
+![](https://i.ibb.co/23KCFZYt/174321e2bf78
 
 ## **Por Que alguns Médicos Desconhecem a Iridologia e as Terapias Complementares?**
 

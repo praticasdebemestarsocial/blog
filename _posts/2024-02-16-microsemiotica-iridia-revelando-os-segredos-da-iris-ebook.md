@@ -8,7 +8,7 @@ description: "Microsemiótica Iridia"
 image: "https://i.ibb.co/8gGq9Nrm/b94a9d961545.png"
 ---
 
-![](https://i.ibb.co/8gGq9Nrm/b94a9d961545.png)
+![](https://i.ibb.co/8gGq9Nrm/b94a9d961545
 
 ## Microsemiótica Iridia
 

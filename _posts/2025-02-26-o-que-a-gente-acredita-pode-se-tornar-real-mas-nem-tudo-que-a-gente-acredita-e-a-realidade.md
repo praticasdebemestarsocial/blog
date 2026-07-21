@@ -8,7 +8,7 @@ description: "O que acreditamos pode influenciar nossa realidade, mas isso não 
 image: "https://i.ibb.co/BHpJrmKr/5e1e885786ed.png"
 ---
 
-![](https://i.ibb.co/BHpJrmKr/5e1e885786ed.png)
+![](https://i.ibb.co/BHpJrmKr/5e1e885786ed
 
   
 O que acreditamos **pode influenciar nossa realidade**, mas isso não significa que **tudo o que acreditamos seja, de fato, a verdade absoluta**.

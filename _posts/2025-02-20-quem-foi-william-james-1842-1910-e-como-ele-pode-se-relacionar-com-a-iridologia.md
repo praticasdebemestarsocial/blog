@@ -8,7 +8,7 @@ description: "Quem foi  William James (1842-1910) e como ele pode se relacionar
 image: "https://i.ibb.co/MDbcNtmc/b7aef0da34fd.png"
 ---
 
-![](https://i.ibb.co/MDbcNtmc/b7aef0da34fd.png)
+![](https://i.ibb.co/MDbcNtmc/b7aef0da34fd
 
 ## Quem foi  William James (1842-1910) e como ele pode se relacionar com a Iridologia?
 

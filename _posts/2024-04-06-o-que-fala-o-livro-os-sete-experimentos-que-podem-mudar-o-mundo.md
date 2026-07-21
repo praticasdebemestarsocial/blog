@@ -8,7 +8,7 @@ description: "Sete Experimentos que Podem Mudar o Mundo"
 image: "https://i.ibb.co/21qXmJNK/494afc0ea3bd.png"
 ---
 
-![](https://i.ibb.co/21qXmJNK/494afc0ea3bd.png)
+![](https://i.ibb.co/21qXmJNK/494afc0ea3bd
 
 # Sete Experimentos que Podem Mudar o Mundo
 
@@ -42,7 +42,7 @@ Ele apresenta **sete experimentos simples** que qualquer pessoa pode realizar,
 incentivando tanto céticos quanto entusiastas a explorarem os mistérios da mente
 e da natureza.
 
-[![](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra.png)](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra.png)
+[![](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra](https://www.koieditora.com.br/wp-content/uploads/2021/08/Dr-Rupert-Sheldrake-biologo-PhD-Inglaterra
 
 ### Ciência Além do Dogmatismo
 

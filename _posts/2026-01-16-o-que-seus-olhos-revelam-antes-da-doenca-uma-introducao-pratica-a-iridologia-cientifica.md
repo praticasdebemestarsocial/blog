@@ -5,10 +5,10 @@ date: 2026-01-16T05:00:00.006Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "O Que Seus Olhos Revelam Antes da Doença: uma introdução prática à iridologia científica"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZWdL5_iAMH4pf9omumUpOk7UNHn6K8jNuiluSf393cSMTwcIMX8cS8DmOFr5NkxC9jR5XFbhYqYnjaixv308a3XuyGI8h7AtHvsI3tf0bs6fhnEyofQKmv039d7bAnBxr0-MX8povauA302e9tss-0k372CF47dAxTNbKtgeoGIr4cgzux8fJwlRGVfU/w526-h294/iridologia_irisdiagnose.jpg"
+image: "/assets/img/posts/iridologia_irisdiagnose.jpg"
 ---
 
-![iridologia_irisdiagnose](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZWdL5_iAMH4pf9omumUpOk7UNHn6K8jNuiluSf393cSMTwcIMX8cS8DmOFr5NkxC9jR5XFbhYqYnjaixv308a3XuyGI8h7AtHvsI3tf0bs6fhnEyofQKmv039d7bAnBxr0-MX8povauA302e9tss-0k372CF47dAxTNbKtgeoGIr4cgzux8fJwlRGVfU/w526-h294/iridologia_irisdiagnose.jpg "iridologia_irisdiagnose")
+![iridologia_irisdiagnose](/assets/img/posts/iridologia_irisdiagnose.jpg "iridologia_irisdiagnose")
 
   
 

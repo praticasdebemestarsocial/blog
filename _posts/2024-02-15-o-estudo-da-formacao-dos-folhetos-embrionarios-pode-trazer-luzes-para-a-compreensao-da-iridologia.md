@@ -8,7 +8,7 @@ description: "O Ectoderma e a Iridologia: Como o Desenvolvimento Embrionário Po
 image: "https://i.ibb.co/SXLWvC41/dac6b6d89b3f.jpg"
 ---
 
-![](https://i.ibb.co/SXLWvC41/dac6b6d89b3f.jpg)
+![](https://i.ibb.co/SXLWvC41/dac6b6d89b3f
 
   
 
@@ -203,7 +203,7 @@ Para tanto foi criado  sessões imaginárias, identificadas  por camadas ou an
 Essas camadas orgânicas já começam a se formar no embrião, os chamados folhetos
 embrionários que vão dar origem a todo os tecidos e órgãos do corpo.
 
-[![](https://i.ibb.co/NdpHtFM6/13e046d3a12e.png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39ghicUXzlItIzifeJ_G4LJ2YKWXSxMyoLw&usqp=CAU)
+[![](https://i.ibb.co/NdpHtFM6/13e046d3a12e](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS39ghicUXzlItIzifeJ_G4LJ2YKWXSxMyoLw&usqp=CAU)
 
   
 
@@ -350,7 +350,7 @@ cérebro, onde são processadas e interpretadas.  
 O sangue fornece oxigênio e nutrientes para os tecidos oculares e remove
 produtos residuais.
 
-![](https://i.ibb.co/JwfwygBM/20dfa73d0dc0.png)
+![](https://i.ibb.co/JwfwygBM/20dfa73d0dc0
 
   
  

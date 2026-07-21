@@ -147,7 +147,7 @@ desenvolvimento da Iridologia como uma prática complementar de saúde.
 * Ellen se refere à IIPA como "minha visão desde o início", mostrando seu papel crucial no estabelecimento da associação.
 * Ela mesmo diz que Bernard Jensen, seu mentor, lhe deu a "bênção" para continuar o trabalho dele através da IIPA.
 
-[![](https://i.ibb.co/zWDKnZbc/fefe69a085db.jpg)](https://images.squarespace-cdn.com/content/v1/5946cefa3e00becdc1472665/1520971296272-44GGHWOTILQCNZ5QK0UK/e6.jpg?format=300w)
+[![](https://i.ibb.co/zWDKnZbc/fefe69a085db](https://images.squarespace-cdn.com/content/v1/5946cefa3e00becdc1472665/1520971296272-44GGHWOTILQCNZ5QK0UK/e6.jpg?format=300w)
 
 Ellen Tart-Jensen, a visionária fundadora da IIPA
 

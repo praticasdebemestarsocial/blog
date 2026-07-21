@@ -139,7 +139,7 @@ escolhas.
 
 ###
 
-[![](https://i.ibb.co/dsJgRsx3/7086907ccbeb.png)](https://brasil.rayid.com/wp-content/uploads/2021/10/Family_Tree-2.png)
+[![](https://i.ibb.co/dsJgRsx3/7086907ccbeb](https://brasil.rayid.com/wp-content/uploads/2021/10/Family_Tree-2
 
 ### Denny Johnson desenvolveu mais algum estudo?
 
@@ -155,7 +155,7 @@ Embora seja sempre recomendável buscar orientação de profissionais qualificad
 
 A iridologia pode agregar valor e conhecimento, oferecendo insights sobre nossa personalidade e nossa vocação que podem ser valiosos e que podemos levar me consideração no processo de autodescoberta e autoconhecimento.
 
-[![](https://i.ibb.co/HLG3PRXH/0eb4272ca378.jpg)](https://amzn.to/3I1IpmN)
+[![](https://i.ibb.co/HLG3PRXH/0eb4272ca378](https://amzn.to/3I1IpmN)
 
 ### The Nature of Birth Order: In the Family Tree
 

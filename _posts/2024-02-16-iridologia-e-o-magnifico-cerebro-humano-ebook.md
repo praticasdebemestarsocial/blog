@@ -8,7 +8,7 @@ description: "Iridologia e o Magnífico Cérebro Humano"
 image: "https://i.ibb.co/SX4WYPm3/629e5932054f.png"
 ---
 
-![](https://i.ibb.co/SX4WYPm3/629e5932054f.png)
+![](https://i.ibb.co/SX4WYPm3/629e5932054f
 
   
 

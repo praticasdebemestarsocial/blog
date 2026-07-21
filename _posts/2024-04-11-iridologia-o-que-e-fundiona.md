@@ -8,7 +8,7 @@ description: "Iridologia: O que é? Fundiona?"
 image: "https://i.ibb.co/ccWRwgCZ/75235fd1d704.png"
 ---
 
-![](https://i.ibb.co/ccWRwgCZ/75235fd1d704.png)
+![](https://i.ibb.co/ccWRwgCZ/75235fd1d704
 
   
 
@@ -37,7 +37,7 @@ A iridologia é uma ferramenta usada por terapeutas naturopatas,  é preciso re
   
 #iridologia:oqueé?funciona? #seusolhosrevelamsuasaúde #Mitosdaoftalmologia:Iridologia-nãoacreditenisso!
 
-[![](https://i.ibb.co/N6zVxNN5/cf75efff0b2c.jpg)](https://oftalmoday.com.br/wp-content/uploads/2020/11/b1_out_dstq.jpg)
+[![](https://i.ibb.co/N6zVxNN5/cf75efff0b2c](https://oftalmoday.com.br/wp-content/uploads/2020/11/b1_out_dstq
 
 ## Por que existe a falta de mais estudos considerados científicos na área da Iridologia?
 

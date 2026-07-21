@@ -12,7 +12,7 @@ image: "https://i.ibb.co/TQM2Qfr/d7104282f33c.png"
 
 Tempo estimado de leitura: 3 minutos
 
-![](https://i.ibb.co/TQM2Qfr/d7104282f33c.png)
+![](https://i.ibb.co/TQM2Qfr/d7104282f33c
 
 Os Papiros de Ebers, um dos documentos médicos mais antigos do mundo, são um dos
 mais importantes textos médicos do Egito antigo.  
@@ -26,7 +26,7 @@ a.C., não mencione explicitamente a iridologia diretamente como uma prática de
 diagnóstico, existem algumas conexões potenciais que podem ser traçadas entre os
 dois.
 
-![](https://i.ibb.co/mVWTd6Tf/d8372c4a9688.png)
+![](https://i.ibb.co/mVWTd6Tf/d8372c4a9688
 
   
 

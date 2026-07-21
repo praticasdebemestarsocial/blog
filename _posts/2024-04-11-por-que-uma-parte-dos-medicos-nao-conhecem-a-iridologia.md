@@ -8,7 +8,7 @@ description: "Por que uma parte dos médicos não conhecem a Iridologia?"
 image: "https://i.ibb.co/jkqyJmct/1516d74643b3.png"
 ---
 
-![](https://i.ibb.co/jkqyJmct/1516d74643b3.png)
+![](https://i.ibb.co/jkqyJmct/1516d74643b3
 
   
 
@@ -73,7 +73,7 @@ terapeuta também utiliza vários recursos para embasar o seu trabalho e
 orientação de um tratamento natural complementar e aconselhamento de mudanças de
 hábitos e estilo de vida.
 
-[![](https://i.ibb.co/RTJQbdvT/d097b4b111a4.jpg)](https://i.pinimg.com/originals/e9/7f/80/e97f80a66b08d1f0d0ee60cac5556b70.jpg)
+[![](https://i.ibb.co/RTJQbdvT/d097b4b111a4](https://i.pinimg.com/originals/e9/7f/80/e97f80a66b08d1f0d0ee60cac5556b70
 
   
 

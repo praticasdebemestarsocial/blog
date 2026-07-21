@@ -37,7 +37,7 @@ desafiador, mas também pode ser muito gratificante.  
 Os pais que praticam esse estilo acreditam que estão dando aos seus filhos as
 melhores chances de sucesso na vida.
 
-[![](https://i.ibb.co/Hf9HZDs6/bf5f2f5d6083.jpg)](https://amzn.to/47J8vFo)
+[![](https://i.ibb.co/Hf9HZDs6/bf5f2f5d6083](https://amzn.to/47J8vFo)
 
 # A PARENTALIDADE QUE VEM DO CORAÇÃO
 

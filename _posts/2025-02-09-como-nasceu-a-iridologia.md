@@ -82,7 +82,7 @@ Mesmo enfrentando dificuldades para fazer o seu trabalho— teve seu doutorado
 negado por defender a homeopatia — após esse evento Schlegel se estabeleceu como
 clínico e ganhou reconhecimento ao tratar casos desafiadores.
 
-![](https://i.ibb.co/V0fThnMP/1d8e2e054538.jpg)
+![](https://i.ibb.co/V0fThnMP/1d8e2e054538
 
 Em 1887, Schlegel publicou ***Die Augendiagnose des Dr. Ignaz von Péczely***,
 obra que sistematizou as ideias de Peczely e tornou a iridologia mais acessível
@@ -122,7 +122,7 @@ humano. Suas obras continuam a inspirar estudiosos interessados em explorar essa
 conexão entre olhos e saúde, tornando-o uma figura incontornável para quem
 deseja compreender a evolução dessa prática ao longo do tempo.
 
-![](https://i.ibb.co/PvJCQL3g/e8b6d0929c05.jpg)
+![](https://i.ibb.co/PvJCQL3g/e8b6d0929c05
 
   
 

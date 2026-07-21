@@ -8,7 +8,7 @@ description: "Conseguimos identificar se existe vestígios da Iridologia está n
 image: "https://i.ibb.co/DHrV7kdL/de10714d7723.png"
 ---
 
-![](https://i.ibb.co/DHrV7kdL/de10714d7723.png)
+![](https://i.ibb.co/DHrV7kdL/de10714d7723
 
 # Conseguimos identificar se existe vestígios da Iridologia está na História Antiga?
 

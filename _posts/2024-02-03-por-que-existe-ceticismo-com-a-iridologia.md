@@ -15,7 +15,7 @@ setores.
 
 Cada setor representa uma parte específica do corpo.  
 
-[![](https://i.ibb.co/jkdPsFps/362fbbd963b0.jpg)](https://conteudo.imguol.com.br/2012/08/01/mapa-iridologia-adaptado-por-henrique-vieira-filho-versao-2-1343848659645_615x300.jpg)
+[![](https://i.ibb.co/jkdPsFps/362fbbd963b0](https://conteudo.imguol.com.br/2012/08/01/mapa-iridologia-adaptado-por-henrique-vieira-filho-versao-2-1343848659645_615x300
 
   
   

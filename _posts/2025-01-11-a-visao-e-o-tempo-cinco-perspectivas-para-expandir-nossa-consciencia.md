@@ -8,7 +8,7 @@ description: "Olá, seja muito bem-vindo(a) ao canal Tecnologias do AutcoConheci
 image: "https://i.ibb.co/9kwcP0ff/c5c4ed5303fc.png"
 ---
 
-![](https://i.ibb.co/9kwcP0ff/c5c4ed5303fc.png)  
+![](https://i.ibb.co/9kwcP0ff/c5c4ed5303fc  
 
 Olá, seja muito bem-vindo(a) ao canal Tecnologias do AutcoConhecimento!
 Irei postar uma série de vídeo reflexões a respeito da impontancia de

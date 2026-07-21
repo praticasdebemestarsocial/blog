@@ -8,7 +8,7 @@ description: "Como Lutar pelos Nossos Objetivos sem Ser Atropelado pela Ansiedad
 image: "https://i.ibb.co/nqs78Jsg/585e74a44c04.png"
 ---
 
-![](https://i.ibb.co/nqs78Jsg/585e74a44c04.png)
+![](https://i.ibb.co/nqs78Jsg/585e74a44c04
 
 ## Como Lutar pelos Nossos Objetivos sem Ser Atropelado pela Ansiedade
 

@@ -63,7 +63,7 @@ Preço:
 
 €98,00 + custos de envio (€21 dentro da Europa, €34 fora da Europa).
 
-![](https://i.ibb.co/4gj5Y99z/7ff64f8e24f9.jpg)
+![](https://i.ibb.co/4gj5Y99z/7ff64f8e24f9
 
 ## Livro 2: Metodologia – Fenômenos – Doenças – Iridologia 2
 
@@ -122,7 +122,7 @@ Destaques de Ambos os Livros
 
 Ilustrações e fotos de alta qualidade que enriquecem o aprendizado.
 
-![](https://i.ibb.co/gFz0SJZG/d46c16968309.jpg)
+![](https://i.ibb.co/gFz0SJZG/d46c16968309
 
 Cobertura completa de tópicos essenciais para iridologistas, incluindo
 metodologia, sinais estruturais, pigmentação, topografia e doenças.

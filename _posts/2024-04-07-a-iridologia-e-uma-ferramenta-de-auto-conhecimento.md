@@ -8,7 +8,7 @@ description: "A Iridologia é uma ferramenta de auto conhecimento?"
 image: "https://i.ibb.co/DDGqPFDK/9711d4fa80ea.jpg"
 ---
 
-![](https://i.ibb.co/DDGqPFDK/9711d4fa80ea.jpg)
+![](https://i.ibb.co/DDGqPFDK/9711d4fa80ea
 
   
 

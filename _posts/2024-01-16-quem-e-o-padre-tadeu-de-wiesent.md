@@ -8,7 +8,7 @@ description: "Quem é o Padre Tadeu de Wiesent?"
 image: "https://i.ibb.co/1tt4wQNW/22cefd63a46e.png"
 ---
 
-![](https://i.ibb.co/1tt4wQNW/22cefd63a46e.png)
+![](https://i.ibb.co/1tt4wQNW/22cefd63a46e
 
 ## Quem é o Padre Tadeu de Wiesent?
 

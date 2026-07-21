@@ -8,7 +8,7 @@ description: "Quem é  Farida Sharan, fundadora da School of Natural Medicine I
 image: "https://i.ibb.co/NnYkBtsf/c9dde7b0b941.png"
 ---
 
-![](https://i.ibb.co/NnYkBtsf/c9dde7b0b941.png)  
+![](https://i.ibb.co/NnYkBtsf/c9dde7b0b941  
 
 ## Quem é  Farida Sharan, fundadora da School of Natural Medicine International.
 

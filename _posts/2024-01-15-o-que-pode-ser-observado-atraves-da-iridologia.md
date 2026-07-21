@@ -178,11 +178,11 @@ incorporado](https://www.youtube.com/embed/YBP8aSxfPQY)](https://www.youtube.com
 
 Uma imagem da íris revelando sinais de fragilidade hepática e biliar:
 
-![](https://i.ibb.co/WW81MDHd/da9910399416.jpg)
+![](https://i.ibb.co/WW81MDHd/da9910399416
 
   
 
-![](https://i.ibb.co/03b08LF/a76c414bcfae.jpg)
+![](https://i.ibb.co/03b08LF/a76c414bcfae
 
   
 

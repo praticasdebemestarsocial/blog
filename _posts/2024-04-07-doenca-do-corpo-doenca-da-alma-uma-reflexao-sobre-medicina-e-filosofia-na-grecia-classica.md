@@ -8,7 +8,7 @@ description: "O Que Aborda o Livro 'Doença do Corpo, Doença da Alma'?"
 image: "https://i.ibb.co/P3qFw8L/070ffb497a14.png"
 ---
 
-![](https://i.ibb.co/P3qFw8L/070ffb497a14.png)
+![](https://i.ibb.co/P3qFw8L/070ffb497a14
 
   
 

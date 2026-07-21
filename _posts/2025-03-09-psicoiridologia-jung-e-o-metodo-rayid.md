@@ -8,7 +8,7 @@ description: "Psicoiridologia: Jung e o Método Rayid"
 image: "https://i.ibb.co/QFG0PmLM/f678e574e260.png"
 ---
 
-![](https://i.ibb.co/QFG0PmLM/f678e574e260.png)
+![](https://i.ibb.co/QFG0PmLM/f678e574e260
 
   
 

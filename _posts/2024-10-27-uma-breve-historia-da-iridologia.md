@@ -8,7 +8,7 @@ description: "Uma Breve História da Iridologia: Origens, Pioneiros e Avanços M
 image: "https://i.ibb.co/nqz6qJtK/64e8f422006a.png"
 ---
 
-![](https://i.ibb.co/nqz6qJtK/64e8f422006a.png)
+![](https://i.ibb.co/nqz6qJtK/64e8f422006a
 
 ## Uma Breve História da Iridologia: Origens, Pioneiros e Avanços Modernos
 
@@ -169,7 +169,7 @@ Iridologia.
 deixe nos comentários suas dúvidas ou sugestões para futuros temas. Até a
 próxima!
 
-![](https://i.ibb.co/HpVK9xVX/81f7ee323fc8.gif)
+![](https://i.ibb.co/HpVK9xVX/81f7ee323fc8
 
 ### Referências Bibliográficas:
 

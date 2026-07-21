@@ -37,7 +37,7 @@ Então hoje você já tem instalado seu aplicativo.
 
 Você pode acessá lo através do seu celular, é só procurar na tela e clicar magnífica câmera então você terá acesso.
 
-![](https://i.ibb.co/PsXfZMKm/9ede602e0403.png)
+![](https://i.ibb.co/PsXfZMKm/9ede602e0403
 
   
 
@@ -49,17 +49,17 @@ Você pode acessá lo através do seu celular, é só procurar na tela e clicar 
 
 Assim você já tem instalado o aplicativo para tirar foto dos seus olhos.
 
-![](https://i.ibb.co/Vc2wSPBR/8c879bdc0eb5.jpg)
+![](https://i.ibb.co/Vc2wSPBR/8c879bdc0eb5
 
 Você deve olhar para esse local aqui para não afetar a vista e olhar para um lado ao contrário da região do flash.
 
-![](https://i.ibb.co/BKNCzqTM/a2f62687e99d.png)
+![](https://i.ibb.co/BKNCzqTM/a2f62687e99d
 
   
 
 Quando você for tirar foto ou pedir a alguém para tirar sua foto é preciso que a câmera do celular fique a uma certa distância de mais ou menos uns 10 centímetros de distância e você olhando para o local o oposto ao que está a lâmpada o celular.
 
-![](https://i.ibb.co/8vwvCx3/dae616dc98a4.png)
+![](https://i.ibb.co/8vwvCx3/dae616dc98a4
 
   
 
@@ -73,17 +73,17 @@ A  pessoa deve colocar uma mão no olho como você vê na foto para auxiliar a 
 * **outra foto olhando para um lado**
 * **mais uma foto olhando para o outro.**
 
-![](https://i.ibb.co/Xf67h68w/8c0e7051249b.png)
+![](https://i.ibb.co/Xf67h68w/8c0e7051249b
 
 São cinco fotos de cada olho como você pode ver assim uma foto olhando para frente uma foto aérea para baixo outra foto olhando para a ação uma foto olhando para o lado e outra foto olhando para o outro.
 
-[![](https://i.ibb.co/8gp5zGzr/3343406ad43f.png)](https://wa.me/5511918531279?text=Ol%C3%A1+vi+o+blog+e+gostaria+de+agendar+uma+consulta.)
+[![](https://i.ibb.co/8gp5zGzr/3343406ad43f](https://wa.me/5511918531279?text=Ol%C3%A1+vi+o+blog+e+gostaria+de+agendar+uma+consulta.)
 
 > Silviane Silvério - Terapeuta Naturologa e Biomédica. Há mais de 15 anos promovendo Bem Estar e Terapias Integrativas e Complementares. Crth br 1741.
 
 Mesmo depois que você viu esse vídeo se você continuar com alguma dúvida entre em contato comigo pelo whatsapp  que eu possa esclarecer com maiores detalhes entre no meu site com isso é melhor o meu trabalho eu tenho um consultório virtual de atendimento de naturopatia e iridologia seja bem vindo e fique de olho na sua saúde.
 
-![](https://i.ibb.co/S7ZcnMyY/76fc79179070.jpg)
+![](https://i.ibb.co/S7ZcnMyY/76fc79179070
 
   
 

@@ -5,7 +5,7 @@ date: 2025-05-22T07:16:00.010Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
 description: "É possível integrar a iridologia(https://www.google.com/search?ved=1t:260882&q=define+iridologia&bbid=7776186135131697993&bpid=1952116488805690641) a ..."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyoa4zrhfACBC08uFhVrwR4DshfCques5C5zRIhw_x1Emp0xRKsnc6F940-s4XDxjU_lMTwzgp_jun9WGKRiC2lSkmx3J-7NgvCntGpToFpufej0ZWjUN2px8_hVyBaMogLcDSNNP85E8tTPTJi2HGZrlz0BApYN9wgsMAcuJ8XpixHiOsKsQmJiZLgpA/w523-h294/Doen%C3%A7a_Diagnosticada_pela_Observa%C3%A7%C3%A3o_do_Olho_livro_que_aborda_a_observa%C3%A7%C3%A3o_da_%C3%ADris.%20(1"
+image: "/assets/img/posts/Doen%C3%A7a_Diagnosticada_pela_Observa%C3%A7%C3%A3o_do_Olho_livro_que_aborda_a_observa%C3%A7%C3%A3o_da_%C3%ADris.%20(1"
 ---
 
 É possível integrar a [iridologia](https://www.google.com/search?ved=1t:260882&q=define+iridologia&bbid=7776186135131697993&bpid=1952116488805690641) a um sistema educacional?
@@ -127,7 +127,7 @@ mas **educou gerações de praticantes** ao integrar diagnóstico pela íris, es
 de vida e ensino prático em comunidades, livros e cursos. Ele pode ser visto
 como um **professor da iridologia aplicada à vida**.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyoa4zrhfACBC08uFhVrwR4DshfCques5C5zRIhw_x1Emp0xRKsnc6F940-s4XDxjU_lMTwzgp_jun9WGKRiC2lSkmx3J-7NgvCntGpToFpufej0ZWjUN2px8_hVyBaMogLcDSNNP85E8tTPTJi2HGZrlz0BApYN9wgsMAcuJ8XpixHiOsKsQmJiZLgpA/w523-h294/Doen%C3%A7a_Diagnosticada_pela_Observa%C3%A7%C3%A3o_do_Olho_livro_que_aborda_a_observa%C3%A7%C3%A3o_da_%C3%ADris.%20(1).png).png)
+![](/assets/img/posts/Doen%C3%A7a_Diagnosticada_pela_Observa%C3%A7%C3%A3o_do_Olho_livro_que_aborda_a_observa%C3%A7%C3%A3o_da_%C3%ADris.%20(1)
 
 # Disease Diagnosed by Observation of the Eye livro que aborda a observação do olho.
 

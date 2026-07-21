@@ -21,7 +21,7 @@ vida superiores.
 Reconhecidos como "pioneiros da Iridologia" pelo falecido Dr. Bernard Jensen,
 são considerados autoridades mundiais em Esclerologia.
 
-[![](https://i.ibb.co/ycvFRwZv/a0e455f9113f.png)](https://eyology.com/wp-content/uploads/2020/12/Brazilian-Congress-2011-5-3.png)
+[![](https://i.ibb.co/ycvFRwZv/a0e455f9113f](https://eyology.com/wp-content/uploads/2020/12/Brazilian-Congress-2011-5-3
 
 Daniele Lo Rito, André Garcia, Celso Batello, Leonard Mehlmauer e Nenita Sarmiento
 
@@ -61,7 +61,7 @@ auxilia na identificação de áreas de preocupação e na promoção da saúde 
 
 ## 5- Quem são os gestores do Instituto Grand Medicine?
 
-[![](https://i.ibb.co/QvwpRvxG/0b46763ee0da.jpg)](https://eyology.com/wp-content/uploads/2020/11/Nenita-and-Leonard-750x562.jpg)
+[![](https://i.ibb.co/QvwpRvxG/0b46763ee0da](https://eyology.com/wp-content/uploads/2020/11/Nenita-and-Leonard-750x562
 
   
 

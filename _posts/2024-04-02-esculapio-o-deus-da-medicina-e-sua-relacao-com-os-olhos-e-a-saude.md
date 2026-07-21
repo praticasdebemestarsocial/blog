@@ -8,7 +8,7 @@ description: "Quem Foi Esculápio?"
 image: "https://i.ibb.co/J099NjK/da11201b3496.jpg"
 ---
 
-![](https://i.ibb.co/J099NjK/da11201b3496.jpg)
+![](https://i.ibb.co/J099NjK/da11201b3496
 
 ## Quem Foi Esculápio?
 
@@ -115,7 +115,7 @@ reforçando a conexão entre o passado e a medicina atual.
 
 ## 📖 Gostou do conteúdo? Continue acompanhando nosso blog para mais artigos sobre história da medicina e saúde integrativa!
 
-![](https://i.ibb.co/kvpXQHc/778092864dc3.jpg)
+![](https://i.ibb.co/kvpXQHc/778092864dc3
 
 Hipócrates se formou em um templo de Esculápio, na ilha grega de Cós. O local ainda é preservado e recebe visitantes até hoje
 

@@ -8,7 +8,7 @@ description: "Olá! Seja muito bem-vindo ao canal 'Iridologia: Tecnologia do Aut
 image: "https://i.ibb.co/nNTHN2bf/07de1ffea3a0.png"
 ---
 
-![](https://i.ibb.co/nNTHN2bf/07de1ffea3a0.png)
+![](https://i.ibb.co/nNTHN2bf/07de1ffea3a0
 
   
 

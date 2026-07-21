@@ -8,7 +8,7 @@ description: "Olá, amigos, sejam bem-vindos aqui ao canal. Fiquem de olho na su
 image: "https://i.ibb.co/RTVf6GG1/bc8412c70c0e.png"
 ---
 
-![](https://i.ibb.co/RTVf6GG1/bc8412c70c0e.png)
+![](https://i.ibb.co/RTVf6GG1/bc8412c70c0e
 
   
 

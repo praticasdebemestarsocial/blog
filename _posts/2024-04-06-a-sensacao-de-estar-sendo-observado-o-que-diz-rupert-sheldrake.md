@@ -8,7 +8,7 @@ description: "A Sensação de Estar Sendo Observado: O Que Diz Rupert Sheldrake?
 image: "https://i.ibb.co/7xzf732S/3e3aa1f15bcf.png"
 ---
 
-![](https://i.ibb.co/7xzf732S/3e3aa1f15bcf.png)
+![](https://i.ibb.co/7xzf732S/3e3aa1f15bcf
 
 # A Sensação de Estar Sendo Observado: O Que Diz Rupert Sheldrake?
 

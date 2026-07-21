@@ -5,10 +5,10 @@ date: 2025-04-12T06:42:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "Vamos ver como a oftalmologia utiliza clinicamente a íris com base científica, em exames e no diagnóstico de doenças reais."
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVAwYgyacrFG50ET-Pj-y1LZmE-oaZ8M52Z_YrtyciQ3NvuUpAD_CjkZUUFuTJAXGJi0TNlOJUwVmZ-CwL8JA7jvE3VetFPT5jhde4tlgFkS7NAuEqkhBAmeesXkcuY543RLVXHuzomZfq4MxtgOYu43OPz5cB97uwukB3OZ_ub1W9XWzMUYq5k5B_8XQ/w556-h313/A_oftalmologia_utiliza_a_%C3%ADris_para_fazer_alguma_avalia%C3%A7%C3%A3o.png"
+image: "/assets/img/posts/A_oftalmologia_utiliza_a_%C3%ADris_para_fazer_alguma_avalia%C3%A7%C3%A3o.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVAwYgyacrFG50ET-Pj-y1LZmE-oaZ8M52Z_YrtyciQ3NvuUpAD_CjkZUUFuTJAXGJi0TNlOJUwVmZ-CwL8JA7jvE3VetFPT5jhde4tlgFkS7NAuEqkhBAmeesXkcuY543RLVXHuzomZfq4MxtgOYu43OPz5cB97uwukB3OZ_ub1W9XWzMUYq5k5B_8XQ/w556-h313/A_oftalmologia_utiliza_a_%C3%ADris_para_fazer_alguma_avalia%C3%A7%C3%A3o.png)
+![](/assets/img/posts/A_oftalmologia_utiliza_a_%C3%ADris_para_fazer_alguma_avalia%C3%A7%C3%A3o
 
   
  Vamos ver como a **oftalmologia utiliza clinicamente a íris** com base científica, em exames e no diagnóstico de **doenças reais**.

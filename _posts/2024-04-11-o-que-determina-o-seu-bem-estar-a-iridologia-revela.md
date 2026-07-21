@@ -8,7 +8,7 @@ description: "O que determina o seu bem estar? A Iridologia revela."
 image: "https://i.ibb.co/v4WN141k/cd154090825f.png"
 ---
 
-![](https://i.ibb.co/v4WN141k/cd154090825f.png)
+![](https://i.ibb.co/v4WN141k/cd154090825f
 
   
 
@@ -24,7 +24,7 @@ Por meio dessa ciência, podemos observar os fatores condicionantes da homeostas
 
 A homeostasia é um sistema que promove a autorregulação orgânica, permitindo-nos identificar na Íris os fatores que impedem essa autorregulação, como o pH do sangue e dos fluidos corporais.
 
-[![](https://i.ibb.co/hxHM4Yt3/c18789bf0238.jpg)](https://beepsaude.com.br/wp-content/uploads/2021/06/como-fazer-exame-de-sangue-beep-saude-3.jpg)
+[![](https://i.ibb.co/hxHM4Yt3/c18789bf0238](https://beepsaude.com.br/wp-content/uploads/2021/06/como-fazer-exame-de-sangue-beep-saude-3
 
 ## O que indica o ph sanguíneo?
 
@@ -41,7 +41,7 @@ A redução de oxigênio no sangue pode causar disfunções como:
 
 São sinais visíveis também na Íris.
 
-[![](https://i.ibb.co/Jw7kpRF5/ab98c6c8294a.jpg)](https://i.pinimg.com/736x/9b/b1/d3/9bb1d33a98d51582888afcfc44fd6729.jpg)
+[![](https://i.ibb.co/Jw7kpRF5/ab98c6c8294a](https://i.pinimg.com/736x/9b/b1/d3/9bb1d33a98d51582888afcfc44fd6729
 
 ## O que mais pode ser identificado através do estudo dos sinais nos olhos?
 
@@ -67,7 +67,7 @@ O estudo da ectoderme, tecido externo, revela a formação do sistema nervoso ce
 
 A endoderme, outro tecido embrionário, dará origem ao sistema gastrointestinal, refletido na Íris ao redor da pupila. A comunicação entre órgãos e sistemas ocorre por meio do sistema nervoso, conectando olho, cérebro e coluna vertebral. A medicina chinesa e a acupuntura corroboram essas conexões, explicando a energia chamada Qi e os meridianos que conectam órgãos e funções físicas, mentais e emocionais.
 
-[![](https://i.ibb.co/mC0PSfvh/827d58894f12.png)](https://chinavistos.com.br/wp-content/uploads/2018/05/mtc-1-e1526952952547.png)
+[![](https://i.ibb.co/mC0PSfvh/827d58894f12](https://chinavistos.com.br/wp-content/uploads/2018/05/mtc-1-e1526952952547
 
   
 

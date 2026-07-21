@@ -8,7 +8,7 @@ description: "Centro de Documentação, Pesquisas e Estudos em Iridologia Contem
 image: "https://i.ibb.co/HL9ThkfL/0c5ec2fae5d3.png"
 ---
 
-![](https://i.ibb.co/HL9ThkfL/0c5ec2fae5d3.png)
+![](https://i.ibb.co/HL9ThkfL/0c5ec2fae5d3
 
   
 
@@ -77,7 +77,7 @@ Diferenciais do Curso:
  * Abordagem holística: Considera o indivíduo como um todo, integrando aspectos físicos, emocionais e mentais.
  * Professores experientes: Prof. Dr. Clodoaldo Pacheco e Me. Renar Pacheco, com mais de 30 anos de experiência.
 
-[![](https://i.ibb.co/rK7Tnf8R/ecb5adb26de2.jpg)](https://havid.com.br/aulas/imagens/aulas-iridologia-renar-clodoaldo.jpg)
+[![](https://i.ibb.co/rK7Tnf8R/ecb5adb26de2](https://havid.com.br/aulas/imagens/aulas-iridologia-renar-clodoaldo
 
  * Curso semipresencial: Aulas online e presenciais para uma experiência completa.
  * Material didático completo: Apostilas, livros, videoaulas e outros recursos.

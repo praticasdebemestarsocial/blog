@@ -8,7 +8,7 @@ description: "Reflexologia Ocular: A Conexão Entre Iridologia e Esclerologia"
 image: "https://i.ibb.co/7Nknc9R7/6801da55a3f2.png"
 ---
 
-![](https://i.ibb.co/7Nknc9R7/6801da55a3f2.png)
+![](https://i.ibb.co/7Nknc9R7/6801da55a3f2
 
   
 

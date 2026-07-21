@@ -8,7 +8,7 @@ description: "O que é Instituto de Medicina Holística em Braunschweig Alemanha
 image: "https://i.ibb.co/kg7P3CvS/f1413e6165d4.png"
 ---
 
-![](https://i.ibb.co/kg7P3CvS/f1413e6165d4.png)
+![](https://i.ibb.co/kg7P3CvS/f1413e6165d4
 
 ## O que é Instituto de Medicina Holística em Braunschweig Alemanha?
 

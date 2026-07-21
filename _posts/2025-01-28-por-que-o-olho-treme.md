@@ -8,7 +8,7 @@ description: "O tremor nos olhos, também chamado de mioquimia palpebral, é uma
 image: "https://i.ibb.co/6JcGXYH8/2557cfc57640.png"
 ---
 
-![](https://i.ibb.co/6JcGXYH8/2557cfc57640.png)
+![](https://i.ibb.co/6JcGXYH8/2557cfc57640
 
   
  O tremor nos olhos, também chamado de mioquimia palpebral, é uma situação que pode ocorrer normalmente com a maioria das pessoas por conta de  algum momento da vida.

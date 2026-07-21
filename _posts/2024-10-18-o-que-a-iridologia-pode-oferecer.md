@@ -8,7 +8,7 @@ description: "O que a iridologia pode oferecer?"
 image: "https://i.ibb.co/chkg9NK7/a3bf9d5f2b90.png"
 ---
 
-![](https://i.ibb.co/chkg9NK7/a3bf9d5f2b90.png)
+![](https://i.ibb.co/chkg9NK7/a3bf9d5f2b90
 
   
 

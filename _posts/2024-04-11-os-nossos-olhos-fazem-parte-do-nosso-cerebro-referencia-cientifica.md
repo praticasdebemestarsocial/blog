@@ -4,11 +4,11 @@ title: "Os nossos olhos fazem parte do nosso cérebro?✅Referência Científica
 date: 2024-04-11T06:28:00.005Z
 tags: ["referência científica"]
 categories: ["bem-estar"]
-description: ".png).png)"
+description: ""
 image: "https://i.ibb.co/LhB8zQDz/f8f05b488070.png"
 ---
 
-![](https://i.ibb.co/LhB8zQDz/f8f05b488070.png).png).png)
+![](https://i.ibb.co/LhB8zQDz/f8f05b488070
 
   
 
@@ -50,7 +50,7 @@ só após a morte da pessoa, então eles descobriram que nos nossos olhos existe
 biomarcadores estruturais, com potencial de ajudar no diagnóstico adiantado para
 diversas doenças.
 
-[![](https://i.ibb.co/ccwQvqLx/654c0159a1ad.jpg)](https://p.turbosquid.com/ts-thumb/jR/JnImrw/VxSgURa0/braineyes1/jpg/1249879019/600x600/fit_q87/c16d70e0642b3adf74f51153f2dd1104675b7a17/braineyes1.jpg)
+[![](https://i.ibb.co/ccwQvqLx/654c0159a1ad](https://p.turbosquid.com/ts-thumb/jR/JnImrw/VxSgURa0/braineyes1/jpg/1249879019/600x600/fit_q87/c16d70e0642b3adf74f51153f2dd1104675b7a17/braineyes1
 
   
 

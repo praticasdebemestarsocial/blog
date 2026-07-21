@@ -8,7 +8,7 @@ description: "Como a existe Reflexologia entre a Visão e o organismo?"
 image: "https://i.ibb.co/6RH9rw11/0cf52515ad47.png"
 ---
 
-![](https://i.ibb.co/6RH9rw11/0cf52515ad47.png)
+![](https://i.ibb.co/6RH9rw11/0cf52515ad47
 
   
 

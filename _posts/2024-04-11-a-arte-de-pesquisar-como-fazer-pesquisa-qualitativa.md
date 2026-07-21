@@ -8,7 +8,7 @@ description: "A Arte de Pesquisar: Como Fazer Pesquisa Qualitativa em Ciências 
 image: "https://i.ibb.co/k2M68KhG/d509226ce06e.png"
 ---
 
-![](https://i.ibb.co/k2M68KhG/d509226ce06e.png)
+![](https://i.ibb.co/k2M68KhG/d509226ce06e
 
   
 
@@ -118,7 +118,7 @@ significativos**.
 Afinal, **pesquisar não é apenas seguir regras, mas sim um exercício de
 curiosidade, criatividade e disciplina**.
 
-![](https://i.ibb.co/YFgrPngH/5bb022c60d44.jpg)
+![](https://i.ibb.co/YFgrPngH/5bb022c60d44
 
 # A arte de pesquisar: Como fazer pesquisa qualitativa em ciências sociais
 

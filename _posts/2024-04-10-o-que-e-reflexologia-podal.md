@@ -8,7 +8,7 @@ description: "O que é reflexologia podal?"
 image: "https://i.ibb.co/G3snvPGX/9084842f08f9.png"
 ---
 
-![](https://i.ibb.co/G3snvPGX/9084842f08f9.png)
+![](https://i.ibb.co/G3snvPGX/9084842f08f9
 
   
 

@@ -91,7 +91,7 @@ sente quando ama ternamente, ou quando cria, ou quando constrói sua casa, ou
 quando dá nascimento de seus filhos ou quando você olha para as estrelas à
 noite.”
 
-![Doutor Guilherme Reich](https://i.ibb.co/pjJJszWv/e9879be71be8.png)
+![Doutor Guilherme Reich](https://i.ibb.co/pjJJszWv/e9879be71be8
 
 Wilhelm Reich  
 (de O Assassinato de Cristo)

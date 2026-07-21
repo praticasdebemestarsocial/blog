@@ -5,10 +5,10 @@ date: 2025-08-01T05:38:00.006Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
 description: "História da Medicina e os Olhos como Indicadores de Saúde"
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuldhk0QD1nu4DvCnhuDHrFsbVGPYpzFPoYZ9rTGXK9vA4cFNt_0b6opwM53geGQlnvueb_gm8gSYrK7KEPxWJTl9iJpvUIZbvZPMUhYbdb8GAmcI_pRjg5M7B4KEJIGtnfwq4sUgLHTrd_nqzmIvkPVt9LtvqlnxYQutwFefE-HqfnqUh-8twIu81I4I/w550-h309/Hist%C3%B3ria%20da%20Medicina%20e%20os%20Olhos%20como%20Indicadores%20de%20Sa%C3%BAde.png"
+image: "/assets/img/posts/Hist%C3%B3ria%20da%20Medicina%20e%20os%20Olhos%20como%20Indicadores%20de%20Sa%C3%BAde.png"
 ---
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuldhk0QD1nu4DvCnhuDHrFsbVGPYpzFPoYZ9rTGXK9vA4cFNt_0b6opwM53geGQlnvueb_gm8gSYrK7KEPxWJTl9iJpvUIZbvZPMUhYbdb8GAmcI_pRjg5M7B4KEJIGtnfwq4sUgLHTrd_nqzmIvkPVt9LtvqlnxYQutwFefE-HqfnqUh-8twIu81I4I/w550-h309/Hist%C3%B3ria%20da%20Medicina%20e%20os%20Olhos%20como%20Indicadores%20de%20Sa%C3%BAde.png)
+![](/assets/img/posts/Hist%C3%B3ria%20da%20Medicina%20e%20os%20Olhos%20como%20Indicadores%20de%20Sa%C3%BAde
 
   
 

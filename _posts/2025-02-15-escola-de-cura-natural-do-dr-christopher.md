@@ -8,7 +8,7 @@ description: "Escola de Cura Natural do Dr. Christopher"
 image: "https://i.ibb.co/rGBbFx60/ccf3e5d10712.png"
 ---
 
-![](https://i.ibb.co/rGBbFx60/ccf3e5d10712.png)
+![](https://i.ibb.co/rGBbFx60/ccf3e5d10712
 
 ## Escola de Cura Natural do Dr. Christopher
 

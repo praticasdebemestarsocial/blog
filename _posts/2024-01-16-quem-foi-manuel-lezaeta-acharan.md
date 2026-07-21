@@ -8,7 +8,7 @@ description: "Quem foi Lezaeta Acharan?"
 image: "https://i.ibb.co/FbvbHtP2/6092e3666d74.png"
 ---
 
-![](https://i.ibb.co/FbvbHtP2/6092e3666d74.png)
+![](https://i.ibb.co/FbvbHtP2/6092e3666d74
 
   
 
@@ -58,7 +58,7 @@ saúde natural e medicina alternativa e solidificaram seu legado.  
 Seus ensinamentos continuam a inspirar profissionais da saúde natural e a moldar
 abordagens holísticas para o bem-estar.
 
-[![](https://i.ibb.co/w9BJNr7/201b4801ba3a.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Monumento_en_honor_a_Manuel_Lezaeta.png/330px-Monumento_en_honor_a_Manuel_Lezaeta.png)
+[![](https://i.ibb.co/w9BJNr7/201b4801ba3a](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Monumento_en_honor_a_Manuel_Lezaeta.png/330px-Monumento_en_honor_a_Manuel_Lezaeta
 
 Monumento em homenagem ao professor de saúde Manuel Lezaeta Acharán
 
@@ -102,7 +102,7 @@ doenças.
 Para Lezaeta, **a saúde integral não depende apenas do corpo físico**, mas
 também da **harmonia emocional e do equilíbrio energético**.
 
-[![](https://i.ibb.co/FkB6BWwt/0249986b01aa.jpg)](https://m.media-amazon.com/images/I/51YONoajrmL._SY466_.jpg)
+[![](https://i.ibb.co/FkB6BWwt/0249986b01aa](https://m.media-amazon.com/images/I/51YONoajrmL._SY466_
 
 # Medicina Natural Ao Alcance De Todos
 

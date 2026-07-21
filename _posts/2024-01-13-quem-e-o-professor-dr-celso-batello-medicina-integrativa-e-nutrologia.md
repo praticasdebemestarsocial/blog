@@ -8,7 +8,7 @@ description: "Título: Quem é o professor Dr. Celso Batello? Um pioneiro da med
 image: "https://i.ibb.co/5Xr1rFs3/0e3aae5f2ca4.png"
 ---
 
-![](https://i.ibb.co/5Xr1rFs3/0e3aae5f2ca4.png)
+![](https://i.ibb.co/5Xr1rFs3/0e3aae5f2ca4
 
 Título: Quem é o professor Dr. Celso Batello? Um pioneiro da medicina integrativa e da iridologia no Brasil
 
@@ -98,7 +98,7 @@ responsável pelo Ambulatório de Homeopatia. Como Diretor Editorial, contribuiu
 para a Revista MEDICAL UPDATE, uma publicação de origem inglesa traduzida e
 adaptada para o português.
 
-[![](https://i.ibb.co/zVK6Q1bK/fc3c5f291c80.jpg)](https://amzn.to/4aSkYcS)
+[![](https://i.ibb.co/zVK6Q1bK/fc3c5f291c80](https://amzn.to/4aSkYcS)
 
   
 

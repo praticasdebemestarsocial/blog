@@ -8,7 +8,7 @@ description: "Quem é Dr. Hector Miguel Alonso Dominguez?"
 image: "https://i.ibb.co/Q7RrkqMM/488b00a81796.png"
 ---
 
-![](https://i.ibb.co/Q7RrkqMM/488b00a81796.png)
+![](https://i.ibb.co/Q7RrkqMM/488b00a81796
 
 ### Quem é Dr. Hector Miguel Alonso Dominguez?
 

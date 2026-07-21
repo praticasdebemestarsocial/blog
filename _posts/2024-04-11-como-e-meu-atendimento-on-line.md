@@ -35,7 +35,7 @@ atingir novas metas e adquirir um novo estilo de vida. Muitas pessoas ainda têm
 dúvidas sobre a qualidade do atendimento a distância, mas garanto que é tão bom
 ou melhor que o atendimento presencial.  
 
-[![](https://i.ibb.co/fVkXNJ37/ceb083542220.png)](https://www.medicare.pt/assets/img/hero/homepage/rede-saude.png)
+[![](https://i.ibb.co/fVkXNJ37/ceb083542220](https://www.medicare.pt/assets/img/hero/homepage/rede-saude
 
   
   
@@ -64,7 +64,7 @@ rígidas que dificultam a adaptação às mudanças.
 Durante a consulta, além de orientar, ensino a razão por trás de cada passo e
 como cada produto pode ajudar. E ainda tem mais!
 
-![](https://i.ibb.co/8D4sNh6v/22e2ff08aa0d.jpg)
+![](https://i.ibb.co/8D4sNh6v/22e2ff08aa0d
 
 ## Qual é a formação da terapeuta Silviane Silvério?
 

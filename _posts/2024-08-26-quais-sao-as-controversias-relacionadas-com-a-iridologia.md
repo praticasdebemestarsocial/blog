@@ -8,7 +8,7 @@ description: "Iridologia e Suas Controvérsias: Um Olhar Além do Convencional"
 image: "https://i.ibb.co/PGHcy6FH/325b58087db2.png"
 ---
 
-![](https://i.ibb.co/PGHcy6FH/325b58087db2.png)
+![](https://i.ibb.co/PGHcy6FH/325b58087db2
 
 # Iridologia e Suas Controvérsias: Um Olhar Além do Convencional
 

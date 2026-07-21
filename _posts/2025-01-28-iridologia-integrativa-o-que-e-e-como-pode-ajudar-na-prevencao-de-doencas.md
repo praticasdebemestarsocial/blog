@@ -16,7 +16,7 @@ A **Iridologia** é uma ciência que estuda e interpreta os sinais presentes na
 íris dos olhos através de um mapemento.  
 
                              
-  ![](https://i.ibb.co/M5fdKQSs/5982d9f7899f.jpg)
+  ![](https://i.ibb.co/M5fdKQSs/5982d9f7899f
 
 Esses sinais podem incluir manchas, texturas, colorações e outros padrões que
 indicam processos metabólicos, emocionais, fatores genéticos no organismo e

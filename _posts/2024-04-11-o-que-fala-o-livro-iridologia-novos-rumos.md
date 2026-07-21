@@ -8,7 +8,7 @@ description: "'Iridologia - Novos Rumos: Entre a Tradição e a Modernidade'"
 image: "https://i.ibb.co/vvH3C7T6/58bccbe6e724.png"
 ---
 
-![](https://i.ibb.co/vvH3C7T6/58bccbe6e724.png)
+![](https://i.ibb.co/vvH3C7T6/58bccbe6e724
 
 ## "Iridologia - Novos Rumos: Entre a Tradição e a Modernidade"
 

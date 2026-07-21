@@ -8,7 +8,7 @@ description: "Quais os mitos da Iridologia? Não acredite nisso!"
 image: "https://i.ibb.co/9HmW843q/b9ebca922196.png"
 ---
 
-![](https://i.ibb.co/9HmW843q/b9ebca922196.png)
+![](https://i.ibb.co/9HmW843q/b9ebca922196
 
 ## Quais os mitos da Iridologia? Não acredite nisso!
 
@@ -26,7 +26,7 @@ Entender a iridologia pode ser uma jornada de autodescoberta, complementando abo
 
 #Mitosdaoftalmologia:IridologiaNãoacreditenisso!  #Iridologia #BemEstar #Autoconhecimento
 
-[![](https://i.ibb.co/qKdC2f4/c730ec1dec20.jpg)](https://luizmeira.com/l.jpg)
+[![](https://i.ibb.co/qKdC2f4/c730ec1dec20](https://luizmeira.com/l
 
   
 
@@ -60,7 +60,7 @@ Seu objetivo principal é proporcionar autoconhecimento, auxiliar no desenvolvim
 
 **A Iridologia não revela a** mensuração bioquímica orgânica quantitativa.
 
-![](https://i.ibb.co/7NKGx5yQ/1c5f10f346fa.jpg)
+![](https://i.ibb.co/7NKGx5yQ/1c5f10f346fa
 
   
 

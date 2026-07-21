@@ -8,7 +8,7 @@ description: "O que o livro Autoconhecimento para pessoas difíceis: 100 testes 
 image: "https://i.ibb.co/6JJvVgDK/de790461a248.png"
 ---
 
-![](https://i.ibb.co/6JJvVgDK/de790461a248.png)
+![](https://i.ibb.co/6JJvVgDK/de790461a248
 
   
 

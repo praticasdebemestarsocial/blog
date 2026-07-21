@@ -8,7 +8,7 @@ description: "A consulta de Iridologia proporciona um autoconhecimento holistico
 image: "https://i.ibb.co/8LrNh3W8/0a03fd71b6ad.png"
 ---
 
-![](https://i.ibb.co/8LrNh3W8/0a03fd71b6ad.png)
+![](https://i.ibb.co/8LrNh3W8/0a03fd71b6ad
 
   
 

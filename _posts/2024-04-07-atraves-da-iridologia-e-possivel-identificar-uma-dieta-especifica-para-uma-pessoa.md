@@ -8,7 +8,7 @@ description: "1-  Como que através da iridologia é possivel identificar uma d
 image: "https://i.ibb.co/p6T9p8Qn/b1bad0614708.jpg"
 ---
 
-![](https://i.ibb.co/p6T9p8Qn/b1bad0614708.jpg)
+![](https://i.ibb.co/p6T9p8Qn/b1bad0614708
 
   
 

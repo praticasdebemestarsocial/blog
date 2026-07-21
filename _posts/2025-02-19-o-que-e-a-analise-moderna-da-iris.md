@@ -8,12 +8,12 @@ description: "A Análise Moderna da Íris, desenvolvida por John Andrews, repres
 image: "https://i.ibb.co/WNk3r7tJ/534d4a3afc98.png"
 ---
 
-![](https://i.ibb.co/WNk3r7tJ/534d4a3afc98.png)
+![](https://i.ibb.co/WNk3r7tJ/534d4a3afc98
 
   
 A **Análise Moderna da Íris**, desenvolvida por **John Andrews**, representa uma abordagem mais avançada e científica da iridologia, incorporando conceitos da **epigenética, PNEI (Psiconeuroendocrinoimunologia)** e avanços tecnológicos na captação de imagens da íris.
 
-![](https://i.ibb.co/spvLX140/360511d6697e.jpg)  
+![](https://i.ibb.co/spvLX140/360511d6697e  
 
 ### 🔬 **O que diferencia a Análise Moderna da Íris?**
 

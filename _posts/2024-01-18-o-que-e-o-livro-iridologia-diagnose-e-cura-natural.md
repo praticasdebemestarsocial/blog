@@ -8,7 +8,7 @@ description: "Iridologia, Diagnose e Cura Natural"
 image: "https://i.ibb.co/TM994w1M/6a738dbafa1a.png"
 ---
 
-![](https://i.ibb.co/TM994w1M/6a738dbafa1a.png)
+![](https://i.ibb.co/TM994w1M/6a738dbafa1a
 
 ## Iridologia, Diagnose e Cura Natural
 

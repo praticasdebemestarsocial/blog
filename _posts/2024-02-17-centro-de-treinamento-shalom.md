@@ -4,11 +4,11 @@ title: "Centro de Treinamento Shalom."
 date: 2024-02-17T05:35:00.003Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
-description: "(https://plataforma.plaam.com/modulos/web/subido/195/Paginas-simples/alumnos-formacion-600x400.jpg)"
+description: "(https://plataforma.plaam.com/modulos/web/subido/195/Paginas-simples/alumnos-formacion-600x400"
 image: "https://i.ibb.co/9mk44zv7/0995f59598ce.jpg"
 ---
 
-[![](https://i.ibb.co/9mk44zv7/0995f59598ce.jpg)](https://plataforma.plaam.com/modulos/web/subido/195/Paginas-simples/alumnos-formacion-600x400.jpg)
+[![](https://i.ibb.co/9mk44zv7/0995f59598ce](https://plataforma.plaam.com/modulos/web/subido/195/Paginas-simples/alumnos-formacion-600x400
 
 ## 1- Como é o Centro especializado em treinamento Shalom?
 
@@ -52,7 +52,7 @@ quanto em consultoria.
 
 ## 2- Como é o curso de Iridologia da Escola Shalom?
 
-[![](https://i.ibb.co/QvVMF0Wp/425141799a98.jpg)](https://plataforma.plaam.com/modulos/web/subido/195/Paginas-simples/alumnos-600x400.jpg)
+[![](https://i.ibb.co/QvVMF0Wp/425141799a98](https://plataforma.plaam.com/modulos/web/subido/195/Paginas-simples/alumnos-600x400
 
   
 

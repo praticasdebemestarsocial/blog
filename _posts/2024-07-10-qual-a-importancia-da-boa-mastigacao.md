@@ -8,7 +8,7 @@ description: "Qual a Importância da boa mastigação?"
 image: "https://i.ibb.co/Z9LtJjY/67d5cbd6feec.png"
 ---
 
-![](https://i.ibb.co/Z9LtJjY/67d5cbd6feec.png)
+![](https://i.ibb.co/Z9LtJjY/67d5cbd6feec
 
   
 

@@ -174,7 +174,7 @@ resíduos metabólicos.
 
 Imagem de um corte transversal do músculo esquelético:
 
-[![](https://i.ibb.co/QvDMDydQ/15bfff1847dc.jpg)](https://mol.icb.usp.br/wp-content/uploads/8-3-B.jpg)
+[![](https://i.ibb.co/QvDMDydQ/15bfff1847dc](https://mol.icb.usp.br/wp-content/uploads/8-3-B
 
 
 

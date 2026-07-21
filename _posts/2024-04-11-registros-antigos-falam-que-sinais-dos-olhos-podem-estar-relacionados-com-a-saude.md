@@ -8,7 +8,7 @@ description: "Tempo de leitura estimado: 3 minutos"
 image: "https://i.ibb.co/yBxDLY4M/26666f015552.png"
 ---
 
-![](https://i.ibb.co/yBxDLY4M/26666f015552.png)
+![](https://i.ibb.co/yBxDLY4M/26666f015552
 
 **Tempo de leitura estimado: 3 minutos**  
 

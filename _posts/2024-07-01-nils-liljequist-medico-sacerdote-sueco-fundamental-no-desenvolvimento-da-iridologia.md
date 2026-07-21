@@ -8,7 +8,7 @@ description: "Quem foi Nils Liljequist?"
 image: "https://i.ibb.co/Sw5zqsnk/260fa87383c0.png"
 ---
 
-![](https://i.ibb.co/Sw5zqsnk/260fa87383c0.png)
+![](https://i.ibb.co/Sw5zqsnk/260fa87383c0
 
 # **Quem foi Nils Liljequist?**
 
@@ -34,7 +34,7 @@ que o mais surpreendente foi justamente a semelhança entre os mapas criados por
 ambos — dois estudiosos em países distintos, que chegaram a conclusões
 semelhantes de forma independente.
 
-![](https://i.ibb.co/VFFZBHp/bbbfc04816fa.png)
+![](https://i.ibb.co/VFFZBHp/bbbfc04816fa
 
 Em 1880, ele publicou seu primeiro trabalho a respeito da íris, intitulado "Quinina e iodo mudam a cor da íris".
 
@@ -77,7 +77,7 @@ Suas obras serviram de referência para terapeutas naturais e médicos alternati
 
 Sua experiência pessoal (alterações na cor de sua íris) impulsionou-o a investigar a relação entre olhos e saúde. e suas obras continuam a inspirar estudiosos e praticantes de iridologia, fazendo dele uma referência histórica imprescindível para quem deseja compreender a evolução dessa prática.
 
-![](https://i.ibb.co/mVnk0g3b/e1f2cfa440d6.jpg)
+![](https://i.ibb.co/mVnk0g3b/e1f2cfa440d6
 
   
 
@@ -118,25 +118,25 @@ Sua experiência pessoal (alterações na cor de sua íris) impulsionou-o a inve
 incorporado](https://archive.org/embed/ico-25-the-diagnosis-from-the-eye-iridology-v.-1)](https://archive.org/embed/ico-25-the-diagnosis-from-the-eye-iridology-v.-1)
 
                            
-  ![](https://i.ibb.co/s99wqb2f/3c2e34137165.png)
+  ![](https://i.ibb.co/s99wqb2f/3c2e34137165
 
-![](https://i.ibb.co/msvFb2C/ca549acdb31e.jpg)
-
-  
-
-![](https://i.ibb.co/rfvWMhHY/7ad2b0035e82.png)
+![](https://i.ibb.co/msvFb2C/ca549acdb31e
 
   
 
-![](https://i.ibb.co/DgYLzN68/a0bac35f768b.png)
+![](https://i.ibb.co/rfvWMhHY/7ad2b0035e82
 
   
 
-![](https://i.ibb.co/pT3FF5C/9234d1f65bba.png)
+![](https://i.ibb.co/DgYLzN68/a0bac35f768b
 
   
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-t06JS3dJ0loavHblnQ1bhdR5rVhDh9BuKzZc74kNYVBFdG-LOM5drplMbYMD9nZqORgj-KrK5s2VRuDOrhbaeBs4AiyVJRthEl-Ph1Opd7FO2vlh7gIJMBCTtg2fRNyildo3yxMh2_EMmAvh3wtyH7ZifG_kBmeXCDbCnF5wuqCU4kjaHvwMTHzliv0/s320/Screenshot_4.png)
+![](https://i.ibb.co/pT3FF5C/9234d1f65bba
+
+  
+
+![](/assets/img/posts/Screenshot_4
 
   
   
@@ -159,7 +159,7 @@ inglês)
 
   
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggvYz7FAiBTa3yKDr4mbfWI0931VOOjiUu9xyFswMxS_3T_4iwxTubqIX2ccBHxUtloB0sDTCMaZXnjZ6RZpuw1Cw6jSAMQltl7iG-a6iHfw7WkYcq_xg-JSn0hnSJLfaLjfSKniF68aUJJ9PBnQqrGkqB3WbiKRILUptdKGWWrIeSJihi-znXn6y_8cs/w215-h315/Screenshot_15.png)
+![](/assets/img/posts/Screenshot_15
 
 The Diagnosis from the Eye
 
@@ -228,4 +228,4 @@ Larson c.1 v.2  
 
 <https://babel.hathitrust.org/cgi/pt?id=chi.64452544&seq=98> Acesso: 24 nov 2025.
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8od6jwymhT3X8_lcdKazwLaZvrS24lw2YNIqIphnzB7pk6iESLitwe2xFU2720ToBtGNlAuDQXrKR004EaN8s2N1-0NHDeAeAIj3qXDQQiY9wOV-rvt4ii_zvTTl4bu9TgopRzkxzzU8FtkoBBQKXiHX-SiYSwqIgJZcjiCaTKcz49dwAbgB5dqCqYo/s320/Screenshot_43.jpg)
+![](/assets/img/posts/Screenshot_43

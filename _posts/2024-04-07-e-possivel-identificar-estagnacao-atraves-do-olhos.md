@@ -8,7 +8,7 @@ description: "1-  O que é a sensação de estar estagnado na vida?"
 image: "https://i.ibb.co/svFyN1D7/2b4077844e61.jpg"
 ---
 
-![](https://i.ibb.co/svFyN1D7/2b4077844e61.jpg)
+![](https://i.ibb.co/svFyN1D7/2b4077844e61
 
 ## 1-  O que é a sensação de estar estagnado na vida?
 
@@ -51,7 +51,7 @@ alcançáveis** se o cliente estiver aberto a buscar novas experiências, se
 estiver aberto a fazer mudanças que pode ajudar no seu desenvolvimento pessoal,
 físico e mental, mas para isso precisa querer sair da sua zona de conforto.
 
-[![](https://i.ibb.co/20Mvm8FX/ab93aeaf8e4a.jpg)](https://revista.institutoconfucio.com.br/wp-content/uploads/2021/01/Consultorio_01.jpg)
+[![](https://i.ibb.co/20Mvm8FX/ab93aeaf8e4a](https://revista.institutoconfucio.com.br/wp-content/uploads/2021/01/Consultorio_01
 
   
 

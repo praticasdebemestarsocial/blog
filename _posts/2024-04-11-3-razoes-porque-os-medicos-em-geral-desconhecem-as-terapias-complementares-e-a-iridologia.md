@@ -8,7 +8,7 @@ description: "Por Que os Médicos Em Geral Desconhecem o Valor das Terapias Comp
 image: "https://i.ibb.co/dwzXF42B/70481f5df362.png"
 ---
 
-![](https://i.ibb.co/dwzXF42B/70481f5df362.png)
+![](https://i.ibb.co/dwzXF42B/70481f5df362
 
   
 

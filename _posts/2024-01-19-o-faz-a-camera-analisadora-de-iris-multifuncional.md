@@ -8,7 +8,7 @@ description: "Câmera analisadora de íris multifuncional com USB, HD de 12 milh
 image: "https://i.ibb.co/391gfQwY/9564c3e85b28.jpg"
 ---
 
-![](https://i.ibb.co/391gfQwY/9564c3e85b28.jpg)
+![](https://i.ibb.co/391gfQwY/9564c3e85b28
 
 # Câmera analisadora de íris multifuncional com USB, HD de 12 milhões de pixels e software de análise de íris - perfeita para salões de beleza e spas
 
@@ -26,7 +26,7 @@ Através de um mapeamento o programa realiza uma avaliação que pode ajudar no�
 diagnóstico de hábitos nocivos , prevenção de doenças e verificação da condição
 física.
 
-![](https://i.ibb.co/PzfYthtS/fda93a2c295d.jpg)
+![](https://i.ibb.co/PzfYthtS/fda93a2c295d
 
 ## 2- Como a câmera analisadora de íris capta as imagens dos olhos?
 
@@ -38,7 +38,7 @@ oferecendo detecção precoce de crises de saúde.
 
 ## 3- Quais funcionalidades a câmera analisadora de íris multifuncional oferece?
 
-![](https://i.ibb.co/Zzqy4vjX/63283ae8a9ce.jpg)
+![](https://i.ibb.co/Zzqy4vjX/63283ae8a9ce
 
 Funcionalidades incluem:
 
@@ -48,7 +48,7 @@ Funcionalidades incluem:
 
 ## 4- A câmera analisadora de íris é compatível com que sistema operacional?
 
-![](https://i.ibb.co/gFXd1WFv/c961758fa287.jpg)
+![](https://i.ibb.co/gFXd1WFv/c961758fa287
 
   
 
@@ -58,7 +58,7 @@ O pacote inclui a câmera e é compatível com o sistema operacional Windows, se
 
 ## 5- O que está incluído no pacote da Câmera analisadora da íris multifuncional?
 
-![](https://i.ibb.co/qLR5K4Td/3f0458b0cccd.jpg)
+![](https://i.ibb.co/qLR5K4Td/3f0458b0cccd
 
   
   
@@ -77,7 +77,7 @@ Nota: A tela não está incluída no pacote e é usada apenas como tela de efeit
 
 ## 6- Como é possível garantir boas fotos com a câmera analisadora de íris multifuncional?
 
-![](https://i.ibb.co/S447TG2N/d124223893b7.jpg)
+![](https://i.ibb.co/S447TG2N/d124223893b7
 
   
 

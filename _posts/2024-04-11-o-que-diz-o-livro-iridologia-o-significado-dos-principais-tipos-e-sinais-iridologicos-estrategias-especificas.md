@@ -8,7 +8,7 @@ description: "O que diz o livro Iridologia - O significado dos principais tipos 
 image: "https://i.ibb.co/67kjRJ9J/054180321539.png"
 ---
 
-![](https://i.ibb.co/67kjRJ9J/054180321539.png)
+![](https://i.ibb.co/67kjRJ9J/054180321539
 
   
 

@@ -8,7 +8,7 @@ description: "A biometria da íris é uma tecnologia inovadora que se destaca no
 image: "https://i.ibb.co/tMq1J5Mc/1397febe88df.png"
 ---
 
-![](https://i.ibb.co/tMq1J5Mc/1397febe88df.png)
+![](https://i.ibb.co/tMq1J5Mc/1397febe88df
 
 A biometria da íris é uma tecnologia inovadora que se destaca no Brasil e no mundo.
 
