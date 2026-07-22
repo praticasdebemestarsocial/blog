@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Autores da Iridologia
 permalink: /mapeamento-da-iris/autores/

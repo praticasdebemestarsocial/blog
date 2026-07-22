@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: História da Iridologia
 permalink: /mapeamento-da-iris/historia/

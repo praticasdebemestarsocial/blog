@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Artigos Científicos da Iridologia
 permalink: /mapeamento-da-iris/artigos/

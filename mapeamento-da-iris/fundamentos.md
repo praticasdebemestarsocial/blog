@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Fundamentos da Iridologia
 permalink: /mapeamento-da-iris/fundamentos/

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Livros de Iridologia
 permalink: /mapeamento-da-iris/livros/
