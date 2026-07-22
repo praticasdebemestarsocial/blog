@@ -1,27 +1,27 @@
 ---
 layout: post
-title: "Iridologia e o Magnífico Cérebro Humano. Ebook"
+title: "Iridologia e o MagnÃ­fico CÃ©rebro Humano. Ebook"
 date: 2024-02-16T01:05:00.005Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
-description: "Iridologia e o Magnífico Cérebro Humano"
+description: "Iridologia e o MagnÃ­fico CÃ©rebro Humano"
 image: "https://i.ibb.co/SX4WYPm3/629e5932054f.png"
 ---
 
-![](https://i.ibb.co/SX4WYPm3/629e5932054f
+
 
   
 
-## Iridologia e o Magnífico Cérebro Humano
+## Iridologia e o MagnÃ­fico CÃ©rebro Humano
 
-O sistema mais extraordinário da iridologia e, sem dúvida, o mais controverso
-pela importância de suas funções.
+O sistema mais extraordinÃ¡rio da iridologia e, sem dÃºvida, o mais controverso
+pela importÃ¢ncia de suas funÃ§Ãµes.
 
-Um livro do Dr. Bernard Jensen com tradução do Dr. Clodoaldo Pacheco.
+Um livro do Dr. Bernard Jensen com traduÃ§Ã£o do Dr. Clodoaldo Pacheco.
 
-Este é um eBook no formato PDF.
+Este Ã© um eBook no formato PDF.
 
-Clodoaldo Pacheco. Escritor, Professor, Filósofo, Doutor em Naturopatia com
-especialização em Iridologia Clássica Européia, Terapeuta Floral, Master em
-P.N.L., Coaching Pessoal e Empresarial. Pesquisador e Estudioso também da
-Ciência e da arte da Fisiognomonia.
+Clodoaldo Pacheco. Escritor, Professor, FilÃ³sofo, Doutor em Naturopatia com
+especializaÃ§Ã£o em Iridologia ClÃ¡ssica EuropÃ©ia, Terapeuta Floral, Master em
+P.N.L., Coaching Pessoal e Empresarial. Pesquisador e Estudioso tambÃ©m da
+CiÃªncia e da arte da Fisiognomonia.

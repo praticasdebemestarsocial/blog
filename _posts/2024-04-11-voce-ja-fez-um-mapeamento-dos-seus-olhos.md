@@ -1,35 +1,35 @@
 ---
 layout: post
-title: "Você já fez um mapeamento dos seus olhos?"
+title: "VocÃª jÃ¡ fez um mapeamento dos seus olhos?"
 date: 2024-04-11T07:12:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "A consulta de Iridologia proporciona um autoconhecimento holistico com a finalidade de proporcionar informações geradoras de bem estar que orientação ..."
+description: "A consulta de Iridologia proporciona um autoconhecimento holistico com a finalidade de proporcionar informaÃ§Ãµes geradoras de bem estar que orientaÃ§Ã£o ..."
 image: "https://i.ibb.co/8LrNh3W8/0a03fd71b6ad.png"
 ---
 
-![](https://i.ibb.co/8LrNh3W8/0a03fd71b6ad
+
 
   
 
-A consulta de Iridologia proporciona um autoconhecimento holistico com a finalidade de proporcionar informações geradoras de bem estar que orientação hábitos alimentares e estilo de vida mais saudáveis e em harmonia com o bem estar.
+A consulta de Iridologia proporciona um autoconhecimento holistico com a finalidade de proporcionar informaÃ§Ãµes geradoras de bem estar que orientaÃ§Ã£o hÃ¡bitos alimentares e estilo de vida mais saudÃ¡veis e em harmonia com o bem estar.
 
 ## 1- Quem faz um mapeamento dos olhos?
 
-Olá, tudo bem? Meu nome é Silviane Silvério, sou naturopata e trabalho com iridologia há mais de 10 anos.
+OlÃ¡, tudo bem? Meu nome Ã© Silviane SilvÃ©rio, sou naturopata e trabalho com iridologia hÃ¡ mais de 10 anos.
 
-Gostaria de compartilhar sobre essa ferramenta importante que pode auxiliar na prevenção da saúde.
+Gostaria de compartilhar sobre essa ferramenta importante que pode auxiliar na prevenÃ§Ã£o da saÃºde.
 
 ## 2- O que faz quem trabalha com Iridologia?
 
-Através da iridologia, podemos tirar uma foto e mapear seu olho, estudando todos os sinais e colorações presentes.
+AtravÃ©s da iridologia, podemos tirar uma foto e mapear seu olho, estudando todos os sinais e coloraÃ§Ãµes presentes.
 
-Isso nos permite identificar quais partes do seu organismo necessitam de maior cuidado e suplementação.
+Isso nos permite identificar quais partes do seu organismo necessitam de maior cuidado e suplementaÃ§Ã£o.
 
-Além disso, a iridologia possibilita cuidar do seu lado emocional, observando o estado mental.
+AlÃ©m disso, a iridologia possibilita cuidar do seu lado emocional, observando o estado mental.
 
-## 3- Como é o tratamento complementar fundamentado na Iridologia?
+## 3- Como Ã© o tratamento complementar fundamentado na Iridologia?
 
-Com o uso de várias terapias naturais, é possível realizar uma prevenção eficaz para a sua saúde.
+Com o uso de vÃ¡rias terapias naturais, Ã© possÃ­vel realizar uma prevenÃ§Ã£o eficaz para a sua saÃºde.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/BOZnLhbYYR8)](https://www.youtube.com/embed/BOZnLhbYYR8)
+[ðŸŽ¥ [VÃ­deo incorporado](https://www.youtube.com/embed/BOZnLhbYYR8)](https://www.youtube.com/embed/BOZnLhbYYR8)

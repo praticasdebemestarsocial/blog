@@ -1,155 +1,155 @@
 ---
 layout: post
-title: "Por Que alguns Médicos Desconhecem a Iridologia e as Terapias Complementares?"
+title: "Por Que alguns MÃ©dicos Desconhecem a Iridologia e as Terapias Complementares?"
 date: 2024-11-12T15:58:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "Por Que alguns Médicos Desconhecem a Iridologia e as Terapias Complementares?"
+description: "Por Que alguns MÃ©dicos Desconhecem a Iridologia e as Terapias Complementares?"
 image: "https://i.ibb.co/23KCFZYt/174321e2bf78.png"
 ---
 
-![](https://i.ibb.co/23KCFZYt/174321e2bf78
 
-## **Por Que alguns Médicos Desconhecem a Iridologia e as Terapias Complementares?**
+
+## **Por Que alguns MÃ©dicos Desconhecem a Iridologia e as Terapias Complementares?**
 
 *Tempo de leitura: 5 minutos*
 
 ---
 
-### Olá, Pessoal! Bem-vindos ao Canal!
+### OlÃ¡, Pessoal! Bem-vindos ao Canal!
 
-Oi, gente! Tudo bem com vocês? Eu sou a **Silviane Silvério**, terapeuta e
-biomédica. Se você é novo por aqui, seja muito bem-vindo ao nosso canal!
+Oi, gente! Tudo bem com vocÃªs? Eu sou a **Silviane SilvÃ©rio**, terapeuta e
+biomÃ©dica. Se vocÃª Ã© novo por aqui, seja muito bem-vindo ao nosso canal!
 
-Por aqui, falamos sobre **saúde, bem-estar e terapias naturais**. Se ainda não
+Por aqui, falamos sobre **saÃºde, bem-estar e terapias naturais**. Se ainda nÃ£o
 se inscreveu, aproveite para se inscrever e ativar o sininho para receber as
-notificações. Para quem já acompanha, muito obrigada pelo apoio!
+notificaÃ§Ãµes. Para quem jÃ¡ acompanha, muito obrigada pelo apoio!
 
-### Por que os Médicos Tradicionais Desconhecem a Iridologia e Outras Terapias Complementares?
+### Por que os MÃ©dicos Tradicionais Desconhecem a Iridologia e Outras Terapias Complementares?
 
-Hoje vamos conversar sobre uma questão que muitos se perguntam: **[por que a
-maioria dos médicos tradicionais desconhece a importância das terapias
+Hoje vamos conversar sobre uma questÃ£o que muitos se perguntam: **[por que a
+maioria dos mÃ©dicos tradicionais desconhece a importÃ¢ncia das terapias
 complementares, como a
 iridologia?](https://tecnologiasdoautoconhecimento.blogspot.com/2024/04/por-que-os-medicos-em-geral-desconhecem.html)**
 
-É uma questão que gera bastante curiosidade e que vale uma análise cuidadosa.
+Ã‰ uma questÃ£o que gera bastante curiosidade e que vale uma anÃ¡lise cuidadosa.
 
-### A Formação Médica Tradicional
+### A FormaÃ§Ã£o MÃ©dica Tradicional
 
-A formação médica tradicional é extremamente aprofundada e, sem dúvida,
-essencial para atender a demandas complexas da saúde, como emergências e
+A formaÃ§Ã£o mÃ©dica tradicional Ã© extremamente aprofundada e, sem dÃºvida,
+essencial para atender a demandas complexas da saÃºde, como emergÃªncias e
 cirurgias.
 
 Durante a faculdade de medicina, os alunos se dedicam a disciplinas que incluem
-diagnóstico por exames laboratoriais, imagem e genética, capacitando-os a tratar
-doenças de forma direta.
+diagnÃ³stico por exames laboratoriais, imagem e genÃ©tica, capacitando-os a tratar
+doenÃ§as de forma direta.
 
-No entanto, esse ensino foca principalmente no tratamento de **doenças já
-instaladas** e em intervenções de emergência, deixando um espaço limitado para a
-**prevenção e o cuidado com hábitos de vida e saúde emocional**.
+No entanto, esse ensino foca principalmente no tratamento de **doenÃ§as jÃ¡
+instaladas** e em intervenÃ§Ãµes de emergÃªncia, deixando um espaÃ§o limitado para a
+**prevenÃ§Ã£o e o cuidado com hÃ¡bitos de vida e saÃºde emocional**.
 
 ---
 
-### Limitações no Currículo para Terapias Complementares
+### LimitaÃ§Ãµes no CurrÃ­culo para Terapias Complementares
 
-A carga horária e o nível de exigência na faculdade de medicina são imensos,
-exigindo muitos anos de estudo. Assim, os alunos não têm tempo ou oportunidade
+A carga horÃ¡ria e o nÃ­vel de exigÃªncia na faculdade de medicina sÃ£o imensos,
+exigindo muitos anos de estudo. Assim, os alunos nÃ£o tÃªm tempo ou oportunidade
 de explorar a fundo as **terapias integrativas e complementares**.
 
-Embora algumas universidades já comecem a incluir essas práticas em seus
-currículos, muitos médicos se formam sem conhecer as abordagens alternativas.
+Embora algumas universidades jÃ¡ comecem a incluir essas prÃ¡ticas em seus
+currÃ­culos, muitos mÃ©dicos se formam sem conhecer as abordagens alternativas.
 
-Mesmo assim, médicos e outros profissionais da saúde, como enfermeiros,
-biomédicos e psicólogos, podem optar por pós-graduações em áreas como
-**homeopatia e terapias integrativas** para se aprofundarem nessas práticas.
+Mesmo assim, mÃ©dicos e outros profissionais da saÃºde, como enfermeiros,
+biomÃ©dicos e psicÃ³logos, podem optar por pÃ³s-graduaÃ§Ãµes em Ã¡reas como
+**homeopatia e terapias integrativas** para se aprofundarem nessas prÃ¡ticas.
 
-### A Política Nacional de Práticas Integrativas e Complementares (PNPIC)
+### A PolÃ­tica Nacional de PrÃ¡ticas Integrativas e Complementares (PNPIC)
 
-No Brasil, o **Ministério da Saúde** regulamenta as **Práticas Integrativas e
-Complementares em Saúde (PICS)**, que têm como objetivo promover a **prevenção,
-recuperação e promoção de saúde**.
+No Brasil, o **MinistÃ©rio da SaÃºde** regulamenta as **PrÃ¡ticas Integrativas e
+Complementares em SaÃºde (PICS)**, que tÃªm como objetivo promover a **prevenÃ§Ã£o,
+recuperaÃ§Ã£o e promoÃ§Ã£o de saÃºde**.
 
-Essas práticas, que incluem técnicas como acupuntura, fitoterapia e homeopatia,
-foram oficializadas pela **Política Nacional de Práticas Integrativas e
-Complementares** e hoje estão presentes no **Sistema Único de Saúde (SUS)**.
+Essas prÃ¡ticas, que incluem tÃ©cnicas como acupuntura, fitoterapia e homeopatia,
+foram oficializadas pela **PolÃ­tica Nacional de PrÃ¡ticas Integrativas e
+Complementares** e hoje estÃ£o presentes no **Sistema Ãšnico de SaÃºde (SUS)**.
 
-Atualmente, o SUS oferece cerca de 29 procedimentos de PICS, disponíveis tanto
-no sistema público quanto em clínicas privadas.
+Atualmente, o SUS oferece cerca de 29 procedimentos de PICS, disponÃ­veis tanto
+no sistema pÃºblico quanto em clÃ­nicas privadas.
 
-A PNPIC promove um olhar mais amplo, onde o foco é a **integração do ser humano
-ao meio ambiente e à sociedade**, valorizando a escuta e a criação de vínculos.
+A PNPIC promove um olhar mais amplo, onde o foco Ã© a **integraÃ§Ã£o do ser humano
+ao meio ambiente e Ã  sociedade**, valorizando a escuta e a criaÃ§Ã£o de vÃ­nculos.
 
 ---
 
-### O Que é a Iridologia?
+### O Que Ã© a Iridologia?
 
-A **iridologia** é uma prática que analisa a **íris do olho** para identificar
-potenciais desequilíbrios no organismo.
+A **iridologia** Ã© uma prÃ¡tica que analisa a **Ã­ris do olho** para identificar
+potenciais desequilÃ­brios no organismo.
 
-Através da análise da íris, o iridologista consegue observar tendências para
-desequilíbrios e doenças, proporcionando um entendimento mais preventivo da
-saúde.
+AtravÃ©s da anÃ¡lise da Ã­ris, o iridologista consegue observar tendÃªncias para
+desequilÃ­brios e doenÃ§as, proporcionando um entendimento mais preventivo da
+saÃºde.
 
-É uma técnica poderosa para a **prevenção de doenças**, mas ainda pouco
+Ã‰ uma tÃ©cnica poderosa para a **prevenÃ§Ã£o de doenÃ§as**, mas ainda pouco
 conhecida e estudada na medicina convencional.
 
-### [Principais Razões para o Desconhecimento da Iridologia pelos Médicos](https://tecnologiasdoautoconhecimento.blogspot.com/2024/08/quais-sao-as-controversias-relacionadas.html)
+### [Principais RazÃµes para o Desconhecimento da Iridologia pelos MÃ©dicos](https://tecnologiasdoautoconhecimento.blogspot.com/2024/08/quais-sao-as-controversias-relacionadas.html)
 
-Por que, então, a iridologia e outras práticas complementares ainda não são
+Por que, entÃ£o, a iridologia e outras prÃ¡ticas complementares ainda nÃ£o sÃ£o
 amplamente reconhecidas?
 
-Existem diversas razões, como a falta de tempo na formação médica, a **escassez
-de estudos científicos abrangentes** sobre algumas dessas terapias, e até mesmo
-certo **preconceito histórico** em relação às práticas alternativas.
+Existem diversas razÃµes, como a falta de tempo na formaÃ§Ã£o mÃ©dica, a **escassez
+de estudos cientÃ­ficos abrangentes** sobre algumas dessas terapias, e atÃ© mesmo
+certo **preconceito histÃ³rico** em relaÃ§Ã£o Ã s prÃ¡ticas alternativas.
 
 Esses fatores somados resultam em uma lacuna de conhecimento entre a medicina
 tradicional e as abordagens complementares.
 
-### Integração dos Saberes: Benefícios para a Saúde
+### IntegraÃ§Ã£o dos Saberes: BenefÃ­cios para a SaÃºde
 
-A integração da **medicina tradicional com as terapias complementares** poderia
-trazer diversos benefícios para os pacientes. Imagine um médico que, além de
-tratar a doença, ofereça orientação sobre **hábitos saudáveis, controle
-emocional e prevenção de doenças futuras**.
+A integraÃ§Ã£o da **medicina tradicional com as terapias complementares** poderia
+trazer diversos benefÃ­cios para os pacientes. Imagine um mÃ©dico que, alÃ©m de
+tratar a doenÃ§a, ofereÃ§a orientaÃ§Ã£o sobre **hÃ¡bitos saudÃ¡veis, controle
+emocional e prevenÃ§Ã£o de doenÃ§as futuras**.
 
-Esse tipo de abordagem holística pode proporcionar um cuidado mais completo e
+Esse tipo de abordagem holÃ­stica pode proporcionar um cuidado mais completo e
 personalizado.
 
-### Reflexão: O Que Você Pensa sobre a Medicina Tradicional e as Terapias Complementares?
+### ReflexÃ£o: O Que VocÃª Pensa sobre a Medicina Tradicional e as Terapias Complementares?
 
-Agora, gostaria de saber: **qual é a sua visão sobre essa relação entre a
+Agora, gostaria de saber: **qual Ã© a sua visÃ£o sobre essa relaÃ§Ã£o entre a
 medicina tradicional e as terapias complementares?**
 
-Você já experimentou alguma dessas práticas? Deixe seu comentário abaixo, vou
-adorar saber sua experiência e opinião!
+VocÃª jÃ¡ experimentou alguma dessas prÃ¡ticas? Deixe seu comentÃ¡rio abaixo, vou
+adorar saber sua experiÃªncia e opiniÃ£o!
 
 ### Agradecimento e Convite para Continuar no Canal
 
-Muito obrigada por assistir até aqui!
+Muito obrigada por assistir atÃ© aqui!
 
-Se gostou deste vídeo, lembre-se de curtir, compartilhar com seus amigos e se
+Se gostou deste vÃ­deo, lembre-se de curtir, compartilhar com seus amigos e se
 inscrever no canal.
 
-Nos próximos vídeos, abordarei temas relacionados à saúde, bem-estar e
+Nos prÃ³ximos vÃ­deos, abordarei temas relacionados Ã  saÃºde, bem-estar e
 autoconhecimento. Fique de olho!
 
-[🎥 [Vídeo
+[ðŸŽ¥ [VÃ­deo
 incorporado](https://www.youtube.com/embed/lFRIkMe19Tk)](https://www.youtube.com/embed/lFRIkMe19Tk)
 
 ---
 
-Medicina tradicional e terapias complementares, IridologiaPolítica Nacional de
-Práticas Integrativas e Complementares,  e saúde preventiva, PICS e SUS no
-Brasil, Terapias naturais para saúde e bem-estar, Autocuidado e prevenção.
+Medicina tradicional e terapias complementares, IridologiaPolÃ­tica Nacional de
+PrÃ¡ticas Integrativas e Complementares,Â Â e saÃºde preventiva, PICS e SUS no
+Brasil, Terapias naturais para saÃºde e bem-estar, Autocuidado e prevenÃ§Ã£o.
 
-### Referências Bibliográficas:
+### ReferÃªncias BibliogrÃ¡ficas:
 
-SAðDE, Ministério da. **Práticas Integrativas e Complementares em Saúde**. s/d.
-Disponível em: <https://www.gov.br/saude/pt-br/composicao/saps/pics>. Acesso em:
+SAÃ°DE, MinistÃ©rio da.Â **PrÃ¡ticas Integrativas e Complementares em SaÃºde**. s/d.
+DisponÃ­vel em: <https://www.gov.br/saude/pt-br/composicao/saps/pics>. Acesso em:
 12 nov. 2024.
 
-DELLA BARBA, Eliza. **Saúde do Servidor: Conheça os benefícios das terapias
-complementares**. 2023. Secretaria do Estado e adminstração de Santa Catarina.
-Disponível em:
+DELLA BARBA, Eliza.Â **SaÃºde do Servidor: ConheÃ§a os benefÃ­cios das terapias
+complementares**. 2023. Secretaria do Estado e adminstraÃ§Ã£o de Santa Catarina.
+DisponÃ­vel em:
 <https://www.sea.sc.gov.br/blog/saude-do-servidor-conheca-os-beneficios-das-terapias-complementares/>.
 Acesso em: 12 nov. 2024.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O que é Instituto Mundial e Nutriíris?"
+title: "O que Ã© Instituto Mundial e NutriÃ­ris?"
 date: 2024-01-14T06:49:00.002Z
 tags: ["escolas de iridologia"]
 categories: ["bem-estar"]
@@ -8,73 +8,73 @@ description: "(https://yata-apix-afcbd886-1a4c-4b28-98f8-4df0da96af96.s3-object.
 image: "https://i.ibb.co/q67BzPb/44a725285db3.jpg"
 ---
 
-[![](https://i.ibb.co/q67BzPb/44a725285db3](https://yata-apix-afcbd886-1a4c-4b28-98f8-4df0da96af96.s3-object.locaweb.com.br/8ff42750077c4d2e88756d46bf8483cc
+[
 
-## 1- O que é **Instituto Mundial** e Nutriíris?
+## 1- O que Ã©Â **Instituto Mundial** e NutriÃ­ris?
 
-O Instituto  Nutriíris é uma empresa fundada em 2002 pela Dra. Nicéia Bearari,
-especialista em iridologia há mais de 2 décadas.
+O InstitutoÂ  NutriÃ­ris Ã© uma empresa fundada em 2002 pela Dra. NicÃ©ia Bearari,
+especialista em iridologia hÃ¡ mais de 2 dÃ©cadas.
 
-A empresa tem como objetivo ensinar a iridologia de forma simples, ética e
+A empresa tem como objetivo ensinar a iridologia de forma simples, Ã©tica e
 eficaz, permitindo que os alunos otimizem seus atendimentos e contribuam para a
-saúde física, emocional e espiritual de seus clientes.
+saÃºde fÃ­sica, emocional e espiritual de seus clientes.
 
-## 2- Qual a missão Missão Instituto  Nutriíris?
+## 2- Qual a missÃ£o MissÃ£oÂ InstitutoÂ  NutriÃ­ris?
 
-A missão da Iridologia Sem Segredos e Nutriíris é levar a ciência da iridologia
-para todas as pessoas com amor, ética, respeito, compreensão e sem julgamentos a
-qualquer tipo de sintomas, sinais ou doenças, contribuindo assim para sua saúde
-física, emocional e espiritual.
+A missÃ£o da Iridologia Sem Segredos e NutriÃ­ris Ã© levar a ciÃªncia da iridologia
+para todas as pessoas com amor, Ã©tica, respeito, compreensÃ£o e sem julgamentos a
+qualquer tipo de sintomas, sinais ou doenÃ§as, contribuindo assim para sua saÃºde
+fÃ­sica, emocional e espiritual.
 
-## 3- O que oferece A Iridologia Sem Segredos e a Nutriíris?
+## 3- O que oferece A Iridologia Sem Segredos e a NutriÃ­ris?
 
-A Iridologia Sem Segredos e a Nutriíris oferece diversos cursos para você que já
-é iridologista ou que está em transição de carreira para as terapias.
+A Iridologia Sem Segredos e a NutriÃ­ris oferece diversos cursos para vocÃª que jÃ¡
+Ã© iridologista ou que estÃ¡ em transiÃ§Ã£o de carreira para as terapias.
 
-Os cursos são ministrados por profissionais capacitados e experientes, e abordam
-os fundamentos da iridologia, as principais técnicas de avaliação iridológica e
-a aplicação da iridologia na prática clínica.
+Os cursos sÃ£o ministrados por profissionais capacitados e experientes, e abordam
+os fundamentos da iridologia, as principais tÃ©cnicas de avaliaÃ§Ã£o iridolÃ³gica e
+a aplicaÃ§Ã£o da iridologia na prÃ¡tica clÃ­nica.
 
-A Iridologia Sem Segredos e Nutriíris é uma empresa comprometida com a saúde e o
+A Iridologia Sem Segredos e NutriÃ­ris Ã© uma empresa comprometida com a saÃºde e o
 bem-estar de seus clientes.
 
-Através da iridologia, oferecemos uma ferramenta valiosa para a prevenção e o
-tratamento de doenças.
+AtravÃ©s da iridologia, oferecemos uma ferramenta valiosa para a prevenÃ§Ã£o e o
+tratamento de doenÃ§as.
 
-## Quem é a gestora do Instituto Mundial Nutriíris?
+## Quem Ã© a gestora do Instituto Mundial NutriÃ­ris?
 
-A Dra. Nicéia Bearari é a gestora do Instituto Mundial Nutriíris.
+A Dra. NicÃ©ia Bearari Ã© a gestora do Instituto Mundial NutriÃ­ris.
 
-Ela é especialista em iridologia há mais de 2 décadas, e é autora e docente da
-iridologia cibernética emocional sistêmica e da nutrição iridologia aplicada à
-iridologia cibernética emocional sistêmica.
+Ela Ã© especialista em iridologia hÃ¡ mais de 2 dÃ©cadas, e Ã© autora e docente da
+iridologia cibernÃ©tica emocional sistÃªmica e da nutriÃ§Ã£o iridologia aplicada Ã 
+iridologia cibernÃ©tica emocional sistÃªmica.
 
-A Dra. Nicéia é uma profissional renomada na área da iridologia, e seus cursos
-são reconhecidos pela sua qualidade e eficácia.
+A Dra. NicÃ©ia Ã© uma profissional renomada na Ã¡rea da iridologia, e seus cursos
+sÃ£o reconhecidos pela sua qualidade e eficÃ¡cia.
 
-A iridologia é uma ciência que estuda a íris do olho para obter informações
-sobre a saúde geral do indivíduo. Acredita-se que a íris reflete o estado do
-organismo, incluindo órgãos, sistemas e funções.
+A iridologia Ã© uma ciÃªncia que estuda a Ã­ris do olho para obter informaÃ§Ãµes
+sobre a saÃºde geral do indivÃ­duo. Acredita-se que a Ã­ris reflete o estado do
+organismo, incluindo Ã³rgÃ£os, sistemas e funÃ§Ãµes.
 
-A iridologia pode ser usada para  avaliar o estado de saúde e bem-estar, e
+A iridologia pode ser usada paraÂ  avaliar o estado de saÃºde e bem-estar, e
 orientar tratamentos.
 
-A íris é a parte colorida do olho, rica em filamentos nervosos. Ela é formada
-com os mesmos tecidos do cérebro, ainda nos primeiros dias de vida do embrião.
+A Ã­ris Ã© a parte colorida do olho, rica em filamentos nervosos. Ela Ã© formada
+com os mesmos tecidos do cÃ©rebro, ainda nos primeiros dias de vida do embriÃ£o.
 
-As cores da íris podem ser alteradas por diversos fatores, incluindo:
+As cores da Ã­ris podem ser alteradas por diversos fatores, incluindo:
 
-* Intoxicações
-* Anomalias genéticas
-* Perturbações
-* Sobrecargas de colesterol, cristais ácidos, metais pesados, medicamentos, má alimentação, etc.
+* IntoxicaÃ§Ãµes
+* Anomalias genÃ©ticas
+* PerturbaÃ§Ãµes
+* Sobrecargas de colesterol, cristais Ã¡cidos, metais pesados, medicamentos, mÃ¡ alimentaÃ§Ã£o, etc.
 
-Através da iridologia, é possível identificar:
+AtravÃ©s da iridologia, Ã© possÃ­vel identificar:
 
-* Disfunções orgânicas
-* Tendências genéticas
-* Desequilíbrios emocionais
-* Alterações nutricionais
+* DisfunÃ§Ãµes orgÃ¢nicas
+* TendÃªncias genÃ©ticas
+* DesequilÃ­brios emocionais
+* AlteraÃ§Ãµes nutricionais
 
 Contato:
 

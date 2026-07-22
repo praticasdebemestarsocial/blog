@@ -1,102 +1,102 @@
 ---
 layout: post
-title: " Projeto de Lei do Senado nº 174, de 2017. Regulamenta a profissão de terapeuta naturista "
+title: " Projeto de Lei do Senado nÂº 174, de 2017. Regulamenta a profissÃ£o de terapeuta naturista "
 date: 2025-02-17T04:57:00.002Z
-tags: ["documentos profissão terapeuta"]
+tags: ["documentos profissÃ£o terapeuta"]
 categories: ["bem-estar"]
-description: "Projeto de Lei do Senado nº 174, de 2017. Regulamenta a profissão de terapeuta naturista"
+description: "Projeto de Lei do Senado nÂº 174, de 2017. Regulamenta a profissÃ£o de terapeuta naturista"
 image: "https://i.ibb.co/Z6TR4sLR/6052507f1acb.png"
 ---
 
-![](https://i.ibb.co/Z6TR4sLR/6052507f1acb
 
-## Projeto de Lei do Senado nº 174, de 2017. Regulamenta a profissão de terapeuta naturista
+
+## Projeto de Lei do Senado nÂº 174, de 2017. Regulamenta a profissÃ£o de terapeuta naturista
 
 Autoria :
 
-[Senador Telmário
+[Senador TelmÃ¡rio
 Mota](https://www25.senado.leg.br/web/senadores/senador/-/perfil/5535) (PTB/RR)
 
 Assunto :
 
-Política Social > Saúde
+PolÃ­tica Social > SaÃºde
 
 Ementa :
 
-Regulamenta o exercício da profissão de terapeuta naturista .
+Regulamenta o exercÃ­cio da profissÃ£o de terapeuta naturista .
 
-Explicação da Ementa :
+ExplicaÃ§Ã£o da Ementa :
 
-O projeto visa regulamentar a profissão de Terapeuta Naturista , abrangendo
+O projeto visa regulamentar a profissÃ£o de Terapeuta Naturista , abrangendo
 modalidades como:
 
 * Medicina oriental;
-* Terapia ayurvédica;
+* Terapia ayurvÃ©dica;
 * Outras terapias naturais;
-* Terapias psicanalíticas e psicopedagógicas.
+* Terapias psicanalÃ­ticas e psicopedagÃ³gicas.
 
-### Situação Atual
+### SituaÃ§Ã£o Atual
 
-Decisão : Rejeitada por Comissão em decisão terminativa (art. 91, § 5º, do
+DecisÃ£o : Rejeitada por ComissÃ£o em decisÃ£o terminativa (art. 91, Â§ 5Âº, do
 RISF).
 
 Destino : Ao arquivo.
 
-Último local : 14/03/2022 - Coordenação de Arquivo.
+Ãšltimo local : 14/03/2022 - CoordenaÃ§Ã£o de Arquivo.
 
-Último estado : 08/03/2022 - **REJEITADA.**
+Ãšltimo estado : 08/03/2022 - **REJEITADA.**
 
-### Resumo da Tramitação e Encerramento
+### Resumo da TramitaÃ§Ã£o e Encerramento
 
-O PLS nº 174/2017 foi proposto pelo senador Telmário Mota com o objetivo de
-reconhecer e regulamentar a profissão de terapeuta naturista , estabelecendo
-normas claras para o exercício dessas práticas.
+O PLS nÂº 174/2017 foi proposto pelo senador TelmÃ¡rio Mota com o objetivo de
+reconhecer e regulamentar a profissÃ£o de terapeuta naturista , estabelecendo
+normas claras para o exercÃ­cio dessas prÃ¡ticas.
 
-> **No entanto, após análise pela Comissão competente, a proposta foi rejeitada em
-> decisão terminativa, encerrando sua tramitação no Senado Federal.**
+> **No entanto, apÃ³s anÃ¡lise pela ComissÃ£o competente, a proposta foi rejeitada em
+> decisÃ£o terminativa, encerrando sua tramitaÃ§Ã£o no Senado Federal.**
 >
-> **A rejeição ocorreu em 08/03/2022** , **e o projeto foi arquivado na
-> Coordenação de Arquivo em 14/03/2022 , marcando o fim de sua tramitação
+> **A rejeiÃ§Ã£o ocorreu em 08/03/2022** , **e o projeto foi arquivado na
+> CoordenaÃ§Ã£o de Arquivo em 14/03/2022 , marcando o fim de sua tramitaÃ§Ã£o
 > legislativa.**
 
-### Contexto e Importância do Projeto
+### Contexto e ImportÃ¢ncia do Projeto
 
-O projeto reflete um esforço para organizar e legitimar as práticas terapêuticas
-alternativas e complementares no Brasil, que têm ganhado popularidade nos
-últimos anos.
+O projeto reflete um esforÃ§o para organizar e legitimar as prÃ¡ticas terapÃªuticas
+alternativas e complementares no Brasil, que tÃªm ganhado popularidade nos
+Ãºltimos anos.
 
-A regulamentação proposta buscava garantir segurança jurídica tanto para os
-profissionais quanto para os usuários dessas terapias, além de estabelecer
-critérios mínimos de qualificação e atuação.
+A regulamentaÃ§Ã£o proposta buscava garantir seguranÃ§a jurÃ­dica tanto para os
+profissionais quanto para os usuÃ¡rios dessas terapias, alÃ©m de estabelecer
+critÃ©rios mÃ­nimos de qualificaÃ§Ã£o e atuaÃ§Ã£o.
 
-No entanto, **a rejeição indica que ainda há desafios e divergências sobre a
-regulamentação dessas práticas, especialmente no que diz respeito à segurança,
-eficácia e potencial conflito com outras profissões já regulamentadas.**
+No entanto, **a rejeiÃ§Ã£o indica que ainda hÃ¡ desafios e divergÃªncias sobre a
+regulamentaÃ§Ã£o dessas prÃ¡ticas, especialmente no que diz respeito Ã  seguranÃ§a,
+eficÃ¡cia e potencial conflito com outras profissÃµes jÃ¡ regulamentadas.**
 
-### Impacto da Decisão
+### Impacto da DecisÃ£o
 
-Com a rejeição do PLS nº 174/2017, as práticas de terapias naturais permanecem
-sem uma regulamentação específica no Brasil.
+Com a rejeiÃ§Ã£o do PLS nÂº 174/2017, as prÃ¡ticas de terapias naturais permanecem
+sem uma regulamentaÃ§Ã£o especÃ­fica no Brasil.
 
-Isso significa que profissionais que atuam nessas áreas continuam sem um marco
+Isso significa que profissionais que atuam nessas Ã¡reas continuam sem um marco
 legal claro, o que pode gerar incertezas sobre suas responsabilidades e limites
-de atuação.
+de atuaÃ§Ã£o.
 
 Apesar disso, o tema das terapias integrativas e complementares continua sendo
-discutido no âmbito da saúde pública, especialmente com a inclusão de práticas
-como acupuntura, homeopatia e fitoterapia na Política Nacional de Práticas
-Integrativas e Complementares (PNPIC) do Sistema Único de Saúde (SUS).
+discutido no Ã¢mbito da saÃºde pÃºblica, especialmente com a inclusÃ£o de prÃ¡ticas
+como acupuntura, homeopatia e fitoterapia na PolÃ­tica Nacional de PrÃ¡ticas
+Integrativas e Complementares (PNPIC) do Sistema Ãšnico de SaÃºde (SUS).
 
-### Conclusão
+### ConclusÃ£o
 
-Embora o PLS nº 174/2017 tenha sido rejeitado, o debate sobre a regulamentação
+Embora o PLS nÂº 174/2017 tenha sido rejeitado, o debate sobre a regulamentaÃ§Ã£o
 das terapias naturais permanece relevante. A sociedade brasileira tem
-demonstrado crescente interesse por abordagens holísticas e complementares de
+demonstrado crescente interesse por abordagens holÃ­sticas e complementares de
 cuidado, o que pode motivar novas iniciativas legislativas no futuro.
 
-Para acompanhar novos desenvolvimentos sobre o tema, é importante monitorar as
-discussões no Congresso Nacional e nas instâncias de saúde pública.
+Para acompanhar novos desenvolvimentos sobre o tema, Ã© importante monitorar as
+discussÃµes no Congresso Nacional e nas instÃ¢ncias de saÃºde pÃºblica.
 
-### Referências Bibliográficas:
+### ReferÃªncias BibliogrÃ¡ficas:
 
-SENADO. **Projeto de Lei do Senado n° 174, de 2017**. 2022. Disponível em: <https://www25.senado.leg.br/web/atividade/materias/-/materia/129523>. Acesso em: 16 fev. 2025.
+SENADO.Â **Projeto de Lei do Senado nÂ° 174, de 2017**. 2022. DisponÃ­vel em: <https://www25.senado.leg.br/web/atividade/materias/-/materia/129523>. Acesso em: 16 fev. 2025.

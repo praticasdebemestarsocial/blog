@@ -1,104 +1,104 @@
 ---
 layout: post
-title: "O que seus olhos podem dizer para você?"
+title: "O que seus olhos podem dizer para vocÃª?"
 date: 2024-04-07T07:15:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "O que seus olhos podem dizer para você?"
+description: "O que seus olhos podem dizer para vocÃª?"
 image: "https://i.ibb.co/4RThF4hC/f6fcf30e2d51.jpg"
 ---
 
-![](https://i.ibb.co/4RThF4hC/f6fcf30e2d51
+
 
   
 
-## O que seus olhos podem dizer para você?
+## O que seus olhos podem dizer para vocÃª?
 
-Olá amigos sejam bem-vindos aqui ao canal fique de olho na sua saúde.
+OlÃ¡ amigos sejam bem-vindos aqui ao canal fique de olho na sua saÃºde.
 
-Muitas pessoas me perguntam Mas afinal o que que você consegue ver nos nossos olhos
+Muitas pessoas me perguntam Mas afinal o que que vocÃª consegue ver nos nossos olhos
 
 Qual o significado de sinais que aparecem aqui nos nossos olhos.
 
-## O que seus olhos podem dizer para você?
+## O que seus olhos podem dizer para vocÃª?
 
-O que os iridologistas conseguem entender de sinais que as outras pessoas não
-sabem?  
+O que os iridologistas conseguem entender de sinais que as outras pessoas nÃ£o
+sabem?Â Â 
 
-Ah, pois eu falo uma coisa para você: o exame através do olho é um método pré-preventivo que pode ajudar você a descobrir a melhor forma de como você se cuidar para evitar o adoecimento.
+Ah, pois eu falo uma coisa para vocÃª: o exame atravÃ©s do olho Ã© um mÃ©todo prÃ©-preventivo que pode ajudar vocÃª a descobrir a melhor forma de como vocÃª se cuidar para evitar o adoecimento.
 
-A iridologia proporciona muito mais que uma prevenção, proporciona a possibilidade de você se conhecer e saber como você pode se cuidar melhor para que não venha adoecer.
+A iridologia proporciona muito mais que uma prevenÃ§Ã£o, proporciona a possibilidade de vocÃª se conhecer e saber como vocÃª pode se cuidar melhor para que nÃ£o venha adoecer.
 
-* Quais as melhores vitaminas e nutrientes que vão fortalecer o seu organismo?
-* Se existem substâncias que estão acumuladas, radicais livres dentro do seu organismo.
-* Como é que está a acidez em determinados locais do corpo?
+* Quais as melhores vitaminas e nutrientes que vÃ£o fortalecer o seu organismo?
+* Se existem substÃ¢ncias que estÃ£o acumuladas, radicais livres dentro do seu organismo.
+* Como Ã© que estÃ¡ a acidez em determinados locais do corpo?
 
-* Como está o equilíbrio do pH, o equilíbrio do seu sangue, como é que está? Ele está bem oxigenado, está oxigenando bem os órgãos do seu corpo?
+* Como estÃ¡ o equilÃ­brio do pH, o equilÃ­brio do seu sangue, como Ã© que estÃ¡? Ele estÃ¡ bem oxigenado, estÃ¡ oxigenando bem os Ã³rgÃ£os do seu corpo?
 
-* Como está o seu sistema circulatório de uma maneira geral, ou então como está a circulação do sangue em determinado órgão, se ele está sendo bem nutrido de sangue, nutrientes e oxigênio?
+* Como estÃ¡ o seu sistema circulatÃ³rio de uma maneira geral, ou entÃ£o como estÃ¡ a circulaÃ§Ã£o do sangue em determinado Ã³rgÃ£o, se ele estÃ¡ sendo bem nutrido de sangue, nutrientes e oxigÃªnio?
 
-* Se existe uma intolerância alimentar, acúmulo de substâncias gorduras, metais pesados?
+* Se existe uma intolerÃ¢ncia alimentar, acÃºmulo de substÃ¢ncias gorduras, metais pesados?
 
-* Se você está sofrendo com parasitas, onde é que eles estão, que órgão? E se você está sofrendo com fungos, onde eles estão, que órgão?
+* Se vocÃª estÃ¡ sofrendo com parasitas, onde Ã© que eles estÃ£o, que Ã³rgÃ£o? E se vocÃª estÃ¡ sofrendo com fungos, onde eles estÃ£o, que Ã³rgÃ£o?
 
-[![](https://lh4.googleusercontent.com/gRVnf9GpPun61jn9rMgeyM41HWPWDj67V_AfrrsaAmVKfKwON7sJ6H-oKYOg4vzRS-t1MOmmyTh9eioS_X2_1PGTx1F9jPzyB3x6oIYMl70XoaY_ugi2_TC_y6o4TfVjSuiFlNm5=w531-h259)](https://lh4.googleusercontent.com/gRVnf9GpPun61jn9rMgeyM41HWPWDj67V_AfrrsaAmVKfKwON7sJ6H-oKYOg4vzRS-t1MOmmyTh9eioS_X2_1PGTx1F9jPzyB3x6oIYMl70XoaY_ugi2_TC_y6o4TfVjSuiFlNm5=s1006)
+[)](https://lh4.googleusercontent.com/gRVnf9GpPun61jn9rMgeyM41HWPWDj67V_AfrrsaAmVKfKwON7sJ6H-oKYOg4vzRS-t1MOmmyTh9eioS_X2_1PGTx1F9jPzyB3x6oIYMl70XoaY_ugi2_TC_y6o4TfVjSuiFlNm5=s1006)
 
-## 2- Para que serve as informações da Iridologia?
+## 2- Para que serve as informaÃ§Ãµes da Iridologia?
 
-Todas essas informações nos dão embasamento para que a gente possa passar um tratamento de limpeza do organismo, suplementação correta, onde você vai fortalecer o órgão que está mais enfraquecido.
+Todas essas informaÃ§Ãµes nos dÃ£o embasamento para que a gente possa passar um tratamento de limpeza do organismo, suplementaÃ§Ã£o correta, onde vocÃª vai fortalecer o Ã³rgÃ£o que estÃ¡ mais enfraquecido.
 
-É muito importante a gente descobrir quais os nossos órgãos de choque, que assim como chamamos Neurologia, esses órgãos que são geneticamente já mais fragilizados e com necessidade de uma maior suplementação.
+Ã‰ muito importante a gente descobrir quais os nossos Ã³rgÃ£os de choque, que assim como chamamos Neurologia, esses Ã³rgÃ£os que sÃ£o geneticamente jÃ¡ mais fragilizados e com necessidade de uma maior suplementaÃ§Ã£o.
 
-[![](https://i.ibb.co/bgZVR5G0/fbab26d950d9](https://news.feng.com.my/v2/wp-content/uploads/2010/08/eye001
+[
 
   
 
-## 3- A Iridologia diagnostica doenças?
+## 3- A Iridologia diagnostica doenÃ§as?
 
-Algumas pessoas têm medo de fazer iridologia porque acham que vão descobrir coisas indesejáveis, coisas que alguma doença, alguma coisa.
+Algumas pessoas tÃªm medo de fazer iridologia porque acham que vÃ£o descobrir coisas indesejÃ¡veis, coisas que alguma doenÃ§a, alguma coisa.
 
-Eu digo já uma coisa para você, a iridologia não faz diagnóstico de doença e o que para nós a gente não consegue determinar uma doença, a gente pode localizar esses fatores que são condicionantes da sua saúde, fatores que podem provocar um adoecimento, um enfraquecimento do sistema imunológico, um problema circulatório.
+Eu digo jÃ¡ uma coisa para vocÃª, a iridologia nÃ£o faz diagnÃ³stico de doenÃ§a e o que para nÃ³s a gente nÃ£o consegue determinar uma doenÃ§a, a gente pode localizar esses fatores que sÃ£o condicionantes da sua saÃºde, fatores que podem provocar um adoecimento, um enfraquecimento do sistema imunolÃ³gico, um problema circulatÃ³rio.
 
 A gente consegue saber:
 
-* se a água que você está bebendo é suficiente, se está com falta de umidade, se a circulação não tá muito boa, todos esses fatores são muito importantes para determinar uma boa saúde.
+* se a Ã¡gua que vocÃª estÃ¡ bebendo Ã© suficiente, se estÃ¡ com falta de umidade, se a circulaÃ§Ã£o nÃ£o tÃ¡ muito boa, todos esses fatores sÃ£o muito importantes para determinar uma boa saÃºde.
 
-* Se seu sangue não circula bem no seu organismo, ele não vai regar bem todos os órgãos, todos os membros.
+* Se seu sangue nÃ£o circula bem no seu organismo, ele nÃ£o vai regar bem todos os Ã³rgÃ£os, todos os membros.
 
-Muitas pessoas que sofrem com problemas de circulação já começam a sentir sintomas como formigamentos, câimbras, e isso a gente consegue ver através dos olhos que já ocorrem os problemas circulatórios e que corroboram com uma anamnese.
+Muitas pessoas que sofrem com problemas de circulaÃ§Ã£o jÃ¡ comeÃ§am a sentir sintomas como formigamentos, cÃ¢imbras, e isso a gente consegue ver atravÃ©s dos olhos que jÃ¡ ocorrem os problemas circulatÃ³rios e que corroboram com uma anamnese.
 
-Muitas vezes as pessoas têm alguns tipos de problemas e vão fazer exames médicos, mas não encontram solução, não encontram uma resposta.
+Muitas vezes as pessoas tÃªm alguns tipos de problemas e vÃ£o fazer exames mÃ©dicos, mas nÃ£o encontram soluÃ§Ã£o, nÃ£o encontram uma resposta.
 
-Mas através da iridologia, a gente consegue descobrir aquilo que a medicina ainda não consegue detectar através dos exames.
+Mas atravÃ©s da iridologia, a gente consegue descobrir aquilo que a medicina ainda nÃ£o consegue detectar atravÃ©s dos exames.
 
-[![](https://i.ibb.co/wFzRms7J/17dfd4877aa2](https://cdn.imweb.me/thumbnail/20201213/3ec9b876f24cd
+[
 
-## 3- A Iridologia se relaciona com alguma ciência?
+## 3- A Iridologia se relaciona com alguma ciÃªncia?
 
-A iridologia ela tem uma conexão muito forte com a medicina chinesa, porque a gente através desse exame, juntamente com anamnese fundamentada nos conhecimentos da medicina chinesa, a gente consegue comprovar de que aquilo que a gente tá vendo nos olhos realmente é aquilo que a pessoa sente.
+A iridologia ela tem uma conexÃ£o muito forte com a medicina chinesa, porque a gente atravÃ©s desse exame, juntamente com anamnese fundamentada nos conhecimentos da medicina chinesa, a gente consegue comprovar de que aquilo que a gente tÃ¡ vendo nos olhos realmente Ã© aquilo que a pessoa sente.
 
-Algumas vezes as pessoas têm algum determinado sintoma e vão ao médico e o médico fala: "Ah, isso é o psicológico, isso é de origem idiopática que não tem origem, que eles não conseguem explicar".
+Algumas vezes as pessoas tÃªm algum determinado sintoma e vÃ£o ao mÃ©dico e o mÃ©dico fala: "Ah, isso Ã© o psicolÃ³gico, isso Ã© de origem idiopÃ¡tica que nÃ£o tem origem, que eles nÃ£o conseguem explicar".
 
-Mais através da tanto da medicina chinesa como da iridologia, a gente consegue descobrir aquilo que a medicina fala que é de origem idiopática, é de origem psicológica.
+Mais atravÃ©s da tanto da medicina chinesa como da iridologia, a gente consegue descobrir aquilo que a medicina fala que Ã© de origem idiopÃ¡tica, Ã© de origem psicolÃ³gica.
 
-A gente consegue ver através dos olhos aquilo que está acontecendo no organismo, se é realmente de origem psicológica, emocional, se é de origem no sistema nervoso, se aquilo que a pessoa está sentindo é devido a um problema circulatório, é devido a alguma substância que está acumulada dentro do seu organismo, está prejudicando algum órgão, ou alguma circulação sanguínea.
+A gente consegue ver atravÃ©s dos olhos aquilo que estÃ¡ acontecendo no organismo, se Ã© realmente de origem psicolÃ³gica, emocional, se Ã© de origem no sistema nervoso, se aquilo que a pessoa estÃ¡ sentindo Ã© devido a um problema circulatÃ³rio, Ã© devido a alguma substÃ¢ncia que estÃ¡ acumulada dentro do seu organismo, estÃ¡ prejudicando algum Ã³rgÃ£o, ou alguma circulaÃ§Ã£o sanguÃ­nea.
 
-Hoje a gente consegue observar no olho da pessoa se ela está comendo açúcar em excesso, gordura em excesso, ou se está comendo saudável.
+Hoje a gente consegue observar no olho da pessoa se ela estÃ¡ comendo aÃ§Ãºcar em excesso, gordura em excesso, ou se estÃ¡ comendo saudÃ¡vel.
 
-Tudo isso são fatores muito importantes e que condicionam ou determinam a saúde da pessoa. A iridologia é uma ferramenta fantástica que pode auxiliar você a se cuidar, aprender a se cuidar.
+Tudo isso sÃ£o fatores muito importantes e que condicionam ou determinam a saÃºde da pessoa. A iridologia Ã© uma ferramenta fantÃ¡stica que pode auxiliar vocÃª a se cuidar, aprender a se cuidar.
 
-De que forma você pode se cuidar melhor? Aqui eu não estou querendo falar de que a iridologia seja um exame superior a outros exames, ou o trabalho do iridologista seja superior ao do médico.
+De que forma vocÃª pode se cuidar melhor? Aqui eu nÃ£o estou querendo falar de que a iridologia seja um exame superior a outros exames, ou o trabalho do iridologista seja superior ao do mÃ©dico.
 
-Eu não falo isso. Eu não estou aqui falando isso para você.
+Eu nÃ£o falo isso. Eu nÃ£o estou aqui falando isso para vocÃª.
 
-Eu estou falando para você que aquilo que a iridologia pode proporcionar para você, o conhecimento que está envolvido nessa ciência, você não vai, pelo menos por enquanto, encontrar.
+Eu estou falando para vocÃª que aquilo que a iridologia pode proporcionar para vocÃª, o conhecimento que estÃ¡ envolvido nessa ciÃªncia, vocÃª nÃ£o vai, pelo menos por enquanto, encontrar.
 
-> Silviane Silvério - Terapeuta Naturologa e Biomédica. Há mais de 15 anos promovendo Bem Estar e Terapias Integrativas e Complementares. Crth br 1741.
+> Silviane SilvÃ©rio - Terapeuta Naturologa e BiomÃ©dica. HÃ¡ mais de 15 anos promovendo Bem Estar e Terapias Integrativas e Complementares. Crth br 1741.
 
   
 
-![](https://i.ibb.co/pv6TQjP8/fe1decb1cee1
 
-# As Bases da Iridologia Alemã
 
-> A Iridologia é uma ciência e arte na qual há a observação, descrição e comprovação de fatos demonstrados no exame iridológico, ou seja, da íris dos olhos. Um livro escrito especialmente sobre a Escola Alemã de Iridologia, uma das mais influentes mundialmente, sendo esta obra uma grande contribuição para a bibliografia brasileira sobre o assunto, que ainda é muito escassa, pois existem pouquíssimas obras editadas em nossa língua que reúnam conteúdo com a didática do Dr. Celso Battello, associadas a excelentes imagens, o que o tornam uma obra de arte. Pode-se dizer que esta obra reflete a experiência de um exímio pesquisador, escritor, defensor e amante da lridologia.
+# As Bases da Iridologia AlemÃ£
+
+> A Iridologia Ã© uma ciÃªncia e arte na qual hÃ¡ a observaÃ§Ã£o, descriÃ§Ã£o e comprovaÃ§Ã£o de fatos demonstrados no exame iridolÃ³gico, ou seja, da Ã­ris dos olhos. Um livro escrito especialmente sobre a Escola AlemÃ£ de Iridologia, uma das mais influentes mundialmente, sendo esta obra uma grande contribuiÃ§Ã£o para a bibliografia brasileira sobre o assunto, que ainda Ã© muito escassa, pois existem pouquÃ­ssimas obras editadas em nossa lÃ­ngua que reÃºnam conteÃºdo com a didÃ¡tica do Dr. Celso Battello, associadas a excelentes imagens, o que o tornam uma obra de arte. Pode-se dizer que esta obra reflete a experiÃªncia de um exÃ­mio pesquisador, escritor, defensor e amante da lridologia.

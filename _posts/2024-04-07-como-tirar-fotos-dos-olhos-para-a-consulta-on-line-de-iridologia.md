@@ -4,68 +4,68 @@ title: "Como tirar fotos dos olhos para a consulta on line de Iridologia?"
 date: 2024-04-07T07:28:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "🎥 Vídeo incorporado(https://www.youtube.com/embed/fYPvIm4eE4s)(https://www.youtube.com/embed/fYPvIm4eE4s)"
+description: "ðŸŽ¥ VÃ­deo incorporado(https://www.youtube.com/embed/fYPvIm4eE4s)(https://www.youtube.com/embed/fYPvIm4eE4s)"
 image: "https://i.ibb.co/PsXfZMKm/9ede602e0403.png"
 ---
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/fYPvIm4eE4s)](https://www.youtube.com/embed/fYPvIm4eE4s)  
+[ðŸŽ¥ [VÃ­deo incorporado](https://www.youtube.com/embed/fYPvIm4eE4s)](https://www.youtube.com/embed/fYPvIm4eE4s)  
   
 
-## 1- Como tirar fotos dos olhos para a consulta on line?
+## 1-Â Como tirar fotos dos olhos para a consulta on line?
 
   
-Olá você que está aqui me assistindo seja bem vindo ao canal fique de olho na sua saúde aqui eu vou explicar como você pode tirar fotos com seu celular e enviar para que eu possa fazer a análise dos sinais dos seus olhos.
+OlÃ¡ vocÃª que estÃ¡ aqui me assistindo seja bem vindo ao canal fique de olho na sua saÃºde aqui eu vou explicar como vocÃª pode tirar fotos com seu celular e enviar para que eu possa fazer a anÃ¡lise dos sinais dos seus olhos.
 
-Para tirar fotos dos seus olhos a primeira coisa que você precisa fazer é baixar um aplicativo  na **Play Store**do seu celular.
+Para tirar fotos dos seus olhos a primeira coisa que vocÃª precisa fazer Ã© baixar um aplicativoÂ  naÂ **Play Store**do seu celular.
 
 <https://play.google.com/store/apps/details?id=com.jkfantasy.camera.jkpmagnifiercamera&hl=en_US>
 
-* Você clica  e escreve o nome Magnífier Câmera é um aplicativo de lupa mais câmera.
+* VocÃª clicaÂ  e escreve o nome MagnÃ­fier CÃ¢mera Ã© um aplicativo de lupa mais cÃ¢mera.
 
 * Clica em instalar.
 
   
 
-* Quando terminar a instalação você clica em abrir.  Aqui ele pergunta: permitir que o aplicativo magnifier câmara tire fotos e gravar vídeos
+* Quando terminar a instalaÃ§Ã£o vocÃª clica em abrir.Â  Aqui ele pergunta: permitir que o aplicativo magnifier cÃ¢mara tire fotos e gravar vÃ­deos
 
-* Clica em permitir aí ele pergunta permitir que o aplicativo magnitude câmera acesse fotos - é aquele no seu dispositivo
+* Clica em permitir aÃ­ ele pergunta permitir que o aplicativo magnitude cÃ¢mera acesse fotos - Ã© aquele no seu dispositivo
 
 * Lique em permitir.
 
   
-Então hoje você já tem instalado seu aplicativo.
+EntÃ£o hoje vocÃª jÃ¡ tem instalado seu aplicativo.
 
-Você pode acessá lo através do seu celular, é só procurar na tela e clicar magnífica câmera então você terá acesso.
+VocÃª pode acessÃ¡ lo atravÃ©s do seu celular, Ã© sÃ³ procurar na tela e clicar magnÃ­fica cÃ¢mera entÃ£o vocÃª terÃ¡ acesso.
 
-![](https://i.ibb.co/PsXfZMKm/9ede602e0403
 
-  
-
-* Aqui você tem uma lupa onde você pode aproximar ou afastar para tirar foto.
-
-* Aqui você pode iluminar mais ou escurecer a foto.
-
-* Aqui você pode aumentar ou reduzir a intensidade da luz do flash nesse caso é utilizado como uma lanterna.
-
-Assim você já tem instalado o aplicativo para tirar foto dos seus olhos.
-
-![](https://i.ibb.co/Vc2wSPBR/8c879bdc0eb5
-
-Você deve olhar para esse local aqui para não afetar a vista e olhar para um lado ao contrário da região do flash.
-
-![](https://i.ibb.co/BKNCzqTM/a2f62687e99d
 
   
 
-Quando você for tirar foto ou pedir a alguém para tirar sua foto é preciso que a câmera do celular fique a uma certa distância de mais ou menos uns 10 centímetros de distância e você olhando para o local o oposto ao que está a lâmpada o celular.
+* Aqui vocÃª tem uma lupa onde vocÃª pode aproximar ou afastar para tirar foto.
 
-![](https://i.ibb.co/8vwvCx3/dae616dc98a4
+* Aqui vocÃª pode iluminar mais ou escurecer a foto.
+
+* Aqui vocÃª pode aumentar ou reduzir a intensidade da luz do flash nesse caso Ã© utilizado como uma lanterna.
+
+Assim vocÃª jÃ¡ tem instalado o aplicativo para tirar foto dos seus olhos.
+
+
+
+VocÃª deve olhar para esse local aqui para nÃ£o afetar a vista e olhar para um lado ao contrÃ¡rio da regiÃ£o do flash.
+
+
 
   
 
-A  pessoa deve colocar uma mão no olho como você vê na foto para auxiliar a abrir o outro olho.
+Quando vocÃª for tirar foto ou pedir a alguÃ©m para tirar sua foto Ã© preciso que a cÃ¢mera do celular fique a uma certa distÃ¢ncia de mais ou menos uns 10 centÃ­metros de distÃ¢ncia e vocÃª olhando para o local o oposto ao que estÃ¡ a lÃ¢mpada o celular.
 
-👉 Então tira uma foto:
+
+
+  
+
+AÂ  pessoa deve colocar uma mÃ£o no olho como vocÃª vÃª na foto para auxiliar a abrir o outro olho.
+
+ðŸ‘‰ EntÃ£o tira uma foto:
 
 * **olhando pra frente**
 * **outra foto olhando para baixo**
@@ -73,20 +73,20 @@ A  pessoa deve colocar uma mão no olho como você vê na foto para auxiliar a 
 * **outra foto olhando para um lado**
 * **mais uma foto olhando para o outro.**
 
-![](https://i.ibb.co/Xf67h68w/8c0e7051249b
 
-São cinco fotos de cada olho como você pode ver assim uma foto olhando para frente uma foto aérea para baixo outra foto olhando para a ação uma foto olhando para o lado e outra foto olhando para o outro.
 
-[![](https://i.ibb.co/8gp5zGzr/3343406ad43f](https://wa.me/5511918531279?text=Ol%C3%A1+vi+o+blog+e+gostaria+de+agendar+uma+consulta.)
+SÃ£o cinco fotos de cada olho como vocÃª pode ver assim uma foto olhando para frente uma foto aÃ©rea para baixo outra foto olhando para a aÃ§Ã£o uma foto olhando para o lado e outra foto olhando para o outro.
 
-> Silviane Silvério - Terapeuta Naturologa e Biomédica. Há mais de 15 anos promovendo Bem Estar e Terapias Integrativas e Complementares. Crth br 1741.
+[)
 
-Mesmo depois que você viu esse vídeo se você continuar com alguma dúvida entre em contato comigo pelo whatsapp  que eu possa esclarecer com maiores detalhes entre no meu site com isso é melhor o meu trabalho eu tenho um consultório virtual de atendimento de naturopatia e iridologia seja bem vindo e fique de olho na sua saúde.
+> Silviane SilvÃ©rio - Terapeuta Naturologa e BiomÃ©dica. HÃ¡ mais de 15 anos promovendo Bem Estar e Terapias Integrativas e Complementares. Crth br 1741.
 
-![](https://i.ibb.co/S7ZcnMyY/76fc79179070
+Mesmo depois que vocÃª viu esse vÃ­deo se vocÃª continuar com alguma dÃºvida entre em contato comigo pelo whatsappÂ  que eu possa esclarecer com maiores detalhes entre no meu site com isso Ã© melhor o meu trabalho eu tenho um consultÃ³rio virtual de atendimento de naturopatia e iridologia seja bem vindo e fique de olho na sua saÃºde.
+
+
 
   
 
-# Pare de se sabotar e dê a volta por cima: Como se livrar dos comportamentos que atrapalham sua vida
+# Pare de se sabotar e dÃª a volta por cima: Como se livrar dos comportamentos que atrapalham sua vida
 
-> "Parar de se sabotar e dar a volta por cima" de Flip Flippen destaca a importância do autoconhecimento para o sucesso. Ao focar nos pontos fracos e comportamentos limitadores, o autor oferece um programa simples para superar limitações pessoais, baseado em exemplos reais de sua carreira como psicoterapeuta. Identificar e corrigir padrões negativos resulta em aumento de produtividade e melhores relacionamentos, impactando positivamente tanto na vida profissional quanto pessoal. Um guia prático para alcançar resultados gratificantes e satisfação pessoal duradoura.
+> "Parar de se sabotar e dar a volta por cima" de Flip Flippen destaca a importÃ¢ncia do autoconhecimento para o sucesso. Ao focar nos pontos fracos e comportamentos limitadores, o autor oferece um programa simples para superar limitaÃ§Ãµes pessoais, baseado em exemplos reais de sua carreira como psicoterapeuta. Identificar e corrigir padrÃµes negativos resulta em aumento de produtividade e melhores relacionamentos, impactando positivamente tanto na vida profissional quanto pessoal. Um guia prÃ¡tico para alcanÃ§ar resultados gratificantes e satisfaÃ§Ã£o pessoal duradoura.

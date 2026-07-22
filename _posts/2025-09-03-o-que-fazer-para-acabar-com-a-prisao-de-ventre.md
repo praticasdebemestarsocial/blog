@@ -1,298 +1,298 @@
 ---
 layout: post
-title: "O que Fazer para Acabar com a Prisão de Ventre?"
+title: "O que Fazer para Acabar com a PrisÃ£o de Ventre?"
 date: 2025-09-03T14:52:00.006Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "O que Fazer para Acabar com a Prisão de Ventre?"
+description: "O que Fazer para Acabar com a PrisÃ£o de Ventre?"
 image: "/assets/img/posts/Intestino-delgado-de-bezerro-com-criptosporidiose-distendido-por-gas-Observa-se+%25281%2529.png"
 ---
 
-## O que Fazer para Acabar com a Prisão de Ventre?
+## O que Fazer para Acabar com a PrisÃ£o de Ventre?
 
-**Autora:** Silviane Silvério
+**Autora:**Â Silviane SilvÃ©rio
 
-**Data:** 03 de setembro de 2025
+**Data:**Â 03 de setembro de 2025
 
-**Tempo médio de leitura:**12 minutos
+**Tempo mÃ©dio de leitura:**12 minutos
 
 **Palavras-chave:**
 
-Prisão de ventre, constipação intestinal, saúde intestinal, intestino saudável,
-prisão de ventre e emocional, iridologia, medicina chinesa
+PrisÃ£o de ventre, constipaÃ§Ã£o intestinal, saÃºde intestinal, intestino saudÃ¡vel,
+prisÃ£o de ventre e emocional, iridologia, medicina chinesa
 
 **Resumo:**
 
-A prisão de ventre, ou constipação intestinal, é um problema comum que afeta
-milhões de pessoas em todo o mundo. Além de causar desconforto físico, pode
-desencadear problemas emocionais e doenças crônicas se não for tratada
+A prisÃ£o de ventre, ou constipaÃ§Ã£o intestinal, Ã© um problema comum que afeta
+milhÃµes de pessoas em todo o mundo. AlÃ©m de causar desconforto fÃ­sico, pode
+desencadear problemas emocionais e doenÃ§as crÃ´nicas se nÃ£o for tratada
 adequadamente.
 
-Este artigo explora as causas, sintomas e consequências da prisão de ventre,
-além de oferecer soluções práticas baseadas na Naturologia, Medicina Chinesa e
-Iridologia. Abordamos também os erros mais comuns cometidos por quem sofre desse
-problema e como evitar complicações futuras.
+Este artigo explora as causas, sintomas e consequÃªncias da prisÃ£o de ventre,
+alÃ©m de oferecer soluÃ§Ãµes prÃ¡ticas baseadas na Naturologia, Medicina Chinesa e
+Iridologia. Abordamos tambÃ©m os erros mais comuns cometidos por quem sofre desse
+problema e como evitar complicaÃ§Ãµes futuras.
 
 **Desenvolvimento:**
 
-## 1. O que é a prisão de ventre?
+## 1. O que Ã© a prisÃ£o de ventre?
 
-A prisão de ventre, também conhecida como constipação intestinal, é
+A prisÃ£o de ventre, tambÃ©m conhecida como constipaÃ§Ã£o intestinal, Ã©
 caracterizada por dificuldade persistente para evacuar, dor ao defecar e/ou
-redução da frequência de evacuações.
+reduÃ§Ã£o da frequÃªncia de evacuaÃ§Ãµes.
 
-Pessoas com prisão de ventre podem chegar a evacuar apenas uma vez por semana, e
-em casos graves, até quinze dias ou um mês. Em situações extremas, a pessoa só
+Pessoas com prisÃ£o de ventre podem chegar a evacuar apenas uma vez por semana, e
+em casos graves, atÃ© quinze dias ou um mÃªs. Em situaÃ§Ãµes extremas, a pessoa sÃ³
 consegue evacuar com medicamentos ou ajuda hospitalar.
 
 Os sintomas incluem:
 
-👉Fezes duras e ressecadas;
+ðŸ‘‰Fezes duras e ressecadas;
 
-👉Sensação de evacuação incompleta;
+ðŸ‘‰SensaÃ§Ã£o de evacuaÃ§Ã£o incompleta;
 
-👉Dor, ardência ou sangramento durante a evacuação.
+ðŸ‘‰Dor, ardÃªncia ou sangramento durante a evacuaÃ§Ã£o.
 
-## 2. O que diz o Ministério da Saúde?
+## 2. O que diz o MinistÃ©rio da SaÃºde?
 
-De acordo com o Ministério da Saúde, cerca de 20% a 30% dos brasileiros sofrem
-com distúrbios gastrointestinais, sendo a prisão de ventre um dos principais
+De acordo com o MinistÃ©rio da SaÃºde, cerca de 20% a 30% dos brasileiros sofrem
+com distÃºrbios gastrointestinais, sendo a prisÃ£o de ventre um dos principais
 problemas.
 
-Mulheres são mais propensas a desenvolver esse quadro, especialmente durante a
-gravidez devido à produção hormonal que lentifica o trânsito intestinal.
+Mulheres sÃ£o mais propensas a desenvolver esse quadro, especialmente durante a
+gravidez devido Ã  produÃ§Ã£o hormonal que lentifica o trÃ¢nsito intestinal.
 
-## 3. A visão da Medicina Convencional
+## 3. A visÃ£o da Medicina Convencional
 
-A Medicina Convencional considera que cada indivíduo tem um padrão diferente de
-evacuação. Para ser diagnosticado com prisão de ventre, a pessoa deve evacuar
+A Medicina Convencional considera que cada indivÃ­duo tem um padrÃ£o diferente de
+evacuaÃ§Ã£o. Para ser diagnosticado com prisÃ£o de ventre, a pessoa deve evacuar
 menos de duas vezes por semana.
 
-No entanto, a Naturologia sugere que uma pessoa saudável deve defecar pelo menos
+No entanto, a Naturologia sugere que uma pessoa saudÃ¡vel deve defecar pelo menos
 uma vez ao dia, idealmente de 1 a 3 vezes.
 
-Estudos indicam que a constipação intestinal começa na infância e é subestimada,
-apesar de sua alta prevalência (Maffei e Morais, 2000).
+Estudos indicam que a constipaÃ§Ã£o intestinal comeÃ§a na infÃ¢ncia e Ã© subestimada,
+apesar de sua alta prevalÃªncia (Maffei e Morais, 2000).
 
-## 4. Minha experiência como terapeuta naturopata
+## 4. Minha experiÃªncia como terapeuta naturopata
 
-Com 10 anos de prática clínica, observo que muitas pessoas não buscam ajuda
-profissional por vergonha ou desconhecimento sobre a importância do intestino
-para a saúde geral.
+Com 10 anos de prÃ¡tica clÃ­nica, observo que muitas pessoas nÃ£o buscam ajuda
+profissional por vergonha ou desconhecimento sobre a importÃ¢ncia do intestino
+para a saÃºde geral.
 
-Algumas evitam falar sobre o problema até mesmo com familiares.
+Algumas evitam falar sobre o problema atÃ© mesmo com familiares.
 
 Outras, ainda, "empurram com a barriga", ignorando os sinais do corpo.
 
-O intestino acumula fezes tóxicas que, se não eliminadas diariamente, intoxicam
-o organismo. Isso pode resultar em diversas doenças crônicas, incluindo câncer.
+O intestino acumula fezes tÃ³xicas que, se nÃ£o eliminadas diariamente, intoxicam
+o organismo. Isso pode resultar em diversas doenÃ§as crÃ´nicas, incluindo cÃ¢ncer.
 
 ## 5. Fisiologia do intestino
 
-Nosso intestino grosso absorve cerca de 1,5 litros de água por dia e produz
-cerca de 150 gramas de fezes diárias (Jaleco, 2021).
+Nosso intestino grosso absorve cerca de 1,5 litros de Ã¡gua por dia e produz
+cerca de 150 gramas de fezes diÃ¡rias (Jaleco, 2021).
 
-![](/assets/img/posts/Intestino-delgado-de-bezerro-com-criptosporidiose-distendido-por-gas-Observa-se+%25281%2529
 
-Ele está conectado a vasos sanguíneos, nervos e nódulos linfáticos,
-comunicando-se diretamente com outros órgãos. Qualquer desequilíbrio no
+
+Ele estÃ¡ conectado a vasos sanguÃ­neos, nervos e nÃ³dulos linfÃ¡ticos,
+comunicando-se diretamente com outros Ã³rgÃ£os. Qualquer desequilÃ­brio no
 intestino pode refletir em todo o corpo.
 
-## 6. Consequências da prisão de ventre
+## 6. ConsequÃªncias da prisÃ£o de ventre
 
-A prisão de ventre pode causar:
+A prisÃ£o de ventre pode causar:
 
-👉Hiperpermeabilidade intestinal (síndrome do intestino permeável);
+ðŸ‘‰Hiperpermeabilidade intestinal (sÃ­ndrome do intestino permeÃ¡vel);
 
-👉Desenvolvimento de alergias alimentares;
+ðŸ‘‰Desenvolvimento de alergias alimentares;
 
-👉Doenças autoimunes;
+ðŸ‘‰DoenÃ§as autoimunes;
 
-👉Problemas como fibromialgia, artrite, psoríase e depressão.
+ðŸ‘‰Problemas como fibromialgia, artrite, psorÃ­ase e depressÃ£o.
 
-Além disso, o acúmulo de toxinas no intestino pode criar um ambiente ácido
-favorável para fungos, bactérias nocivas e parasitas.
+AlÃ©m disso, o acÃºmulo de toxinas no intestino pode criar um ambiente Ã¡cido
+favorÃ¡vel para fungos, bactÃ©rias nocivas e parasitas.
 
-> Quando o intestino apresenta acúmulo de fezes devido à constipação, isso pode
-> causar desconforto, dor abdominal, gases e, em casos mais graves, a formação de
+> Quando o intestino apresenta acÃºmulo de fezes devido Ã  constipaÃ§Ã£o, isso pode
+> causar desconforto, dor abdominal, gases e, em casos mais graves, a formaÃ§Ã£o de
 > **fecalomas** (fezes muito endurecidas que podem obstruir o intestino). Esse
-> quadro não “intoxica” diretamente o corpo todo, porque o fígado e os rins são os
-> responsáveis por eliminar substâncias tóxicas, mas pode comprometer a qualidade
-> de vida e aumentar o risco de algumas complicações.
+> quadro nÃ£o â€œintoxicaâ€ diretamente o corpo todo, porque o fÃ­gado e os rins sÃ£o os
+> responsÃ¡veis por eliminar substÃ¢ncias tÃ³xicas, mas pode comprometer a qualidade
+> de vida e aumentar o risco de algumas complicaÃ§Ãµes.
 >
-> A constipação crônica pode favorecer um ambiente intestinal desfavorável para a
-> flora bacteriana saudável, levando à **disbiose** (desequilíbrio das bactérias
-> intestinais). A disbiose, por sua vez, está associada a distúrbios digestivos,
-> inflamações intestinais e, a longo prazo, pode contribuir para o surgimento de
-> doenças crônicas.
+> A constipaÃ§Ã£o crÃ´nica pode favorecer um ambiente intestinal desfavorÃ¡vel para a
+> flora bacteriana saudÃ¡vel, levando Ã  **disbiose** (desequilÃ­brio das bactÃ©rias
+> intestinais). A disbiose, por sua vez, estÃ¡ associada a distÃºrbios digestivos,
+> inflamaÃ§Ãµes intestinais e, a longo prazo, pode contribuir para o surgimento de
+> doenÃ§as crÃ´nicas.
 >
-> Alimentação rica em **carne processada, frituras, gorduras saturadas, açúcares
-> refinados e farinhas** está relacionada a maior inflamação intestinal e risco de
-> câncer colorretal. Já o consumo insuficiente de fibras, frutas, legumes, cereais
-> integrais e água é uma das principais causas da constipação.
+> AlimentaÃ§Ã£o rica em **carne processada, frituras, gorduras saturadas, aÃ§Ãºcares
+> refinados e farinhas** estÃ¡ relacionada a maior inflamaÃ§Ã£o intestinal e risco de
+> cÃ¢ncer colorretal. JÃ¡ o consumo insuficiente de fibras, frutas, legumes, cereais
+> integrais e Ã¡gua Ã© uma das principais causas da constipaÃ§Ã£o.
 >
-> O intestino é influenciado diretamente pela dieta pois está contribui
-> diretamente no tipo de bactérias que predominam no cólon: dietas pobres em
-> fibras tendem a favorecer bactérias nocivas, enquanto dietas ricas em fibras
-> alimentam bactérias protetoras, que produzem substâncias benéficas para a mucosa
+> O intestino Ã© influenciado diretamente pela dieta pois estÃ¡ contribui
+> diretamente no tipo de bactÃ©rias que predominam no cÃ³lon: dietas pobres em
+> fibras tendem a favorecer bactÃ©rias nocivas, enquanto dietas ricas em fibras
+> alimentam bactÃ©rias protetoras, que produzem substÃ¢ncias benÃ©ficas para a mucosa
 > intestinal.
 
-## 7. O que é hiperpermeabilidade intestinal?
+## 7. O que Ã© hiperpermeabilidade intestinal?
 
 A hiperpermeabilidade intestinal ocorre quando o intestino, constantemente
-agredido, abre lacunas entre suas células. Partículas mal digeridas, fungos e
-bactérias entram na corrente sanguínea, desencadeando inflamações e doenças como
-candidíase, alergias e síndrome do intestino irritável (Assunção, 2021).
+agredido, abre lacunas entre suas cÃ©lulas. PartÃ­culas mal digeridas, fungos e
+bactÃ©rias entram na corrente sanguÃ­nea, desencadeando inflamaÃ§Ãµes e doenÃ§as como
+candidÃ­ase, alergias e sÃ­ndrome do intestino irritÃ¡vel (AssunÃ§Ã£o, 2021).
 
 ## 8. Meu conselho como terapeuta
 
-Cuidar da saúde intestinal é responsabilidade de cada um. Não espere estar em um
-estágio avançado para procurar ajuda.
+Cuidar da saÃºde intestinal Ã© responsabilidade de cada um. NÃ£o espere estar em um
+estÃ¡gio avanÃ§ado para procurar ajuda.
 
-Mudanças alimentares, exercícios físicos e uso adequado de suplementos são
+MudanÃ§as alimentares, exercÃ­cios fÃ­sicos e uso adequado de suplementos sÃ£o
 fundamentais para tratar a raiz do problema.
 
-Portanto, manter um intestino saudável envolve:
+Portanto, manter um intestino saudÃ¡vel envolve:
 
-**✔Ingestão adequada de fibras** (frutas, verduras, legumes, grãos integrais).  
-****✔**Boa hidratação** (água suficiente ao longo do dia).  
-****✔**Atividade física regular**, que ajuda na motilidade intestinal.  
-****✔**Redução de ultraprocessados, frituras e excesso de carnes vermelhas/processadas**.  
-****✔**Atenção aos sinais de alerta** (sangue nas fezes, perda de peso sem motivo, dor persistente), que devem ser investigados por um médico.  
+**âœ”IngestÃ£o adequada de fibras** (frutas, verduras, legumes, grÃ£os integrais).  
+****âœ”**Boa hidrataÃ§Ã£o** (Ã¡gua suficiente ao longo do dia).  
+****âœ”**Atividade fÃ­sica regular**, que ajuda na motilidade intestinal.  
+****âœ”**ReduÃ§Ã£o de ultraprocessados, frituras e excesso de carnes vermelhas/processadas**.  
+****âœ”**AtenÃ§Ã£o aos sinais de alerta** (sangue nas fezes, perda de peso sem motivo, dor persistente), que devem ser investigados por um mÃ©dico.  
 
-## 9. Maiores erros cometidos por quem sofre de prisão de ventre
+## 9. Maiores erros cometidos por quem sofre de prisÃ£o de ventre
 
-👉Automedicação com laxantes sem orientação;
+ðŸ‘‰AutomedicaÃ§Ã£o com laxantes sem orientaÃ§Ã£o;
 
-👉Ignorar a necessidade de mudanças alimentares e estilo de vida;
+ðŸ‘‰Ignorar a necessidade de mudanÃ§as alimentares e estilo de vida;
 
-👉Abusar de ervas e suplementos que podem danificar o intestino.
+ðŸ‘‰Abusar de ervas e suplementos que podem danificar o intestino.
 
-## 10. A visão da Medicina Chinesa
+## 10. A visÃ£o da Medicina Chinesa
 
-A Medicina Chinesa associa a constipação a desequilíbrios em outros órgãos, como
-estômago, baço, fígado, rins e até questões emocionais.
+A Medicina Chinesa associa a constipaÃ§Ã£o a desequilÃ­brios em outros Ã³rgÃ£os, como
+estÃ´mago, baÃ§o, fÃ­gado, rins e atÃ© questÃµes emocionais.
 
 Por exemplo, o excesso de estresse pode afetar diretamente o funcionamento
 intestinal (Grubba, 2018).
 
-## 11. Sintomas de prisão de ventre
+## 11. Sintomas de prisÃ£o de ventre
 
-👉Esforço para evacuar;
+ðŸ‘‰EsforÃ§o para evacuar;
 
-👉Fezes duras e secas;
+ðŸ‘‰Fezes duras e secas;
 
-👉Inchaço abdominal e gases;
+ðŸ‘‰InchaÃ§o abdominal e gases;
 
-👉Mal humor, irritabilidade e até depressão.
+ðŸ‘‰Mal humor, irritabilidade e atÃ© depressÃ£o.
 
-## 12. A Iridologia e a detecção de prisão de ventre
+## 12. A Iridologia e a detecÃ§Ã£o de prisÃ£o de ventre
 
-A Iridologia pode identificar sinais de prisão de ventre relacionados a
-desequilíbrios no metabolismo digestivo, flora intestinal e estado emocional.
+A Iridologia pode identificar sinais de prisÃ£o de ventre relacionados a
+desequilÃ­brios no metabolismo digestivo, flora intestinal e estado emocional.
 Exemplos incluem:
 
-👉Desequilíbrio dos ácidos digestivos
+ðŸ‘‰DesequilÃ­brio dos Ã¡cidos digestivos
 
-👉Estresse e ansiedade afetando o sistema nervoso;
+ðŸ‘‰Estresse e ansiedade afetando o sistema nervoso;
 
-👉Má digestão de gorduras, carboidratos e laticínios.
+ðŸ‘‰MÃ¡ digestÃ£o de gorduras, carboidratos e laticÃ­nios.
 
-Dentre os principais fatores diretos estão o desequilíbrio de ácidos, enzimas
-digestivas, floral intestinal, hormônios e desequilíbrio emocional. E os fatores
-indiretos são o mau metabolismo de gorduras, açúcares, lactose, carboidratos,
-sais e proteínas.
+Dentre os principais fatores diretos estÃ£o o desequilÃ­brio de Ã¡cidos, enzimas
+digestivas, floral intestinal,Â hormÃ´niosÂ e desequilÃ­brio emocional.Â E os fatores
+indiretos sÃ£o o mau metabolismo de gorduras, aÃ§Ãºcares, lactose, carboidratos,
+sais e proteÃ­nas.
 
-                                 
-  [![tempodesaudeiridologia](/assets/img/posts/IRIS3.jpg
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â Â [![tempodesaudeiridologia](/assets/img/posts/IRIS3.jpg
 "tempodesaudeiridologia")](/assets/img/posts/IRIS3
 
-Nesse mapa você pode observar como o intestino se liga com todos os órgãos do
-corpo e muitas vezes disfunções em alguns órgãos podem ser reflexo da condição
+Nesse mapa vocÃª pode observar como o intestino se liga com todos osÂ Ã³rgÃ£osÂ do
+corpo e muitas vezes disfunÃ§Ãµes em algunsÂ Ã³rgÃ£osÂ podem ser reflexo da condiÃ§Ã£o
 do sistema gastrointestinal. Vejamos alguns exemplos:
 
-### Prisão e ventre por um desequilibrios dos ácidos digestivos
+### PrisÃ£o e ventre por um desequilibrios dos Ã¡cidos digestivos
 
 ![tempodesaudeiridologia](/assets/img/posts/iris1.jpg "tempodesaudeiridologia")
 
-Essa pessoa pode estar sofrendo de prisão de ventre por desequilíbrio dos
-ácidos, gerando acúmulo de toxinas que podem afetar o bom funcionamento dos
-rins, podendo vir a causar distúrbios renais como o acúmulo de pedras nos rins
-ou frequentes infecções.  
+Essa pessoa pode estar sofrendo de prisÃ£o de ventre por desequilÃ­brio dos
+Ã¡cidos, gerando acÃºmulo de toxinas que podem afetar o bom funcionamento dos
+rins, podendo vir a causar distÃºrbios renais como o acÃºmulo de pedras nos rins
+ou frequentes infecÃ§Ãµes.Â Â 
 
-É preciso investigar a alimentação, o histórico familiar, pois esse sinais que
-aparecem nos rins são fragilidades de origem genética. É  preciso orientar a
-procura de médico para tratar os casos de infeções ou investigar outras doenças.
-Mas é preciso ter em consideração que para se evitar o desenvolvimento de
-doenças do sistema urinário, é preciso tratar o sistema digestivo para ter um
-resultado integrativo e complementar do tratamento.  
+Ã‰Â preciso investigar a alimentaÃ§Ã£o, o histÃ³rico familiar, pois esse sinais que
+aparecem nos rins sÃ£o fragilidades de origem genÃ©tica. Ã‰Â  preciso orientar a
+procura de mÃ©dico para tratar os casos de infeÃ§Ãµes ou investigar outras doenÃ§as.
+Mas Ã© preciso ter em consideraÃ§Ã£o que para se evitar o desenvolvimento de
+doenÃ§as do sistema urinÃ¡rio, Ã© preciso tratar o sistema digestivo para ter um
+resultado integrativo e complementar do tratamento.Â Â 
 
- 
+Â 
 
-### Prisão e ventre por sistema nervoso e estress.
+### PrisÃ£o e ventre por sistema nervoso e estress.
 
- 
+Â 
 
-![](/assets/img/posts/iris6
 
-    Esse outro exemplo onde a pessoa pode estar sofrendo **prisão de ventre
-devido ao sistema nervoso de muito estresse**, sensação de empachamento,
-sentimento de pessimismo e depressão e o órgão afetado é a pele que está sem
+
+Â Â Â Â Esse outro exemplo onde a pessoa pode estar sofrendoÂ **prisÃ£o de ventre
+devido ao sistema nervoso de muito estresse**, sensaÃ§Ã£o de empachamento,
+sentimento de pessimismo e depressÃ£o e o Ã³rgÃ£o afetado Ã© a pele que estÃ¡ sem
 defesas, deficiente de minerais e onde pode ocorrer diversos acometimentos.
 
-### Prisão e ventre por deficiência de ácidos e enzimas digestivas.
+### PrisÃ£o e ventre por deficiÃªnciaÂ de Ã¡cidos e enzimas digestivas.
 
-![](/assets/img/posts/10a
 
-    Esse outro exemplo a pessoa sofre com prisão de ventre por redução da acidez
-no estômago. Está com  excesso de acidez no sangue  e também sofre de diversas
-manifestações na pele.
 
- 
+Â Â  Â Esse outro exemplo a pessoa sofre com prisÃ£o de ventre porÂ reduÃ§Ã£o da acidez
+no estÃ´mago. EstÃ¡ comÂ Â excesso de acidez no sangueÂ  e tambÃ©m sofre de diversas
+manifestaÃ§Ãµes na pele.
 
-### Prisão e ventre por excesso de toxinas.
+Â 
 
-![](/assets/img/posts/iris11
+### PrisÃ£o e ventre por excesso de toxinas.
 
-     Essa pessoa sofre com prisão de ventre e isso está a prejudicar as funções
-cognitivas cerebrais, como memória e estado de humor e até pode inibir o desejo
-sexual.  
 
-### Prisão e ventre por grave intoxicação do sistema digestivo e toxinas no fígado.
 
-![](/assets/img/posts/iris7
+Â Â Â  Â Essa pessoa sofre com prisÃ£o de ventre e isso estÃ¡ a prejudicar as funÃ§Ãµes
+cognitivas cerebrais, como memÃ³ria e estado de humor e atÃ© pode inibir o desejo
+sexual.Â Â 
 
-    Esse outro exemplo, a pessoa pode sofrer de prisão de ventre severa e isso
-já pode estar afetando diversos sistemas do corpo e as funções cerebrais e
+### PrisÃ£o e ventre por grave intoxicaÃ§Ã£o do sistema digestivo e toxinas no fÃ­gado.
+
+
+
+Â Â  Â Esse outro exemplo, a pessoa pode sofrer de prisÃ£o de ventre severa e isso
+jÃ¡ pode estar afetando diversos sistemas do corpo e as funÃ§ÃµesÂ cerebrais e
 alterando o seu estado de humor drasticamente.
 
-### Prisão e ventre por acúmulo de mau metabolismo de gorduras e sais.
+### PrisÃ£o e ventre por acÃºmulo de mau metabolismo de gorduras e sais.
 
-![](/assets/img/posts/iris8
 
-      Neste outro caso a pessoa sofre de prisão de ventre devido a mau
-metabolismo de gorduras e sais minerais e ainda por conta da sua genética pode
-ter alterações hormonais e fraqueza imunológica devido a essa prisão de ventre.
 
-### Prisão e ventre por intolerância ao leite e derivados e ansiedade.
+Â Â  Â Â Â Neste outro caso a pessoa sofre de prisÃ£o de ventre devido a mau
+metabolismo de gorduras e sais minerais e ainda por conta da sua genÃ©tica pode
+ter alteraÃ§Ãµes hormonais e fraqueza imunolÃ³gica devido a essa prisÃ£o de ventre.
 
-![](/assets/img/posts/iris9
+### PrisÃ£o e ventre por intolerÃ¢ncia ao leite e derivados e ansiedade.
 
-    Neste caso a pessoa sofre de prisão de ventre devido ao acesso de ansiedade
-e o metabolismo do baco pâncreas, má digestão de carboidratos e laticínios.
 
-**Conclusão**
 
-A prisão de ventre é mais do que um incômodo temporário; é um sinal de alerta
-para cuidar melhor da saúde intestinal e emocional.
+Â Â  Â Neste caso a pessoa sofre de prisÃ£o de ventre devido ao acesso de ansiedade
+e o metabolismo do baco pÃ¢ncreas, mÃ¡ digestÃ£o de carboidratos e laticÃ­nios.
 
-Com mudanças simples no estilo de vida, acompanhamento profissional e
-ferramentas como a Iridologia e Medicina Chinesa, é possível recuperar a saúde e
-prevenir doenças crônicas.
+**ConclusÃ£o**
 
-**Referências Bibliográficas:**
+A prisÃ£o de ventre Ã© mais do que um incÃ´modo temporÃ¡rio; Ã© um sinal de alerta
+para cuidar melhor da saÃºde intestinal e emocional.
 
-LIBBS. **O que é e quais são as causas da prisão de ventre?** 2021. Disponível
+Com mudanÃ§as simples no estilo de vida, acompanhamento profissional e
+ferramentas como a Iridologia e Medicina Chinesa, Ã© possÃ­vel recuperar a saÃºde e
+prevenir doenÃ§as crÃ´nicas.
+
+**ReferÃªncias BibliogrÃ¡ficas:**
+
+LIBBS.Â **O que Ã© e quais sÃ£o as causas da prisÃ£o de ventre?**Â 2021. DisponÃ­vel
 em:
 https://www.libbs.com.br/blog-muvinlax/o-que-e-e-quais-sao-as-causas-da-prisao-de-ventre/.
 Acesso em: 15 ago. 2021.
@@ -301,57 +301,57 @@ REIS, A. C. .; CARVALHO, G. da S.; SOUSA, N. L. da S. .; SANTOS, G. M. dos .;
 SOUSA, P. V. de L.; BARROS, N. V. dos A. Signs and symptoms suggestive of
 intestinal dybiosis in the brazilian population: a literature review. Research,
 Society and Development, [S. l.], v. 11, n. 9, p. e56111932094, 2022. DOI:
-10.33448/rsd-v11i9.32094. Disponível
-em: <https://rsdjournal.org/index.php/rsd/article/view/>32094. Acesso em: 25
+10.33448/rsd-v11i9.32094. DisponÃ­vel
+em:Â <https://rsdjournal.org/index.php/rsd/article/view/>32094. Acesso em: 25
 may. 2025.
 
-LOURENÇO, Rafael. **Artérias, veias e nervos do intestino grosso**. 2021.
-Disponível em:
+LOURENÃ‡O, Rafael.Â **ArtÃ©rias, veias e nervos do intestino grosso**. 2021.
+DisponÃ­vel em:
 https://www.kenhub.com/pt/library/anatomia/arterias-veias-e-nervos-do-intestino-grosso.
 Acesso em: 16 ago. 2021.
 
-MAFFEI, Helga Verena L.; MORAIS, Mauro Batista de. Constipação
-intestinal. **Jornal de Pediatria**: Sociedade Brasileira de Pediatria, [*s.
-l*], p. 147, 2000. Disponível em:
+MAFFEI, Helga Verena L.; MORAIS, Mauro Batista de. ConstipaÃ§Ã£o
+intestinal.Â **Jornal de Pediatria**: Sociedade Brasileira de Pediatria, [*s.
+l*], p. 147, 2000. DisponÃ­vel em:
 http://jped.com.br/conteudo/00-76-S147/port.pdf. Acesso em: 15 ago. 2021.
 
-JALECO. **Absorção intestinal de água e eletrólitos**. Disponível em:
+JALECO.Â **AbsorÃ§Ã£o intestinal de Ã¡gua e eletrÃ³litos**. DisponÃ­vel em:
 https://jaleko-files.s3-sa-east-1.amazonaws.com/apostila-web/1554156446-fisiologia_gastrointestinal_absorcao_intestinal_de_agua_e_de_eletrolitos.pdf.
 Acesso em: 16 ago. 2021.
 
-GRUBBA, Rita. **Medicina Chinesa - Acupuntura e constipação intestinal"**. 2018.
-Disponível em:
+GRUBBA, Rita.Â **Medicina Chinesa - Acupuntura e constipaÃ§Ã£o intestinal"**. 2018.
+DisponÃ­vel em:
 https://ocp.news/colunista/rita-grubba/medicina-chinesa-acupuntura-e-constipacao-intestinal.
 Acesso em: 16 ago. 2021.
 
-ZANIN, Tatiana. **9 sintomas de prisão de ventre e como evitar**. 2021.
-Disponível em: https://www.tuasaude.com/sintomas-de-prisao-de-ventre/. Acesso
+ZANIN, Tatiana.Â **9 sintomas de prisÃ£o de ventre e como evitar**. 2021.
+DisponÃ­vel em: https://www.tuasaude.com/sintomas-de-prisao-de-ventre/. Acesso
 em: 16 ago. 2021.
 
-ASSUNÇÃO, Juliana Paula Bagatin Piveta. **Hiperpermeabilidade Intestinal: Origem
-de muitas doenças**. 2021. Disponível em:
+ASSUNÃ‡ÃƒO, Juliana Paula Bagatin Piveta.Â **Hiperpermeabilidade Intestinal: Origem
+de muitas doenÃ§as**. 2021. DisponÃ­vel em:
 https://rsaude.com.br/maringa/materia/hiperpermeabilidade-intestinal-origem-de-muitas-doencas/5888.
 Acesso em: 16 ago. 2021.
 
-**REFERÊNCIAS DE IMAGEM**
+**REFERÃŠNCIAS DE IMAGEM**
 
-1- VARGAS JUNIOR, Sergio F.; MARCOLONGO-PEREIRA, Clairton; ADRIEN, Maria de
-Lourdes; FISS, Letícia; MOLARINHO, Kayane R.; SOARES, Mauro Pereira; SCHILD, Ana
+1-Â VARGAS JUNIOR, Sergio F.; MARCOLONGO-PEREIRA, Clairton; ADRIEN, Maria de
+Lourdes; FISS, LetÃ­cia; MOLARINHO, Kayane R.; SOARES, Mauro Pereira; SCHILD, Ana
 Lucia; SALLIS, Eliza Simone V.. Surto de criptosporidiose em bezerros no Sul do
-Rio Grande do Sul. **Pesquisa Veterinária Brasileira**, [S.L.], v. 34, n. 8, p.
+Rio Grande do Sul.Â **Pesquisa VeterinÃ¡ria Brasileira**, [S.L.], v. 34, n. 8, p.
 749-752, ago. 2014. FapUNIFESP (SciELO).
-http://dx.doi.org/10.1590/s0100-736x2014000800007. Disponível em:
+http://dx.doi.org/10.1590/s0100-736x2014000800007. DisponÃ­vel em:
 https://www.researchgate.net/publication/307832152_Surto_de_criptosporidiose_em_bezerros_no_Sul_do_Rio_Grande_do_Sul.
-Acesso em: 16 ago. 2021.LIBBS. O que é e quais são as causas da prisão de
+Acesso em: 16 ago. 2021.LIBBS. O que Ã© e quais sÃ£o as causas da prisÃ£o de
 ventre? 2021.
 
 Para citar este artigo (ABNT):
 
-SILVÉRIO, Silviane de Souza. O que fazer para acabar com a prisão de ventre?
-2021. Tempo de Saúde. Disponível em: [link]. Acesso em: [insira a data].
+SILVÃ‰RIO, Silviane de Souza. O que fazer para acabar com a prisÃ£o de ventre?
+2021. Tempo de SaÃºde. DisponÃ­vel em: [link]. Acesso em: [insira a data].
 
 ![tempodesaudeiridologia](/assets/img/posts/euu.jpg "tempodesaudeiridologia")
 
-> "Quando utilizamos uma ferramenta que pode dar luz a respeito **desses fatores nocivos e prejudiciais para o nosso organismo** podemos ter uma informação  relevante a respeito de que forma podemos cuidar melhor do nosso corpo, da nossa saúde, da alimentação e do nosso estado emocional."
+> "Quando utilizamos uma ferramenta que pode dar luz a respeitoÂ **desses fatores nocivos e prejudiciais para o nosso organismo**Â podemos ter uma informaÃ§Ã£oÂ  relevante a respeito deÂ que forma podemos cuidar melhor do nosso corpo, da nossa saÃºde, da alimentaÃ§Ã£o e do nosso estado emocional."
 
-Silviane Silvério - Terapeuta Naturopata - Crth br 1741.
+Silviane SilvÃ©rio - Terapeuta Naturopata - Crth br 1741.

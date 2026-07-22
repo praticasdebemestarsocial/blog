@@ -1,164 +1,164 @@
 ---
 layout: post
-title: "Quem é  Daniele Lo Ritto? Médico e pesquisador italiano especializado em iridologia"
+title: "Quem Ã©  Daniele Lo Ritto? MÃ©dico e pesquisador italiano especializado em iridologia"
 date: 2025-02-10T17:24:00.012Z
 tags: ["autores da iridologia"]
 categories: ["bem-estar"]
-description: "Quem é  Daniele Lo Ritto? Médico e pesquisador italiano especializado em iridologia"
+description: "Quem Ã©Â  Daniele Lo Ritto? MÃ©dico e pesquisador italiano especializado em iridologia"
 image: "https://i.ibb.co/dsj60dwv/4f19e8dacdda.png"
 ---
 
-![](https://i.ibb.co/dsj60dwv/4f19e8dacdda
 
-## Quem é  Daniele Lo Ritto? Médico e pesquisador italiano especializado em iridologia
 
-**Autora:** Silviane Silvério
+## Quem Ã©Â  Daniele Lo Ritto? MÃ©dico e pesquisador italiano especializado em iridologia
+
+**Autora:** Silviane SilvÃ©rio
 
 **Data:** 15 de outubro de 2025
 
-**Tempo médio de leitura:** 5 minutos
+**Tempo mÃ©dio de leitura:** 5 minutos
 
 **Palavras-chave:** Daniele Lo Rito, borda pupilar interna, cronorischio,
-tempo-risco, iridologia dinâmica, microdiagnóstico, padrões temporais na íris
+tempo-risco, iridologia dinÃ¢mica, microdiagnÃ³stico, padrÃµes temporais na Ã­ris
 
 **Resumo**
 
-Daniele Lo Rito é um médico e pesquisador italiano que transformou a iridologia
-de uma prática descritiva em uma ciência temporal e multidimensional. Ao focar
-na borda pupilar interna (OPI) e introduzir o conceito de “cronorischio” (risco
-temporal), ele revelou que a íris não apenas reflete o estado atual do
-organismo, mas também registra ciclos de predisposição, evolução e
+Daniele Lo Rito Ã© um mÃ©dico e pesquisador italiano que transformou a iridologia
+de uma prÃ¡tica descritiva em uma ciÃªncia temporal e multidimensional. Ao focar
+na borda pupilar interna (OPI) e introduzir o conceito de â€œcronorischioâ€ (risco
+temporal), ele revelou que a Ã­ris nÃ£o apenas reflete o estado atual do
+organismo, mas tambÃ©m registra ciclos de predisposiÃ§Ã£o, evoluÃ§Ã£o e
 vulnerabilidade ao longo do tempo.
 
-Suas obras, como The Inner Pupillary Border e Time Risk, são referências
-essenciais para quem busca compreender a iridologia como um diário biológico do
-corpo, e não apenas um mapa anatômico.
+Suas obras, como The Inner Pupillary Border e Time Risk, sÃ£o referÃªncias
+essenciais para quem busca compreender a iridologia como um diÃ¡rio biolÃ³gico do
+corpo, e nÃ£o apenas um mapa anatÃ´mico.
 
 **Desenvolvimento**
 
-Daniele Lo Rito não se contenta em ler a íris como um mapa estático de órgãos —
-ele a lê como um relógio biológico.
+Daniele Lo Rito nÃ£o se contenta em ler a Ã­ris como um mapa estÃ¡tico de Ã³rgÃ£os â€”
+ele a lÃª como um relÃ³gio biolÃ³gico.
 
-Enquanto a iridologia clássica se concentra em lacunas, pigmentações e vasos na
-íris como sinais de “órgãos de choque”, Lo Rito desloca o foco para uma região
-antes negligenciada: a borda pupilar interna (OPI) — a linha fina e complexa que
-separa a pupila da íris.
+Enquanto a iridologia clÃ¡ssica se concentra em lacunas, pigmentaÃ§Ãµes e vasos na
+Ã­ris como sinais de â€œÃ³rgÃ£os de choqueâ€, Lo Rito desloca o foco para uma regiÃ£o
+antes negligenciada: a borda pupilar interna (OPI) â€” a linha fina e complexa que
+separa a pupila da Ã­ris.
 
-Ele demonstrou, por meio de milhares de análises clínicas, que alterações sutis
-nessa borda — como retrações, assimetrias, espessamentos, descontinuidades ou
-padrões em “serra” — não são acidentes anatômicos, mas registros cronológicos de
-estresse, trauma e desequilíbrio sistêmico.
+Ele demonstrou, por meio de milhares de anÃ¡lises clÃ­nicas, que alteraÃ§Ãµes sutis
+nessa borda â€” como retraÃ§Ãµes, assimetrias, espessamentos, descontinuidades ou
+padrÃµes em â€œserraâ€ â€” nÃ£o sÃ£o acidentes anatÃ´micos, mas registros cronolÃ³gicos de
+estresse, trauma e desequilÃ­brio sistÃªmico.
 
-## **O conceito revolucionário: Cronorischio – O Risco do Tempo**
+## **O conceito revolucionÃ¡rio: Cronorischio â€“ O Risco do Tempo**
 
-Em suas obras fundamentais — Il Cronorischio (1993), Cronorischio (1998) e Time
-Risk – New Acquisitions in Iridology — Lo Rito introduz o termo cronorischio,
-que pode ser traduzido como “risco temporal”.
+Em suas obras fundamentais â€” Il Cronorischio (1993), Cronorischio (1998) e Time
+Risk â€“ New Acquisitions in Iridology â€” Lo Rito introduz o termo cronorischio,
+que pode ser traduzido como â€œrisco temporalâ€.
 
-Esse conceito propõe que:
+Esse conceito propÃµe que:
 
-A íris armazena memórias de eventos biológicos ao longo do tempo;
+A Ã­ris armazena memÃ³rias de eventos biolÃ³gicos ao longo do tempo;
 
-A borda pupilar atua como um cronômetro interno, refletindo quando um órgão ou
-sistema começou a se desequilibrar;
+A borda pupilar atua como um cronÃ´metro interno, refletindo quando um Ã³rgÃ£o ou
+sistema comeÃ§ou a se desequilibrar;
 
-### **Certos padrões na OPI indicam fases específicas de vulnerabilidade:**
+### **Certos padrÃµes na OPI indicam fases especÃ­ficas de vulnerabilidade:**
 
-→ Fase 1: predisposição genética;
+â†’ Fase 1: predisposiÃ§Ã£o genÃ©tica;
 
-→ Fase 2: estresse crônico;
+â†’ Fase 2: estresse crÃ´nico;
 
-→ Fase 3: descompensação funcional;
+â†’ Fase 3: descompensaÃ§Ã£o funcional;
 
-→ Fase 4: manifestação clínica da doença.
+â†’ Fase 4: manifestaÃ§Ã£o clÃ­nica da doenÃ§a.
 
-Isso significa que, anos antes de um sintoma aparecer, a íris já registra os
-sinais da futura doença — e o profissional treinado em Lo Rito pode identificar
-esses padrões, orientando intervenções preventivas com precisão temporal.
+Isso significa que, anos antes de um sintoma aparecer, a Ã­ris jÃ¡ registra os
+sinais da futura doenÃ§a â€” e o profissional treinado em Lo Rito pode identificar
+esses padrÃµes, orientando intervenÃ§Ãµes preventivas com precisÃ£o temporal.
 
-## **A borda pupilar: o microscópio da saúde**
+## **A borda pupilar: o microscÃ³pio da saÃºde**
 
-Lo Rito não apenas descreveu a OPI — ele a classificou, sistematizou e validou
+Lo Rito nÃ£o apenas descreveu a OPI â€” ele a classificou, sistematizou e validou
 clinicamente. Em sua abordagem:
 
-👉Uma borda regular e contínua indica equilíbrio e vitalidade;
+ðŸ‘‰Uma borda regular e contÃ­nua indica equilÃ­brio e vitalidade;
 
-Uma borda irregular, dentada ou fragmentada sugere estresse crônico, inflamação
-ou disfunção hormonal;
+Uma borda irregular, dentada ou fragmentada sugere estresse crÃ´nico, inflamaÃ§Ã£o
+ou disfunÃ§Ã£o hormonal;
 
-Retrações na OPI podem indicar déficit de nutrientes, toxinas acumuladas ou
-trauma emocional não resolvido;
+RetraÃ§Ãµes na OPI podem indicar dÃ©ficit de nutrientes, toxinas acumuladas ou
+trauma emocional nÃ£o resolvido;
 
-Espessamentos podem sinalizar hipertensão, predisposição a doenças
-cardiovasculares ou desequilíbrio autonômico.
+Espessamentos podem sinalizar hipertensÃ£o, predisposiÃ§Ã£o a doenÃ§as
+cardiovasculares ou desequilÃ­brio autonÃ´mico.
 
-Essa análise é multidimensional: ela combina forma, cor, textura, simetria e
-posição — tudo em relação ao tempo de vida do indivíduo.
+Essa anÃ¡lise Ã© multidimensional: ela combina forma, cor, textura, simetria e
+posiÃ§Ã£o â€” tudo em relaÃ§Ã£o ao tempo de vida do indivÃ­duo.
 
 **Uma nova epistemologia para a iridologia**
 
-Lo Rito desafia a ideia de que a iridologia é “pseudociência” por falta de
-fundamentação. Ele não oferece “mapas de órgãos”, mas protocolos de leitura
-temporal. Seu trabalho é baseado em:
+Lo Rito desafia a ideia de que a iridologia Ã© â€œpseudociÃªnciaâ€ por falta de
+fundamentaÃ§Ã£o. Ele nÃ£o oferece â€œmapas de Ã³rgÃ£osâ€, mas protocolos de leitura
+temporal. Seu trabalho Ã© baseado em:
 
-Observação clínica rigorosa de milhares de casos;
+ObservaÃ§Ã£o clÃ­nica rigorosa de milhares de casos;
 
-Documentação fotográfica longitudinal (fotos da íris ao longo do tempo);
+DocumentaÃ§Ã£o fotogrÃ¡fica longitudinal (fotos da Ã­ris ao longo do tempo);
 
-Integração com a medicina funcional e a fisiologia do estresse.
+IntegraÃ§Ã£o com a medicina funcional e a fisiologia do estresse.
 
-Ele não busca “diagnosticar câncer” pela íris — busca identificar quando e por
-que o corpo começou a se desequilibrar.
+Ele nÃ£o busca â€œdiagnosticar cÃ¢ncerâ€ pela Ã­ris â€” busca identificar quando e por
+que o corpo comeÃ§ou a se desequilibrar.
 
-**Conclusão**
+**ConclusÃ£o**
 
-Daniele Lo Rito nos lembra que a saúde não é um estado, mas um processo — e que
-os olhos, como espelho do tempo biológico, registram esse processo com precisão.
+Daniele Lo Rito nos lembra que a saÃºde nÃ£o Ã© um estado, mas um processo â€” e que
+os olhos, como espelho do tempo biolÃ³gico, registram esse processo com precisÃ£o.
 
-Sua contribuição é uma revolução silenciosa:
+Sua contribuiÃ§Ã£o Ã© uma revoluÃ§Ã£o silenciosa:
 
-“A íris não mostra o que você tem. Mostra o que você foi, o que você está se
-tornando, e o que ainda pode ser.”
+â€œA Ã­ris nÃ£o mostra o que vocÃª tem. Mostra o que vocÃª foi, o que vocÃª estÃ¡ se
+tornando, e o que ainda pode ser.â€
 
 Ao estudar a borda pupilar, Lo Rito nos convida a deixar de ver a iridologia
-como uma técnica de “leitura de mapa” e a passar a vê-la como uma linguagem de
-tempo, memória e resiliência.
+como uma tÃ©cnica de â€œleitura de mapaâ€ e a passar a vÃª-la como uma linguagem de
+tempo, memÃ³ria e resiliÃªncia.
 
-Seu legado é para os terapeutas que buscam ir além do sintoma — e entender o
+Seu legado Ã© para os terapeutas que buscam ir alÃ©m do sintoma â€” e entender o
 ritmo da vida que se expressa nos olhos.
 
-**Referências Bibliográficas**
+**ReferÃªncias BibliogrÃ¡ficas**
 
-LO RITO, Daniele. The Inner Pupillary Border – A Multidimensional Approach.
+LO RITO, Daniele. The Inner Pupillary Border â€“ A Multidimensional Approach.
 Rome: Iridology Research Center, 2005.
 
-LO RITO, Daniele. Time Risk – New Acquisitions in Iridology. Rome: Iridology
+LO RITO, Daniele. Time Risk â€“ New Acquisitions in Iridology. Rome: Iridology
 Research Center, 1998.
 
 LO RITO, Daniele. Il Cronorischio, nuove acquisizioni in Iridologia. Rome:
 Edizioni Iridologia, 1993.
 
-**Para conhecer mais sobre meu trabalho, acesse meu currículo Lattes:**
+**Para conhecer mais sobre meu trabalho, acesse meu currÃ­culo Lattes:**
 
-**🔗 <http://lattes.cnpq.br/7481458793724724>**
+**ðŸ”— <http://lattes.cnpq.br/7481458793724724>**
 
 **(**ID Lattes: 7481458793724724)
 
-Um forte abraço,
+Um forte abraÃ§o,
 
-Silviane Silvério
+Silviane SilvÃ©rio
 
 Mapas do Autoconhecimento
 
-### Referências Bibliograficas:
+### ReferÃªncias Bibliograficas:
 
-IRIDOSOPHIA. **Daniele Lo Rito**. s/f. Disponível em:
+IRIDOSOPHIA.Â **Daniele Lo Rito**. s/f. DisponÃ­vel em:
 <https://www.iridosophia.com/en/about-me/daniele-lo-rito-en.html>. Acesso em: 10
 fev. 2025.
 
-AIOB. **Dott. Lo Rito Daniele**. s/d. Disponível em:
+AIOB.Â **Dott. Lo Rito Daniele**. s/d. DisponÃ­vel em:
 <https://www.aiob.it/sede/dott-daniele-lo-rito/>. Acesso em: 10 fev. 2025.
 
-NATUROPATIA, Instituto Brasileiro de Iridologia e. **Covid 19 e o Tempo Kayrós
-com Dr. Daniele Lo Rito**. 2021. Disponível em:
+NATUROPATIA, Instituto Brasileiro de Iridologia e.Â **Covid 19 e o Tempo KayrÃ³s
+com Dr. Daniele Lo Rito**. 2021. DisponÃ­vel em:
 <https://www.youtube.com/watch?v=x3ppVfxhfTk>. Acesso em: 10 set. 2025.

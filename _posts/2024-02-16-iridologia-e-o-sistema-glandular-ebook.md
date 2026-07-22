@@ -8,24 +8,24 @@ description: "Iridologia e Sistema Glandular"
 image: "https://i.ibb.co/Mkp7MVwV/297bfeb46f9a.png"
 ---
 
-![](https://i.ibb.co/Mkp7MVwV/297bfeb46f9a
+
 
 # Iridologia e Sistema Glandular
 
 Explorando a Iridologia e o Sistema Glandular
 
-Neste e-book, vamos mergulhar no reconhecimento e na localização precisa e objetiva do sistema glandular através do tecido iridiano, bem como aprender a tratar e equilibrar esse sistema.
+Neste e-book, vamos mergulhar no reconhecimento e na localizaÃ§Ã£o precisa e objetiva do sistema glandular atravÃ©s do tecido iridiano, bem como aprender a tratar e equilibrar esse sistema.
 
-Tópicos incluídos:
+TÃ³picos incluÃ­dos:
 
-- Glândulas Endócrinas e Exócrinas;
+- GlÃ¢ndulas EndÃ³crinas e ExÃ³crinas;
 
 - Hipotireoidismo/Hipertireoidismo;
 
-- Desequilíbrios Glandulares;
+- DesequilÃ­brios Glandulares;
 
-- Órgãos, Funções, Sintomas Agudos e Crônicos.
+- Ã“rgÃ£os, FunÃ§Ãµes, Sintomas Agudos e CrÃ´nicos.
 
-Este é um eBook disponível em formato PDF, com garantia de satisfação de 7 dias.
+Este Ã© um eBook disponÃ­vel em formato PDF, com garantia de satisfaÃ§Ã£o de 7 dias.
 
-Com uma taxa de 100% de avaliações positivas, Clodoaldo Pacheco é um escritor, professor, filósofo e doutor em Naturopatia com especialização em Iridologia Clássica Europeia. Além disso, é Terapeuta Floral, Mestre em P.N.L., e possui experiência em Coaching Pessoal e Empresarial. Sua pesquisa e estudo também abrangem a Ciência e a arte da Fisiognomonia.
+Com uma taxa de 100% de avaliaÃ§Ãµes positivas, Clodoaldo Pacheco Ã© um escritor, professor, filÃ³sofo e doutor em Naturopatia com especializaÃ§Ã£o em Iridologia ClÃ¡ssica Europeia. AlÃ©m disso, Ã© Terapeuta Floral, Mestre em P.N.L., e possui experiÃªncia em Coaching Pessoal e Empresarial. Sua pesquisa e estudo tambÃ©m abrangem a CiÃªncia e a arte da Fisiognomonia.

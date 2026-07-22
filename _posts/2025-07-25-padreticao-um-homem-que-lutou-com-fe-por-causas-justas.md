@@ -1,127 +1,127 @@
 ---
 layout: post
-title: "PadreTicão um homem que lutou com fé por causas justas."
+title: "PadreTicÃ£o um homem que lutou com fÃ© por causas justas."
 date: 2025-07-25T06:23:00.005Z
 tags: ["plantas medicinais"]
 categories: ["bem-estar"]
-description: "PadreTicão um homem que lutou com fé por causas justas."
+description: "PadreTicÃ£o um homem que lutou com fÃ© por causas justas."
 image: "/assets/img/posts/Padre_Tic%C3%A3o_um_homem_que_lutou_com_f%C3%A9_por_causas_justas.png"
 ---
 
-![](/assets/img/posts/Padre_Tic%C3%A3o_um_homem_que_lutou_com_f%C3%A9_por_causas_justas
 
-# PadreTicão um homem que lutou com fé por causas justas.
 
-## Quem era padre Ticão?
+# PadreTicÃ£o um homem que lutou com fÃ© por causas justas.
 
-O padre Antônio Luís Marchioni, mais conhecido como Padre Ticão, não é só
-experiente no sacerdócio, mas também  um professor e um revolucionário nas luta
-das causas sociais.  
+## Quem era padre TicÃ£o?
 
-O religioso católico foi  um líder comunitário em Ermelino Matarazzo, na zona
-leste de São Paulo, onde fica sua paróquia.  
+O padre AntÃ´nio LuÃ­s Marchioni, mais conhecido como Padre TicÃ£o, nÃ£o Ã© sÃ³
+experiente no sacerdÃ³cio, mas tambÃ©mÂ  um professor e um revolucionÃ¡rio nas luta
+das causas sociais.Â Â 
 
-Lutava  pelo direito à saúde para todos de uma forma complementar e natural.
+O religioso catÃ³lico foiÂ  um lÃ­der comunitÃ¡rio em Ermelino Matarazzo, na zona
+leste de SÃ£o Paulo, onde fica sua parÃ³quia.Â Â 
 
-[![](https://www.cannabisesaude.com.br/wp-content/uploads/2020/04/padre-ticao](https://www.cannabisesaude.com.br/wp-content/uploads/2020/04/padre-ticao
+LutavaÂ  pelo direito Ã  saÃºde para todos de uma forma complementar e natural.
 
-## Por que padre Ticão era um professor?
+[
+
+## Por que padre TicÃ£o era um professor?
 
 Ele desenvolveu um Curso de Naturopatia e outro para estudar a Cannabis
-Medicinal – ambos em parceria e certificadas pela Universidade Federal de São
-Paulo.  
+Medicinal â€“ ambos em parceria e certificadas pela Universidade Federal de SÃ£o
+Paulo.Â Â 
 
-Ele sonhava em tornar o povo independente daquilo que ele chama de **“medicina
-do mercado”.**
+Ele sonhava em tornar o povo independente daquilo que ele chama deÂ **â€œmedicina
+do mercadoâ€.**
 
-![](/assets/img/posts/padreticaocannabis
 
-## Por que o padre Ticão era um revolucionário?
 
-O padre Ticão tem uma longa trajetória no sacerdócio: foram quase 50 anos, dos
-quais 38 à frente da igreja de São Francisco de Assis, em Ermelino Matarazzo,
-Zona Leste de São Paulo.  
+## Por que o padre TicÃ£o era um revolucionÃ¡rio?
 
-O padre ficou conhecido pelas lutas que encabeça ao lado do povo, notadamente as
-causas sociais de moradia e saúde.
+O padre TicÃ£o tem uma longa trajetÃ³ria no sacerdÃ³cio: foram quase 50 anos, dos
+quais 38 Ã  frente da igreja de SÃ£o Francisco de Assis, em Ermelino Matarazzo,
+Zona Leste de SÃ£o Paulo.Â Â 
 
-Como uma região densamente povoada, a zona leste abriga cerca de 4 milhões de
-pessoas e tinha uma imensa necessidade de postos de saúde e hospitais e com a
-ajuda dele aconteceram muitas conquistas.  
+O padre ficou conhecido pelas lutas que encabeÃ§a ao lado do povo, notadamente as
+causas sociais de moradia e saÃºde.
 
-[![](https://www.cannabisesaude.com.br/wp-content/uploads/2022/01/padre-ticao-e-elisaldo-carlini](https://www.cannabisesaude.com.br/wp-content/uploads/2022/01/padre-ticao-e-elisaldo-carlini
+Como uma regiÃ£o densamente povoada, a zona leste abriga cerca de 4 milhÃµes de
+pessoas e tinha uma imensa necessidade de postos de saÃºde e hospitais e com a
+ajuda dele aconteceram muitas conquistas.Â Â 
+
+[
 
   
 
-Padre Ticão com Dr Carlili
+Padre TicÃ£o com Dr Carlili
 
-## Como o padre Ticão deu início aos ensinamentos sobre saúde?
+## Como o padre TicÃ£o deu inÃ­cio aos ensinamentos sobre saÃºde?
 
-Ele iniciou reuniões sobre saúde no salão da igreja na zona Leste de São Paulo
-para falar sobre temas específicos como:
+Ele iniciou reuniÃµes sobre saÃºde no salÃ£o da igreja na zona Leste de SÃ£o Paulo
+para falar sobre temas especÃ­ficos como:
 
 * **diabetes,**
-* **câncer,**
-* **depressão.**
+* **cÃ¢ncer,**
+* **depressÃ£o.**
 
- A seguir ele teve a idéia de criar uma formação para as pessoas aprender a se
+Â A seguir ele teve a idÃ©ia de criar uma formaÃ§Ã£o para as pessoas aprender a se
 cuidar de uma forma mais natural e complementar e fez uma parceria com a
-Universidade Federal de São Paulo.  
+Universidade Federal de SÃ£o Paulo.Â Â 
 
-Ele começou dando ensinando a respeito de uma planta medicinal em cada semana
-seguidno de terapias complementares.  
+Ele comeÃ§ou dando ensinando a respeito de uma planta medicinal em cada semana
+seguidno de terapias complementares.Â Â 
 
-Até que a luta pela liberação do uso medicinal da Cannabis chegou nas suas mãos
-e ele começou a dar aulas sobre a planta e a legaligade para a liberação e sua
-primeira turma começou com 200 pessoas e hoje são milhares de alunos espalhados
-em todo o Brasil.  
+AtÃ© que a luta pela liberaÃ§Ã£o do uso medicinal da Cannabis chegou nas suas mÃ£os
+e ele comeÃ§ou a dar aulas sobre a planta e a legaligade para a liberaÃ§Ã£o e sua
+primeira turma comeÃ§ou com 200 pessoas e hoje sÃ£o milhares de alunos espalhados
+em todo o Brasil.Â Â 
 
-[![](https://www.cannabisesaude.com.br/wp-content/uploads/2020/03/pe-ticao](https://www.cannabisesaude.com.br/wp-content/uploads/2020/03/pe-ticao
+[
 
-## O padre Ticão sofreu perseguição de opositores por conta da sua causa pela liberação do uso da Cannabis?
+## O padre TicÃ£o sofreu perseguiÃ§Ã£o de opositores por conta da sua causa pela liberaÃ§Ã£o do uso da Cannabis?
 
-Padre Ticão lutava pela causa dos oprimidos e injustiçados e onde tinha pessoas
-oprimidas padre Ticão denuciava o opressor.  
+Padre TicÃ£o lutava pela causa dos oprimidos e injustiÃ§ados e onde tinha pessoas
+oprimidas padre TicÃ£o denuciava o opressor.Â Â 
 
-Ele chegou a ser ameaçado de morte por grupos extremistas religiosos.
+Ele chegou a ser ameaÃ§ado de morte por grupos extremistas religiosos.
 
-Mas padre Ticão era um homem destemido e determinado nas suas causas e falava
-que já tinha sido preso na Ditaduta Militar várias vezes e isso lhe deu calo e
-nada o fazia recuar.  
+Mas padre TicÃ£o era um homem destemido e determinado nas suas causas e falava
+que jÃ¡ tinha sido preso na Ditaduta Militar vÃ¡rias vezes e isso lhe deu calo e
+nada o fazia recuar.Â Â 
 
 Ele dizia que continuava denunciando esses criminosos todos os dias. Ele falava
 que a luta dele era contra o "Diabo do Atraso" e que a luta dele era a favor dos
-pobres e oprimidos.  
+pobres e oprimidos.Â Â 
 
-Ele falava: "eu tiro um momentinho para falar desse pessoal e dizer que são
-milicianos no poder. Se evangélicos ou católicos usam a religião em benefício
-próprio, isso não tem nada de religião. Eles são os Herodes de hoje”, afirmava
-ele, fazendo referência a um dos reis mais cruéis da Antiguidade.
+Ele falava: "eu tiro um momentinho para falar desse pessoal e dizer que sÃ£o
+milicianos no poder.Â Se evangÃ©licos ou catÃ³licos usam a religiÃ£o em benefÃ­cio
+prÃ³prio, isso nÃ£o tem nada de religiÃ£o. Eles sÃ£o os Herodes de hojeâ€, afirmava
+ele, fazendo referÃªncia a um dos reis mais cruÃ©is da Antiguidade.
 
-**Como padre Ticão contriubuiu para a preservação da Natureza?**
+**Como padre TicÃ£o contriubuiu para a preservaÃ§Ã£o da Natureza?**
 
-Padre Ticão contribuiu para a preservação da natureza na medida que ele ensinou
+Padre TicÃ£o contribuiu para a preservaÃ§Ã£o da natureza na medida que ele ensinou
 o valor medicinal das plantas na nossa vida.
 
 Ele motivava as pessoas a plantas suas plantinhas em casa e mostrava o valor que
-a natureza pode ter na nossa vida através das plantas medicinais.
+a natureza pode ter na nossa vida atravÃ©s das plantas medicinais.
 
-> Quem planta uma planta medicinal e sabe seu valor, não desmata, não destroi por
-> que sabe que a Natureza é uma Mãe.
+> Quem planta uma planta medicinal e sabe seu valor, nÃ£o desmata, nÃ£o destroi por
+> que sabe que a Natureza Ã© uma MÃ£e.
 
-Ele denunciou também que estão destruindo as florestas, que existem regiões do
-Brasil que as abelhas estão desaparecendo e que Einstein dizia  que quando não
-tiver mais abelhas não existirá mais civiização.
+Ele denunciou tambÃ©m que estÃ£o destruindo as florestas, que existem regiÃµes do
+Brasil que as abelhas estÃ£o desaparecendo e que Einstein diziaÂ  que quando nÃ£o
+tiver mais abelhas nÃ£o existirÃ¡ mais civiizaÃ§Ã£o.
 
-Padre Ticão faleceu em 2021 de uma forma inesperada, deixando um grande legado
+Padre TicÃ£o faleceu em 2021 de uma forma inesperada, deixando um grande legado
 no Brasil.
 
-Grupos estão tentando fazer documentário a respeito do padre foi feito para
-homenagea-lo, o documentário **“A planta do padre”** conta a história de Antônio
-Luís Marchione, conhecido como Padre Ticão, personalidade que se tornou um marco
-nas conquistas e lutas das comunidades periféricas, além de referência em todo o
+Grupos estÃ£o tentando fazer documentÃ¡rio a respeito do padre foi feito para
+homenagea-lo, oÂ documentÃ¡rioÂ **â€œA planta do padreâ€**Â conta a histÃ³ria de AntÃ´nio
+LuÃ­s Marchione, conhecido como Padre TicÃ£o, personalidade que se tornou um marco
+nas conquistas e lutas das comunidades perifÃ©ricas, alÃ©m de referÃªncia em todo o
 Brasil.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/gc8hkcphpOY)](https://www.youtube.com/embed/gc8hkcphpOY)
+[ðŸŽ¥ [VÃ­deo incorporado](https://www.youtube.com/embed/gc8hkcphpOY)](https://www.youtube.com/embed/gc8hkcphpOY)
 
-Ele deixou seu testemunho de esperança, de fé, e de misericórdia para as pessoas que precisam da Cannabis, as crianças autistas, os idosos com alzeimer e parkinson, as pessoas com convulsões. Ele referiu que dr Lair Ribeiro fala que a cannabis pode ajudar em 200 situações de saúde.
+Ele deixou seu testemunho de esperanÃ§a, de fÃ©, e de misericÃ³rdia para as pessoas que precisam da Cannabis, as crianÃ§as autistas, os idosos com alzeimer e parkinson, as pessoas com convulsÃµes. Ele referiu que dr Lair Ribeiro fala que a cannabis pode ajudar em 200 situaÃ§Ãµes de saÃºde.

@@ -1,72 +1,72 @@
 ---
 layout: post
-title: "Quem é Robin Kelly? Autor do Holograma Humano."
+title: "Quem Ã© Robin Kelly? Autor do Holograma Humano."
 date: 2025-02-20T20:47:00.005Z
 tags: ["autores"]
 categories: ["bem-estar"]
-description: "Quem é Robin Kelly? Autor do Holograma Humano."
+description: "Quem Ã© Robin Kelly? Autor do Holograma Humano."
 image: "https://i.ibb.co/3Jd13Bm/f3db33dc6802.jpg"
 ---
 
-![](https://i.ibb.co/3Jd13Bm/f3db33dc6802
 
-## Quem é Robin Kelly? Autor do Holograma Humano.
 
-Robin Kelly é um médico, autor e pensador conhecido por suas abordagens
-inovadoras que conectam ciência, espiritualidade e saúde.
+## Quem Ã© Robin Kelly? Autor do Holograma Humano.
 
-Ele se destaca por integrar conceitos avançados de física quântica, geometria
-fractal, biologia e estudos sobre a consciência para explorar o potencial humano
-e a transformação da saúde.
+Robin Kelly Ã© um mÃ©dico, autor e pensador conhecido por suas abordagens
+inovadoras que conectam ciÃªncia, espiritualidade e saÃºde.
 
-Sua obra O Holograma Humano reflete sua visão holística e interdisciplinar,
-propondo que a percepção do ser humano como um "holograma" pode revolucionar
-nossa compreensão da mente, do corpo e do futuro da vida no planeta.
+Ele se destaca por integrar conceitos avanÃ§ados de fÃ­sica quÃ¢ntica, geometria
+fractal, biologia e estudos sobre a consciÃªncia para explorar o potencial humano
+e a transformaÃ§Ã£o da saÃºde.
 
-### Principais características de Robin Kelly:
+Sua obra O Holograma Humano reflete sua visÃ£o holÃ­stica e interdisciplinar,
+propondo que a percepÃ§Ã£o do ser humano como um "holograma" pode revolucionar
+nossa compreensÃ£o da mente, do corpo e do futuro da vida no planeta.
 
-Formação médica : Como médico, Kelly tem uma base sólida em ciências da saúde,
-mas ele expande essa perspectiva ao incorporar princípios da física moderna e
-teorias sobre a consciência.
+### Principais caracterÃ­sticas de Robin Kelly:
 
-Abordagem holística : Ele explora como os padrões da natureza, especialmente os
-fractais e os princípios holográficos, podem ser aplicados à saúde humana e ao
-bem-estar. Sua visão enfatiza a interconexão entre mente, corpo e ambiente.
+FormaÃ§Ã£o mÃ©dica : Como mÃ©dico, Kelly tem uma base sÃ³lida em ciÃªncias da saÃºde,
+mas ele expande essa perspectiva ao incorporar princÃ­pios da fÃ­sica moderna e
+teorias sobre a consciÃªncia.
 
-Premiações e reconhecimento : Kelly é reconhecido como um autor premiado,
+Abordagem holÃ­stica : Ele explora como os padrÃµes da natureza, especialmente os
+fractais e os princÃ­pios hologrÃ¡ficos, podem ser aplicados Ã  saÃºde humana e ao
+bem-estar. Sua visÃ£o enfatiza a interconexÃ£o entre mente, corpo e ambiente.
+
+PremiaÃ§Ãµes e reconhecimento : Kelly Ã© reconhecido como um autor premiado,
 destacando-se por sua habilidade de traduzir conceitos complexos em linguagem
-acessível para o público geral.
+acessÃ­vel para o pÃºblico geral.
 
-Contribuições para a saúde integral : Em O Holograma Humano , ele propõe que
-entendermos a nós mesmos como hologramas pode nos ajudar a alcançar um estado de
-saúde perfeita e a transformar nossas vidas. Essa ideia está alinhada com
-práticas integrativas e complementares, como a iridologia, a medicina
+ContribuiÃ§Ãµes para a saÃºde integral : Em O Holograma Humano , ele propÃµe que
+entendermos a nÃ³s mesmos como hologramas pode nos ajudar a alcanÃ§ar um estado de
+saÃºde perfeita e a transformar nossas vidas. Essa ideia estÃ¡ alinhada com
+prÃ¡ticas integrativas e complementares, como a iridologia, a medicina
 vibracional e outras abordagens que buscam tratar o ser humano de forma
-holística.
+holÃ­stica.
 
-Interesse na consciência e no futuro da humanidade : Kelly especula sobre como a
-evolução da consciência humana pode impactar o futuro do planeta, promovendo uma
-visão otimista de transformação pessoal e coletiva.
+Interesse na consciÃªncia e no futuro da humanidade : Kelly especula sobre como a
+evoluÃ§Ã£o da consciÃªncia humana pode impactar o futuro do planeta, promovendo uma
+visÃ£o otimista de transformaÃ§Ã£o pessoal e coletiva.
 
 ## Resumo de O Holograma Humano :
 
 Neste livro, Robin Kelly explora a ideia de que somos mais do que meros corpos
-físicos — somos hologramas vivos, compostos por padrões de energia e informação
+fÃ­sicos â€” somos hologramas vivos, compostos por padrÃµes de energia e informaÃ§Ã£o
 que refletem a totalidade do universo.
 
-Ele combina reflexões sobre geometria fractal, biologia e estudos sobre a
-consciência para propor que, ao nos percebermos como hologramas, podemos acessar
-novos níveis de cura, autoconhecimento e harmonia com o mundo ao nosso redor.
+Ele combina reflexÃµes sobre geometria fractal, biologia e estudos sobre a
+consciÃªncia para propor que, ao nos percebermos como hologramas, podemos acessar
+novos nÃ­veis de cura, autoconhecimento e harmonia com o mundo ao nosso redor.
 
-A obra é voltada tanto para leitores interessados em saúde integral quanto para
-aqueles fascinados por temas como física quântica, espiritualidade e o futuro da
+A obra Ã© voltada tanto para leitores interessados em saÃºde integral quanto para
+aqueles fascinados por temas como fÃ­sica quÃ¢ntica, espiritualidade e o futuro da
 humanidade.
 
 Robin Kelly convida o leitor a repensar sua identidade e seu papel no cosmos,
-oferecendo ferramentas práticas para transformar sua vida e contribuir para um
-mundo mais saudável e sustentável.
+oferecendo ferramentas prÃ¡ticas para transformar sua vida e contribuir para um
+mundo mais saudÃ¡vel e sustentÃ¡vel.
 
-### Referências:
+### ReferÃªncias:
 
-KELLY, Robin. **The Human Hologram. Dr Robin Kelly.** 2013. Disponível em:
+KELLY, Robin.Â **The Human Hologram. Dr Robin Kelly.**Â 2013. DisponÃ­vel em:
 <https://www.youtube.com/watch?v=bIVY8C5TiGU>. Acesso em: 20 fev. 2025.

@@ -1,352 +1,352 @@
 ---
 layout: post
-title: "A Metafísica do Olhar: Decodificando a Linguagem Oculta do Corpo"
+title: "A MetafÃ­sica do Olhar: Decodificando a Linguagem Oculta do Corpo"
 date: 2026-01-12T18:57:00.007Z
-tags: ["metafísica"]
+tags: ["metafÃ­sica"]
 categories: ["bem-estar"]
-description: "A Metafísica do Olhar: Decodificando a Linguagem Oculta do Corpo"
+description: "A MetafÃ­sica do Olhar: Decodificando a Linguagem Oculta do Corpo"
 image: "/assets/img/posts/iridologia_metafisica.jpeg"
 ---
 
-![](/assets/img/posts/iridologia_metafisica
 
-# A Metafísica do Olhar: Decodificando a Linguagem Oculta do Corpo
 
-Autora: Silviane Silvério  
+# A MetafÃ­sica do Olhar: Decodificando a Linguagem Oculta do Corpo
+
+Autora: Silviane SilvÃ©rio  
 Data: 20 de dezembro de 2025  
-Tempo médio de leitura: 14 minutos
+Tempo mÃ©dio de leitura: 14 minutos
 
-Palavras-chave: iridologia, metafísica da saúde, linguagem do co  
+Palavras-chave: iridologia, metafÃ­sica da saÃºde, linguagem do co  
 
-rpo, neurofisiologia, medicina sistêmica, autoconhecimento, epigenética,
-fitoterapia, sinais na íris, saúde integrativa
+rpo, neurofisiologia, medicina sistÃªmica, autoconhecimento, epigenÃ©tica,
+fitoterapia, sinais na Ã­ris, saÃºde integrativa
 
 Resumo
 
-E se seu corpo estivesse falando com você todos os dias — não com palavras, mas
-com sinais visíveis na íris? Neste artigo, revelo os 4 pilares do conhecimento
-que transformam a forma como entendemos a saúde: da leitura da íris à
-reprogramação biológica.  
+E se seu corpo estivesse falando com vocÃª todos os dias â€” nÃ£o com palavras, mas
+com sinais visÃ­veis na Ã­ris? Neste artigo, revelo os 4 pilares do conhecimento
+que transformam a forma como entendemos a saÃºde: da leitura da Ã­ris Ã 
+reprogramaÃ§Ã£o biolÃ³gica.Â Â 
 
 Baseado em 10 anos de pesquisa em iridologia, neurofisiologia e medicina
-sistêmica, este caminho não é misticismo — é fisiologia visível. Descubra como a
-inflamação, a ansiedade, a digestão e até sua personalidade se refletem nos
-olhos — e como usar essa informação para remover o medo da doença e recuperar o
-poder sobre sua própria vida.
+sistÃªmica, este caminho nÃ£o Ã© misticismo â€” Ã© fisiologia visÃ­vel. Descubra como a
+inflamaÃ§Ã£o, a ansiedade, a digestÃ£o e atÃ© sua personalidade se refletem nos
+olhos â€” e como usar essa informaÃ§Ã£o para remover o medo da doenÃ§a e recuperar o
+poder sobre sua prÃ³pria vida.
 
 ---
 
 Desenvolvimento
 
-E aí, tudo bem?  
-Seja muito bem-vindo(a) ao Olho Preditivo —  
-um espaço onde a ciência encontra a sabedoria do corpo.
+E aÃ­, tudo bem?  
+Seja muito bem-vindo(a) ao Olho Preditivo â€”  
+um espaÃ§o onde a ciÃªncia encontra a sabedoria do corpo.
 
-Hoje, vou desvendar os 4 pilares do conhecimento que vão mudar para sempre a
-forma como você entende sua saúde.  
-Este não é mais um conteúdo genérico.  
-É o resumo de 10 anos de pesquisa em iridologia, neurofisiologia e medicina
-sistêmica —  
-transformado em uma estrutura clara, acessível e validada pela ciência.
+Hoje, vou desvendar os 4 pilares do conhecimento que vÃ£o mudar para sempre a
+forma como vocÃª entende sua saÃºde.  
+Este nÃ£o Ã© mais um conteÃºdo genÃ©rico.  
+Ã‰ o resumo de 10 anos de pesquisa em iridologia, neurofisiologia e medicina
+sistÃªmica â€”  
+transformado em uma estrutura clara, acessÃ­vel e validada pela ciÃªncia.
 
-Se você quer parar de viver no escuro sobre a própria saúde,  
+Se vocÃª quer parar de viver no escuro sobre a prÃ³pria saÃºde,  
 sente-se comigo.  
-Porque isso é bom demais para deixar passar.
+Porque isso Ã© bom demais para deixar passar.
 
 ---
 
-### A metafísica não é misticismo — é mensagem
+### A metafÃ­sica nÃ£o Ã© misticismo â€” Ã© mensagem
 
-“Metafísica” pode soar abstrato, mas aqui ela tem um significado preciso:  
-é a ciência do “além da forma” —  
-ou seja, entender que acima da doença, acima do sintoma, existe uma mensagem.
+â€œMetafÃ­sicaâ€ pode soar abstrato, mas aqui ela tem um significado preciso:  
+Ã© a ciÃªncia do â€œalÃ©m da formaâ€ â€”  
+ou seja, entender que acima da doenÃ§a, acima do sintoma, existe uma mensagem.
 
-Seu corpo não está contra você.  
-Ele está tentando te avisar.
+Seu corpo nÃ£o estÃ¡ contra vocÃª.  
+Ele estÃ¡ tentando te avisar.
 
-A pergunta crucial é:
+A pergunta crucial Ã©:
 
-> Você está ouvindo o que seu corpo diz — ou apenas tampando os ouvidos com
-> remédios?
+> VocÃª estÃ¡ ouvindo o que seu corpo diz â€” ou apenas tampando os ouvidos com
+> remÃ©dios?
 
 Deixe essa pergunta ecoar.  
-Vamos respondê-la juntos.
+Vamos respondÃª-la juntos.
 
 ---
 
-### O objetivo central: remover o medo com informação
+### O objetivo central: remover o medo com informaÃ§Ã£o
 
 Muita gente sofre por medo:  
-— medo de infarto,  
-— medo de câncer,  
-— medo de não saber o que está errado.
+â€” medo de infarto,  
+â€” medo de cÃ¢ncer,  
+â€” medo de nÃ£o saber o que estÃ¡ errado.
 
-E quando há medo, tomamos decisões equivocadas:  
+E quando hÃ¡ medo, tomamos decisÃµes equivocadas:  
 compramos suplementos do TikTok,  
 fazemos dietas da moda,  
-corremos ao médico toda semana.
+corremos ao mÃ©dico toda semana.
 
-Mas e se eu te disser que o medo desaparece quando você tem informação?
+Mas e se eu te disser que o medo desaparece quando vocÃª tem informaÃ§Ã£o?
 
-Quando você entende o mapa,  
+Quando vocÃª entende o mapa,  
 a floresta deixa de ser assustadora.
 
-Nossa abordagem une três pilares fundamentais:
+Nossa abordagem une trÃªs pilares fundamentais:
 
-🔹 Ciência: baseada em neurofisiologia validada;  
-🔹 Biologia: como o corpo realmente funciona, célula por célula;  
-🔹 Visão Sistêmica: tudo está conectado —  
-o intestino afeta o cérebro,  
-o estresse afeta a íris,  
+ðŸ”¹ CiÃªncia: baseada em neurofisiologia validada;  
+ðŸ”¹ Biologia: como o corpo realmente funciona, cÃ©lula por cÃ©lula;  
+ðŸ”¹ VisÃ£o SistÃªmica: tudo estÃ¡ conectado â€”  
+o intestino afeta o cÃ©rebro,  
+o estresse afeta a Ã­ris,  
 o medo afeta a pupila.
 
-Isso não é opinião.  
-É fisiologia.
+Isso nÃ£o Ã© opiniÃ£o.  
+Ã‰ fisiologia.
 
 ---
 
-### Módulo 1: Código-Fonte — a íris como linguagem neural
+### MÃ³dulo 1: CÃ³digo-Fonte â€” a Ã­ris como linguagem neural
 
-A íris não é mística.  
-É tecido neural exposto — uma janela direta para o sistema nervoso autônomo.
+A Ã­ris nÃ£o Ã© mÃ­stica.  
+Ã‰ tecido neural exposto â€” uma janela direta para o sistema nervoso autÃ´nomo.
 
-Assim como um computador acende um LED quando algo dá errado,  
-seu corpo deixa marcas visíveis na íris quando há desequilíbrio.
+Assim como um computador acende um LED quando algo dÃ¡ errado,  
+seu corpo deixa marcas visÃ­veis na Ã­ris quando hÃ¡ desequilÃ­brio.
 
-Neste módulo, exploramos três aulas fundamentais:
+Neste mÃ³dulo, exploramos trÃªs aulas fundamentais:
 
-1. A Íris não é Mística, é Tecido Neural Exposto  
-   — Desmistificamos a iridologia com base em neurobiologia.
+1. A Ãris nÃ£o Ã© MÃ­stica, Ã© Tecido Neural Exposto  
+   â€” Desmistificamos a iridologia com base em neurobiologia.
 2. Geometria da Vitalidade  
-   — Entendemos sua “bateria genética herdada”:  
-   por que você tem mais resistência que seu primo?  
-   Está tudo visível na íris.
+   â€” Entendemos sua â€œbateria genÃ©tica herdadaâ€:  
+   por que vocÃª tem mais resistÃªncia que seu primo?  
+   EstÃ¡ tudo visÃ­vel na Ã­ris.
 3. Mapa Mundi  
-   — Localizamos os órgãos na íris:  
-   o cérebro no “Norte”, os rins no “Sul”.  
-   Você aprende a ler um mapa vivo.
+   â€” Localizamos os Ã³rgÃ£os na Ã­ris:  
+   o cÃ©rebro no â€œNorteâ€, os rins no â€œSulâ€.  
+   VocÃª aprende a ler um mapa vivo.
 
 ---
 
-### Módulo 2: Os Sinais de Alerta — a patologia como mensagem
+### MÃ³dulo 2: Os Sinais de Alerta â€” a patologia como mensagem
 
 Aqui, viramos o paradigma:  
-a doença não é inimiga — é aviso.
+a doenÃ§a nÃ£o Ã© inimiga â€” Ã© aviso.
 
 Imagine deixar a porta da geladeira aberta.  
 Ela faz barulho.  
-Esse barulho não é o problema — é o aviso.  
-Se você cala o barulho sem fechar a porta, a geladeira quebra.
+Esse barulho nÃ£o Ã© o problema â€” Ã© o aviso.  
+Se vocÃª cala o barulho sem fechar a porta, a geladeira quebra.
 
 Seu corpo funciona assim:  
-— a inflamação é um aviso,  
-— a alergia é um aviso,  
-— a gastrite é um aviso.
+â€” a inflamaÃ§Ã£o Ã© um aviso,  
+â€” a alergia Ã© um aviso,  
+â€” a gastrite Ã© um aviso.
 
-Aprendemos a tampar os avisos —  
-mas não a ler as mensagens.
+Aprendemos a tampar os avisos â€”  
+mas nÃ£o a ler as mensagens.
 
-#### Três sinais-chave visíveis na íris:
+#### TrÃªs sinais-chave visÃ­veis na Ã­ris:
 
-1. Anéis de Estresse
+1. AnÃ©is de Estresse
 
-> *“O corpo que aperta, a alma que não relaxa.”*
+> *â€œO corpo que aperta, a alma que nÃ£o relaxa.â€*
 
 Quando vivemos em estado constante de alerta,  
-o corpo entra em contração crônica —  
-e isso deixa anéis concêntricos visíveis na íris,  
+o corpo entra em contraÃ§Ã£o crÃ´nica â€”  
+e isso deixa anÃ©is concÃªntricos visÃ­veis na Ã­ris,  
 como uma mola permanentemente tensionada.
 
 2. Manchas e Psora
 
-> *“O que você engoliu e não digeriu vira marca.”*
+> *â€œO que vocÃª engoliu e nÃ£o digeriu vira marca.â€*
 
-Em dois níveis:  
-— Físico: alimentos mal digeridos, toxinas acumuladas;  
-— Emocional: mágoas não expressas, raiva reprimida, tristeza engolida.
+Em dois nÃ­veis:  
+â€” FÃ­sico: alimentos mal digeridos, toxinas acumuladas;  
+â€” Emocional: mÃ¡goas nÃ£o expressas, raiva reprimida, tristeza engolida.
 
-Raiva vai para o fígado.  
+Raiva vai para o fÃ­gado.  
 Medo, para os rins.  
-Tristeza, para os pulmões.  
-E a íris mostra esses depósitos — não como urgência, mas como convite à
-liberação.
+Tristeza, para os pulmÃµes.  
+E a Ã­ris mostra esses depÃ³sitos â€” nÃ£o como urgÃªncia, mas como convite Ã 
+liberaÃ§Ã£o.
 
 3. O Rei Intestino
 
-> *“Se o centro está sujo, a casa toda adoece.”*
+> *â€œSe o centro estÃ¡ sujo, a casa toda adoece.â€*
 
-O centro da íris representa o intestino —  
-onde 80% do sistema imunológico reside  
-e onde a maioria da serotonina é produzida.
+O centro da Ã­ris representa o intestino â€”  
+onde 80% do sistema imunolÃ³gico reside  
+e onde a maioria da serotonina Ã© produzida.
 
 Um intestino inflamado =  
-— imunidade fraca,  
-— mente triste,  
-— pele ruim,  
-— sono comprometido.
+â€” imunidade fraca,  
+â€” mente triste,  
+â€” pele ruim,  
+â€” sono comprometido.
 
-Na íris, um intestino saudável aparece claro e definido.  
-Um em desequilíbrio, escuro, opaco, deformado.
+Na Ã­ris, um intestino saudÃ¡vel aparece claro e definido.  
+Um em desequilÃ­brio, escuro, opaco, deformado.
 
 ---
 
-### Módulo 3: Personalidade Impressa — como você pensa, sente e adoece
+### MÃ³dulo 3: Personalidade Impressa â€” como vocÃª pensa, sente e adoece
 
-A estrutura da sua íris não é aleatória.  
-Ela revela como você reage ao mundo —  
+A estrutura da sua Ã­ris nÃ£o Ã© aleatÃ³ria.  
+Ela revela como vocÃª reage ao mundo â€”  
 e como tende a adoecer.
 
-Inspirada na sabedoria de Maquiavel —  
-que ensinava que “quem governa a si mesmo governa seu destino” —  
-entendemos que 50% do nosso destino depende de nós:  
+Inspirada na sabedoria de Maquiavel â€”  
+que ensinava que â€œquem governa a si mesmo governa seu destinoâ€ â€”  
+entendemos que 50% do nosso destino depende de nÃ³s:  
 nossas escolhas, nossa disciplina, nosso autocontrole.
 
-E é justamente aí que a análise ocular complementar brilha:  
-ela ajuda você a conhecer seus mecanismos internos  
+E Ã© justamente aÃ­ que a anÃ¡lise ocular complementar brilha:  
+ela ajuda vocÃª a conhecer seus mecanismos internos  
 para evitar sofrimento e adoecimento.
 
-#### Os 4 tipos principais de íris:
+#### Os 4 tipos principais de Ã­ris:
 
 1. JOIA  
-   — Fibras fechadas, estrutura rígida.  
-   — Personalidade: analítica, perfeccionista, controladora.  
-   — Tendência: gastrite, úlcera (por ruminação mental).
+   â€” Fibras fechadas, estrutura rÃ­gida.  
+   â€” Personalidade: analÃ­tica, perfeccionista, controladora.  
+   â€” TendÃªncia: gastrite, Ãºlcera (por ruminaÃ§Ã£o mental).
 2. FLOR  
-   — Fibras abertas, em pétalas.  
-   — Personalidade: sensível, emotiva, absorvente.  
-   — Tendência: alergias, problemas de pele (hiperreatividade).
+   â€” Fibras abertas, em pÃ©talas.  
+   â€” Personalidade: sensÃ­vel, emotiva, absorvente.  
+   â€” TendÃªncia: alergias, problemas de pele (hiperreatividade).
 3. CORRENTE  
-   — Fibras entrelaçadas.  
-   — Personalidade: equilibrada, mas com desafios circulatórios.  
-   — Tendência: varizes, inchaço, estase linfática.
+   â€” Fibras entrelaÃ§adas.  
+   â€” Personalidade: equilibrada, mas com desafios circulatÃ³rios.  
+   â€” TendÃªncia: varizes, inchaÃ§o, estase linfÃ¡tica.
 4. AGITADOR  
-   — Estrutura aberta e dinâmica.  
-   — Personalidade: extremista, tudo ou nada.  
-   — Tendência: insônia, burnout, adrenalina alta.
+   â€” Estrutura aberta e dinÃ¢mica.  
+   â€” Personalidade: extremista, tudo ou nada.  
+   â€” TendÃªncia: insÃ´nia, burnout, adrenalina alta.
 
-Você não é vítima dessa constituição.  
-Você pode trabalhar com ela —  
-com respiração, terapia, fitoterapia, limites.
+VocÃª nÃ£o Ã© vÃ­tima dessa constituiÃ§Ã£o.  
+VocÃª pode trabalhar com ela â€”  
+com respiraÃ§Ã£o, terapia, fitoterapia, limites.
 
 ---
 
-### A cadeia causal visível
+### A cadeia causal visÃ­vel
 
-Existe uma sequência clara — e visível:
+Existe uma sequÃªncia clara â€” e visÃ­vel:
 
-> Padrão Mental  
-> → Sinais na Íris (anéis, manchas, fibras alteradas)  
-> → Sintoma Físico (gastrite, alergia, inflamação)  
-> → Doença Crônica
+> PadrÃ£o Mental  
+> â†’ Sinais na Ãris (anÃ©is, manchas, fibras alteradas)  
+> â†’ Sintoma FÃ­sico (gastrite, alergia, inflamaÃ§Ã£o)  
+> â†’ DoenÃ§a CrÃ´nica
 
 Mas o mais poderoso?  
-Você pode quebrar essa cadeia em qualquer ponto.
+VocÃª pode quebrar essa cadeia em qualquer ponto.
 
-Se mudar o padrão mental hoje —  
-com meditação, terapia, autoconsciência —  
-evita que chegue à doença amanhã.
+Se mudar o padrÃ£o mental hoje â€”  
+com meditaÃ§Ã£o, terapia, autoconsciÃªncia â€”  
+evita que chegue Ã  doenÃ§a amanhÃ£.
 
-Por isso, a iridologia não é diagnóstico —  
-é prevenção ativa.
+Por isso, a iridologia nÃ£o Ã© diagnÃ³stico â€”  
+Ã© prevenÃ§Ã£o ativa.
 
 ---
 
 ### A pupila: o espelho da energia vital
 
-A pupila não é um “furo preto”.  
-É dinâmica — e revela seu estado energético real:
+A pupila nÃ£o Ã© um â€œfuro pretoâ€.  
+Ã‰ dinÃ¢mica â€” e revela seu estado energÃ©tico real:
 
-* Pupila dilatada (midríase):  
+* Pupila dilatada (midrÃ­ase):  
   adrenalina alta, medo, sistema nervoso acelerado.
-* Pupila contraída (miose):  
-  fadiga adrenal, “tanque vazio”, exaustão crônica.
+* Pupila contraÃ­da (miose):  
+  fadiga adrenal, â€œtanque vazioâ€, exaustÃ£o crÃ´nica.
 
 Mais do que exames de sangue,  
-a pupila mostra seu nível real de energia.  
-E, ao reconhecê-lo, você pode agir antes do colapso.
+a pupila mostra seu nÃ­vel real de energia.  
+E, ao reconhecÃª-lo, vocÃª pode agir antes do colapso.
 
 ---
 
-### Módulo 4: Higiene do Destino — cuidar da vida como quem cuida dos dentes
+### MÃ³dulo 4: Higiene do Destino â€” cuidar da vida como quem cuida dos dentes
 
-“Destino” não é algo fixo.  
-É programável.
+â€œDestinoâ€ nÃ£o Ã© algo fixo.  
+Ã‰ programÃ¡vel.
 
 Assim como fazemos higiene bucal,  
 precisamos de higiene do destino:  
-— protocolos de desintoxicação personalizados,  
-— mudanças de hábito sustentáveis,  
-— reprogramação mental consciente.
+â€” protocolos de desintoxicaÃ§Ã£o personalizados,  
+â€” mudanÃ§as de hÃ¡bito sustentÃ¡veis,  
+â€” reprogramaÃ§Ã£o mental consciente.
 
 #### Aula 9: Detox com Fitoterapia Certa
 
-Não existe “detox genérico”.  
-Cada tipo de íris precisa de plantas específicas:
+NÃ£o existe â€œdetox genÃ©ricoâ€.  
+Cada tipo de Ã­ris precisa de plantas especÃ­ficas:
 
-* Joia: Maracujá, Lavanda, Valeriana (relaxar o sistema nervoso);
-* Flor: Gengibre, Própolis, Hibisco (proteger a barreira imunológica).
+* Joia: MaracujÃ¡, Lavanda, Valeriana (relaxar o sistema nervoso);
+* Flor: Gengibre, PrÃ³polis, Hibisco (proteger a barreira imunolÃ³gica).
 
-O erro? Usar o protocolo errado para seu biotipo —  
-e achar que “não funciona”.
+O erro? Usar o protocolo errado para seu biotipo â€”  
+e achar que â€œnÃ£o funcionaâ€.
 
-#### Aula 10: Reprogramação e Epigenética
+#### Aula 10: ReprogramaÃ§Ã£o e EpigenÃ©tica
 
-Sua íris pode mudar.  
-Não magicamente — mas por epigenética.
+Sua Ã­ris pode mudar.  
+NÃ£o magicamente â€” mas por epigenÃ©tica.
 
-Se você nasceu com tendência à gastrite (tipo Joia),  
-não deixa de ser Joia —  
-mas, ao mudar hábitos e liberar emoções,  
-os anéis de estresse diminuem,  
+Se vocÃª nasceu com tendÃªncia Ã  gastrite (tipo Joia),  
+nÃ£o deixa de ser Joia â€”  
+mas, ao mudar hÃ¡bitos e liberar emoÃ§Ãµes,  
+os anÃ©is de estresse diminuem,  
 as manchas clareiam,  
 a pupila recupera seu ritmo.
 
-É a reversibilidade do envelhecimento funcional.
+Ã‰ a reversibilidade do envelhecimento funcional.
 
 ---
 
-### O ciclo completo da transformação
+### O ciclo completo da transformaÃ§Ã£o
 
-1. Diagnóstico: leitura da íris → entendimento biológico.
-2. Compreensão: decifrar a mensagem emocional e fisiológica.
+1. DiagnÃ³stico: leitura da Ã­ris â†’ entendimento biolÃ³gico.
+2. CompreensÃ£o: decifrar a mensagem emocional e fisiolÃ³gica.
 3. Detox: limpeza com protocolo personalizado.
-4. Reprogramação: hábitos, mente, emoções.
-5. Resultado: íris mais clara, energia renovada, vida transformada.
+4. ReprogramaÃ§Ã£o: hÃ¡bitos, mente, emoÃ§Ãµes.
+5. Resultado: Ã­ris mais clara, energia renovada, vida transformada.
 
-É um ciclo contínuo —  
+Ã‰ um ciclo contÃ­nuo â€”  
 porque autoconhecimento nunca termina.  
-Mas você sai com as ferramentas para seguir sozinho(a).
+Mas vocÃª sai com as ferramentas para seguir sozinho(a).
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/UislgFUOSW8)](https://www.youtube.com/embed/UislgFUOSW8)
+[ðŸŽ¥ [VÃ­deo incorporado](https://www.youtube.com/embed/UislgFUOSW8)](https://www.youtube.com/embed/UislgFUOSW8)
 
   
 
 ---
 
-Conclusão
+ConclusÃ£o
 
-Este caminho não promete cura mágica.  
+Este caminho nÃ£o promete cura mÃ¡gica.  
 Promete clareza.
 
-Você entra com medo:
+VocÃª entra com medo:
 
-> *“Será que tenho câncer? Será que estou condenado?”*
+> *â€œSerÃ¡ que tenho cÃ¢ncer? SerÃ¡ que estou condenado?â€*
 
-Você sai com um manual de instrução do seu próprio corpo.
+VocÃª sai com um manual de instruÃ§Ã£o do seu prÃ³prio corpo.
 
-Porque informação tira o medo.  
+Porque informaÃ§Ã£o tira o medo.  
 E conhecimento verdadeiro transforma vidas.
 
-Se este artigo tocou você,  
-compartilhe com alguém que ama e que anda com medo da própria saúde.  
+Se este artigo tocou vocÃª,  
+compartilhe com alguÃ©m que ama e que anda com medo da prÃ³pria saÃºde.  
 Porque sabedoria que liberta precisa circular.
 
-Para conhecer mais sobre meu trabalho, acesse meu currículo Lattes:  
-🔗 <http://lattes.cnpq.br/7481458793724724>  
+Para conhecer mais sobre meu trabalho, acesse meu currÃ­culo Lattes:  
+ðŸ”— <http://lattes.cnpq.br/7481458793724724>  
 (ID Lattes: 7481458793724724)
 
-Com ciência, sabedoria e olhar atento,  
-Silviane Silvério  
+Com ciÃªncia, sabedoria e olhar atento,  
+Silviane SilvÃ©rio  
 Olho Preditivo
 
 Mapas do Autoconhecimento

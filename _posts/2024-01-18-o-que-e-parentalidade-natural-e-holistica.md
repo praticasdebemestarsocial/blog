@@ -1,44 +1,44 @@
 ---
 layout: post
-title: "O que é Parentalidade Natural e Holística?"
+title: "O que Ã© Parentalidade Natural e HolÃ­stica?"
 date: 2024-01-18T19:40:00.004Z
-tags: ["práticas integrativas complementares"]
+tags: ["prÃ¡ticas integrativas complementares"]
 categories: ["bem-estar"]
-description: "1- O que é Parentalidade Natural e Holística?"
+description: "1-Â O que Ã© Parentalidade Natural e HolÃ­stica?"
 image: "https://i.ibb.co/Hf9HZDs6/bf5f2f5d6083.jpg"
 ---
 
-## 1- O que é Parentalidade Natural e Holística?
+## 1-Â O que Ã© Parentalidade Natural e HolÃ­stica?
 
-"Parentalidade Natural e Holística" é um termo que se refere a um estilo de
-relação entre adultos que cuidam e educam uma criança e as responsabilidades que
-esses adultos assumem e que enfatiza a conexão com a natureza e a totalidade do
-ser.  
+"Parentalidade Natural e HolÃ­stica" Ã© um termo que se refere a um estilo de
+relaÃ§Ã£o entre adultos que cuidam e educam uma crianÃ§a e as responsabilidades que
+esses adultos assumem e que enfatiza a conexÃ£o com a natureza e a totalidade do
+ser.Â Â 
 
-Os pais que praticam a parentalidade natural e holística acreditam que os filhos
-se desenvolvem melhor quando estão conectados à natureza e quando são tratados
-como seres completos, com necessidades físicas, emocionais, mentais e
+Os pais que praticam a parentalidade natural e holÃ­stica acreditam que os filhos
+se desenvolvem melhor quando estÃ£o conectados Ã  natureza e quando sÃ£o tratados
+como seres completos, com necessidades fÃ­sicas, emocionais, mentais e
 espirituais.
 
-## 2- Quais os princípios da parentalidade natural e holística?
+## 2- Quais os princÃ­pios daÂ parentalidade natural e holÃ­stica?
 
-Alguns dos princípios da parentalidade natural e holística incluem:
+Alguns dos princÃ­pios da parentalidade natural e holÃ­stica incluem:
 
-* Conexão com a natureza: Os pais que praticam a parentalidade natural e holística acreditam que a conexão com a natureza é essencial para o desenvolvimento saudável das crianças. Eles podem promover essa conexão levando seus filhos para caminhadas na natureza, brincando com eles ao ar livre e ensinando-os sobre plantas, animais e o mundo natural.
-* Cuidado integral: Os pais que praticam a parentalidade natural e holística acreditam que as crianças precisam de cuidados físicos, emocionais, mentais e espirituais. Eles se esforçam para fornecer a seus filhos uma alimentação saudável, exercícios, apoio emocional, oportunidades de aprendizagem e uma conexão com algo maior do que si mesmos.
-* Respeito pela criança: Os pais que praticam a parentalidade natural e holística acreditam que as crianças são seres completos com suas próprias necessidades e desejos. Eles se esforçam para respeitar os filhos, ouvindo-os, dando-lhes escolhas e permitindo-lhes aprender com seus próprios erros.
-* Educação sem punição: Os pais que praticam a parentalidade natural e holística acreditam que a punição é prejudicial ao desenvolvimento das crianças. Eles preferem usar métodos de disciplina positivos, como orientação, tempo de reflexão e consequências naturais.
+* ConexÃ£o com a natureza: Os pais que praticam a parentalidade natural e holÃ­stica acreditam que a conexÃ£o com a natureza Ã© essencial para o desenvolvimento saudÃ¡vel das crianÃ§as. Eles podem promover essa conexÃ£o levando seus filhos para caminhadas na natureza, brincando com eles ao ar livre e ensinando-os sobre plantas, animais e o mundo natural.
+* Cuidado integral: Os pais que praticam a parentalidade natural e holÃ­stica acreditam que as crianÃ§as precisam de cuidados fÃ­sicos, emocionais, mentais e espirituais. Eles se esforÃ§am para fornecer a seus filhos uma alimentaÃ§Ã£o saudÃ¡vel, exercÃ­cios, apoio emocional, oportunidades de aprendizagem e uma conexÃ£o com algo maior do que si mesmos.
+* Respeito pela crianÃ§a: Os pais que praticam a parentalidade natural e holÃ­stica acreditam que as crianÃ§as sÃ£o seres completos com suas prÃ³prias necessidades e desejos. Eles se esforÃ§am para respeitar os filhos, ouvindo-os, dando-lhes escolhas e permitindo-lhes aprender com seus prÃ³prios erros.
+* EducaÃ§Ã£o sem puniÃ§Ã£o: Os pais que praticam a parentalidade natural e holÃ­stica acreditam que a puniÃ§Ã£o Ã© prejudicial ao desenvolvimento das crianÃ§as. Eles preferem usar mÃ©todos de disciplina positivos, como orientaÃ§Ã£o, tempo de reflexÃ£o e consequÃªncias naturais.
 
-## 3- A Parentalidade Natural e Holística é um estilo de vida que envolve as escolhas para os filhos?
+## 3- A Parentalidade Natural e HolÃ­stica Ã© um estilo de vida que envolve as escolhas para os filhos?
 
-A parentalidade natural e holística é um estilo de parentalidade que pode ser
-desafiador, mas também pode ser muito gratificante.  
+A parentalidade natural e holÃ­stica Ã© um estilo de parentalidade que pode ser
+desafiador, mas tambÃ©m pode ser muito gratificante.Â Â 
 
-Os pais que praticam esse estilo acreditam que estão dando aos seus filhos as
+Os pais que praticam esse estilo acreditam que estÃ£o dando aos seus filhos as
 melhores chances de sucesso na vida.
 
-[![](https://i.ibb.co/Hf9HZDs6/bf5f2f5d6083](https://amzn.to/47J8vFo)
+[)
 
-# A PARENTALIDADE QUE VEM DO CORAÇÃO
+# A PARENTALIDADE QUE VEM DO CORAÃ‡ÃƒO
 
-> "A Parentalidade que Vem do Coração" de Inbal Kashtan oferece uma abordagem prática e transformadora da Comunicação Não Violenta (CNV) na parentalidade. O livreto apresenta dicas baseadas na CNV e dez exercícios para fortalecer a conexão entre adultos e crianças, promovendo a paz nas gerações futuras. Kashtan destaca a importância de priorizar a conexão, compartilhar o poder na família e inspirar um diálogo aberto. A CNV ajuda os pais a compreenderem suas próprias necessidades, motivar sem ameaças ou recompensas, superar disputas de poder, ouvir o "sim" dentro do "não" das crianças, mediar conflitos e aplicar teorias de forma compassiva e eficaz. Recomendado por Jan Hunt, autor e diretor de The Natural Child Project.
+> "A Parentalidade que Vem do CoraÃ§Ã£o" de Inbal Kashtan oferece uma abordagem prÃ¡tica e transformadora da ComunicaÃ§Ã£o NÃ£o Violenta (CNV) na parentalidade. O livreto apresenta dicas baseadas na CNV e dez exercÃ­cios para fortalecer a conexÃ£o entre adultos e crianÃ§as, promovendo a paz nas geraÃ§Ãµes futuras. Kashtan destaca a importÃ¢ncia de priorizar a conexÃ£o, compartilhar o poder na famÃ­lia e inspirar um diÃ¡logo aberto. A CNV ajuda os pais a compreenderem suas prÃ³prias necessidades, motivar sem ameaÃ§as ou recompensas, superar disputas de poder, ouvir o "sim" dentro do "nÃ£o" das crianÃ§as, mediar conflitos e aplicar teorias de forma compassiva e eficaz. Recomendado por Jan Hunt, autor e diretor de The Natural Child Project.
