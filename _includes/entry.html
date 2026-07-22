@@ -32,8 +32,8 @@
   </header>
   {% if page.show_excerpts == true %}
     <div class="entry-excerpt p-summary">
-      {% if entry.excerpt %}
-        {{ entry.excerpt | markdownify | strip_html | truncate: 100 }}
+      {% if entry.content %}
+        {{ entry.content | strip_html | truncatewords: 25 }}
       {% endif %}
     </div>
   {% endif %}
