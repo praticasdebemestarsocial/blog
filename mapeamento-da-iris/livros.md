@@ -2,6 +2,7 @@
 layout: page
 title: Livros de Iridologia
 permalink: /mapeamento-da-iris/livros/
+show_excerpts: true
 search_terms:
   - livro
   - obra
@@ -11,7 +12,7 @@ search_terms:
 
 Abaixo você encontra todos os nossos artigos e estudos relacionados a **Livros de Iridologia**.
 
-<ul class="post-list">
+<div class="entries-list">
 {% assign count = 0 %}
 {% for post in site.posts %}
   {% assign match = false %}
@@ -27,13 +28,11 @@ Abaixo você encontra todos os nossos artigos e estudos relacionados a **Livros 
 
   {% if match %}
     {% assign count = count | plus: 1 %}
-    <li style="margin-bottom: 20px;">
-      <h3 style="margin-bottom: 5px;"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-      <p style="margin-top: 0;">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
-    </li>
+    {% assign entry = post %}
+    {% include entry.html %}
   {% endif %}
 {% endfor %}
-</ul>
+</div>
 
 {% if count == 0 %}
   <p><em>Ainda não publicamos artigos especificamente sobre este tópico, mas novidades chegarão em breve!</em></p>
