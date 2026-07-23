@@ -27,8 +27,7 @@
 
     <!-- Search Bar -->
     <div style="text-align: center; margin-bottom: 10px; margin-top: 10px;">
-      <form action="https://www.google.com/search" method="get" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; width: 100%; max-width: 300px;">
-        <input type="hidden" name="q" value="site:praticasdebemestarsocial.github.io/blog">
+      <form action="{{ '/search/' | relative_url }}" method="get" style="display: inline-flex; align-items: center; justify-content: center; width: 100%; max-width: 300px;">
         <input type="text" name="q" placeholder="Buscar no blog..." style="padding: 8px; border: 1px solid #ccc; border-radius: 4px 0 0 4px; outline: none; flex-grow: 1;">
         <button type="submit" style="padding: 8px 12px; border: 1px solid #ccc; border-left: none; border-radius: 0 4px 4px 0; background-color: #f8f9fa; cursor: pointer;" title="Buscar">🔍</button>
       </form>
