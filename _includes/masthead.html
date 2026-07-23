@@ -25,6 +25,15 @@
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
+    <!-- Search Bar -->
+    <div style="text-align: center; margin-bottom: 10px; margin-top: 10px; position: relative;">
+      <form onsubmit="return false;" style="display: inline-flex; align-items: center; justify-content: center; width: 100%; max-width: 600px;">
+        <input type="text" id="search" name="q" placeholder="Buscar no blog..." style="padding: 10px; border: 1px solid #ccc; border-radius: 4px 0 0 4px; outline: none; flex-grow: 1; font-size: 16px;">
+        <button type="submit" style="padding: 10px 16px; border: 1px solid #ccc; border-left: none; border-radius: 0 4px 4px 0; background-color: #f8f9fa; cursor: pointer; font-size: 16px;" title="Buscar">🔍</button>
+      </form>
+      <div id="results" style="max-width: 600px; margin: 0 auto; text-align: left;"></div>
+    </div>
+
 
 
     <!-- Post Counter -->

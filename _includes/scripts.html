@@ -57,6 +57,4 @@ MathJax = {
 <script type="text/javascript" id="MathJax-script" async src="{{ mathjaxjs }}"></script>
 {% endif %}
 
-{%- if page.layout == "search" -%}
-  {% include lunr-search-scripts.html %}
-{%- endif -%}
+{% include lunr-search-scripts.html %}
