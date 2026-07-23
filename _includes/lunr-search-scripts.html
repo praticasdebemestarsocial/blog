@@ -102,5 +102,12 @@
           resultdiv.append(searchitem);
         }
       });
+      
+      // Auto-trigger search if 'q' parameter is present
+      var urlParams = new URLSearchParams(window.location.search);
+      var q = urlParams.get('q');
+      if (q) {
+        $('input#search').val(q).trigger('keyup');
+      }
     });
   </script>
