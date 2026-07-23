@@ -5,7 +5,16 @@ layout: page
 {{ content }}
 
 <form onsubmit="return false;">
-  <input type="input" id="search" class="search-input" placeholder="{{ site.data.text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}" autofocus>
+  <input type="text" id="search" class="search-input" placeholder="Pesquisar..." autofocus>
 </form>
+<script>
+  (function() {
+    var match = location.search.match(/q=([^&]*)/);
+    if (match && match[1]) {
+      var q = decodeURIComponent(match[1].replace(/\+/g, ' '));
+      document.getElementById('search').value = q;
+    }
+  })();
+</script>
 
 <div id="results"></div>
