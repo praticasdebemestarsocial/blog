@@ -31,8 +31,8 @@ Em muitos celulares, ecoava uma única palavra: *misantropia*. Sob a forte
 suspeita de um ataque hacker, o episódio acabou operando como um incômodo e
 poético-sombrio espelho do nosso tempo.
 
-Neste artigo, analisamos o significado profundo da misantropia — a aversão e a
-rejeição à humanidade — e como esse susto tecnológico reflete o adoecimento
+Neste artigo, analisamos o significado profundo da misantropia, a aversão e a
+rejeição à humanidade, e como esse susto tecnológico reflete o adoecimento
 coletivo, a frieza das relações utilitaristas e o esgotamento do nosso modelo
 social. Inspirados pelo legado de filantropia de Michael Jackson e pela
 sabedoria oriental, investigamos por que o amor de muitos tem esfriado e como
@@ -148,7 +148,7 @@ nossa inevitável transição e revolução tecnológica.
 Diante de uma estrutura social utilitarista e agressiva, desenham-se dois
 caminhos nítidos na modernidade: o do adoecimento coletivo pelas dinâmicas de
 consumo e o do isolamento daqueles que começam a despertar para a engrenagem
-cruel e simplesmente não conseguem — ou se recusam — a se encaixar nela.
+cruel e simplesmente não conseguem, ou se recusam, a se encaixar nela.
 
 Muitas vezes, a cobrança social pela "capacidade de adaptação" nada mais é do
 que uma exigência para que nos transformemos em seres robotizados, indivíduos
