@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Henry Lindlahr um defensor da naturopatia e da iridologia"
 date: 2025-03-05T00:27:00.004Z
@@ -60,8 +60,8 @@ Quadro recriado com os títulos, anos e autores das obras de Henry Lindlahr:
 
 | Título | Ano | Autor |
 | --- | --- | --- |
-| Cura Natural; Filosofia e Prática Baseadas na Unidade entre Doença e Cura | 1913 | Henry Lindlahr |
-| O Livro de Receitas Vegetarianas Lindlahr e o ABC da Dietética Natural  (também publicado como: Livro de Receitas da Cura Natural e ABC da Dietética Natural) | 1918 | Henry Lindlahr |
+| EquilÃ­brio Natural; Filosofia e Prática Baseadas na Unidade entre Doença e EquilÃ­brio | 1913 | Henry Lindlahr |
+| O Livro de Receitas Vegetarianas Lindlahr e o ABC da Dietética Natural  (também publicado como: Livro de Receitas da EquilÃ­brio Natural e ABC da Dietética Natural) | 1918 | Henry Lindlahr |
 | Filosofia da Terapêutica Natural | 1918 | Henry Lindlahr |
 | Prática de Terapias Naturais | 1919 | Henry Lindlahr |
 | Diagnóstico do Olho | 1919 | Henry Lindlahr |
@@ -69,7 +69,7 @@ Quadro recriado com os títulos, anos e autores das obras de Henry Lindlahr:
 **Livros Publicados:**
 
 **"Nature Cure: Philosophy and Practice" (publicado em 1913)**: Este livro é uma
-de suas obras mais conhecidas, onde ele discute os princípios da cura natural e
+de suas obras mais conhecidas, onde ele discute os princípios da equilÃ­brio natural e
 suas aplicações na prática clínica.
 
 **"Diagnosis of the Eye" (publicado em 1919):** Neste livro, Lindlahr apresenta

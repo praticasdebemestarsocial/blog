@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A Anatomia Oculta do Ouvido: : O Zumbido como Antena e a Fisiologia da Frequência Interna"
 date: 2026-06-14T18:17:47.628Z
@@ -171,7 +171,7 @@ a nossa saúde e evolução.
 *Este artigo foi elaborado com propósitos exclusivamente informativos,
 educativos e de divulgação de conceitos de saúde integrativa, sob a autoria de
 profissional Biomédica Naturopata. O fenômeno do zumbido e as práticas somáticas
-de atenção auditiva apresentadas não possuem caráter de diagnóstico, cura ou
+de atenção auditiva apresentadas não possuem caráter de diagnóstico, equilÃ­brio ou
 tratamento médico. É de extrema importância ressaltar que o zumbido crônico ou
 persistente pode ser sintoma de condições de saúde subjacentes (como perda
 auditiva, disfunções cardiovasculares ou alterações neurológicas). Em caso de

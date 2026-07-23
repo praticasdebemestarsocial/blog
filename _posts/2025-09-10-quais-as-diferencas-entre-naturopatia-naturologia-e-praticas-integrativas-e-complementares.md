@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quais as diferenças entre Naturopatia, Naturologia e Práticas Integrativas e Complementares?"
 date: 2025-09-10T06:15:00.006Z
@@ -27,10 +27,10 @@ Este artigo explora essas distinções, oferecendo uma visão clara sobre o que 
 1. O que é Naturopatia ? 
 
 A Naturopatia é um sistema de saúde baseado no uso de terapias naturais para
-estimular a cura do próprio organismo.  
+estimular a equilÃ­brio do próprio organismo.  
 
 Seus princípios seguem a ideia de que o corpo tem uma capacidade inata de se
-equilibrar e se curar quando recebe os estímulos corretos.
+equilibrar e se equilibrar quando recebe os estímulos corretos.
 
 **Principais Terapias Utilizadas:**  
 ✅ Fitoterapia (uso de plantas medicinais).  
@@ -95,7 +95,7 @@ individuais.
   
 
 **Conclusão**  
-✔️ Naturopatia → Sistema tradicional de saúde natural, focado na cura pelo
+✔️ Naturopatia → Sistema tradicional de saúde natural, focado na equilÃ­brio pelo
 equilíbrio do organismo.  
 ✔️ Naturologia → Ciência acadêmica que estuda e aplica terapias naturais de
 forma científica e integrativa.  

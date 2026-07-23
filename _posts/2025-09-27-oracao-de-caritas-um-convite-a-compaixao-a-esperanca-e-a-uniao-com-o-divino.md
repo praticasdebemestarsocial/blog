@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Oração de Cáritas: Um Convite à Compaixão, à Esperança e à União com o Divino"
 date: 2025-09-27T11:51:00.012Z
@@ -16,7 +16,7 @@ Data: 5 de abril de 2025
 Tempo médio de leitura: 8 minutos
 
 Palavras-chave:Oração de Cáritas, espiritualidade, compaixão, autoconhecimento,
-cura interior, fé, humanização na saúde    
+equilÃ­brio interior, fé, humanização na saúde    
 
 **Resumo:**
 
@@ -66,11 +66,11 @@ Ela nos convida a:
 
 - Ver Deus não como juiz, mas como Pai compassivo
 
-- Buscar não apenas cura, mas transformação interior
+- Buscar não apenas equilÃ­brio, mas transformação interior
 
 No contexto da saúde integrativa, essa oração tem um papel poderoso.
 Profissionais que atuam com reeducação assistida, acompanhamento de doenças
-crônicas ou cuidados paliativos sabem que a cura nem sempre é biológica — muitas
+crônicas ou cuidados paliativos sabem que a equilÃ­brio nem sempre é biológica — muitas
 vezes é emocional, espiritual, simbólica.
 
 Aqui, a Oração de Cáritas se torna uma ferramenta de humanização. Quando

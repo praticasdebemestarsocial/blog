@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Como a Iridologia se relaciona com a  etiologia da doença? "
 date: 2024-01-31T06:59:00.002Z
@@ -29,7 +29,7 @@ Compreender a etiologia de uma doença é fundamental para:
 * diagnosticá-la corretamente,
 * prevenir seu aparecimento,
 * desenvolver estratégias de tratamento eficazes,
-* eventualmente, encontrar uma cura.
+* eventualmente, encontrar uma equilÃ­brio.
 
 A etiologia se concentra principalmente na identificação das causas subjacentes de uma doença e não necessariamente na questão mais ampla da origem da doença em termos evolutivos ou históricos.
 

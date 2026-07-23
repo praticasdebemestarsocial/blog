@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A Iridologia é uma possibilidade de autoconhecimento?"
 date: 2024-04-11T07:54:00.001Z
@@ -128,7 +128,7 @@ cuidar melhor, que tipo de alimentação é melhor para você, que tipo de alime
 você pode evitar e é melhor evitar para que não prejudique mais o seu corpo.
 
 Uma das coisas muito importantes que eu vejo é as pessoas, as pessoas quererem
-realmente se curar, realmente se tratar. Muitas vezes as pessoas não querem, as
+realmente se equilibrar, realmente se tratar. Muitas vezes as pessoas não querem, as
 pessoas querem manter a sua doença e por alguma razão, por algum motivo ou por
 não ter conhecimento. Mas a iridologia pode trazer para você conhecimento muito
 importante daquilo que é o seu corpo, o conhecimento

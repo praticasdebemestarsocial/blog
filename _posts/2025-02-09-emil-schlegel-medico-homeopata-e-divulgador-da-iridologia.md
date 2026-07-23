@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Emil Schlegel Médico, Homeopata e Divulgador da Iridologia"
 date: 2025-02-09T06:20:00.014Z
@@ -104,9 +104,9 @@ clínico na cidade de Tübingen, onde logo se destacou como excelente homeopata.
 Entre os trabalhos que publicou, destacam-se:
 
 1. **A Religião da Medicina**
-2. **Cura Interna para as Chamadas Doenças Cirúrgicas**
+2. **EquilÃ­brio Interna para as Chamadas Doenças Cirúrgicas**
 3. **Câncer – Sua Natureza e Remédios**
-4. **A Cura como Centro do Mundo**
+4. **A EquilÃ­brio como Centro do Mundo**
 
 
 
@@ -158,7 +158,7 @@ alquimista renascentista:
 3. **Crítica à Medicina Reducionista**
 
    * Assim como Paracelso, Schlegel criticava a tendência da medicina moderna de limitar-se aos sintomas, sem investigar profundamente a constituição individual e fatores emocionais.
-   * Sugeriu, portanto, um “retorno à arte de curar”, pautada no diálogo próximo com o paciente e na busca das causas reais da doença.
+   * Sugeriu, portanto, um “retorno à arte de equilibrar”, pautada no diálogo próximo com o paciente e na busca das causas reais da doença.
 
 ---
 
@@ -204,7 +204,7 @@ JENSEN, Bernard. **Science and Practice of Iridology**. 2005. Disponível em: h
 
 SCHLEGEL, Dr. Emil. **Paracelsus und unsere Zukunft**. 1934. Disponível em: <https://d-nb.info/1326445952>. Acesso em: 9 fev. 2025.
 
-SCHLEGEL, Emil. **A religião da medicina é a farmácia do Senhor Deus e a arte de cura para todos**. 1934. Disponível em: <https://d-nb.info/964308754>. Acesso em: 9 fev. 2025.
+SCHLEGEL, Emil. **A religião da medicina é a farmácia do Senhor Deus e a arte de equilÃ­brio para todos**. 1934. Disponível em: <https://d-nb.info/964308754>. Acesso em: 9 fev. 2025.
 
 HEUSSER, Peter. Emil Schlegel. Arzt (1852 - 1934). **Der Merkurstab**, [S.L.], v. 2, n. 57, p. 122-134, 2004. Der Merkurstab. Gesellschaft Anthroposophischer Arzte in Deutschland (GAAD). <http://dx.doi.org/10.14271/dms-18442-de>. Disponível em: https://www.anthromedics.org/DMS-18442-DE. Acesso em: 10 fev. 2025.
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A ciência e a espiritualidade se complementam?"
 date: 2024-04-06T09:45:00.005Z
@@ -33,7 +33,7 @@ As questões de como a ciência moderna, como a cosmologia e a astrofísica, pod
 
 ### 4. Saúde e bem-estar:
 
-A relação entre ciência, espiritualidade e saúde. Falas sobre práticas holísticas de cura, como medicina alternativa, terapias energéticas e o efeito da espiritualidade na saúde mental, emocional e física.
+A relação entre ciência, espiritualidade e saúde. Falas sobre práticas holísticas de equilÃ­brio, como medicina alternativa, terapias energéticas e o efeito da espiritualidade na saúde mental, emocional e física.
 
 ### 5. Ética e valores:
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O Olho de Hórus: Símbolo de Proteção e Indício de Saúde na Antiguidade"
 date: 2025-03-04T06:34:00.008Z
@@ -61,7 +61,7 @@ Mas, com a ajuda de Thoth, deus da magia, eles são curados.
 O olho foi posteriormente restaurado por **Thoth, o deus da sabedoria e da
 escrita**.
 
-Essa história não apenas simboliza a recuperação e a cura, mas também estabelece
+Essa história não apenas simboliza a recuperação e a equilÃ­brio, mas também estabelece
 o Olho de Hórus como um emblema de proteção e saúde.
 
 Hórus, em agradecimento a Thoth, oferece o olho como amuleto a Osíris, seu pai,

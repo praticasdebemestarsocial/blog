@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Nils Liljequist médico sacerdote sueco fundamental no desenvolvimento da iridologia."
 date: 2024-07-01T16:15:00.010Z
@@ -172,7 +172,7 @@ Pontos em comum:
 * Ambos são considerados pais da iridologia: Peczely é considerado o fundador da iridologia moderna, enquanto Liljequist é considerado um dos principais contribuintes para o desenvolvimento da prática.
 * Ambos observaram a relação entre a íris e a saúde: Peczely observou mudanças na íris de um coruja após um acidente, enquanto Liljequist observou mudanças na sua própria íris após tomar medicamentos.
 * Ambos desenvolveram sistemas para diagnosticar doenças através da análise da íris: Peczely criou um mapa da íris e associou diferentes áreas a diferentes órgãos e sistemas do corpo. Liljequist refinou o sistema de Peczely e publicou um atlas detalhado da íris.
-* Ambos publicaram livros sobre iridologia: Peczely publicou "Descobertas nos reinos da natureza e da arte da cura" em 1866, enquanto Liljequist publicou "O diagnóstico do olho: Iridologia" em 1916.
+* Ambos publicaram livros sobre iridologia: Peczely publicou "Descobertas nos reinos da natureza e da arte da equilÃ­brio" em 1866, enquanto Liljequist publicou "O diagnóstico do olho: Iridologia" em 1916.
 
 Diferenças:
 

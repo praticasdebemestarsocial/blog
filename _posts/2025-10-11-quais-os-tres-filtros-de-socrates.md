@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: " Quais os três filtros de Sócrates"
 date: 2025-10-11T05:57:00.004Z
@@ -55,7 +55,7 @@ Se não temos certeza, talvez seja melhor calar. Como diz o provérbio:
 “O que você vai dizer é bom ou benéfico?”
 
 Mesmo que algo seja factual, será que edifica? Será que ajuda? Palavras podem
-curar ou ferir — e o impacto muitas vezes ultrapassa a intenção.
+equilibrar ou ferir — e o impacto muitas vezes ultrapassa a intenção.
 
 Este filtro nos convida à empatia:
 

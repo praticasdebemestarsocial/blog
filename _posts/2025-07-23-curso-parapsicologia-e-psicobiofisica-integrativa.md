@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "CURSO: PARAPSICOLOGIA e PSICOBIOFÍSICA  INTEGRATIVA"
 date: 2025-07-23T17:31:00.004Z
@@ -111,7 +111,7 @@ Prática: Crie seu próprio sistema de classificação
 
 ### Módulo 6: O Corpo do Agente Psi — Ação Paranormal sobre o Próprio Organismo
 
-✔Autossugestão e cura psicossomática
+✔Autossugestão e equilÃ­brio psicossomática
 
 ✔Bio-PK: influência da mente sobre batimentos, temperatura, cicatrização
 
@@ -131,7 +131,7 @@ Prática: Crie seu próprio sistema de classificação
 
 ✔Experimentos com plantas (Backster) revisitados
 
-✔Grupos de cura à distância
+✔Grupos de equilÃ­brio à distância
 
 ✔O campo coletivo de consciência
 
@@ -175,7 +175,7 @@ Prática: Crie seu próprio sistema de classificação
 
 ✔Mediunidade e ciência: o caso dos estudos de survival
 
-✔Ética: não curar, não adivinhar, não possuir — apenas orientar
+✔Ética: não equilibrar, não adivinhar, não possuir — apenas orientar
 
 ✔Prática: Diário de comunicações espontâneas ou induzidas
 

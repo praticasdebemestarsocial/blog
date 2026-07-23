@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Como a Medicina Chinesa explica como surge pedras nos rins e tumor no pâncreas?"
 date: 2025-07-10T09:27:00.003Z
@@ -170,7 +170,7 @@ qualificado.
 
 Eles podem oferecer diagnósticos personalizados e tratamentos que combinam
 acupuntura, fitoterapia e mudanças dietéticas para promover o equilíbrio e a
-cura.
+equilÃ­brio.
 
 **Referências:**
 

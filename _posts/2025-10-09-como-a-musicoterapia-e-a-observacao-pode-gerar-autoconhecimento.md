@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Como a musicoterapia e a observação pode gerar autoconhecimento?"
 date: 2025-10-09T02:26:00.002Z
@@ -29,7 +29,7 @@ Criar uma canção, uma poesia ou qualquer forma de arte é, antes de tudo, um
 exercício de **observação**. É aprender a ver além do óbvio: observar as
 pessoas, os gestos, as ruas, os silêncios e, principalmente, as necessidades e
 os sentimentos do nosso tempo. É dessa **escuta sensível** do mundo que nasce a
-poesia que cura, a melodia que embala e a letra que ressoa em nossos corações.
+poesia que equilÃ­brio, a melodia que embala e a letra que ressoa em nossos corações.
 
 Para ilustrar essa ideia, vamos nos inspirar na trajetória do cantor e
 compositor **Chico César**. A história por trás de sua icônica música **"Mama

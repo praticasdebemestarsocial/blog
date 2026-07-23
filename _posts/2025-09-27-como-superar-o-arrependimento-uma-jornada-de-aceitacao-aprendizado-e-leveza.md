@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Como Superar o Arrependimento: Uma Jornada de Aceitação, Aprendizado e Leveza"
 date: 2025-09-27T12:13:00.006Z
@@ -99,7 +99,7 @@ imperfeição é o primeiro passo para a paz interior.
 
 [🎥 [Vídeo incorporado](https://www.youtube.com/embed/aIo6Ew6y-is)](https://www.youtube.com/embed/aIo6Ew6y-is)
 
-## 3. “Epitáfio”: Uma Canção que Cura o Arrependimento
+## 3. “Epitáfio”: Uma Canção que EquilÃ­brio o Arrependimento
 
 A música “Epitáfio”, dos Titãs, é um verdadeiro hino à aceitação do passado. Sua
 letra simples e profunda nos convida a refletir sobre o que realmente importa:

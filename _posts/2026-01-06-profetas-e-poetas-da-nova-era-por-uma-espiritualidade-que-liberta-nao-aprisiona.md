@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Profetas e Poetas da Nova Era: por uma espiritualidade que liberta, não aprisiona"
 date: 2026-01-06T17:55:00.001Z
@@ -125,7 +125,7 @@ por recusar que o encontro com o divino se tornasse transação.
 
 Hoje, esse mesmo grito ecoaria contra:  
 — igrejas que lucram com a fé,  
-— terapeutas que cobram pela cura mas negam a dignidade,  
+— terapeutas que cobram pela equilÃ­brio mas negam a dignidade,  
 — sistemas que transformam seres humanos em métricas, engajamento, conteúdo.
 
 ---

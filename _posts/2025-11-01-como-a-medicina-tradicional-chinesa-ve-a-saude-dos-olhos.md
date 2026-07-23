@@ -1,13 +1,13 @@
----
+﻿---
 layout: post
 title: "Como a medicina tradicional chinesa vê a saúde dos olhos?"
 date: 2025-11-01T16:19:00.005Z
 tags: ["medicina tradicional chinesa"]
 categories: ["bem-estar"]
-description: "Prevenir é curar antes que a sede chegue: sabedoria da Medicina Tradicional Chinesa para os olhos e o equilíbrio integral"
+description: "Prevenir é equilibrar antes que a sede chegue: sabedoria da Medicina Tradicional Chinesa para os olhos e o equilíbrio integral"
 ---
 
-# Prevenir é curar antes que a sede chegue: sabedoria da Medicina Tradicional Chinesa para os olhos e o equilíbrio integral
+# Prevenir é equilibrar antes que a sede chegue: sabedoria da Medicina Tradicional Chinesa para os olhos e o equilíbrio integral
 
 Autora: Silviane Silvério
 
@@ -21,7 +21,7 @@ iridologia
 
 **Resumo**
 
-A Medicina Tradicional Chinesa (MTC) ensina que a verdadeira arte da cura está
+A Medicina Tradicional Chinesa (MTC) ensina que a verdadeira arte da equilÃ­brio está
 em prevenir — não em reagir. Um antigo provérbio chinês resume essa visão:
 “Esperar ter sede para cavar um poço é tarde demais.”
 

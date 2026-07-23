@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: " Quebrando o Hábito de Ser Você Mesmo - Dr. Joe Dispenza"
 date: 2025-03-04T02:56:00.005Z
@@ -71,10 +71,10 @@ como:
 influencia nossas ações e decisões, e como podemos reprogramá-la para alcançar
 nossos objetivos.
 
-“Você é o Placebo”: Um livro que discute a capacidade do corpo de curar a si
+“Você é o Placebo”: Um livro que discute a capacidade do corpo de equilibrar a si
 mesmo através do poder da mente e da intenção.
 
-“A Cura Quântica”: Uma obra que investiga a interseção entre a ciência da cura e
+“A EquilÃ­brio Quântica”: Uma obra que investiga a interseção entre a ciência da equilÃ­brio e
 a espiritualidade, oferecendo insights sobre como podemos utilizar essas
 práticas para melhorar nossa saúde.
 

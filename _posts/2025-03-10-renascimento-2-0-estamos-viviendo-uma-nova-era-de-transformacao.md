@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Renascimento 2.0: Estamos Viviendo uma Nova Era de Transformação?"
 date: 2025-03-10T00:48:00.006Z
@@ -90,7 +90,7 @@ responsabilidade , algo que o Renascimento não enfrentou.
 
 Saúde Pública :
 
-Enquanto o Renascimento tinha Asclépio como símbolo de cura, hoje lutamos por
+Enquanto o Renascimento tinha Asclépio como símbolo de equilÃ­brio, hoje lutamos por
 sistemas de saúde que integrem medicina convencional e alternativa (como defende
 o SINTE-MT no Brasil).
 

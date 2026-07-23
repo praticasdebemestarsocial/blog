@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Medicina Integrativa  Evidências"
 date: 2025-11-07T06:49:00Z
@@ -48,7 +48,7 @@ convencionais, como:
 Quando usadas junto com a medicina convencional, são chamadas de complementares.
 Quando usadas em seu lugar, são alternativas. Já a Medicina Integrativa vai
 além: combina o melhor dos dois mundos, sempre com foco no paciente como
-protagonista de seu processo de cura.
+protagonista de seu processo de equilÃ­brio.
 
 ## O poder da evidência em práticas integrativas e complementares: por que ela é essencial?
 
@@ -97,7 +97,7 @@ histórias e necessidades únicas.
 
 Ela reconhece que:
 
-👉A cura não é apenas bioquímica, mas também emocional e espiritual;
+👉A equilÃ­brio não é apenas bioquímica, mas também emocional e espiritual;
 
 👉O corpo tem capacidade inata de se autorregular — e o papel do terapeuta é
 apoiar esse processo;

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O Pastor Emanuel Felke: Um Pionheiro da Medicina Natural e na Irisdiagnose."
 date: 2025-02-09T14:10:00.007Z
@@ -19,7 +19,7 @@ Emanuel Felke (1856-1926), grande defensor da olhodiagnose, (assim nomeada por c
   
 Emanuel Felke foi um pastor protestante alemão que, além de suas funções religiosas, se destacou como um defensor da medicina natural e um pioneiro em diversas práticas holísticas.
 
-Nascido em 1856, Felke desenvolveu um método de cura próprio, conhecido como
+Nascido em 1856, Felke desenvolveu um método de equilÃ­brio próprio, conhecido como
 "cura Felke", que combinava elementos da **homeopatia, argiloterapia,
 hidroterapia e iridologia**.
 
@@ -30,9 +30,9 @@ hidroterapia e iridologia**.
 ## Um Pouco da História de Felke:
 
 * Formação: Apesar de ter estudado teologia, Felke sempre demonstrou grande interesse pela medicina natural. Ele se aprofundou nos estudos de **homeopatia, hidroterapia e fitoterapia**, buscando alternativas para o tratamento de doenças.
-* A Cura Felke: Seu método de cura era baseado no uso de **argila, banhos frios, exercícios físicos e uma dieta saudável**. Felke acreditava no poder curativo da natureza e utilizava recursos como a terra, a água e o ar para promover a saúde e o bem-estar.
+* A Cura Felke: Seu método de equilÃ­brio era baseado no uso de **argila, banhos frios, exercícios físicos e uma dieta saudável**. Felke acreditava no poder curativo da natureza e utilizava recursos como a terra, a água e o ar para promover a saúde e o bem-estar.
 * Iridologia: Felke foi um dos primeiros a utilizar a iridologia, a prática de analisar a íris para identificar possíveis desequilíbrios de saúde no organismo.
-* Reconhecimento: Seus trabalhos e métodos de cura ganharam grande reconhecimento, e Felke se tornou conhecido como o "pastor da argila". Ele fundou um spa em **Bad Sobernheim, na Alemanha**, onde seus tratamentos eram realizados.
+* Reconhecimento: Seus trabalhos e métodos de equilÃ­brio ganharam grande reconhecimento, e Felke se tornou conhecido como o "pastor da argila". Ele fundou um spa em **Bad Sobernheim, na Alemanha**, onde seus tratamentos eram realizados.
 
 
 

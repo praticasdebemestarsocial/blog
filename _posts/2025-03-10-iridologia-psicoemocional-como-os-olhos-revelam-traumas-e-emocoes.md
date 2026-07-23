@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Iridologia Psicoemocional: Como os Olhos Revelam Traumas e Emoções"
 date: 2025-03-10T14:48:00.003Z
@@ -137,7 +137,7 @@ Livros como "IL Cronorichio" ajudam a entender sua própria íris e emoções.
 
 A Iridologia Psicoemocional é uma ferramenta de transformação que nos convida a
 olhar para dentro. Assim como Carl Jung explorava a psique através de símbolos,
-ela usa a íris para revelar caminhos de cura.
+ela usa a íris para revelar caminhos de equilÃ­brio.
 
 ### Pergunta para reflexão :
 

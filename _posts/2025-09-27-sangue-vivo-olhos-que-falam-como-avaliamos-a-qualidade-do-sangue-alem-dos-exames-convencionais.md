@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Sangue Vivo, Olhos que Falam: Como Avaliamos a Qualidade do Sangue Além dos Exames Convencionais?"
 date: 2025-09-27T11:08:00.004Z
@@ -134,7 +134,7 @@ de gota viva
 
 👉Estimular o autoconhecimento e a responsabilização pela saúde
 
-Essa abordagem é especialmente valiosa em casos crônicos, onde a cura passa por
+Essa abordagem é especialmente valiosa em casos crônicos, onde a equilÃ­brio passa por
 reeducação assistida, não apenas por medicamentos.
 
 ## Evento de Destaque: Congresso Brasileiro de Iridologia 2025

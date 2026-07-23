@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Sem Titulo"
 date: 2025-11-07T06:41:14.871Z
@@ -69,7 +69,7 @@ I - Módulo - Iridologia Orgânica I
 
   - Lesão em "asa de borboleta"
 
-2. Sinais de cura Leis de Cura
+2. Sinais de equilÃ­brio Leis de EquilÃ­brio
 
 3. Vídeo Dr. Gauer
 
@@ -217,7 +217,7 @@ I - Módulo - Iridologia Orgânica I
 
 1. Outras visões em Iridologia - (Aulas com Professores Convidados)
 
-2. Iridologia e outros - Sistemas Holísticos de Cura
+2. Iridologia e outros - Sistemas Holísticos de EquilÃ­brio
 
  IX - Módulo - Rayid IV
 

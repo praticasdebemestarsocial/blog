@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A realidade é aquilo que acreditamos?"
 date: 2025-02-26T01:49:00.007Z
@@ -128,7 +128,7 @@ pode ser perigosa, pois **o ego humano tende a se sobrepor à consciência
 coletiva**.
 
 Ele revela que **a maior conquista do ser humano é reconhecer os próprios
-desequilíbrios**. Somente assim é possível iniciar um processo de cura e
+desequilíbrios**. Somente assim é possível iniciar um processo de equilÃ­brio e
 libertação do sofrimento.
 
 A receita que ele sugere é simples: **observe o seu modo de viver**.

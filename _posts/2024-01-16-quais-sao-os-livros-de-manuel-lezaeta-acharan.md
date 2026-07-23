@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quais são os Livros de Manuel Lezaeta Acharán?"
 date: 2024-01-16T05:00:00.005Z
@@ -70,25 +70,25 @@ Esse livro continua sendo uma referência para aqueles que buscam uma abordagem
 
 ## **Sobre o Livro "La Medicina del Padre Tadeo"**
 
-O Padre Tadeo, um visionário e pioneiro no campo da ciência da cura natural sem medicamentos, foi o professor de Lezaeta Acharan, na arte dos tratamentos naturais. É explicado nesse livro  quais plantas medicinais e quais metologias com a água foram conhecidas por serem usadas e suas aplicações como agentes de cura.
+O Padre Tadeo, um visionário e pioneiro no campo da ciência da equilÃ­brio natural sem medicamentos, foi o professor de Lezaeta Acharan, na arte dos tratamentos naturais. É explicado nesse livro  quais plantas medicinais e quais metologias com a água foram conhecidas por serem usadas e suas aplicações como agentes de equilÃ­brio.
 
 A terapia do lendário religioso continua sendo uma alternativa eficaz e de baixo custo, pois busca eliminar o uso de medicamentos e equilibrar a temperatura corporal, único meio adequado para restabelecer a normalidade, ou seja, a saúde.
 
 **"La Medicina del Padre Tadeo"** é um livro que detalha os **ensinamentos do
-Padre Tadeo de Wiesent**, um dos maiores especialistas em **cura natural sem
+Padre Tadeo de Wiesent**, um dos maiores especialistas em **equilÃ­brio natural sem
 medicamentos**.
 
 O **Padre Tadeo foi o professor de Manuel Lezaeta Acharán** e teve grande
 influência na criação da **Doutrina Térmica da Saúde**.
 
 O livro explica em detalhes:  
-✅ **O uso das plantas medicinais** como agentes naturais de cura.  
+✅ **O uso das plantas medicinais** como agentes naturais de equilÃ­brio.  
 ✅ **Terapias com água (hidroterapia)** para equilibrar a temperatura corporal.  
 ✅ **Como eliminar o uso de medicamentos convencionais** e fortalecer o
 organismo.  
 ✅ **A importância do equilíbrio térmico do corpo para restaurar a saúde.**
 
-A proposta do livro segue o princípio de que a **melhor forma de curar o corpo é
+A proposta do livro segue o princípio de que a **melhor forma de equilibrar o corpo é
 por meio da natureza**, respeitando os processos naturais de regeneração.
 
 ---
@@ -111,7 +111,7 @@ O livro ensina **técnicas práticas**, incluindo:
 metabolismo.
 
 Essa abordagem continua sendo **uma alternativa eficaz e acessível**, promovendo
-a **cura natural sem efeitos colaterais**.
+a **equilÃ­brio natural sem efeitos colaterais**.
 
 ## **O Legado de Manuel Lezaeta Acharán**
 

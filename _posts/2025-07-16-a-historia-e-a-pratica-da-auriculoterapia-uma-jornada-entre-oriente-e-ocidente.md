@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A História e a Prática da Auriculoterapia: Uma Jornada Entre Oriente e Ocidente"
 date: 2025-07-16T22:06:00.004Z
@@ -63,7 +63,7 @@ estimular os pontos auriculares, incluindo:
 específicas.
 
 Esses métodos visavam restaurar o equilíbrio energético do corpo, promovendo
-cura física e emocional. O raciocínio por trás da prática estava intrinsecamente
+equilÃ­brio física e emocional. O raciocínio por trás da prática estava intrinsecamente
 ligado aos Cinco Elementos (Madeira, Fogo, Terra, Metal e Água) e à busca pela
 raiz do problema, e não apenas pelo alívio sintomático.
 
@@ -96,7 +96,7 @@ ou sistema afetado.
 ## Como Funciona a Auriculoterapia?
 
 A auriculoterapia envolve a estimulação de pontos específicos na orelha para
-restaurar o equilíbrio energético do corpo e promover a cura. As técnicas mais
+restaurar o equilíbrio energético do corpo e promover a equilÃ­brio. As técnicas mais
 comuns incluem:
 
 **- Agulhas finas:** Semelhantes às usadas na acupuntura tradicional, inseridas
@@ -149,7 +149,7 @@ Se você está buscando uma forma complementar de cuidar de si mesmo, considere
 explorar a auriculoterapia. Consulte um profissional qualificado para obter um
 diagnóstico preciso e um plano de tratamento personalizado. Lembre-se: o corpo
 humano é um sistema complexo, e a auriculoterapia pode ser uma chave para
-desbloquear seu potencial de cura.
+desbloquear seu potencial de equilÃ­brio.
 
 **Referências Bibliográficas**
 

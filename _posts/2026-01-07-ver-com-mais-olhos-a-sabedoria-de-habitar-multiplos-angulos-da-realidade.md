@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Ver com Mais Olhos: a sabedoria de habitar múltiplos ângulos da realidade"
 date: 2026-01-07T02:03:00.001Z
@@ -30,7 +30,7 @@ Neste artigo, percorremos uma linha contínua de sabedoria, desde Heráclito e o
 Tao Te Ching até a física quântica e a psicologia junguiana, revelando um
 princípio universal: a verdadeira sabedoria nasce quando abandonamos a visão
 única e aprendemos a olhar com mais olhos. Descubra por que essa postura não é
-relativismo — mas maturidade espiritual, ética e cura.
+relativismo — mas maturidade espiritual, ética e equilÃ­brio.
 
 ---
 
@@ -61,7 +61,7 @@ Muitas pessoas, em praticamente todas as épocas e culturas,
 falaram explicitamente sobre a importância de ver a vida por vários ângulos.
 
 O mais interessante é que essa ideia sempre aparece associada à sabedoria, à
-cura e à ampliação da consciência.  
+equilÃ­brio e à ampliação da consciência.  
 Não é modismo.  
 É um princípio universal,  
 tecido na própria trama da existência.
@@ -146,7 +146,7 @@ Precisava ser vista nos planos:
 — ambiental,  
 — espiritual.
 
-Curar exigia olhar por todos esses ângulos ao mesmo tempo.
+Equilibrar exigia olhar por todos esses ângulos ao mesmo tempo.
 
 ---
 
@@ -178,7 +178,7 @@ Um sintoma só se transforma quando é visto:
 — dos sonhos,  
 — dos mitos.
 
-A cura acontece na interseção dos ângulos.
+A equilÃ­brio acontece na interseção dos ângulos.
 
 ---
 
@@ -234,7 +234,7 @@ E, se sentir vontade, escreva sua resposta na descrição.
 Porque nomear o que evitamos  
 é o primeiro passo para integrá-lo.
 
-E é nessa integração que a cura começa.
+E é nessa integração que a equilÃ­brio começa.
 
 ---
 

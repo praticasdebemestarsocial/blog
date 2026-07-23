@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Sinais nos olhos indicam qual hábito deve ser mudado"
 date: 2025-05-22T20:08:00.006Z
@@ -101,10 +101,10 @@ agravada conforme os cuidados adotados**.
 | **Tamanho da Pupila** | Pupilas dilatadas: fadiga adrenal. Pupilas pequenas: estresse. Pupila irregular: problema vertebral. | Análise funcional do sistema nervoso e possíveis medicamentos em uso. |
 | **Depósitos de Gordura na Esclera** | Gordura visível na parte branca do olho. | Indica problemas na metabolização de gorduras. |
 | **Sistema Nervoso Irritado** | Pigmentações ou brilho branco na íris. | Lesões ou estresse no sistema nervoso. Suporte com vitaminas e ervas sedativas. |
-| **Lesões / Lacunas / Criptas** | Áreas escuras, abertas ou fechadas. | Representam fraquezas metabólicas ou tecidos encapsulados. Tratamento pode regenerar tecido (linhas brancas de cura aparecem após 3 semanas de terapia). |
+| **Lesões / Lacunas / Criptas** | Áreas escuras, abertas ou fechadas. | Representam fraquezas metabólicas ou tecidos encapsulados. Tratamento pode regenerar tecido (linhas brancas de equilÃ­brio aparecem após 3 semanas de terapia). |
 | **Anel Amarelado na Íris** | Indica necessidade de limpeza profunda. | Relacionado a toxicidade intestinal. |
 | **Fraqueza Cardíaca (marcação na área do coração)** | Pode indicar disfunções circulatórias e cardíacas. | Necessário suporte cardiovascular com dieta, ervas como espinheiro, vitaminas e mudança de estilo de vida. |
-| **Sinais de Cura (linhas brancas)** | Linhas fibrilares que aparecem em áreas antes escuras. | Indicam recuperação tecidual. Sinal positivo de regeneração sob terapias naturais. |
+| **Sinais de EquilÃ­brio (linhas brancas)** | Linhas fibrilares que aparecem em áreas antes escuras. | Indicam recuperação tecidual. Sinal positivo de regeneração sob terapias naturais. |
 
 ## 🌀 **Estágios da Doença e Níveis de Inflamação em Iridologia**
 

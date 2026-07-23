@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Peter Johannes Thiel: O Professor que Se Tornou Curador da Natureza"
 date: 2025-05-12T14:16:00.002Z
@@ -27,7 +27,7 @@ Embora cumprisse suas funções como educador com responsabilidade, Thiel logo
 percebeu que sua verdadeira vocação não estava entre lousas e salas de aula.
 Sonhava, desde a juventude, em ser escritor — sonho que não conseguiu realizar
 naquele momento. No entanto, encontrou outro caminho que o encantaria para
-sempre: o estudo da cura natural.
+sempre: o estudo da equilÃ­brio natural.
 
 ## O que mais influenciou o trabalho de Johannes Thiel?
 
@@ -70,7 +70,7 @@ Washington** — embora não pudesse usá-lo oficialmente na Prússia.
 
 No ano seguinte, em 1926, mudou-se para **Bad-Schandau**, na Saxônia, onde
 fundou a **Villa Thiel**, uma grande casa que se tornou centro de convivência,
-ensino e cura.
+ensino e equilÃ­brio.
 
 
 
@@ -92,7 +92,7 @@ Thiel era um homem **idealista, romântico, carismático e profundamente conecta
 à natureza**. Amava os filhos, ensinava-os a identificar plantas medicinais e a
 compreender o mundo por meio de histórias e observações da vida natural. Mesmo
 enfrentando resistência e preconceito institucional, nunca abandonou sua missão
-de curar e educar.
+de equilibrar e educar.
 
 Além de *Die Augendiagnose*, escreveu outros livros como ***Die Odopathie*** e
 ***Das kleine Rezeptbuch der Odopathie***, que expandiram seus ensinamentos.

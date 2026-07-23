@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quem é o Professor Dr. Celso Batello? Medicina Integrativa e Nutrologia"
 date: 2024-01-13T05:28:00.013Z
@@ -85,7 +85,7 @@ Avançada pela Associação Brasileira de Acupuntura entre 1980 e 1982.
 [🎥 [Vídeo incorporado](https://www.youtube.com/embed/4EzjnJi1K1Q)](https://www.youtube.com/embed/4EzjnJi1K1Q)
 
 Em sua trajetória educacional, Celso Batello fez cursos de Iridologia, Nutrição
-e Cura Integrada, ministrados pelo renomado Dr. Bernard Jensen, incluindo o
+e EquilÃ­brio Integrada, ministrados pelo renomado Dr. Bernard Jensen, incluindo o
 Curso Básico de Iridologia no I Congresso Brasileiro de Iridologia. Ele também
 participou de cursos sobre Nutrição para Saúde Perfeita, Filosofia, Técnicas
 Analíticas e Prática de Iridologia, promovidos pelo Humanities Research Hidden

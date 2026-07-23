@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A prática da irisdiagnose é permitida no Brasil?"
 date: 2025-05-13T02:20:00.006Z
@@ -20,7 +20,7 @@ Em 1998 , o Conselho Federal de Medicina (CFM) reconheceu a Iridologia como um m
 
 Esse reconhecimento estabelece que:
 
-A Iridologia não cura doenças nem trata pacientes diretamente.
+A Iridologia não equilÃ­brio doenças nem trata pacientes diretamente.
 
 * Ela pode ser utilizada como uma ferramenta complementar para avaliar o estado geral de saúde do indivíduo.
 * O uso da Iridologia deve ser realizado apenas por profissionais capacitados nessa área.
@@ -79,7 +79,7 @@ A prática da Iridologia não configura crime ou charlatanismo no Brasil, desde 
 
 **Uso Complementar :** A Iridologia deve ser vista como uma ferramenta auxiliar, não substitutiva, aos métodos diagnósticos convencionais.
 
-**Respeito às Diretrizes Éticas :** O profissional deve evitar promover falsas expectativas ou garantias de cura.
+**Respeito às Diretrizes Éticas :** O profissional deve evitar promover falsas expectativas ou garantias de equilÃ­brio.
 
 ## Artigos do Código Penal Brasileiro
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Diversos autores a respeito da Iridologia"
 date: 2025-02-16T19:18:00.024Z
@@ -246,7 +246,7 @@ livros, anos e países relacionados à história da Iridologia:
 | Philippus Meyeus | Alemanha | *Chiromatica Medica*, descrevendo a íris e sua relação com órgãos e condições de saúde. | 1665 |
 | Johann Sigmund Eltzholtz | Alemanha | Publicações sobre o olho e seus sinais (não detalhadas no texto). | 1695 e 1785 |
 | Christian Bartels | Alemanha | *The Eye and Its' Signs* (*De oculo et signo*). | 1786 |
-| Dr. Ignaz Peczely | Hungria | Desenvolveu a iridologia moderna, criando um gráfico de íris. Publicou *Descobertas no Reino da Natureza e Arte de Curar* (1880). | 1836 (observações), 1880 |
+| Dr. Ignaz Peczely | Hungria | Desenvolveu a iridologia moderna, criando um gráfico de íris. Publicou *Descobertas no Reino da Natureza e Arte de Equilibrar* (1880). | 1836 (observações), 1880 |
 | Nils Liljequist | Suécia | Observou mudanças na íris relacionadas a medicamentos. Escreveu *Om Oegendiagonesen* (*Diagnóstico do Olho*). | 1851-1936 |
 | Dr. Emil Schlegel | Alemanha | Homeopata que apoiou a iridologia. Publicou *Diagnóstico Ocular*. | 1887 (apoio), 1911 |
 | Pastor Emmanuel Felke | Alemanha | Influenciou o desenvolvimento da iridologia, embora não tenha escrito diretamente sobre o tema. | 1856-1926 |
@@ -309,7 +309,7 @@ iridologia:
    * Um dos pioneiros americanos da iridologia no início do século XX.
 7. Frederick W. Collins, MD
 
-   * Médico americano que contribuiu para a prática da iridologia no contexto da cura natural.
+   * Médico americano que contribuiu para a prática da iridologia no contexto da equilÃ­brio natural.
 8. Henry Lindlahr, MD
 
    * Autor do livro *"Iridiagnosis And Other Diagnostic Methods"* (1919). Foi um defensor da iridologia como crítica às práticas médicas convencionais.

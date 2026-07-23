@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quantos sistemas médicos existem no mundo?"
 date: 2025-03-06T00:35:00.004Z
@@ -98,7 +98,7 @@ espiritualidade.
 **Princípios :** O ser humano é visto como uma unidade de corpo, alma e
 espírito. As doenças são entendidas como oportunidades de crescimento
 espiritual. Enfatiza o papel das forças vitais e da individualidade no processo
-de cura.
+de equilÃ­brio.
 
 **Práticas :** Uso de medicamentos antroposóficos (baseados em plantas, minerais
 e metais).
@@ -125,11 +125,11 @@ como uma rede de órgãos interligados.
 embalsamamento.
 
 Observação de sinais nos olhos e outros órgãos para diagnóstico. Ritualísticas e
-invocações espirituais para cura.
+invocações espirituais para equilÃ­brio.
 
 **Diferencial :** Integração de conhecimentos anatômicos com práticas
 espirituais e mágicas. Símbolos como o Olho de Hórus representam proteção e
-cura.
+equilÃ­brio.
 
 Influenciou sistemas médicos posteriores, como a medicina grega.
 
@@ -202,7 +202,7 @@ Diagnósticos baseados em sinais naturais e observações do ambiente.
 médicas.
 
 **Princípios :** Baseia-se na ideia de que o corpo tem uma capacidade inerente
-de se curar quando apoiado por práticas naturais.
+de se equilibrar quando apoiado por práticas naturais.
 
 **Práticas :** Inclui nutrição, fitoterapia, hidroterapia, homeopatia,
 acupuntura e terapias baseadas no estilo de vida.
@@ -217,7 +217,7 @@ XVIII.
 
 **Princípios :** Baseia-se na "lei dos semelhantes" (similia similibus
 curentur), que afirma que substâncias que causam sintomas em pessoas saudáveis
-podem curar doenças semelhantes em pessoas doentes.
+podem equilibrar doenças semelhantes em pessoas doentes.
 
 **Práticas :** Usa medicamentos altamente diluídos para estimular a resposta
 natural do corpo.
@@ -297,7 +297,7 @@ espiritualistas.
 **Princípios :** Baseia-se na ideia de que doenças têm origens espirituais ou
 emocionais e podem ser curadas por intervenções espirituais.
 
-**Práticas :** Cerimônias de cura, orações, meditação guiada, rituais e trabalho
+**Práticas :** Cerimônias de equilÃ­brio, orações, meditação guiada, rituais e trabalho
 com guias espirituais.
 
 **Diferencial :** Muitas vezes combinada com outras formas de medicina

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Qual o tipo de pessoa que pode gostar de uma consulta de Iridologia?"
 date: 2024-04-11T09:38:00.001Z
@@ -48,7 +48,7 @@ entre corpo, mente e espírito.
 
 ### 5. Curiosidade sobre Terapias Naturais:
 
-Indivíduos interessados em métodos naturais de cura, incluindo terapias florais,
+Indivíduos interessados em métodos naturais de equilÃ­brio, incluindo terapias florais,
 aromaterapia e outras práticas holísticas frequentemente associadas à
 iridologia.
 

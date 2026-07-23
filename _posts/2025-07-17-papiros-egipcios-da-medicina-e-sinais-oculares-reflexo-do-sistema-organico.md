@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Papiros Egípcios da medicina e sinais oculares, reflexo do sistema orgânico."
 date: 2025-07-17T03:00:00.003Z
@@ -185,7 +185,7 @@ em: <https://www.worldhistory.org/trans/pt/2-1015/papiros-medicos-do-antigo-egi
 Acesso em: 10 mar. 2025.
 
 LAGOA, Gonçalo Filipe Cunha. O Legado Medicinal dos Antigos Egípcios: A
-Interconexão entre Cura e Religião. 2024. Disponível
+Interconexão entre EquilÃ­brio e Religião. 2024. Disponível
 em: <https://www.academia.edu/125634682/O_Legado_Medicinal_dos_Antigos_Eg%C3%ADpcios_A_Interconex%C3%A3o_entre_Cura_e_Religi%C3%A3o> .
 Acesso em: 10 mar. 2025.
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Ver por Muitos Olhos: a sabedoria atemporal de abandonar a visão única"
 date: 2026-01-30T04:01:00.004Z
@@ -17,7 +17,7 @@ Palavras-chave: múltiplas perspectivas, sabedoria ancestral, Heráclito, Lao-Ts
 
 Resumo
 
-Muitas pessoas, em praticamente todas as épocas e culturas, falaram da mesma verdade: ver a vida por vários ângulos é o caminho da sabedoria, da cura e da ampliação da consciência. Neste artigo, traço uma linha contínua do tempo — da Antiguidade à física quântica — para mostrar que essa não é uma ideia moderna, mas um princípio universal.
+Muitas pessoas, em praticamente todas as épocas e culturas, falaram da mesma verdade: ver a vida por vários ângulos é o caminho da sabedoria, da equilÃ­brio e da ampliação da consciência. Neste artigo, traço uma linha contínua do tempo — da Antiguidade à física quântica — para mostrar que essa não é uma ideia moderna, mas um princípio universal.
 
 Descubra como Heráclito, Lao-Tsé, Buda, Platão, Paracelso, Jung e até a ciência contemporânea convergem no mesmo ensinamento: a verdadeira compreensão nasce quando abandonamos a visão única.
 
@@ -29,7 +29,7 @@ Muitas pessoas, em praticamente todas as épocas e culturas,
 falaram explicitamente sobre a importância de ver a vida e os problemas por vários ângulos.
 
 O mais interessante?  
-Essa ideia sempre aparece associada à sabedoria, à cura e à ampliação da consciência.
+Essa ideia sempre aparece associada à sabedoria, à equilÃ­brio e à ampliação da consciência.
 
 Não é modismo.  
 É um princípio universal, tecido na própria trama da existência.
@@ -115,7 +115,7 @@ Ele via a doença nos planos:
 — ambiental,  
 — espiritual.
 
-➡️ Curar exigia olhar por todos esses ângulos ao mesmo tempo.
+➡️ Equilibrar exigia olhar por todos esses ângulos ao mesmo tempo.
 
 ---
 
@@ -151,7 +151,7 @@ Um sintoma só se transforma quando é visto:
 — dos sonhos,  
 — dos mitos.
 
-➡️ A cura acontece na interseção dos ângulos.
+➡️ A equilÃ­brio acontece na interseção dos ângulos.
 
 ---
 

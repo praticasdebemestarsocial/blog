@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Repertorium der Irisdiagnose de Joachim Broy: Um Guia Essencial para a Iridologia Moderna"
 date: 2024-04-11T07:05:00.002Z
@@ -74,7 +74,7 @@ O "Repertorium der Irisdiagnose" é indicado para:
 
 Em um mundo onde a medicina convencional muitas vezes foca no tratamento sintomático, o "Repertorium der Irisdiagnose" oferece uma abordagem preventiva e holística.
 
-Ao identificar sinais precoces de desequilíbrio na íris, os praticantes podem intervir antes que as doenças se manifestem de forma mais grave. Além disso, o livro destaca a importância da individualidade no processo de cura, algo que está alinhado com as tendências atuais da medicina personalizada.
+Ao identificar sinais precoces de desequilíbrio na íris, os praticantes podem intervir antes que as doenças se manifestem de forma mais grave. Além disso, o livro destaca a importância da individualidade no processo de equilÃ­brio, algo que está alinhado com as tendências atuais da medicina personalizada.
 
 Com o avanço da tecnologia, a iridologia também está evoluindo. Ferramentas digitais, como câmeras de alta resolução e softwares de análise, estão sendo integradas à prática.
 

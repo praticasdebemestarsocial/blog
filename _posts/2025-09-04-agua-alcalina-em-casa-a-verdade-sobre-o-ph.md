@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Água Alcalina em Casa: A Verdade Sobre o pH "
 date: 2025-09-04T01:34:00.004Z
@@ -37,7 +37,7 @@ ligeiramente alcalino pode ajudar a neutralizar o excesso de acidez no corpo,
 causado por dietas ricas em alimentos processados, estresse e poluição.
 
 Porém, é importante esclarecer que os benefícios da água alcalina estão
-relacionados ao bem-estar e não devem ser confundidos com curas médicas.
+relacionados ao bem-estar e não devem ser confundidos com equilÃ­brios médicas.
 
 Estudos ainda são limitados, mas muitos usuários relatam melhorias na
 hidratação, redução de refluxos e uma sensação geral de leveza após adotá-la.

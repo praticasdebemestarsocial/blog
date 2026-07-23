@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Clareza Emocional: A Ponte Entre Você e Sua Verdade Interior"
 date: 2025-07-10T05:27:00.007Z
@@ -106,7 +106,7 @@ ajudar a encontrar paz e autoconhecimento.
 
 Não lute contra suas emoções. Elas são mensagens do seu interior. Aprenda a
 acolhê-las como aliadas, e não como inimigas. Isso fortalece sua resiliência e
-promove cura emocional.
+promove equilÃ­brio emocional.
 
 ## 📚Inspiração de grandes mestres
 

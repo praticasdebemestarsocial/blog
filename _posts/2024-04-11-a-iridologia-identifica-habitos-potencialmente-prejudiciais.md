@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A Iridologia identifica hábitos potencialmente prejudiciais?"
 date: 2024-04-11T07:07:00.001Z
@@ -51,7 +51,7 @@ Essa pesquisa resultou na criação de mapas da íris e da esclera do olho.
 
 [Há muitos livros, estudos e pesquisas científicas publicados sobre o tema.](https://tecnologiasdoautoconhecimento.blogspot.com/search/label/livros%20da%20iridologia)
 
-O corpo é uma máquina humana extremamente avançada, onde a ciência humana ainda não compreende muitos processos físico-químicos do organismo e não oferece cura para a maioria das doenças crônicas e degenerativas.
+O corpo é uma máquina humana extremamente avançada, onde a ciência humana ainda não compreende muitos processos físico-químicos do organismo e não oferece equilÃ­brio para a maioria das doenças crônicas e degenerativas.
 
 [🎥 [Vídeo incorporado](https://www.youtube.com/embed/Qk2rjnHf4V8)](https://www.youtube.com/embed/Qk2rjnHf4V8)
 

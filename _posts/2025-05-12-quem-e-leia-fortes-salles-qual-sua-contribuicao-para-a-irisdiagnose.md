@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quem é Léia Fortes Salles?Qual sua contribuição para a Irisdiagnose?"
 date: 2025-05-12T10:21:00.004Z
@@ -106,7 +106,7 @@ da lógica reducionista e adotar uma abordagem mais ampla, ética e humana.
 
 Seus manuais e artigos — muitos publicados em coletâneas sobre terapias
 integrativas — oferecem clareza, rigor e sensibilidade. Ela não promove a
-iridologia como “cura milagrosa”, mas como um caminho de escuta e prevenção.
+iridologia como “equilÃ­brio milagrosa”, mas como um caminho de escuta e prevenção.
 
 **Conclusão**
 

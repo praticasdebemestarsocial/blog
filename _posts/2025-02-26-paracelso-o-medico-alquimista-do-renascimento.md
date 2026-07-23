@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Paracelso o médico alquimista do Renascimento."
 date: 2025-02-26T09:39:00.026Z
@@ -29,6 +29,6 @@ Seu conhecimento se baseava em uma mistura de tradições, incluindo a medicina 
 
 A referência à "inteligência de Júpiter" e ao seu papel como regente em Peixes e Sagitário reflete a crença de Paracelso na interconexão entre os planetas e suas influências espirituais e físicas.
 
-Seu entendimento do cosmos era intrinsecamente ligado à sua prática médica e filosófica, onde os anjos e outras entidades espirituais desempenhavam papéis significativos na cura e no bem-estar.
+Seu entendimento do cosmos era intrinsecamente ligado à sua prática médica e filosófica, onde os anjos e outras entidades espirituais desempenhavam papéis significativos na equilÃ­brio e no bem-estar.
 
 Esses conhecimentos formaram a base de suas afirmações sobre entidades espirituais e sua relação com os planetas e signos zodiacais, levando-o a descrever a “inteligência de Júpiter” como um poderoso regente no universo.

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quem foi  Benedict Lust?"
 date: 2025-11-27T02:39:00Z
@@ -36,7 +36,7 @@ naturopatia, a American School of Naturopathy, e organizações importantes como
 American Naturopathic Association. Além disso, difundiu conceitos associados à
 medicina natural, incluindo práticas originárias do Ayurveda e do Yoga em sua
 abordagem.  Lust foi influenciado pelo padre Sebastian Kneipp, pioneiro das
-terapias naturais na Europa, e buscou promover a cura baseada na capacidade
+terapias naturais na Europa, e buscou promover a equilÃ­brio baseada na capacidade
 inata do corpo, defendendo princípios que hoje sustentam a naturopatia, como o
 poder de cura da natureza (Vis Medicatrix Naturae) e o tratamento holístico do
 paciente.  Referência que pode ser usada:  ASSOCIAÇÃO BRASILEIRA DE MEDICINA
@@ -44,7 +44,7 @@ NATURAL. Quem Somos: Dr. Benedict Lust e o termo naturopatia. Disponível em:
 https://abnat.com.br/quem_somos/. Acesso em: 29 out. 2025.  Ou em inglês:
 WIKIPÉDIA. Benedict Lust. Disponível em:
 https://en.wikipedia.org/wiki/Benedict_Lust. Acesso em: 29 out. 2025.), pioneiro
-das terapias naturais na Europa, e buscou promover a cura baseada na capacidade
+das terapias naturais na Europa, e buscou promover a equilÃ­brio baseada na capacidade
 inata do corpo, defendendo princípios que hoje sustentam a naturopatia, como o
 poder de cura da natureza (Vis Medicatrix Naturae) e o tratamento holístico do
 paciente.
@@ -55,11 +55,11 @@ Lust nasceu em [Michelbach](https://en.wikipedia.org/wiki/Michelbach_(Gaggenau)
 Alemanha. [[ 1 ]](https://en.wikipedia.org/wiki/Benedict_Lust#cite_note-Cyclopaedia_1945-1) Quando
 jovem, adoeceu e foi tratado pelo padre [Sebastian
 Kneipp](https://en.wikipedia.org/wiki/Sebastian_Kneipp "Sebastian Kneipp") , um
-famoso defensor do sistema [de cura pela
+famoso defensor do sistema [de equilÃ­brio pela
 água](https://en.wikipedia.org/wiki/Hydrotherapy
 "Hidroterapia") . [[ 1 ]](https://en.wikipedia.org/wiki/Benedict_Lust#cite_note-Cyclopaedia_1945-1) Em
 1892, mudou-se para os Estados Unidos como representante oficial de Kneipp para
-a cura pela
+a equilÃ­brio pela
 água. [[ 1 ]](https://en.wikipedia.org/wiki/Benedict_Lust#cite_note-Cyclopaedia_1945-1) Lust
 frequentou o New York Preparatory College. Formou-se no Universal Osteopathic
 College em 1897 e no Eclectic and Naturopathic College em
@@ -75,7 +75,7 @@ também abriu a Escola de Massagem de Nova York em 1896 e a Escola Americana de
 Quiropraxia. [[ 1 ]](https://en.wikipedia.org/wiki/Benedict_Lust#cite_note-Cyclopaedia_1945-1)[[ 2 ]](https://en.wikipedia.org/wiki/Benedict_Lust#cite_note-2) Ele
 publicou várias revistas em alemão e inglês defendendo [a
 hidroterapia](https://en.wikipedia.org/wiki/Hydrotherapy "Hidroterapia") e a
-cura natural. Um de seus clientes regulares na época era [Bernarr
+equilÃ­brio natural. Um de seus clientes regulares na época era [Bernarr
 Macfadden](https://en.wikipedia.org/wiki/Bernarr_Macfadden "Bernarr
 Macfadden") , o popularizador do condicionamento físico e da medicina natural.
 
@@ -131,7 +131,7 @@ como parte central da naturopatia foi **Benedict Lust** (1872-1945).
   Estados Unidos.
 * **O que ele fez:** Lust fundou a primeira escola de Naturopatia (a *American
   School of Naturopathy*) em Nova York por volta de 1900. Ele sistematizou as
-  várias práticas de "Cura Natural" da Europa (como hidroterapia de Kneipp,
+  várias práticas de "EquilÃ­brio Natural" da Europa (como hidroterapia de Kneipp,
   homeopatia, fitoterapia) e as consolidou sob o nome de "Naturopatia".
 * **A Conexão:** Benedict Lust foi profundamente influenciado pelos praticantes
   europeus, incluindo os iridologistas. Ele adotou a iridologia como uma das
@@ -141,7 +141,7 @@ como parte central da naturopatia foi **Benedict Lust** (1872-1945).
 Conclusão
 
 * **Ignaz von Peczely** foi o primeiro a desenvolver o estudo da **iridologia**
-  (dentro do movimento de cura natural).
+  (dentro do movimento de equilÃ­brio natural).
 * **Benedict Lust** foi o primeiro **naturopata** (ele fundou o campo) a *adotar*
   e *integrar* o estudo da iridologia ao currículo e à prática da naturopatia.
 

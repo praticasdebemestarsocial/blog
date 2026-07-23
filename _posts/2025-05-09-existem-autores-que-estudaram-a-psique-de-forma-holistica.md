@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Existem autores que estudaram a psiquê de forma holística? "
 date: 2025-05-09T02:12:00.004Z
@@ -91,7 +91,7 @@ Há algo profundamente humano em sua busca por compreender como nossas emoções
 
 * **Deepak Chopra** – médico e escritor que une medicina, espiritualidade e
   psicologia.
-* **Louise Hay** – autora que abordou o poder da mente e das emoções na cura do
+* **Louise Hay** – autora que abordou o poder da mente e das emoções na equilÃ­brio do
   corpo.
 * **Clarissa Pinkola Estés** – psicóloga junguiana, autora de *Mulheres que Correm
   com os Lobos*, que une mitologia, narrativa arquetípica e psicologia profunda.

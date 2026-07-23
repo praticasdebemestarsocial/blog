@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O que é reflexologia podal?"
 date: 2024-04-10T04:58:00.002Z
@@ -21,7 +21,7 @@ do corpo como um todo.
 Ela se baseia no princípio de que os pontos nos pés estão conectados a
 diferentes órgãos e sistemas do corpo, e a aplicação da pressão nesses pontos
 pode estimular essas áreas correspondentes, ajudando a aliviar o estresse,
-promover a circulação sanguínea e energética e facilitar o processo de cura.
+promover a circulação sanguínea e energética e facilitar o processo de equilÃ­brio.
 
 Acredita-se que a reflexologia podal tenha origens antigas em várias culturas ao
 redor do mundo, incluindo a China, o Egito e as culturas indígenas americanas.

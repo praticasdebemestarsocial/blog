@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A psiquêlogia pode parecer com a psicologia esotérica?"
 date: 2025-05-09T02:38:00.002Z
@@ -104,7 +104,7 @@ da alma.**
 **3. Ambas valorizam o autoconhecimento como um processo de expansão da
 consciência.**
 
-* Não se trata apenas de curar um trauma ou resolver um conflito, mas de
+* Não se trata apenas de equilibrar um trauma ou resolver um conflito, mas de
   **despertar o ser espiritual dentro de si**.
 
 ---
@@ -115,7 +115,7 @@ consciência.**
 | --- | --- | --- |
 | Base | Teosofia, Alice Bailey, Esoterismo Ocidental | Pode ser uma fusão entre tradições ancestrais, psicologia arquetípica, naturopatia, medicina vibracional |
 | Linguagem | Mais técnica e ligada a escolas esotéricas específicas | Pode ser poética, sensorial, intuitiva e mais acessível |
-| Foco terapêutico | Transcendência e serviço espiritual | Autoconhecimento, cura emocional, integração e conexão com a natureza |
+| Foco terapêutico | Transcendência e serviço espiritual | Autoconhecimento, equilÃ­brio emocional, integração e conexão com a natureza |
 | Ferramentas | Astrologia esotérica, 7 raios, chakras, corpos sutis | Pode incluir florais, fitoterapia, iridologia, oráculos, contos, ritualística, meditações, entre outros |
 
 ### ✍️ Em resumo:

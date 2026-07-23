@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O que é Advanced Healing Arts?"
 date: 2025-02-19T21:48:00.005Z
@@ -28,7 +28,7 @@ Acreditamos que sua jornada de bem-estar começa com você. Nosso objetivo é
 entender as necessidades únicas do seu corpo, estilo de vida e objetivos,
 oferecendo métodos naturais, não invasivos e livres de efeitos colaterais.
 Priorizamos práticas que permitem que o corpo utilize sua própria capacidade de
-cura, ajudando você a alcançar saúde e equilíbrio de forma sustentável.
+equilÃ­brio, ajudando você a alcançar saúde e equilíbrio de forma sustentável.
 
 ### Serviços
 
@@ -59,6 +59,6 @@ afete sua qualidade de vida, entre em contato conosco hoje mesmo. Trabalhamos
 para adaptar nossos tratamentos às suas necessidades e ajudá-lo a se sentir
 melhor de forma natural e eficaz.
 
-Sua cura começa aqui. Ligue para nós e agende uma consulta!
+Sua equilÃ­brio começa aqui. Ligue para nós e agende uma consulta!
 
 <https://www.advancedhealingarts.ca/iridology>

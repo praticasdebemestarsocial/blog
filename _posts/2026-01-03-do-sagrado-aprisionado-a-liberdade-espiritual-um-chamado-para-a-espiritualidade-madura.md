@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Do Sagrado Aprisionado à Liberdade Espiritual: um chamado para a espiritualidade madura"
 date: 2026-01-03T04:14:00.005Z
@@ -135,7 +135,7 @@ Enquanto o Ocidente enrijecia seu sagrado, tradições do Oriente —
 como o budismo, o taoísmo e as yogas — preservavam caminhos de:  
 — autoconhecimento,  
 — não-dualidade,  
-— cura integrativa,  
+— equilÃ­brio integrativa,  
 — e relação direta com o Sagrado — sem intermediários.
 
 E mesmo no Ocidente, pensadores, artistas, cientistas e curandeiros seguiram em
@@ -157,7 +157,7 @@ As instituições que prometiam segurança espiritual revelam:
 — rigidez.
 
 A ciência, por sua vez, mostra seus limites:  
-— cura o corpo,  
+— equilÃ­brio o corpo,  
 — mas não dá sentido à alma.
 
 E as “novas espiritualidades” muitas vezes caem em:  

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Como a iridologia pode  enfrentar os desafios de um estudo de revisão por pares?"
 date: 2024-04-11T09:21:00.003Z
@@ -186,7 +186,7 @@ esses profissionais.
 
 Assim fica mais difícil marginalizar ou rejeitar a especialidade como um todo.
 
-É uma luta sempre tentar validar formas alternativas de diagnóstico e cura
+É uma luta sempre tentar validar formas alternativas de diagnóstico e equilÃ­brio
 quando confrontadas com o ceticismo.
 
 Mas com paciência, estratégia e rigor científico, mentes podem ser abertas com o

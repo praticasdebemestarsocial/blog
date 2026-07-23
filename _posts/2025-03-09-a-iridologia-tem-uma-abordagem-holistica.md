@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A iridologia tem uma abordagem holística?"
 date: 2025-03-09T23:37:00.002Z
@@ -78,7 +78,7 @@ laboratorial).
 exames ou tratamentos prescritos por profissionais licenciados.
 
 **Ética e responsabilidade :** Terapeutas devem ser claros sobre as limitações
-da prática, evitando promessas de cura.
+da prática, evitando promessas de equilÃ­brio.
 
 ### Citação do Dr. Celso Batello :
 

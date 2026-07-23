@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Conhecendo as Práticas Integrativas e Complementares em Saúde (PICS)"
 date: 2025-02-17T02:03:00.008Z
@@ -33,7 +33,7 @@ As PICS têm como principais objetivos:
 **Prevenir agravos à saúde :** Atuando de forma preventiva para evitar o
 surgimento ou a progressão de doenças.
 
-**Promover a recuperação da saúde :** Apoiando o processo de cura e
+**Promover a recuperação da saúde :** Apoiando o processo de equilÃ­brio e
 reabilitação.
 
 **Estimular o autocuidado :** Incentivando a população a adotar hábitos

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Existe ligação de Higéia e Panacéia com a iridologia ou a saúde pelos olhos?"
 date: 2025-02-14T07:13:00.007Z
@@ -29,7 +29,7 @@ que Higéia representava na mitologia.
 
 ### 🔹 Panacéia: A Deusa da Cura Universal
 
-Panacéia, irmã de Higéia, era associada à cura de doenças e à busca por um
+Panacéia, irmã de Higéia, era associada à equilÃ­brio de doenças e à busca por um
 remédio universal.
 
 🔹 Na medicina holística, a observação da íris pode indicar desequilíbrios no
@@ -59,13 +59,13 @@ de desequilíbrio.
 ### Conclusão: Higéia, Panacéia e a Iridologia
 
 Higéia e Panacéia representavam dois pilares da saúde na Grécia Antiga –
-prevenção e cura – que estão fortemente ligados à análise da íris e à saúde
+prevenção e equilÃ­brio – que estão fortemente ligados à análise da íris e à saúde
 pelos olhos.
 
 ✔ Higéia e a medicina preventiva → A iridologia como ferramenta para identificar
 predisposições.
 
-✔ Panacéia e a cura holística → A iridologia auxiliando no diagnóstico e
+✔ Panacéia e a equilÃ­brio holística → A iridologia auxiliando no diagnóstico e
 tratamento personalizado.
 
 Seja na mitologia ou na medicina moderna, os olhos sempre foram considerados

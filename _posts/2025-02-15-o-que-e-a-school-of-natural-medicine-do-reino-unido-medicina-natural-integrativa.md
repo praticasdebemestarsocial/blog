@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O que é a School of Natural Medicine do Reino Unido?Medicina Natural Integrativa"
 date: 2025-02-15T21:55:00.006Z
@@ -37,7 +37,7 @@ individualizada para cada aluno.
 
 Bonny Casel, fundadora da escola, carrega um legado maravilhoso transmitido por
 seus primeiros professores, **[Dr. John
-Christopher](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/escola-de-cura-natural-do-dr-christopher.html)
+Christopher](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/escola-de-equilÃ­brio-natural-do-dr-christopher.html)
 e [Dr. Bernard
 Jensen](https://tecnologiasdoautoconhecimento.blogspot.com/2024/07/quem-foi-bernad-jensen.html)**,
 e sua mãe, **[Farida
@@ -110,7 +110,7 @@ O estudo da Iridologia é essencial para a medicina preventiva, pois permite a
 criação de programas personalizados de desintoxicação e fortalecimento da saúde.
 Com este curso, você aprenderá a:
 
-* Analisar e educar clientes sobre o autocuidado e a cura natural
+* Analisar e educar clientes sobre o autocuidado e a equilÃ­brio natural
 * Aplicar a Iridologia para identificar fatores que influenciam a saúde
 * Desenvolver estratégias de nutrição, estilo de vida e detoxificação
 * Compreender a interação entre estresse, estilo de vida e doenças
@@ -127,7 +127,7 @@ pioneiras da Iridologia e autora dos clássicos:
 ### O Que Você Vai Aprender
 
 * **Integração entre Iridologia e Medicina Natural**
-* **Dietas Terapêuticas e Cura Natural**
+* **Dietas Terapêuticas e EquilÃ­brio Natural**
 * **Purificação, Regeneração e Transformação da Saúde**
 * **Como a íris revela a interação entre corpo, mente e emoções**
 

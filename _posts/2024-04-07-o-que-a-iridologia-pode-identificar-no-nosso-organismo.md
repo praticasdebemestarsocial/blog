@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O que a Iridologia pode identificar no nosso organismo?"
 date: 2024-04-07T07:07:00.003Z
@@ -54,7 +54,7 @@ de mapas daí eles e da esclera do olho.
 
     O corpo é uma máquina humana extremamente avançada hoje a ciência humana
 ainda não consegue entender muitos processos físico-químicos do organismo e nem
-oferece cura para a maioria das doenças crônico degenerativas.
+oferece equilÃ­brio para a maioria das doenças crônico degenerativas.
 
 [
 
@@ -75,7 +75,7 @@ independente de estar fazendo qualquer outro tratamento médico.
 
 # [Iridologia integrada: A ciência e a arte da revelação do holograma humano](https://amzn.to/3U6Mhtn)
 
-> Iridologia Integrada apresenta ao leitor como é possível diagnosticar e curar quase todo tipo de enfermidade por meio da Iridologia - o estudo da íris. Esta publicação revolucionária é resultado de anos de trabalho e aprimoramento do médico americano, que atualmente reside no Brasil, Gurudev Singh Khalsa. Suas pesquisas aliam ciência e tecnologia à vida emocional e espiritual dos pacientes, que resultam em tratamentos muito bem-sucedidos.
+> Iridologia Integrada apresenta ao leitor como é possível diagnosticar e equilibrar quase todo tipo de enfermidade por meio da Iridologia - o estudo da íris. Esta publicação revolucionária é resultado de anos de trabalho e aprimoramento do médico americano, que atualmente reside no Brasil, Gurudev Singh Khalsa. Suas pesquisas aliam ciência e tecnologia à vida emocional e espiritual dos pacientes, que resultam em tratamentos muito bem-sucedidos.
 
 ## 4- Referências Bibliográficas
 

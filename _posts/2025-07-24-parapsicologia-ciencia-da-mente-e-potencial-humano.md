@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: " Parapsicologia: Ciência da Mente e Potencial Humano"
 date: 2025-07-24T23:49:00.002Z
@@ -85,7 +85,7 @@ pesquisa séria sem misturas doutrinárias.
 ## 🎯 Aplicações da Parapsicologia em Nossa Vida
 
 A parapsicologia vai além de explicar fenômenos estranhos. Ela conecta
-autoconhecimento com cura emocional, equilíbrio mental e expansão de
+autoconhecimento com equilÃ­brio emocional, equilíbrio mental e expansão de
 consciência.
 
 Ao dominar técnicas como **hipnose clínica e reprogramação mental**, o indivíduo

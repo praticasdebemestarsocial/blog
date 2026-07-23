@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Sem Titulo"
 date: 2025-07-24T22:21:00Z
@@ -15,7 +15,7 @@ Este curso propõe uma jornada de reconexão com o seu sagrado interior através
 práticas inspiradas no xamanismo universal, no trabalho com arquétipos e na
 conexão com energias angélicas. Você aprenderá ferramentas para limpar,
 equilibrar e elevar sua energia pessoal, expandindo sua consciência e promovendo
-cura interior.
+equilÃ­brio interior.
 
 ---
 
@@ -30,19 +30,19 @@ cura interior.
 #### 2. **Trabalho com Arquétipos**
 
 * O que são arquétipos? (Baseado em Jung)
-* Arquétipos de cura: O Curador, o Guerreiro, o Mago, a Mãe, o Sábio
+* Arquétipos de equilÃ­brio: O Curador, o Guerreiro, o Mago, a Mãe, o Sábio
 * Como reconhecer e integrar esses aspectos dentro de si
 
 #### 3. **Anjos como Forças Arquetípicas**
 
 * Visão simbólica dos anjos: mensageiros da alma e da consciência
-* Os 7 raios e suas qualidades (sabedoria, cura, amor, poder, etc.)
+* Os 7 raios e suas qualidades (sabedoria, equilÃ­brio, amor, poder, etc.)
 * Invocações e meditações com energias angélicas
 
 #### 4. **Ferramentas de Conexão**
 
 * Criando um altar intuitivo e simbólico
-* Elementos da natureza como portais de cura (fogo, água, ar, terra, éter)
+* Elementos da natureza como portais de equilÃ­brio (fogo, água, ar, terra, éter)
 * Rituais de intenção e bênçãos (com ética, simbolismo e clareza)
 
 #### 5. **Viagens xamânicas e meditações guiadas**
@@ -71,7 +71,7 @@ cura interior.
 * Áudios de meditação guiada e jornada xamânica
 * Vídeos explicativos com demonstrações de rituais simbólicos
 * Certificado de participação
-* Bônus: E-book “Os 7 Arquétipos da Cura Espiritual”
+* Bônus: E-book “Os 7 Arquétipos da EquilÃ­brio Espiritual”
 
 ---
 

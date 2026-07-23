@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O que a ciencia ainda tem por descobrir a respeito do olho?"
 date: 2024-10-26T19:07:00Z
@@ -14,7 +14,7 @@ interesse incluem:
 prevenção para essas doenças que causam perda de visão.
 
 2. **Regeneração celular**: Pesquisas sobre a regeneração das células da retina
-e do nervo óptico podem levar a curas para a cegueira causada por lesões.
+e do nervo óptico podem levar a equilÃ­brios para a cegueira causada por lesões.
 
 3. **Interface olho-cérebro**: Ainda estamos compreendendo como o cérebro
 interpreta as informações visuais para criar percepção.

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quem é  Peter Jackson-Main?Educador na Medicina Natural."
 date: 2025-03-09T22:35:00.002Z
@@ -22,7 +22,7 @@ onde leciona desde 2003.
 **Qualificações:**
 
 * Mestre em Medicina Herbal.
-* Diplomas em Medicina Herbal e Cura Natural, Naturopatia, Iridologia e Terapia de Polaridade. 
+* Diplomas em Medicina Herbal e EquilÃ­brio Natural, Naturopatia, Iridologia e Terapia de Polaridade. 
 
   [cnmnetherlands.nl](https://cnmnetherlands.nl/free-lecture-a-cnm-herbal-walk-with-peter-jackson-main/?utm_source=chatgpt.com)
 

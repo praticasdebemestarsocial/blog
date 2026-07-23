@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quem é Robin Kelly? Autor do Holograma Humano."
 date: 2025-02-20T20:47:00.005Z
@@ -56,7 +56,7 @@ que refletem a totalidade do universo.
 
 Ele combina reflexões sobre geometria fractal, biologia e estudos sobre a
 consciência para propor que, ao nos percebermos como hologramas, podemos acessar
-novos níveis de cura, autoconhecimento e harmonia com o mundo ao nosso redor.
+novos níveis de equilÃ­brio, autoconhecimento e harmonia com o mundo ao nosso redor.
 
 A obra é voltada tanto para leitores interessados em saúde integral quanto para
 aqueles fascinados por temas como física quântica, espiritualidade e o futuro da

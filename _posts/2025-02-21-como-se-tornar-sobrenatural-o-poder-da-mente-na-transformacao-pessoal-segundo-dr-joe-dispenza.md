@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Como Se Tornar Sobrenatural: O Poder da Mente na Transformação Pessoal, Segundo Dr. Joe Dispenza"
 date: 2025-02-21T06:06:00.004Z
@@ -39,7 +39,7 @@ demonstra como é possível experimentar uma vida mais mística e plena.
 #### No livro, Dr. Dispenza aborda diversos tópicos, incluindo:
 
 * **Desmistificação dos centros de energia do corpo**: Explorando os sete centros
-  energéticos e técnicas para equilibrá-los, promovendo cura e bem-estar.
+  energéticos e técnicas para equilibrá-los, promovendo equilÃ­brio e bem-estar.
 * **Libertação do passado**: Métodos para recondicionar a mente e o corpo,
   permitindo a criação de uma nova identidade alinhada com os desejos e objetivos
   atuais.

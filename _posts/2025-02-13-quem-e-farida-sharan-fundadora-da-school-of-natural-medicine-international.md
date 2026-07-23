@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quem é  Farida Sharan, fundadora da School of Natural Medicine International."
 date: 2025-02-13T08:26:00.003Z
@@ -16,7 +16,7 @@ Farida Sharan é uma renomada especialista em iridologia, naturopatia e medicina
 holística.
 
 Ela é fundadora da School of Natural Medicine International, onde ensina
-iridologia integrada com outras práticas de cura natural, como herbologia,
+iridologia integrada com outras práticas de equilÃ­brio natural, como herbologia,
 nutrição e terapias energéticas.
 
 Farida Sharan é conhecida por sua abordagem profunda e holística da iridologia,
@@ -35,12 +35,12 @@ como um método de diagnóstico e autoconhecimento, combinando sua experiência 
 ### 📖 "Herbal Medicine"
 
 Outro livro importante, onde ela ensina sobre o uso de ervas medicinais para
-promover a cura natural.
+promover a equilÃ­brio natural.
 
 ### 📖 "Naturopathy & Iridology"
 
 Livro onde Farida combina iridologia com naturopatia, mostrando como ambas podem
-ser usadas juntas para um diagnóstico mais completo e um plano de cura
+ser usadas juntas para um diagnóstico mais completo e um plano de equilÃ­brio
 personalizado.
 
 Referências e Fontes sobre Farida Sharan

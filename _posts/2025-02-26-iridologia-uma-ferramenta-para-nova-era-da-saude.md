@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Iridologia uma ferramenta para Nova Era da Saúde?"
 date: 2025-02-26T06:49:00.007Z
@@ -101,7 +101,7 @@ da pessoa, se falta algum órgão, presença de hemorragias.
 
     A Iridologia não tem a pretensão de ser melhor  que outras técnica médicas,
 muito menos temos a pretensão de torna-la uma ferramenta salvadora com
-"levantamento de bandeiras" ou de oferecer através dela curas fantásticas e
+"levantamento de bandeiras" ou de oferecer através dela equilÃ­brios fantásticas e
 milagrosas, pelo contrario ela faz  observação de que o indivíduo para ter saúde
 necessita:
 

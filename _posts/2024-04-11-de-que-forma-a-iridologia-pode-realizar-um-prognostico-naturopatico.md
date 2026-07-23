@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "De que forma a Iridologia pode realizar um prognóstico naturopático?"
 date: 2024-04-11T08:38:00.002Z
@@ -103,7 +103,7 @@ Recomendar métodos de desintoxicação natural para eliminar toxinas do corpo.
 
 **6. Homeopatia:**
 
-A homeopatia é uma prática que envolve o uso de substâncias altamente diluídas para estimular a capacidade de cura do corpo. O Naturopata Iridologista pode recomendar remédios homeopáticos com base na análise da íris.
+A homeopatia é uma prática que envolve o uso de substâncias altamente diluídas para estimular a capacidade de equilÃ­brio do corpo. O Naturopata Iridologista pode recomendar remédios homeopáticos com base na análise da íris.
 
 **7. Técnicas de Relaxamento:**
 

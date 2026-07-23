@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A iridologia é científica ou pseudociência?"
 date: 2025-10-11T21:41:00.007Z
@@ -82,7 +82,7 @@ mistérios a desvendar. Por exemplo:
 sistêmicas?**
 
 Essas questões permanecem sem respostas definitivas, assim como muitas outras
-áreas da ciência e da saúde, como por exemplo diversas doenças permacem sem cura
+áreas da ciência e da saúde, como por exemplo diversas doenças permacem sem equilÃ­brio
 e sem explicação e outras questões complexas sobre genética.
 
 No entanto, isso não invalida a prática – assim como sabemos que vírus existem,

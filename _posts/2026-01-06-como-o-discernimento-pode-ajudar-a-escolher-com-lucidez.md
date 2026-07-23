@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Como o discernimento pode ajudar a escolher com lucidez?"
 date: 2026-01-06T04:58:00.009Z
@@ -240,7 +240,7 @@ junte-se à nossa comunidade no YouTube — Mapas do Autoconhecimento.
 
 🌿 Lembre-se: o discernimento não substitui o cuidado profissional —  
 mas, aliado à ciência, à ética e à sabedoria ancestral,  
-pode ser um dos mais poderosos caminhos de cura,  
+pode ser um dos mais poderosos caminhos de equilÃ­brio,  
 porque nos devolve a autonomia do olhar.
 
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "É possível identificar estagnação através do olhos?"
 date: 2024-04-07T07:38:00.002Z
@@ -101,7 +101,7 @@ Em geral, a estagnação pode afetar muitos aspectos da saúde, incluindo:
 
 O tratamento da estagnação na MTC pode envolver acupuntura, fitoterapia,
 massagem e mudanças no estilo de vida, com o objetivo de restaurar o fluxo de
-energia e promover a cura natural do corpo.
+energia e promover a equilÃ­brio natural do corpo.
 
 ## 5- Quais os sinais nos olhos que identificam que a pessoa está com estagnação no organismo?
 
@@ -127,7 +127,7 @@ incluem:
 
 Na MTC, o tratamento da estagnação pode incluir **acupuntura, fitoterapia,
 massagem e mudanças no estilo de vida,** com o objetivo de restaurar o fluxo de
-energia no corpo e promover a cura natural.
+energia no corpo e promover a equilÃ­brio natural.
 
 ## **6- A Iridologia Identifica sinais de estagnação que aparecem nos olhos?**
 

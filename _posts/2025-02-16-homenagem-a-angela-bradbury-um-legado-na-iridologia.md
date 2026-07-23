@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: " Homenagem a Angela Bradbury: Um Legado na Iridologia"
 date: 2025-02-16T02:26:00.005Z
@@ -32,7 +32,7 @@ Salim Khan destacou como Angela possuía a incrível habilidade de fazer cada
 pessoa se sentir especial e valorizada.
 
 Seu dom de ouvir, refletir e encontrar soluções harmoniosas para desafios
-organizacionais e pessoais era um verdadeiro bálsamo de cura na medicina
+organizacionais e pessoais era um verdadeiro bálsamo de equilÃ­brio na medicina
 complementar e alternativa.
 
 ---

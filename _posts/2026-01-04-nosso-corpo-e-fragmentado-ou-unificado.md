@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Nosso corpo é fragmentado ou unificado?"
 date: 2026-01-04T18:08:00.004Z
@@ -25,7 +25,7 @@ trouxe avanços técnicos, mas um custo humano profundo — doenças crônicas,
 esgotamento existencial e vazio espiritual.
 
 Neste artigo, exploro como Jung, a Medicina Tradicional Chinesa e a sabedoria de
-Yeshua apontam para o mesmo caminho: a cura está no retorno à unidade. Não somos
+Yeshua apontam para o mesmo caminho: a equilÃ­brio está no retorno à unidade. Não somos
 peças a serem consertadas, mas seres vivos, ressonantes, cujo sofrimento é
 linguagem da alma. A verdadeira saúde nasce quando corpo, emoção, mente e
 espírito voltam a cantar juntos.
@@ -112,7 +112,7 @@ Como Jung dizia com clareza lapidar:
 > *“Até que você torne consciente o inconsciente, ele dirigirá sua vida — e você o
 > chamará de destino.”*
 
-A cura, então, não é controlar, mas compreender.  
+A equilÃ­brio, então, não é controlar, mas compreender.  
 Não é eliminar a emoção, mas decifrar seu símbolo.
 
 ---
@@ -193,7 +193,7 @@ Na MTC, mágoa não liberada ou ressentimento guardado estagna o Qi do Fígado,
 que, no ciclo dos Cinco Elementos, “domina” o Coração — afetando diretamente o
 Shen.
 
-Yeshua via isso com igual clareza, mas com palavras de cura relacional:
+Yeshua via isso com igual clareza, mas com palavras de equilÃ­brio relacional:
 
 > *“Se, ao apresentar sua oferta no altar, você se lembrar de que seu irmão tem
 > algo contra você, deixe ali sua oferta… e vá primeiro reconciliar-se.”* (Mateus
@@ -273,13 +273,13 @@ Não é negar a matéria — mas honrar o espírito que a habita.
 Onde:  
 — pensamento, emoção, corpo e espírito sejam vistos em ressonância,  
 — as doenças sejam lidas como chamados de transformação,  
-— e a cura seja entendida como retorno à totalidade.
+— e a equilÃ­brio seja entendida como retorno à totalidade.
 
 Porque não somos peças quebradas de uma máquina.  
 Somos seres vivos, em constante movimento, buscando sentido, conexão e verdade.
 
 E só quando corpo, mente e alma forem vistos como um só canto  
-— será possível curar de verdade.
+— será possível equilibrar de verdade.
 
 > *“O perdão move o Qi.  
 > O Qi acalma o Shen.  
@@ -288,7 +288,7 @@ E só quando corpo, mente e alma forem vistos como um só canto
 Se esta reflexão ressoou com você,  
 compartilhe com alguém que também sente que há mais na vida do que exames e
 diagnósticos.  
-E se deseja trilhar um caminho de integração, cura e sabedoria viva,  
+E se deseja trilhar um caminho de integração, equilÃ­brio e sabedoria viva,  
 junte-se à nossa comunidade no YouTube — Mapas do Autoconhecimento.
 
 🌿 Lembre-se: a verdadeira saúde integrativa não substitui a medicina

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O Espelho da Saúde Humana Através dos Séculos"
 date: 2025-03-06T02:37:00.004Z
@@ -13,7 +13,7 @@ A metáfora do corpo humano como um reflexo de sua saúde e bem-estar é uma ide
 que atravessa séculos, culturas e sistemas médicos.
 
 Essa visão, frequentemente simbolizada pelos olhos como "espelhos da alma",
-revela não apenas a preocupação humana com o diagnóstico e a cura, mas também a
+revela não apenas a preocupação humana com o diagnóstico e a equilÃ­brio, mas também a
 busca por compreender a complexidade do ser humano em sua totalidade: físico,
 emocional, espiritual e ambiental.
 
@@ -33,7 +33,7 @@ doenças sistêmicas, como anemia, icterícia ou distúrbios neurológicos. Essa
 ideia foi posteriormente ampliada pela iridologia, uma prática que estuda a íris
 para identificar desequilíbrios no organismo.
 
-No Egito Antigo, o conceito do Olho de Hórus simbolizava proteção, cura e
+No Egito Antigo, o conceito do Olho de Hórus simbolizava proteção, equilÃ­brio e
 equilíbrio, conectando a saúde física à espiritualidade.
 
 Os papiros médicos egípcios, como o Papiro de Ebers e o Papiro de Kahun, já

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O que é o Modelo Rayid? "
 date: 2024-10-24T21:10:00.006Z
@@ -97,10 +97,10 @@ distúrbios gastrointestinais e dores de cabeça.
 
 São indicam uma tendência à energia mental, idealismo e comunicação.
 
-### 3. Autoconhecimento e Cura Emocional:
+### 3. Autoconhecimento e EquilÃ­brio Emocional:
 
 O objetivo do Modelo Rayid é ajudar as pessoas a compreenderem seus padrões
-emocionais e comportamentais, promovendo o autoconhecimento e a cura emocional.
+emocionais e comportamentais, promovendo o autoconhecimento e a equilÃ­brio emocional.
 
 A ideia é que, ao entender as emoções e comportamentos inconscientes que surgem
 na íris, uma pessoa possa trabalhar em seus desafios emocionais e melhorar sua

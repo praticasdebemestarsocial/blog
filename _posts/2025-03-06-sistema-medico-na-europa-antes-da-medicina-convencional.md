@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Sistema Médico na Europa Antes da Medicina Convencional"
 date: 2025-03-06T01:42:00.003Z
@@ -35,7 +35,7 @@ europeia após a tradução de seus trabalhos para o latim no século XII.
 **Práticas Populares e Religiosas :** Na ausência de médicos formados, grande
 parte da população recorria a curandeiros, parteiras, ervanários e práticas
 religiosas. A Igreja desempenhou um papel central, promovendo orações, rituais e
-peregrinações como formas de cura.
+peregrinações como formas de equilÃ­brio.
 
 **As práticas incluíam:**
 
@@ -120,7 +120,7 @@ Teoria dos quatro humores, com ênfase na anatomia e fisiologia (Galenismo).
 Cirurgia, uso de ervas, saúde pública (aquedutos, banhos), práticas populares.
 
 **Papel da Religião:** Forte influência da Igreja; orações e rituais como formas
-de cura.
+de equilÃ­brio.
 
 Religião pagã inicialmente (Asclépio); cristianismo no final do Império.
 

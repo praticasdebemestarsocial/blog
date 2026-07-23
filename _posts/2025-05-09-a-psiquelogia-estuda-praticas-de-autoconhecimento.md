@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A Psiquêlogia estuda práticas de autoconhecimento?"
 date: 2025-05-09T02:31:00.003Z
@@ -47,7 +47,7 @@ antigos, espiritualidade, natureza, símbolos e consciência profunda.
    autoconhecimento.
 4. **Integração dos corpos** – Psicológico, emocional, energético, físico e
    espiritual.
-5. **Processo de individuação e ascensão** – Um caminho de cura, maturidade
+5. **Processo de individuação e ascensão** – Um caminho de equilÃ­brio, maturidade
    espiritual e consciência ampliada.
 
 ---

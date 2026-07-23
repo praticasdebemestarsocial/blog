@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O que é o Instituto Felke?"
 date: 2025-02-19T22:38:00.006Z
@@ -28,7 +28,7 @@ alimentação natural.
 Emanuel Felke foi um pastor e naturopata que acreditava na conexão entre corpo,
 mente e espírito para alcançar a saúde plena.
 
-Ele desenvolveu métodos de cura baseados em tratamentos naturais, como:
+Ele desenvolveu métodos de equilÃ­brio baseados em tratamentos naturais, como:
 
 * Banhos de argila para desintoxicação e revitalização;
 * Hidroterapia com banhos de contraste e envoltórios;
@@ -98,7 +98,7 @@ aprendizado única, combinando tradição, inovação e cuidado pessoal.
 Se você procura um curso de iridologia ou deseja explorar terapias naturais
 baseadas em ciência e prática, o Instituto Felke é o lugar certo para você.
 
-Descubra mais e inicie sua jornada de aprendizado e cura com o Instituto Felke!
+Descubra mais e inicie sua jornada de aprendizado e equilÃ­brio com o Instituto Felke!
 
 ### O que o Instituto Felke fala sobre a iridologia?
 

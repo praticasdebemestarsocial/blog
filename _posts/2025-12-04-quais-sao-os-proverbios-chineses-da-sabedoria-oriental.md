@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quais são os provérbios chineses da sabedoria oriental?"
 date: 2025-12-04T18:13:00.004Z
@@ -116,7 +116,7 @@ Acender uma vela pode ser:
 👉simplesmente respirar com intenção.
 
 Na visão oriental, a ação consciente — por menor que seja — já é uma forma de
-cura.
+equilÃ­brio.
 
 Porque a luz não precisa ser grande. Só precisa existir.
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O que pode ser observado através da iridologia?"
 date: 2024-01-15T20:30:00.009Z
@@ -112,7 +112,7 @@ específicos.
 ✔**Medicina tradicional chinesa:** Para entender fluxos de energia (Qi) e
 desequilíbrios nos meridianos.
 
-✔**Naturopatia:** Para promover cura natural e prevenção através de práticas
+✔**Naturopatia:** Para promover equilÃ­brio natural e prevenção através de práticas
 holísticas.
 
 Quando combinada com essas disciplinas, a iridologia se torna uma ferramenta

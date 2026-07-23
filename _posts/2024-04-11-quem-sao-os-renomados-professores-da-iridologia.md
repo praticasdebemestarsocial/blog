@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quem são os renomados  professores da Iridologia?"
 date: 2024-04-11T07:03:00.006Z
@@ -22,7 +22,7 @@ Muitos são os estudiosos que vêm contribuindo para a evolução dessa ciência
 
 **[Ignatz Peczely](https://tecnologiasdoautoconhecimento.blogspot.com/2024/02/quem-foi-ignatz-von-pekzely.html), húngaro**. Quando criança, teve contato com uma coruja e acidentalmente quebrou sua patinha. Nesse momento, observou que apareceu uma mancha no olho da ave. Ele cuidou da coruja, e à medida que ela ia ficando curada, o sinal no olho também ia desaparecendo.
 
-Mais tarde, formou-se médico e, por meio do método indutivo da pesquisa científica, começou a catalogar os sinais a partir de observações dos seus pacientes e experiências clínicas. Comparando os resultados e descobrindo a relação entre os sinais e as doenças dos pacientes, escreveu um livro chamado "Descobertas no Reino da Natureza e a Arte de Curar".
+Mais tarde, formou-se médico e, por meio do método indutivo da pesquisa científica, começou a catalogar os sinais a partir de observações dos seus pacientes e experiências clínicas. Comparando os resultados e descobrindo a relação entre os sinais e as doenças dos pacientes, escreveu um livro chamado "Descobertas no Reino da Natureza e a Arte de Equilibrar".
 
 **[Bernard Jensen](https://tecnologiasdoautoconhecimento.blogspot.com/2024/07/quem-foi-bernad-jensen.html),** nutricionista americano, publicou mais de 40 livros sobre iridologia, alimentação e qualidade de vida. Foi um dos maiores conhecedores da iridologia no mundo, com um acervo de mais de 350.000 fotos de pacientes. Afirmava que a iridologia, juntamente com a nutrição, são a maior terapia a ser aplicada no ser humano.
 

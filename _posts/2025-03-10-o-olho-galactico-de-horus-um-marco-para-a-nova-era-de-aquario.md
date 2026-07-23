@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: " O Olho Galáctico de Horus: Um Marco para a Nova Era de Aquário?"
 date: 2025-03-10T02:54:00.002Z
@@ -37,7 +37,7 @@ espiritual.
 
 A descoberta desse "olho" no cosmos pode ser vista como um reflexo da jornada
 humana rumo a uma maior compreensão do universo e de nós mesmos. Na mitologia
-egípcia, o Olho de Horus também simboliza a cura e a ordem sobre o caos. Isso
+egípcia, o Olho de Horus também simboliza a equilÃ­brio e a ordem sobre o caos. Isso
 poderia indicar que estamos entrando em um período de despertar e reestruturação
 global, característico da Era de Aquário.
 

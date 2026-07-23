@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "estudos video ibrin"
 date: 2024-08-26T06:19:00Z
@@ -124,12 +124,12 @@ sair luz nós
 
                   08:46
 
-                  podemos curar uma pessoa através dos olhos mas também nós
+                  podemos equilibrar uma pessoa através dos olhos mas também nós
 podemos adoecer uma pessoa uma planta através dos olhos também através do olhar
 né então eu tava pens pensando que naquela série de Chosen todos os momentos que
-Jesus vai curar alguém ele pede para a pessoa olhar para ele Olhe para mim olhe
+Jesus vai equilibrar alguém ele pede para a pessoa olhar para ele Olhe para mim olhe
 para mim né levanta o rosto da pessoa e fala para olhar para ele porque através
-dos olhos há o processo da cura Tá mas nessa Live de hoje eu quero mostrar para
+dos olhos há o processo da equilÃ­brio Tá mas nessa Live de hoje eu quero mostrar para
 você que tá acompanhando nosso trabalho a algumas lives eu quero mostrar para
 você como é
 

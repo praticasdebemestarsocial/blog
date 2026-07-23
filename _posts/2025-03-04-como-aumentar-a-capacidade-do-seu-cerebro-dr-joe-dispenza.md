@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Como Aumentar a Capacidade do Seu Cérebro - Dr. Joe Dispenza"
 date: 2025-03-04T03:19:00.004Z
@@ -57,8 +57,8 @@ disciplina, que são essenciais para o processo de reprogramação.
 ### A Conexão Entre Mente e Corpo
 
 Uma das contribuições mais significativas de “Como Aumentar a Capacidade do Seu
-Cérebro” é a conexão entre mente e corpo. Dispenza argumenta que, ao curar a
-mente, também podemos curar o corpo. Ele explora como as emoções e o estado
+Cérebro” é a conexão entre mente e corpo. Dispenza argumenta que, ao equilibrar a
+mente, também podemos equilibrar o corpo. Ele explora como as emoções e o estado
 mental impactam a saúde física e como a mudança na mentalidade pode resultar em
 melhorias tangíveis na saúde e no bem-estar.
 

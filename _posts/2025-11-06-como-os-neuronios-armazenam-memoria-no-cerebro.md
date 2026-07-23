@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Como os neurônios armazenam memória no cérebro?"
 date: 2025-11-06T19:54:00.007Z
@@ -134,7 +134,7 @@ que imaginamos.
 👉Podemos honrar o sono como um ato de cuidado com a memória.
 
 Podemos reescrever narrativas dolorosas com compaixão, sabendo que cada
-recordação é uma oportunidade de cura.
+recordação é uma oportunidade de equilÃ­brio.
 
 Afinal, nossa identidade é feita de memórias — mas não de memórias fixas. Elas
 são vivas, maleáveis e profundamente humanas.

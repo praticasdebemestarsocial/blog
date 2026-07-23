@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O que é o Instituto Projeto  Plátano?"
 date: 2024-01-14T07:46:00.002Z
@@ -28,7 +28,7 @@ Através da análise da íris, é possível identificar alterações que podem i
 problemas de saúde, tanto físicos quanto emocionais.
 
 A naturopatia é uma abordagem holística da saúde que utiliza os recursos
-naturais para promover a cura. Ela inclui uma variedade de terapias, como
+naturais para promover a equilÃ­brio. Ela inclui uma variedade de terapias, como
 fitoterapia, homeopatia, acupuntura, massagem e dieta.
 
 ## 2- O Projeto Plátano oferece curso de Iridologia?

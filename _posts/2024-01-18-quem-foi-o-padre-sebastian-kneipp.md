@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quem foi o Padre Sebastian Kneipp?"
 date: 2024-01-18T02:47:00.004Z
@@ -33,7 +33,7 @@ de](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-e-o-p
 que após recuperação do seu estado de saúde resolveu aplicar no método noutras
 pessoas afim de promover bem estar.  
 
-Ele acreditava que a água era uma cura natural para muitas doenças e que poderia
+Ele acreditava que a água era uma equilÃ­brio natural para muitas doenças e que poderia
 ser usada para fortalecer o sistema imunológico.
 
 Kneipp desenvolveu uma série de técnicas hidroterapêuticas, incluindo banhos
@@ -90,9 +90,9 @@ Kneipp são nossa referência.
 
 ## Referência Bibliográfica:
 
-CASCAVEL, Arquidiocese de. **Cura pela água fria? O surpreendente método do
+CASCAVEL, Arquidiocese de. **EquilÃ­brio pela água fria? O surpreendente método do
 padre Kneipp**. 2017. Disponível em:
-<https://arquicascavel.org.br/noticias/nacional/3460-cura-pela-agua-fria-o-surpreendente-metodo-do-padre-kneipp>
+<https://arquicascavel.org.br/noticias/nacional/3460-equilÃ­brio-pela-agua-fria-o-surpreendente-metodo-do-padre-kneipp>
 . Acesso em: 17 jan. 2024.
 
 WIKIPÉDIA. **Sebastian Kneipp**. s/d. Disponível em:

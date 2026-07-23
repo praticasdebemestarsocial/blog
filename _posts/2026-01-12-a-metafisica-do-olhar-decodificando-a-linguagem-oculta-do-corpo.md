@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A Metafísica do Olhar: Decodificando a Linguagem Oculta do Corpo"
 date: 2026-01-12T18:57:00.007Z
@@ -325,7 +325,7 @@ Mas você sai com as ferramentas para seguir sozinho(a).
 
 Conclusão
 
-Este caminho não promete cura mágica.  
+Este caminho não promete equilÃ­brio mágica.  
 Promete clareza.
 
 Você entra com medo:

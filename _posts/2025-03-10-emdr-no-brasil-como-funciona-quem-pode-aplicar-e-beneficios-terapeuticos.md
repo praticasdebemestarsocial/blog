@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "EMDR no Brasil: Como Funciona, Quem Pode Aplicar e Benefícios Terapêuticos."
 date: 2025-03-10T04:56:00.008Z
@@ -137,7 +137,7 @@ integrativa e complementar.
 
 ### Conclusão: Ciência e Holismo em Harmonia
 
-A EMDR é uma ferramenta poderosa para curar traumas , enquanto a iridologia
+A EMDR é uma ferramenta poderosa para equilibrar traumas , enquanto a iridologia
 psicoemocional pode ampliar o autoconhecimento.
 
  No Brasil, a lei federal (CFM e CRP) garante a prática da EMDR apenas por

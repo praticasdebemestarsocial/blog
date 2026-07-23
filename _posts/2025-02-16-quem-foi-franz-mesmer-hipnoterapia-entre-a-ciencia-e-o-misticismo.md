@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quem foi Franz Mesmer? Hipnoterapia entre a ciência e o misticismo."
 date: 2025-02-16T08:44:00.007Z
@@ -28,7 +28,7 @@ Franz Mesmer (1734-1815) foi um médico e filósofo alemão que desenvolveu a
 prática do "mesmerismo," uma técnica precursora da hipnose moderna.
 
 Ele propôs a existência de uma força magnética invisível, chamada "magnetismo
-animal," que influenciava a saúde humana e poderia ser manipulada para curar
+animal," que influenciava a saúde humana e poderia ser manipulada para equilibrar
 doenças.
 
 Embora suas ideias tenham sido alvo de críticas e ceticismo na época,
@@ -48,7 +48,7 @@ animal," que postulava a existência de uma força magnética invisível present
 todos os seres vivos.
 
 Ele acreditava que essa energia poderia ser manipulada para restaurar o
-equilíbrio interno do corpo e curar diversas condições físicas e emocionais.
+equilíbrio interno do corpo e equilibrar diversas condições físicas e emocionais.
 
 Mesmer realizava sessões de tratamento em que utilizava imãs e, posteriormente,
 a imposição das mãos para transferir essa energia aos pacientes. Essas práticas
@@ -65,7 +65,7 @@ Segundo ele:
 👉Doenças surgiam quando esses fluxos estavam bloqueados ou desequilibrados.
 
 Através de técnicas como a imposição das mãos ou o uso de imãs, era possível
-restabelecer o fluxo energético e promover a cura.
+restabelecer o fluxo energético e promover a equilÃ­brio.
 
 Embora a teoria carecesse de base científica sólida, ela atraiu muitos
 seguidores, especialmente em Paris, onde Mesmer abriu consultórios e realizou
@@ -121,7 +121,7 @@ Medicina Alopática: Focada no uso de medicamentos e intervenções que produzia
 efeitos contrários aos sintomas.
 
 Homeopatia: Desenvolvida por Samuel Hahnemann, baseava-se na ideia de que
-"semelhante cura semelhante."
+"semelhante equilÃ­brio semelhante."
 
 Fisiologia e Anatomia: Avanços no conhecimento anatômico começaram a substituir
 explicações místicas por abordagens mais científicas.

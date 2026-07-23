@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Escola de Cura Natural do Dr. Christopher"
 date: 2025-02-15T22:23:00.005Z
@@ -53,7 +53,7 @@ Em 1953, ele fundou a **Escola de Cura Natural**, onde começou a compartilhar
 seu conhecimento e experiência em fitoterapia com outros.
 
 Em 1979, ele começou a publicar um boletim informativo sobre o uso de ervas para
-cura, que rapidamente ganhou popularidade entre os entusiastas da saúde natural.
+equilÃ­brio, que rapidamente ganhou popularidade entre os entusiastas da saúde natural.
 
 Ao longo de sua carreira, Christopher desenvolveu mais de 50 fórmulas de ervas,
 que foram amplamente utilizadas para uma variedade de fins de saúde. Algumas de

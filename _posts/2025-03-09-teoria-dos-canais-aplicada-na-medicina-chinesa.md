@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Teoria dos Canais Aplicada na Medicina Chinesa."
 date: 2025-03-09T07:55:00.007Z
@@ -54,7 +54,7 @@ Usar os canais para harmonizar não apenas o físico, mas também a mente e o es
 
 #### Citação marcante de Wang Ju-Yi :
 
-"Os canais são como mapas do corpo-mente. Quem os domina, domina a arte de curar."
+"Os canais são como mapas do corpo-mente. Quem os domina, domina a arte de equilibrar."
 
 ### Por Que a Teoria dos Canais é Revolucionária?
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Quem é  Stanislav Grof? Como ele pode contribuir para a Iridologia?"
 date: 2025-02-20T05:45:00.006Z
@@ -27,7 +27,7 @@ psicológicas.
 #### Contribuições Principais
 
 * Psicologia Transpessoal: Desenvolveu uma abordagem que vai além da psicologia tradicional, integrando dimensões espirituais e transcendentais da experiência humana.
-* Respiração Holotrópica: Criou uma técnica de respiração que permite alcançar estados alterados de consciência sem uso de substâncias, facilitando processos de autoconhecimento e cura.
+* Respiração Holotrópica: Criou uma técnica de respiração que permite alcançar estados alterados de consciência sem uso de substâncias, facilitando processos de autoconhecimento e equilÃ­brio.
 * Mapeamento da Consciência: Propôs um modelo complexo de consciência que inclui:
 
 1. Nível biográfico (memórias pessoais)
@@ -40,7 +40,7 @@ Grof é considerado um dos principais pensadores que expandiram a compreensão
 científica sobre:
 
 * Estados alterados de consciência
-* Potencial de cura e transformação psicológica
+* Potencial de equilÃ­brio e transformação psicológica
 * Dimensões espirituais da experiência humana
 
 Suas pesquisas influenciaram significativamente campos como psicologia

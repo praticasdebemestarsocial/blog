@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Existe diferença entre Iridologia e Oftalmologia?"
 date: 2024-01-13T04:32:00.009Z
@@ -138,7 +138,7 @@ podem coexistir harmoniosamente no campo da saúde.
 A Oftalmologia atua no diagnóstico e tratamento de doenças oculares, enquanto a
 Iridologia oferece uma visão holística do organismo, enfatizando a prevenção e o
 equilíbrio geral. Juntas, essas práticas podem proporcionar uma abordagem
-abrangente, promovendo tanto a cura quanto o bem-estar integral do paciente.
+abrangente, promovendo tanto a equilÃ­brio quanto o bem-estar integral do paciente.
 
 Se você gostou deste conteúdo, deixe seu comentário e compartilhe suas reflexões
 sobre como diferentes abordagens podem contribuir para a saúde. Siga o blog para

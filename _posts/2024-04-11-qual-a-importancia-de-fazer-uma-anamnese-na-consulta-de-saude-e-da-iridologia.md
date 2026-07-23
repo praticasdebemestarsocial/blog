@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Qual a importância de fazer uma anamnese na consulta de saúde e da Iridologia?"
 date: 2024-04-11T05:28:00.002Z
@@ -97,7 +97,7 @@ Além disso, a anamnese na Iridologia contribui para uma relação terapêutica 
 sólida, onde o paciente se sente ouvido e compreendido.
 
 Isso fortalece a confiança mútua e incentiva a participação ativa do paciente em
-seu próprio processo de cura.
+seu próprio processo de equilÃ­brio.
 
 Em resumo, a anamnese na consulta de Iridologia é uma etapa crucial, permitindo
 uma análise mais precisa e personalizada da íris, promovendo um tratamento
