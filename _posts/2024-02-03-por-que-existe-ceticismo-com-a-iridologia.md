@@ -13,69 +13,69 @@ image: "https://i.ibb.co/jkdPsFps/362fbbd963b0.jpg"
 Quando observamos o mapa da iridologia vemos que a iris foi dividida em em
 setores.
 
-Cada setor representa uma parte especÃ­fica do corpo.Â Â 
+Cada setor representa uma parte específica do corpo.  
 
 [
 
   
   
 
-Nossa iris pode refletir o estado biolÃ³gico orgÃ¢nico, metabÃ³lico e celular dos
-Ã³rgÃ£os de uma forma qualitativa, mas nÃ£o Ã© possÃ­vel identificar uma doenÃ§a.Â Â 
+Nossa iris pode refletir o estado biológico orgânico, metabólico e celular dos
+órgãos de uma forma qualitativa, mas não é possível identificar uma doença.  
 
   
 
-O ceticismo surge por parte de pessoas pois questionam:Â Â 
+O ceticismo surge por parte de pessoas pois questionam:  
 
-* Como a Ã­ris,Â  uma estrutura ocular, pode refletir todasÂ  as Ã¡reas do corpo?
-* Existem marcadores biolÃ³gicos mensurÃ¡veis que possam quantificar essa transmissÃ£o?
-* E atÃ© que ponto ela pode ser fiel ao que estÃ¡ ocorrendo dentro do corpo?
-* Como disfunÃ§Ãµes nos Ã³rgÃ£os especÃ­ficos seriam refletidos na iris?
+* Como a íris,  uma estrutura ocular, pode refletir todas  as áreas do corpo?
+* Existem marcadores biológicos mensuráveis que possam quantificar essa transmissão?
+* E até que ponto ela pode ser fiel ao que está ocorrendo dentro do corpo?
+* Como disfunções nos órgãos específicos seriam refletidos na iris?
 
-## A Iridologia estÃ¡ relacionada com a Medicina Tradicional Chinesa?
+## A Iridologia está relacionada com a Medicina Tradicional Chinesa?
 
-Essa mesma suposiÃ§Ã£o surge com a acupuntura que trabalha tambÃ©m com a teoria daÂ 
-reflexologia corporal e circulaÃ§Ã£o de energia e ela jÃ¡ estÃ¡ bem aceita na
-comunidade mÃ©dica no mundo inteiro,Â  pois hÃ¡ vÃ¡rios estudos indicando que elaÂ 
+Essa mesma suposição surge com a acupuntura que trabalha também com a teoria da 
+reflexologia corporal e circulação de energia e ela já está bem aceita na
+comunidade médica no mundo inteiro,  pois há vários estudos indicando que ela 
 pode oferecer resultados no bem estar das pessoas.
 
-Pesquisadores vem chegando a um consenso de que a acupuntura Ã© benÃ©fica, mesmo
-sem a ciÃªncia conseguir comprovar a existÃªncia da teoria dos meridianos, que sÃ£o
+Pesquisadores vem chegando a um consenso de que a acupuntura é benéfica, mesmo
+sem a ciência conseguir comprovar a existência da teoria dos meridianos, que são
 os canais de energia que circulam e interligam todo o corpo como ensina na
-Medicina Tradicional Chinesa.Â Â 
+Medicina Tradicional Chinesa.  
 
-Mas essa preocupaÃ§Ã£o legitima ao invÃ©s de ser alvo de sentenÃ§as cÃ©ticas pode se
-tornar uma motivaÃ§Ã£o para maisÂ  pesquisadores observarem a iridologia como fonte
-de estudo.Â Â 
+Mas essa preocupação legitima ao invés de ser alvo de sentenças céticas pode se
+tornar uma motivação para mais  pesquisadores observarem a iridologia como fonte
+de estudo.  
 
-## Como Ã© a situaÃ§Ã£o da Iridologia no Brasil?
-
-  
-
-Atualmente no Brasil, a Iridologia nÃ£o Â  Ã© regulamentada para a prÃ¡ticaÂ  mÃ©dica,
-mas ela Ã© usada noÂ  trabalho de terapeutas naturopatas e naturÃ³logos e alguns
-outros profissionais de saÃºde que a utilizam ela como recurso complementar de
-avaliaÃ§Ã£o na anamnese do paciente.Â Â 
-
-Â A falta de maior reconhecimento polÃ­tico e legislativo dos profissionaisÂ 
-terapeutas e naturopatas no setor legislativo tambÃ©m Ã© um aspecto negativo que
-pode levantarÂ  preocupaÃ§Ãµes sobre a consistÃªncia e a qualidade Â  do treinamento
-dos profissionais que a utilizam.Â Â 
-
-A falta de regulamentaÃ§Ã£o contribui para a falta Â de reconhecimento e validaÃ§Ã£o
-da tÃ©cnica.Â Â 
-
-## Qual a melhor posiÃ§Ã£o diante dessa problemÃ¡tica? Fugir ou lutar?
+## Como é a situação da Iridologia no Brasil?
 
   
 
-Por isso Ã© muito importante seguir na lutaÂ  para alcanÃ§ar a divulgaÃ§Ã£o dessaÂ 
-tÃ©cnica e o devido reconhecimento Â  do trabalho de terapeutas e naturÃ³logos.Â Â 
+Atualmente no Brasil, a Iridologia não   é regulamentada para a prática  médica,
+mas ela é usada no  trabalho de terapeutas naturopatas e naturólogos e alguns
+outros profissionais de saúde que a utilizam ela como recurso complementar de
+avaliação na anamnese do paciente.  
 
-A Iridologia precisa de apoio por parte dos Â  profissionais de saÃºde que
-trabalham com essaÂ  tÃ©cnica e de pesquisadores com bom Ã¢nimo para Â  melhorar as
-bases de fundamentaÃ§Ã£o cientÃ­fica,Â  para que se fundamente melhor a metodologia
- e os estudos e que se possa esclarecer o verdadeiroÂ  potencial da Iridologia no
+ A falta de maior reconhecimento político e legislativo dos profissionais 
+terapeutas e naturopatas no setor legislativo também é um aspecto negativo que
+pode levantar  preocupações sobre a consistência e a qualidade   do treinamento
+dos profissionais que a utilizam.  
+
+A falta de regulamentação contribui para a falta  de reconhecimento e validação
+da técnica.  
+
+## Qual a melhor posição diante dessa problemática? Fugir ou lutar?
+
+  
+
+Por isso é muito importante seguir na luta  para alcançar a divulgação dessa 
+técnica e o devido reconhecimento   do trabalho de terapeutas e naturólogos.  
+
+A Iridologia precisa de apoio por parte dos   profissionais de saúde que
+trabalham com essa  técnica e de pesquisadores com bom ânimo para   melhorar as
+bases de fundamentação científica,  para que se fundamente melhor a metodologia
+ e os estudos e que se possa esclarecer o verdadeiro  potencial da Iridologia no
 bem estar humano.
 
-[ðŸŽ¥ [VÃ­deo incorporado](https://www.youtube.com/embed/mPT6YvR7TRA)](https://www.youtube.com/embed/mPT6YvR7TRA)
+[🎥 [Vídeo incorporado](https://www.youtube.com/embed/mPT6YvR7TRA)](https://www.youtube.com/embed/mPT6YvR7TRA)

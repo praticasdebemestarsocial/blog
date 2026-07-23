@@ -1,38 +1,38 @@
 ---
 layout: post
-title: "Quem Ã© a Terapeuta Silviane SilvÃ©rio?"
+title: "Quem é a Terapeuta Silviane Silvério?"
 date: 2025-01-31T17:46:00.015Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "Silviane SilvÃ©rio - Terapeuta, Naturologa e BiomÃ©dica, Escritora e Professora. HÃ¡ mais de 15 anos promovendo Bem Estar e Terapias Integrativas e Compl..."
+description: "Silviane Silvério - Terapeuta, Naturologa e Biomédica, Escritora e Professora. Há mais de 15 anos promovendo Bem Estar e Terapias Integrativas e Compl..."
 image: "https://i.ibb.co/m5G2RgTP/451527e42f07.png"
 ---
 
 
 
-Silviane SilvÃ©rio - Terapeuta, Naturologa e BiomÃ©dica, Escritora e Professora. HÃ¡ mais de 15 anos promovendo Bem Estar e Terapias Integrativas e Complementares. Crth br 1741.
+Silviane Silvério - Terapeuta, Naturologa e Biomédica, Escritora e Professora. Há mais de 15 anos promovendo Bem Estar e Terapias Integrativas e Complementares. Crth br 1741.
 
-OlÃ¡ seja bem vindo aqui a esse canal, quero meÂ  apresentar aqui nesse vÃ­deo,
-falar um pouco daÂ  Â minha carreira como terapeuta, como iniciouÂ  e o que estou
-fazendo agora no momento.Â Â Â Â 
+Olá seja bem vindo aqui a esse canal, quero me  apresentar aqui nesse vídeo,
+falar um pouco da   minha carreira como terapeuta, como iniciou  e o que estou
+fazendo agora no momento.    
 
-Sou Silviane SilvÃ©rio, terapeuta e professoraÂ  hÃ¡ 21 anos.
+Sou Silviane Silvério, terapeuta e professora  há 21 anos.
 
-## 1- Quem Ã© a terapeuta Silviane SilvÃ©rio?
+## 1- Quem é a terapeuta Silviane Silvério?
 
-Silviane SilvÃ©rio Ã© naturÃ³loga e biomÃ©dica especialista em Iridologia, Dietoterapia e Plantas Medicinais.
+Silviane Silvério é naturóloga e biomédica especialista em Iridologia, Dietoterapia e Plantas Medicinais.
 
-## 2- Onde Silviane SilvÃ©rio estudou?
+## 2- Onde Silviane Silvério estudou?
 
-Iniciei meus estudos e trabalhosÂ  Â em Portugal, onde cheguei a ter umÂ  delivery de alimentaÃ§Ã£o natural,Â  Â ainda participei num programa de tv mostrandoÂ  como se fazia uma receita.
+Iniciei meus estudos e trabalhos   em Portugal, onde cheguei a ter um  delivery de alimentação natural,   ainda participei num programa de tv mostrando  como se fazia uma receita.
 
-Ainda morei algunsÂ  Â anos na Holanda e por lÃ¡ fiz curso de fotografiaÂ  e cheguei a fotografar um concurso local, missÂ  Â Brasil na Holanda. Retornando ao Brasil me formeiÂ  em Naturologia em Fortaleza, minha terra natal.
+Ainda morei alguns   anos na Holanda e por lá fiz curso de fotografia  e cheguei a fotografar um concurso local, miss   Brasil na Holanda. Retornando ao Brasil me formei  em Naturologia em Fortaleza, minha terra natal.
 
-Depois segui estudando Biomedicina, no Sul doÂ  paÃ­s, Santa Catarina, onde hoje me vejo formada.Â  HÃ¡ 15 anos venho trabalhando e auxiliandoÂ  pessoas a ter mais saÃºde e qualidade deÂ  vida.
+Depois segui estudando Biomedicina, no Sul do  país, Santa Catarina, onde hoje me vejo formada.  Há 15 anos venho trabalhando e auxiliando  pessoas a ter mais saúde e qualidade de  vida.
 
-No momento estudo pÃ³s- graduaÃ§Ã£oÂ  na Ã¡rea de iridologia, medicina tradicional chinesa,Â  Â exames laboratoriais, terapias integrativasÂ  e complementares e nutrigenÃ©tica.
+No momento estudo pós- graduação  na área de iridologia, medicina tradicional chinesa,   exames laboratoriais, terapias integrativas  e complementares e nutrigenética.
 
-Na minha vida pessoal sou uma pesquisadora de tÃ©cnicas holisticas, mÃ­sticas e autoconhecimento.
+Na minha vida pessoal sou uma pesquisadora de técnicas holisticas, místicas e autoconhecimento.
 
 Veja meu curriculum aqui:
 
@@ -44,7 +44,7 @@ Veja aqui meus certificados:
 
 Tive a oportunidade de conhecer pessoalmente alguns dos iridologistas famosos no mundo.
 
-[ðŸŽ¥ [VÃ­deo incorporado](https://www.youtube.com/embed/_v9NCemdCG0)](https://www.youtube.com/embed/_v9NCemdCG0)
+[🎥 [Vídeo incorporado](https://www.youtube.com/embed/_v9NCemdCG0)](https://www.youtube.com/embed/_v9NCemdCG0)
 
 
 
@@ -54,7 +54,7 @@ Tive a oportunidade de conhecer pessoalmente alguns dos iridologistas famosos no
 
 
 
-[AndrÃ© Werlang Garcia](https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/o-que-e-o-instituto-internacional-de_14.html)
+[André Werlang Garcia](https://tecnologiasdoautoconhecimento.blogspot.com/2024/01/o-que-e-o-instituto-internacional-de_14.html)
 
   
 
@@ -78,13 +78,13 @@ Tive a oportunidade de conhecer pessoalmente alguns dos iridologistas famosos no
 
 
 
-Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â  Â Â 
+                                                                                
 
 [Dr Jean Cabral](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/quem-e-prof-dr-pr-jean-alves-cabral.html)
 
 
 
-Formatura do Curso de Naturologia ClÃ­nica em 2009
+Formatura do Curso de Naturologia Clínica em 2009
 
 
 
@@ -92,24 +92,24 @@ Formatura do Curso de Naturologia ClÃ­nica em 2009
 
 ## 3- Onde ocorre a consulta com a terapeuta Silviane?
 
-PossoÂ  atender vocÃª on line atravÃ©s do whatsapp, vou video ou Ã¡udios.
+Posso  atender você on line através do whatsapp, vou video ou áudios.
 
-## 4- Para quem Ã© a consulta de terapias naturais?
+## 4- Para quem é a consulta de terapias naturais?
 
-Se vocÃª precisa aprender mais sobre comoÂ  Â se alimentar melhor, mudar sua rotina, comoÂ  obter melhor desempenho fÃ­sico e emocional,Â  Â atravÃ©s de terapias, dieta e plantasÂ  medicinais vocÃª estÃ¡ no lugar certo. Eu me preparei e estudei bastante para te ensinarÂ  como vocÃª pode fazer um tratamento natural eÂ  Â complementar ao tratamento mÃ©dico e farmacÃªutico.
+Se você precisa aprender mais sobre como   se alimentar melhor, mudar sua rotina, como  obter melhor desempenho físico e emocional,   através de terapias, dieta e plantas  medicinais você está no lugar certo. Eu me preparei e estudei bastante para te ensinar  como você pode fazer um tratamento natural e   complementar ao tratamento médico e farmacêutico.
 
-Muitas pessoas que me procuram com facilidade deÂ  Â adoecer, dores pelo corpo, metabolismoÂ  alterado, cansaÃ§o fÃ­sico e mentalÂ  Â depressÃ£o e ansiedade e Se vocÃª quer fazer umÂ  tratamento natural e complementar ao tratamentoÂ  Â mÃ©dico e farmacÃªutico eu posso ajudar vocÃª.
+Muitas pessoas que me procuram com facilidade de   adoecer, dores pelo corpo, metabolismo  alterado, cansaço físico e mental   depressão e ansiedade e Se você quer fazer um  tratamento natural e complementar ao tratamento   médico e farmacêutico eu posso ajudar você.
 
-Eu uso ferramentas da tecnologia e conhecimentosÂ  Â ancestrais que podem ajudar vocÃª a ter maisÂ  saÃºde e qualidade de vida.
+Eu uso ferramentas da tecnologia e conhecimentos   ancestrais que podem ajudar você a ter mais  saúde e qualidade de vida.
 
 ## 5- O que eu posso aprender numa consulta de terapia natural?
 
-VocÃª poderÃ¡ ter umaÂ  Â consulta on-line e aprender como obterÂ  bem estar, alÃ­vio das dores e um melhorÂ  Â desempenho na rotina e saÃºde como um todo. Muitas pessoas que me procuraram e seguiramÂ  Â minhas orientaÃ§Ãµes dÃ£o depoimento dosÂ  resultados, principalmente a respeitoÂ  Â da mudanÃ§a da alimentaÃ§Ã£o.
+Você poderá ter uma   consulta on-line e aprender como obter  bem estar, alívio das dores e um melhor   desempenho na rotina e saúde como um todo. Muitas pessoas que me procuraram e seguiram   minhas orientações dão depoimento dos  resultados, principalmente a respeito   da mudança da alimentação.
 
-Eu posso ensinar para vocÃªÂ  Â orientaÃ§Ãµes personalizadas e complementaresÂ  aos exames mÃ©dicos, tudo de forma natural,Â  Â minimizando os efeitos colaterais queÂ  podem ocorrer quando nÃ£o conhecemos osÂ  Â produtos nem a dose certa da alimentaÃ§Ã£o.
+Eu posso ensinar para você   orientações personalizadas e complementares  aos exames médicos, tudo de forma natural,   minimizando os efeitos colaterais que  podem ocorrer quando não conhecemos os   produtos nem a dose certa da alimentação.
 
-Seja bem vindo ou bem vindo. Me chama noÂ  Â whatsapp que podemos marcar um consulta deÂ  vÃ­deo e Ã¡udios via whatsapp ai eu passo umÂ  Â material que vocÃª pode guardar ou imprimir eÂ  levar as recomendaÃ§Ãµes em lojas de manipulaÃ§Ã£oÂ  Â de produtos naturais para adquirir os produtos.
+Seja bem vindo ou bem vindo. Me chama no   whatsapp que podemos marcar um consulta de  vídeo e áudios via whatsapp ai eu passo um   material que você pode guardar ou imprimir e  levar as recomendações em lojas de manipulação   de produtos naturais para adquirir os produtos.
 
-Como estudei tambÃ©m a Ã¡rea biomÃ©dica,Â  posso lhe ensinar a respeito de examesÂ  laboratoriais que vocÃª precisa saber.Â  NÃ£o perca mais tempo,marque uma consulta,Â  pois a nossa saÃºde deve estar em primeiroÂ  Â lugar e quero melhor lhe atender.
+Como estudei também a área biomédica,  posso lhe ensinar a respeito de exames  laboratoriais que você precisa saber.  Não perca mais tempo,marque uma consulta,  pois a nossa saúde deve estar em primeiro   lugar e quero melhor lhe atender.
 
-Quebrar padrÃµes e mudar os hÃ¡bitos nÃ£oÂ  Â Ã© facil para ninguem e eu estou aqui paraÂ  lhe auxiliar nessa renovaÃ§Ã£o da sua vida.
+Quebrar padrões e mudar os hábitos não   é facil para ninguem e eu estou aqui para  lhe auxiliar nessa renovação da sua vida.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Die Augendiagnose â€“ A Obra-Prima de Peter Johannes Thiel"
+title: "Die Augendiagnose – A Obra-Prima de Peter Johannes Thiel"
 date: 2025-05-12T14:22:00.006Z
 tags: ["livros da iridologia"]
 categories: ["bem-estar"]
-description: "Die Augendiagnose â€“ A Obra-Prima de Peter Johannes Thiel"
+description: "Die Augendiagnose – A Obra-Prima de Peter Johannes Thiel"
 image: "/assets/img/posts/Die_Augendiagnose_A_Obra_Prima_de_Peter_Johannes_Thiel.png"
 ---
 
@@ -12,48 +12,48 @@ image: "/assets/img/posts/Die_Augendiagnose_A_Obra_Prima_de_Peter_Johannes_Thiel
 
   
 
-## ***Die Augendiagnose* â€“ A Obra-Prima de Peter Johannes Thiel**
+## ***Die Augendiagnose* – A Obra-Prima de Peter Johannes Thiel**
 
-Publicado em 1925, ***Die Augendiagnose*** Ã© considerado o marco principal da
+Publicado em 1925, ***Die Augendiagnose*** é considerado o marco principal da
 obra de **Peter Johannes Thiel**, um dos pioneiros da iridologia moderna na
-Alemanha. Resultado de dÃ©cadas de observaÃ§Ãµes clÃ­nicas, reflexÃµes e pesquisas
-aprofundadas, o livro tornou-se uma referÃªncia indispensÃ¡vel para os estudiosos
-da leitura da Ã­ris como ferramenta diagnÃ³stica.
+Alemanha. Resultado de décadas de observações clínicas, reflexões e pesquisas
+aprofundadas, o livro tornou-se uma referência indispensável para os estudiosos
+da leitura da íris como ferramenta diagnóstica.
 
-Nesta obra monumental, Thiel mapeou detalhadamente as zonas da Ã­ris que
-correspondem a cada Ã³rgÃ£o e sistema do corpo humano, incluindo o sistema
-nervoso. Ele demonstrou como alteraÃ§Ãµes sutis na estrutura, cor, forma e sinais
-da Ã­ris poderiam indicar desequilÃ­brios orgÃ¢nicos, funcionais e emocionais. Mais
-do que uma simples tÃ©cnica de observaÃ§Ã£o, Thiel apresentava a iridologia como
-uma linguagem viva do corpo â€” uma forma de compreender os sinais silenciosos da
+Nesta obra monumental, Thiel mapeou detalhadamente as zonas da íris que
+correspondem a cada órgão e sistema do corpo humano, incluindo o sistema
+nervoso. Ele demonstrou como alterações sutis na estrutura, cor, forma e sinais
+da íris poderiam indicar desequilíbrios orgânicos, funcionais e emocionais. Mais
+do que uma simples técnica de observação, Thiel apresentava a iridologia como
+uma linguagem viva do corpo — uma forma de compreender os sinais silenciosos da
 natureza interna do ser humano.
 
-AlÃ©m das contribuiÃ§Ãµes anatÃ´micas e fisiolÃ³gicas, *Die Augendiagnose* se
-destacou pela profundidade de interpretaÃ§Ã£o e pelo desenvolvimento de grÃ¡ficos
-pictÃ³ricos que facilitaram o ensino da iridologia em sua Ã©poca. O livro tambÃ©m
-foi inovador ao incluir anÃ¡lises sobre deformaÃ§Ãµes pupilares e o significado
-clÃ­nico de anÃ©is, pigmentos e alteraÃ§Ãµes do estroma.
+Além das contribuições anatômicas e fisiológicas, *Die Augendiagnose* se
+destacou pela profundidade de interpretação e pelo desenvolvimento de gráficos
+pictóricos que facilitaram o ensino da iridologia em sua época. O livro também
+foi inovador ao incluir análises sobre deformações pupilares e o significado
+clínico de anéis, pigmentos e alterações do estroma.
 
-> A grandiosidade desta obra fez com que Thiel fosse reconhecido internacionalmente, inclusive pela **Academia de Medicina de Washington**, que lhe concedeu o tÃ­tulo honorÃ¡rio de Doutor em Medicina.
+> A grandiosidade desta obra fez com que Thiel fosse reconhecido internacionalmente, inclusive pela **Academia de Medicina de Washington**, que lhe concedeu o título honorário de Doutor em Medicina.
 
-Mas sua produÃ§Ã£o intelectual nÃ£o se encerrou aÃ­. Peter Johannes Thiel tambÃ©m
-escreveu ***Die Odopathie***, uma obra que aborda os fundamentos terapÃªuticos
-naturais e a energia vital como instrumento de cura, alÃ©m de publicar o ***Das
-kleine Rezeptbuch der Odopathie***, um manual com prescriÃ§Ãµes prÃ¡ticas dentro
-dessa abordagem energÃ©tica e natural.
+Mas sua produção intelectual não se encerrou aí. Peter Johannes Thiel também
+escreveu ***Die Odopathie***, uma obra que aborda os fundamentos terapêuticos
+naturais e a energia vital como instrumento de cura, além de publicar o ***Das
+kleine Rezeptbuch der Odopathie***, um manual com prescrições práticas dentro
+dessa abordagem energética e natural.
 
-A uniÃ£o entre teoria, prÃ¡tica clÃ­nica e profundo respeito Ã  natureza humana
+A união entre teoria, prática clínica e profundo respeito à natureza humana
 fazem de *Die Augendiagnose* uma leitura essencial para profissionais e
 estudiosos das terapias integrativas.
 
-Mesmo apÃ³s um sÃ©culo, suas pÃ¡ginas ainda ecoam a sensibilidade e o pioneirismo
-deÂ **[Peter Johannes
+Mesmo após um século, suas páginas ainda ecoam a sensibilidade e o pioneirismo
+de **[Peter Johannes
 Thiel](https://tecnologiasdoautoconhecimento.blogspot.com/2025/05/peter-johannes-thiel-o-professor-que-se.html),**um
-homem que enxergava, na Ã­ris, nÃ£o apenas um reflexo fisiolÃ³gico â€” mas a
-assinatura Ãºnica da saÃºde e da alma de cada indivÃ­duo.
+homem que enxergava, na íris, não apenas um reflexo fisiológico — mas a
+assinatura única da saúde e da alma de cada indivíduo.
 
-ReferÃªncias BibliogrÃ¡ficas:
+Referências Bibliográficas:
 
-FAMILY, The Thiel.Â **Peter Johannes Thiel**. s/d. DisponÃ­vel em:
+FAMILY, The Thiel. **Peter Johannes Thiel**. s/d. Disponível em:
 <https://thiel.co.za/descendants-of-gustav-thiel/peter-johannes-thiel>. Acesso
 em: 12 maio 2025.

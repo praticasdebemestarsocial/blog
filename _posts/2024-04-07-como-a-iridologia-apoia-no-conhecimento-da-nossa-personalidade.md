@@ -14,27 +14,27 @@ image: "https://i.ibb.co/zW7Vc5Gb/a7d3272cedfd.jpg"
 
 ### Como a Iridologia apoia no auto conhecimento?
 
-A anÃ¡lise da iris pode gerar informaÃ§Ãµes de auto conscientizaÃ§Ã£o do nosso ser,
-da nossa vocaÃ§Ã£o como pessoa, nossas propensÃµes bem como padrÃµes emocionais e
-caracterÃ­sticas fÃ­sicas.
+A análise da iris pode gerar informações de auto conscientização do nosso ser,
+da nossa vocação como pessoa, nossas propensões bem como padrões emocionais e
+características físicas.
 
-Esse conhecimento pode ser um ponto de partida para a compreensÃ£o mais profunda
+Esse conhecimento pode ser um ponto de partida para a compreensão mais profunda
 de si mesmo.
 
-A Iridologia Ã© tida como uma ferramenta de autoconhecimento ao proporcionar
-insights sobre a saÃºde fÃ­sica e emocional.
+A Iridologia é tida como uma ferramenta de autoconhecimento ao proporcionar
+insights sobre a saúde física e emocional.
 
-Ao analisar padrÃµes na Ã­ris, a prÃ¡tica propÃµe reflexÃµes sobre:
+Ao analisar padrões na íris, a prática propõe reflexões sobre:
 
-* **hÃ¡bitos,**
-* **emoÃ§Ãµes,**
-* **desequilÃ­brios**.
+* **hábitos,**
+* **emoções,**
+* **desequilíbrios**.
 
-Essa compreensÃ£o pode guiar a pessoa em ajustes no estilo de vida, promovendo
-uma conexÃ£o mais profunda consigo mesma e estimulando o autocuidado holÃ­stico.
+Essa compreensão pode guiar a pessoa em ajustes no estilo de vida, promovendo
+uma conexão mais profunda consigo mesma e estimulando o autocuidado holístico.
 
-Â Ã‰ importante ressaltar que a Iridologia nÃ£o substitui a orientaÃ§Ã£o mÃ©dica, mas
-pode complementar a busca pelo equilÃ­brio e bem-estar.
+ É importante ressaltar que a Iridologia não substitui a orientação médica, mas
+pode complementar a busca pelo equilíbrio e bem-estar.
 
 [
 
@@ -43,28 +43,28 @@ pode complementar a busca pelo equilÃ­brio e bem-estar.
 ## Quem desenvolveu a Teoria das Personalidades segundo a Iridologia?
 
 Denny Johnson, renomado explorador, pesquisador, escritor e professor
-internacional, Ã© a mente por trÃ¡s do poderoso Modelo Rayid.Â Â 
+internacional, é a mente por trás do poderoso Modelo Rayid.  
 
-Este modelo inovador emerge como uma ferramenta contemporÃ¢nea para decifrar a
-complexidade da personalidade, comportamento, e dinÃ¢micas familiares e de
-relacionamento.Â Â 
+Este modelo inovador emerge como uma ferramenta contemporânea para decifrar a
+complexidade da personalidade, comportamento, e dinâmicas familiares e de
+relacionamento.  
 
-Ao longo de sua trajetÃ³ria, Denny realizou inÃºmeras consultas pessoais,
-participou de entrevistas em estaÃ§Ãµes de rÃ¡dio e televisÃ£o globais, alÃ©m de
-ministrar cursos em diversos paÃ­ses.Â Â 
+Ao longo de sua trajetória, Denny realizou inúmeras consultas pessoais,
+participou de entrevistas em estações de rádio e televisão globais, além de
+ministrar cursos em diversos países.  
 
-Sua dedicaÃ§Ã£o Ã  compreensÃ£o profunda do ser humano torna o Modelo Rayid uma
+Sua dedicação à compreensão profunda do ser humano torna o Modelo Rayid uma
 fonte valiosa para explorar as nuances da individualidade e dos relacionamentos.
 
 [
 
   
 
-O Modelo Rayid, desenvolvido por Denny Johnson, Ã© uma abordagem especÃ­fica de interpretaÃ§Ã£o da Ã­ris que busca relacionar caracterÃ­sticas da Ã­ris com traÃ§os de personalidade e comportamento.
+O Modelo Rayid, desenvolvido por Denny Johnson, é uma abordagem específica de interpretação da íris que busca relacionar características da íris com traços de personalidade e comportamento.
 
-Este modelo propÃµe insights sobre o perfil comportamental e traÃ§os de carÃ¡ter individuais.
+Este modelo propõe insights sobre o perfil comportamental e traços de caráter individuais.
 
-Ele classificou em personalidades bases que sÃ£o identificaveis atravÃ©s da iris juntamente com uma anmnese que sÃ£o os perfis bases:
+Ele classificou em personalidades bases que são identificaveis através da iris juntamente com uma anmnese que são os perfis bases:
 
 * **agitador**
 * **flor**
@@ -72,36 +72,36 @@ Ele classificou em personalidades bases que sÃ£o identificaveis atravÃ©s da 
 * **corrente**
 * **ansiedade**
 
-Ã‰ importante observar que abordagens como o Modelo Rayid nÃ£o Ã© uma prÃ¡tica mÃ©dica convencional, mas sim uma ferramenta utilizada por terapeutas naturÃ³logos e naturopatas.
+É importante observar que abordagens como o Modelo Rayid não é uma prática médica convencional, mas sim uma ferramenta utilizada por terapeutas naturólogos e naturopatas.
 
-A interpretaÃ§Ã£o da Ã­ris para traÃ§os de personalidade Ã© uma Ã¡rea que nos convida a mais entendimento e estudos para obter mais reconhecimento e divulgaÃ§Ã£o.
+A interpretação da íris para traços de personalidade é uma área que nos convida a mais entendimento e estudos para obter mais reconhecimento e divulgação.
 
 [
 
 ## Denny Johnson desenvolveu mais algum estudo?
 
-Ele tambÃ©m desenvolveu pesquisas a respeito das caractetisticas de SequÃªncia de Filhos e a InfluÃªncia da Ãrvore Familiar na personalidade de cada pessoa.
+Ele também desenvolveu pesquisas a respeito das caractetisticas de Sequência de Filhos e a Influência da Árvore Familiar na personalidade de cada pessoa.
 
-EleÂ  sugere que a ordem de nascimento entre irmÃ£os e a dinÃ¢mica familiar podem influenciar aspectos da personalidade e comportamento de uma pessoa.
+Ele  sugere que a ordem de nascimento entre irmãos e a dinâmica familiar podem influenciar aspectos da personalidade e comportamento de uma pessoa.
 
-Essas teorias estÃ£o mais associadas a perspectivas psicolÃ³gicas e dinÃ¢micas familiares do que a prÃ¡ticas mÃ©dicas convencionais.
+Essas teorias estão mais associadas a perspectivas psicológicas e dinâmicas familiares do que a práticas médicas convencionais.
 
 
-
-  
-
-# Psicoiridologia: Jung e o MÃ©todo Rayid
-
-> Esse livro procura estabelecer a relaÃ§Ã£o existente entre o MÃ©todo Rayid e a abordagem Junguiana, de modo facilitar a compreensÃ£o do individuo, seja para o terapeuta junguiano, como tambÃ©m para o Iridologista que conhece o MetÃ³do Rayid, descrito por Denny Jonhson.Â Ambos, o MÃ©todo Rayid e a anÃ¡lise junguiana tÃªm muito em comum e as irises dÃ£o as informaÃ§Ãµes necessÃ¡rias para se realizar a interposiÃ§Ã£o de informaÃ§Ãµes, que as duas escolas fornecem para melhor se compreender o individuo, fornecendo, tambÃ©m, subsÃ­dios para as estratÃ©gias a serem adotadas frente ao ser humano que estÃ¡ sendo analisado. Esse livro trata-se de um profundo e prÃ¡tico facilitador para a junÃ§Ã£o destas duas abordagens.
 
   
 
-A nossa personalidade tem muitas consideraÃ§Ãµes e interpretar a personalidade Ã© algo complexo, pois nossa personalidade Ã©Â  multifacetada e influenciada por diversos fatores psicolÃ³gicos, sociais e genÃ©ticos.
+# Psicoiridologia: Jung e o Método Rayid
 
-Embora seja sempre recomendÃ¡vel buscar a orientaÃ§Ã£o de profissionais qualificados, como psicÃ³logos, para abordagens mais amplas de compreensÃ£o de si mesmo e dinÃ¢micas familiares.
+> Esse livro procura estabelecer a relação existente entre o Método Rayid e a abordagem Junguiana, de modo facilitar a compreensão do individuo, seja para o terapeuta junguiano, como também para o Iridologista que conhece o Metódo Rayid, descrito por Denny Jonhson. Ambos, o Método Rayid e a análise junguiana têm muito em comum e as irises dão as informações necessárias para se realizar a interposição de informações, que as duas escolas fornecem para melhor se compreender o individuo, fornecendo, também, subsídios para as estratégias a serem adotadas frente ao ser humano que está sendo analisado. Esse livro trata-se de um profundo e prático facilitador para a junção destas duas abordagens.
 
-A Iridologia pode oferecer insights sobre nossa personalidade e nossa vocaÃ§Ã£o valiosos que podemos levar em consideraÃ§Ã£o no processo de auto descoberta e auto conhecimento.
+  
 
-## ReferÃªncias BibliogrÃ¡ficas:
+A nossa personalidade tem muitas considerações e interpretar a personalidade é algo complexo, pois nossa personalidade é  multifacetada e influenciada por diversos fatores psicológicos, sociais e genéticos.
 
-JOHNSON, Denny.Â **O Modelo Rayid**: entendendo o cÃ³digo da vida. ENTENDENDO O CÃ“DIGO DA VIDA. s/d. DisponÃ­vel em: <https://brasil.rayid.com/modelo-rayid/>. Acesso em: 11 nov. 2023.
+Embora seja sempre recomendável buscar a orientação de profissionais qualificados, como psicólogos, para abordagens mais amplas de compreensão de si mesmo e dinâmicas familiares.
+
+A Iridologia pode oferecer insights sobre nossa personalidade e nossa vocação valiosos que podemos levar em consideração no processo de auto descoberta e auto conhecimento.
+
+## Referências Bibliográficas:
+
+JOHNSON, Denny. **O Modelo Rayid**: entendendo o código da vida. ENTENDENDO O CÓDIGO DA VIDA. s/d. Disponível em: <https://brasil.rayid.com/modelo-rayid/>. Acesso em: 11 nov. 2023.

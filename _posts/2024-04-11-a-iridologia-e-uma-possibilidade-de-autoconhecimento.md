@@ -1,76 +1,76 @@
 ---
 layout: post
-title: "A Iridologia Ã© uma possibilidade de autoconhecimento?"
+title: "A Iridologia é uma possibilidade de autoconhecimento?"
 date: 2024-04-11T07:54:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "OlÃ¡ amigos, sejam bem-vindos aqui ao canal. Fiquem de olho na sua saÃºde."
+description: "Olá amigos, sejam bem-vindos aqui ao canal. Fiquem de olho na sua saúde."
 image: "https://i.ibb.co/3ySbkZJ4/b07a588323cc.png"
 ---
 
 
 
   
-OlÃ¡ amigos, sejam bem-vindos aqui ao canal. Fiquem de olho na sua saÃºde.
+Olá amigos, sejam bem-vindos aqui ao canal. Fiquem de olho na sua saúde.
 
-Muitas pessoas me perguntam: afinal, o que vocÃª consegue ver nos nossos olhos?
+Muitas pessoas me perguntam: afinal, o que você consegue ver nos nossos olhos?
 
 Qual o significado desses sinais que aparecem aqui nos nossos olhos e o que os
-iridologistas conseguem entender desses sinais que as outras pessoas nÃ£o sabem?
+iridologistas conseguem entender desses sinais que as outras pessoas não sabem?
 
-Pois eu falo uma coisa para vocÃª: o exame atravÃ©s do olho Ã© um mÃ©todo de prÃ©
-prevenÃ§Ã£o.
+Pois eu falo uma coisa para você: o exame através do olho é um método de pré
+prevenção.
 
-## A Iridologia Ã© uma possibilidade de autoconhecimento?
+## A Iridologia é uma possibilidade de autoconhecimento?
 
-A iridologia proporciona muito mais que uma prevenÃ§Ã£o, proporciona a
-possibilidade de vocÃª se conhecer e saber como vocÃª pode se cuidar melhor.
+A iridologia proporciona muito mais que uma prevenção, proporciona a
+possibilidade de você se conhecer e saber como você pode se cuidar melhor.
 
-Quais as melhores vitaminas e nutrientes que vÃ£o fortalecer o seu organismo? Se
-existem substÃ¢ncias que estÃ£o acumuladas, radicais livres dentro do seu
-organismo. Como estÃ¡ a acidez em determinados locais do corpo? Como estÃ¡ o
-equilÃ­brio do pH, o equilÃ­brio do seu sangue, como Ã© que estÃ¡?
+Quais as melhores vitaminas e nutrientes que vão fortalecer o seu organismo? Se
+existem substâncias que estão acumuladas, radicais livres dentro do seu
+organismo. Como está a acidez em determinados locais do corpo? Como está o
+equilíbrio do pH, o equilíbrio do seu sangue, como é que está?
 
-Ele estÃ¡ bem oxigenado, estÃ¡ oxigenando bem os Ã³rgÃ£os do seu corpo? Como estÃ¡ o
-seu sistema circulatÃ³rio de uma maneira geral ou entÃ£o como estÃ¡ a circulaÃ§Ã£o do
-sangue em determinado Ã³rgÃ£o, se ele estÃ¡ sendo bem nutrido de sangue, de
-nutrientes, de oxigÃªnio?
+Ele está bem oxigenado, está oxigenando bem os órgãos do seu corpo? Como está o
+seu sistema circulatório de uma maneira geral ou então como está a circulação do
+sangue em determinado órgão, se ele está sendo bem nutrido de sangue, de
+nutrientes, de oxigênio?
 
-Se existe uma intolerÃ¢ncia alimentar, acÃºmulo de substÃ¢ncias, gorduras, metais
-pesados? Se vocÃª estÃ¡ sofrendo com parasitas, onde Ã© que eles estÃ£o, em que
-Ã³rgÃ£o? E se vocÃª estÃ¡ sofrendo com fungos, onde eles estÃ£o, em que Ã³rgÃ£o?
+Se existe uma intolerância alimentar, acúmulo de substâncias, gorduras, metais
+pesados? Se você está sofrendo com parasitas, onde é que eles estão, em que
+órgão? E se você está sofrendo com fungos, onde eles estão, em que órgão?
 
-EntÃ£o, todas essas informaÃ§Ãµes nos dÃ£o embasamento para que a gente possa passar
-um tratamento de limpeza do organismo, suplementaÃ§Ã£o, uma suplementaÃ§Ã£o correta
-onde vocÃª vai fortalecer o Ã³rgÃ£o que estÃ¡ mais enfraquecido.
+Então, todas essas informações nos dão embasamento para que a gente possa passar
+um tratamento de limpeza do organismo, suplementação, uma suplementação correta
+onde você vai fortalecer o órgão que está mais enfraquecido.
 
 [
 
-## Qual a importÃ¢ncia de conhecer os Ã³rgÃ£os de choque do nosso organismo?
+## Qual a importância de conhecer os órgãos de choque do nosso organismo?
 
-Ã‰ muito importante a gente descobrir quais sÃ£o os nossos Ã³rgÃ£os de choque, que Ã©
-assim como chamamos na iridologia, esses Ã³rgÃ£os que sÃ£o geneticamente jÃ¡ mais
-fragilizados e com necessidade de uma maior suplementaÃ§Ã£o.
+É muito importante a gente descobrir quais são os nossos órgãos de choque, que é
+assim como chamamos na iridologia, esses órgãos que são geneticamente já mais
+fragilizados e com necessidade de uma maior suplementação.
 
-Algumas pessoas tÃªm medo de fazer iridologia porque acham que vÃ£o descobrir
-coisas indesejÃ¡veis, coisas que, eh, alguma doenÃ§a, alguma coisa. Eu digo jÃ¡ uma
-coisa para vocÃª: a iridologia nÃ£o faz diagnÃ³stico de doenÃ§a porque para nÃ³s a
-gente nÃ£o consegue determinar uma doenÃ§a.
+Algumas pessoas têm medo de fazer iridologia porque acham que vão descobrir
+coisas indesejáveis, coisas que, eh, alguma doença, alguma coisa. Eu digo já uma
+coisa para você: a iridologia não faz diagnóstico de doença porque para nós a
+gente não consegue determinar uma doença.
 
-A gente pode localizar esses fatores que sÃ£o condicionantes da sua saÃºde,
+A gente pode localizar esses fatores que são condicionantes da sua saúde,
 fatores que podem provocar um adoecimento, um enfraquecimento do sistema
-imunolÃ³gico, um problema circulatÃ³rio.
+imunológico, um problema circulatório.
 
-A gente consegue saber como sÃ£o os seus hÃ¡bitos, se a Ã¡gua que vocÃª estÃ¡ bebendo
-Ã© suficiente, se estÃ¡ com falta de um nutriente, se vocÃª estÃ¡ com a circulaÃ§Ã£o
-que nÃ£o tÃ¡ muito boa. Todos esses fatores sÃ£o muito importantes para determinar
-uma boa saÃºde.
+A gente consegue saber como são os seus hábitos, se a água que você está bebendo
+é suficiente, se está com falta de um nutriente, se você está com a circulação
+que não tá muito boa. Todos esses fatores são muito importantes para determinar
+uma boa saúde.
 
-Se o seu sangue nÃ£o circula bem no seu organismo, ele nÃ£o vai irrigar bem todos
-os Ã³rgÃ£os, todos os membros. Muitas pessoas que sofrem com circulaÃ§Ã£o, com
-problemas de circulaÃ§Ã£o, eh, jÃ¡ comeÃ§am a sentir sintomas como formigamentos,
-cÃ¢imbras, e isso a gente consegue ver atravÃ©s dos olhos que jÃ¡ ocorrem problemas
-circulatÃ³rios que corroboram com uma anamnese.
+Se o seu sangue não circula bem no seu organismo, ele não vai irrigar bem todos
+os órgãos, todos os membros. Muitas pessoas que sofrem com circulação, com
+problemas de circulação, eh, já começam a sentir sintomas como formigamentos,
+câimbras, e isso a gente consegue ver através dos olhos que já ocorrem problemas
+circulatórios que corroboram com uma anamnese.
 
 [
 
@@ -78,57 +78,57 @@ circulatÃ³rios que corroboram com uma anamnese.
 
 ## O que a Iridologia pode informar?
 
-Muitas vezes essas pessoas tÃªm alguns tipos de problemas e vÃ£o fazer exames
-mÃ©dicos, mas nÃ£o encontram a soluÃ§Ã£o, nÃ£o encontram uma resposta. Mas atravÃ©s da
-iridologia, a gente consegue descobrir aquilo que a medicina ainda nÃ£o consegue
-detectar atravÃ©s dos exames.
+Muitas vezes essas pessoas têm alguns tipos de problemas e vão fazer exames
+médicos, mas não encontram a solução, não encontram uma resposta. Mas através da
+iridologia, a gente consegue descobrir aquilo que a medicina ainda não consegue
+detectar através dos exames.
 
-Por isso, a iridologia ela tem uma conexÃ£o muito forte com a medicina chinesa
-porque a gente, atravÃ©s desse exame juntamente com a anamnese fundamentada nos
+Por isso, a iridologia ela tem uma conexão muito forte com a medicina chinesa
+porque a gente, através desse exame juntamente com a anamnese fundamentada nos
 conhecimentos da medicina chinesa, a gente consegue comprovar de que aquilo que
-a gente tÃ¡ vendo nos olhos realmente Ã© aquilo que a pessoa sente.
+a gente tá vendo nos olhos realmente é aquilo que a pessoa sente.
 
-Algumas vezes as pessoas tÃªm algum determinado sintoma e vÃ£o ao mÃ©dico e o
-mÃ©dico fala: "Ah, isso Ã© imaginaÃ§Ã£o. Isso Ã© psicolÃ³gico." Isso Ã© como eles falam
-de origem idiopÃ¡tica que nÃ£o tem origem, que eles nÃ£o conseguem explicar.
+Algumas vezes as pessoas têm algum determinado sintoma e vão ao médico e o
+médico fala: "Ah, isso é imaginação. Isso é psicológico." Isso é como eles falam
+de origem idiopática que não tem origem, que eles não conseguem explicar.
 
-Mas atravÃ©s da tanto da medicina chinesa como da iridologia a gente consegue
-descobrir aquilo que a medicina fala que Ã© de origem idiopÃ¡tica, Ã© de origem
-psicolÃ³gica.
+Mas através da tanto da medicina chinesa como da iridologia a gente consegue
+descobrir aquilo que a medicina fala que é de origem idiopática, é de origem
+psicológica.
 
-A gente consegue ver atravÃ©s dos olhos aquilo que estÃ¡ acontecendo no organismo
-da pessoa, se Ã© realmente de origem psicolÃ³gica, emocional, se Ã© de origem do
-sistema nervoso, se aquilo que a pessoa estÃ¡ sentindo Ã© de um problema
-consequÃªncia de um problema circulatÃ³rio, Ã© consequÃªncia de alguma substÃ¢ncia
-que estÃ¡ acumulada dentro do seu organismo estÃ¡ tÃ¡ prejudicando algum Ã³rgÃ£o ou
-alguma circulaÃ§Ã£o sanguÃ­nea.
+A gente consegue ver através dos olhos aquilo que está acontecendo no organismo
+da pessoa, se é realmente de origem psicológica, emocional, se é de origem do
+sistema nervoso, se aquilo que a pessoa está sentindo é de um problema
+consequência de um problema circulatório, é consequência de alguma substância
+que está acumulada dentro do seu organismo está tá prejudicando algum órgão ou
+alguma circulação sanguínea.
 
-A gente consegue observar no olho da pessoa se ela estÃ¡ comendo aÃ§Ãºcar em
-excesso, gordura em excesso, ou se estÃ¡ comendo sal em excesso. Tudo isso sÃ£o
-fatores muito importantes e que condicionam ou determinam a saÃºde da pessoa.
+A gente consegue observar no olho da pessoa se ela está comendo açúcar em
+excesso, gordura em excesso, ou se está comendo sal em excesso. Tudo isso são
+fatores muito importantes e que condicionam ou determinam a saúde da pessoa.
 
-[ðŸŽ¥ [VÃ­deo
+[🎥 [Vídeo
 incorporado](https://www.youtube.com/embed/MTkHxzrDdqY)](https://www.youtube.com/embed/MTkHxzrDdqY)
 
-## O que vai me ajudar as informaÃ§Ãµes fornecidas pela Iridologia?
+## O que vai me ajudar as informações fornecidas pela Iridologia?
 
-A iridologia Ã© uma ferramenta fantÃ¡stica que pode auxiliar vocÃª a se cuidar,
-aprender a se cuidar. De que forma vocÃª pode se cuidar melhor? Aqui eu nÃ£o estou
+A iridologia é uma ferramenta fantástica que pode auxiliar você a se cuidar,
+aprender a se cuidar. De que forma você pode se cuidar melhor? Aqui eu não estou
 querendo falar de que a iridologia seja um exame superior a outros exames ou que
-o trabalho do iridologista seja superior ao do mÃ©dico. Eu nÃ£o falo isso. Eu nÃ£o
-estou aqui falando isso para vocÃª.
+o trabalho do iridologista seja superior ao do médico. Eu não falo isso. Eu não
+estou aqui falando isso para você.
 
-Eu estou falando para vocÃª que aquilo que um exame de iridologia pode
-proporcionar para vocÃª o conhecimento que estÃ¡ envolvido nessa ciÃªncia, vocÃª nÃ£o
+Eu estou falando para você que aquilo que um exame de iridologia pode
+proporcionar para você o conhecimento que está envolvido nessa ciência, você não
 vai, pelo menos por enquanto, encontrar em outros exames.
 
-E esse conhecimento pode trazer para vocÃª mais autoconhecimento, conhecimento de
-quem Ã© vocÃª mesmo, de como Ã© o seu corpo, o que vocÃª precisa fazer para se
-cuidar melhor, que tipo de alimentaÃ§Ã£o Ã© melhor para vocÃª, que tipo de alimento
-vocÃª pode evitar e Ã© melhor evitar para que nÃ£o prejudique mais o seu corpo.
+E esse conhecimento pode trazer para você mais autoconhecimento, conhecimento de
+quem é você mesmo, de como é o seu corpo, o que você precisa fazer para se
+cuidar melhor, que tipo de alimentação é melhor para você, que tipo de alimento
+você pode evitar e é melhor evitar para que não prejudique mais o seu corpo.
 
-Uma das coisas muito importantes que eu vejo Ã© as pessoas, as pessoas quererem
-realmente se curar, realmente se tratar. Muitas vezes as pessoas nÃ£o querem, as
-pessoas querem manter a sua doenÃ§a e por alguma razÃ£o, por algum motivo ou por
-nÃ£o ter conhecimento. Mas a iridologia pode trazer para vocÃª conhecimento muito
-importante daquilo que Ã© o seu corpo, o conhecimento
+Uma das coisas muito importantes que eu vejo é as pessoas, as pessoas quererem
+realmente se curar, realmente se tratar. Muitas vezes as pessoas não querem, as
+pessoas querem manter a sua doença e por alguma razão, por algum motivo ou por
+não ter conhecimento. Mas a iridologia pode trazer para você conhecimento muito
+importante daquilo que é o seu corpo, o conhecimento

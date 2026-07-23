@@ -4,7 +4,7 @@ title: "O que a Iridologia pode identificar no nosso organismo?"
 date: 2024-02-16T02:15:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "A iridologia Ã© uma ferramenta poderosa de prevenÃ§Ã£o de saÃºde, pois ela oferece a possibilidade de entender quais sÃ£o fatores estÃ£o condicionando a saÃº..."
+description: "A iridologia é uma ferramenta poderosa de prevenção de saúde, pois ela oferece a possibilidade de entender quais são fatores estão condicionando a saú..."
 image: "https://i.ibb.co/SDnVkcSP/b0a88bccfab8.jpg"
 ---
 
@@ -12,90 +12,90 @@ image: "https://i.ibb.co/SDnVkcSP/b0a88bccfab8.jpg"
 
   
 
-A iridologia Ã© uma ferramenta poderosa de prevenÃ§Ã£o de saÃºde, pois ela oferece a possibilidade de entender quais sÃ£o fatores estÃ£o condicionando a saÃºde da pessoa e que impedem a recuperaÃ§Ã£o de uma doenÃ§a ou de um sintoma.
+A iridologia é uma ferramenta poderosa de prevenção de saúde, pois ela oferece a possibilidade de entender quais são fatores estão condicionando a saúde da pessoa e que impedem a recuperação de uma doença ou de um sintoma.
 
-Ela nos dÃ¡ informaÃ§Ãµes que deixa mais fÃ¡cil entender quais sÃ£o as mudanÃ§as de hÃ¡bito de estilo de vida de alimentaÃ§Ã£o que sÃ£o necessÃ¡rios para indicar na prescriÃ§Ã£o de uma terapia, pois a Iridologia pode ser usada para identificar e prever potenciais problemas de saÃºde, mesmo antes que eles se manifestem.
+Ela nos dá informações que deixa mais fácil entender quais são as mudanças de hábito de estilo de vida de alimentação que são necessários para indicar na prescrição de uma terapia, pois a Iridologia pode ser usada para identificar e prever potenciais problemas de saúde, mesmo antes que eles se manifestem.
 
-Â AtravÃ©s da via ocular podemos decodificar sinais emitidos pelo sistema nervoso,
-da genÃ©tica ou bioquÃ­mico da pessoa e ainda observar a epigenÃ©tica que sÃ£o as
-modificaÃ§Ãµes nos genes no dna da pessoa causado pela:
+ Através da via ocular podemos decodificar sinais emitidos pelo sistema nervoso,
+da genética ou bioquímico da pessoa e ainda observar a epigenética que são as
+modificações nos genes no dna da pessoa causado pela:
 
-* **ingestÃ£o de certos alimentos,**
-* **Ã  falta de Ã¡gua**
-* **faltaÂ  de exercÃ­cios fÃ­sicos,**
+* **ingestão de certos alimentos,**
+* **à falta de água**
+* **falta  de exercícios físicos,**
 * **o estado emocional,**
-* **presenÃ§a de metais pesados**
-* **radiaÃ§Ã£o,**
+* **presença de metais pesados**
+* **radiação,**
 * **parasitas,**
 * **fungos,**
-* **mÃ¡ circulaÃ§Ã£o sanguÃ­nea,**
-* **acÃºmulo de radicais livres.**
+* **má circulação sanguínea,**
+* **acúmulo de radicais livres.**
 
   
 
 [
 
-Isso acontece porque a Ã­ris Ã© um Ã³rgÃ£o complexo que pode refletir o estado de saÃºde geral do corpo.
+Isso acontece porque a íris é um órgão complexo que pode refletir o estado de saúde geral do corpo.
 
-A Iridologia Ã© uma arte e ao mesmo tempo uma filosofia, pois os iridologistas usam a imagem dos olhos para orintar mudanÃ§as de hÃ¡bitos que podem influenciar a melhora da saÃºde e do bem estar.
+A Iridologia é uma arte e ao mesmo tempo uma filosofia, pois os iridologistas usam a imagem dos olhos para orintar mudanças de hábitos que podem influenciar a melhora da saúde e do bem estar.
 
-A iris Ã© um Ã³rgao complexo e pode refletir o estado de saÃºde geral do corpo.
+A iris é um órgao complexo e pode refletir o estado de saúde geral do corpo.
 
-No entando, Ã© importante ressaltar que a Iridologia nÃ£o Ã© uma ciÃªncia exata e pode ter sua interpretaÃ§Ã£o subjetiva, pois estuda fenÃ´menos nÃ£o observaveis objetivamente.
+No entando, é importante ressaltar que a Iridologia não é uma ciência exata e pode ter sua interpretação subjetiva, pois estuda fenômenos não observaveis objetivamente.
 
-Elaoferece insights sobre a natureza humana. Sinais na Ã­ris nÃ£o indicam exclusivamente doenÃ§as, mas sÃ£o influenciados por fatores comportamentais, alimentares, genÃ©ticos, ambientais e de estilo de vida.
+Elaoferece insights sobre a natureza humana. Sinais na íris não indicam exclusivamente doenças, mas são influenciados por fatores comportamentais, alimentares, genéticos, ambientais e de estilo de vida.
 
 [  
 
-## **Como ocorre que essa informaÃ§Ã£o do corpo chega aos nossos olhos?**
+## **Como ocorre que essa informação do corpo chega aos nossos olhos?**
 
-Todo o nosso corpo apresenta essa reflexologia de origem nervosa e desde o sÃ©culo 17 existem estudos cientÃ­ficos feitos a partir da Alemanha e Estados Unidos.
+Todo o nosso corpo apresenta essa reflexologia de origem nervosa e desde o século 17 existem estudos científicos feitos a partir da Alemanha e Estados Unidos.
 
-Â Â  Â Realizado por mÃ©dicos e outros profissionais de saÃºde e comeÃ§aram a
-catalogar sinais manchas texturas cores e vasos que se apresentam nos olhos,Â 
-comparando com exames convencionais e mÃ©dico e com sintomas e chegaram a criaÃ§Ã£o
-de mapas daÃ­ eles e da esclera do olho.
+    Realizado por médicos e outros profissionais de saúde e começaram a
+catalogar sinais manchas texturas cores e vasos que se apresentam nos olhos, 
+comparando com exames convencionais e médico e com sintomas e chegaram a criação
+de mapas daí eles e da esclera do olho.
 
-Â Â  Â Existem muitos livros os estudos e pesquisas cientÃ­ficas publicadas a
-respeito desse tema e eu convido a todos a acessar os links Ã© que embaixo e
+    Existem muitos livros os estudos e pesquisas científicas publicadas a
+respeito desse tema e eu convido a todos a acessar os links é que embaixo e
 verificar aquilo que estou falando.
 
-Â Â  Â O corpo Ã© uma mÃ¡quina humana extremamente avanÃ§ada hoje a ciÃªncia humana
-ainda nÃ£o consegue entender muitos processos fÃ­sico-quÃ­micos do organismo e nem
-oferece cura para a maioria das doenÃ§as crÃ´nico degenerativas.
+    O corpo é uma máquina humana extremamente avançada hoje a ciência humana
+ainda não consegue entender muitos processos físico-químicos do organismo e nem
+oferece cura para a maioria das doenças crônico degenerativas.
 
   
 
-## O que pode a Iridologia ajudar na saÃºde e bem estar?
+## O que pode a Iridologia ajudar na saúde e bem estar?
 
-A Iridologia pode fornecer informaÃ§Ãµes que dÃ£o norteamento para:
+A Iridologia pode fornecer informações que dão norteamento para:
 
 * **autoconhecimento,**
-* **mudanÃ§as de hÃ¡bito,**
-* **melhora na qualidade da alimentaÃ§Ã£o,**
-* **suplementaÃ§Ã£o**
+* **mudanças de hábito,**
+* **melhora na qualidade da alimentação,**
+* **suplementação**
 
-Â Â  Â SÃ£o medidas que sempre podem proporcionar para o organismo da pessoa uma
-melhora e mudanÃ§as no estilo no seu estado geral e facilitar uma recuperaÃ§Ã£o Ã©
-independente de estar fazendo qualquer outro tratamento mÃ©dico.
+    São medidas que sempre podem proporcionar para o organismo da pessoa uma
+melhora e mudanças no estilo no seu estado geral e facilitar uma recuperação é
+independente de estar fazendo qualquer outro tratamento médico.
 
-Â  Â Â No entanto, Ã© importante ressaltar que a Iridologia nÃ£o substitui
-diagnÃ³stico mÃ©dico, mas complementa com uma visÃ£o holÃ­stica da saÃºde e do bem
-estar.Â Â 
+    No entanto, é importante ressaltar que a Iridologia não substitui
+diagnóstico médico, mas complementa com uma visão holística da saúde e do bem
+estar.  
 
 [)
 
-# Iridologia integrada: A ciÃªncia e a arte da revelaÃ§Ã£o do holograma humano
+# Iridologia integrada: A ciência e a arte da revelação do holograma humano
 
-> Iridologia Integrada apresenta ao leitor como Ã© possÃ­vel diagnosticar e curar quase todo tipo de enfermidade por meio da Iridologia - o estudo da Ã­ris. Esta publicaÃ§Ã£o revolucionÃ¡ria Ã© resultado de anos de trabalho e aprimoramento do mÃ©dico americano, que atualmente reside no Brasil, Gurudev Singh Khalsa. Suas pesquisas aliam ciÃªncia e tecnologia Ã  vida emocional e espiritual dos pacientes, que resultam em tratamentos muito bem-sucedidos.
+> Iridologia Integrada apresenta ao leitor como é possível diagnosticar e curar quase todo tipo de enfermidade por meio da Iridologia - o estudo da íris. Esta publicação revolucionária é resultado de anos de trabalho e aprimoramento do médico americano, que atualmente reside no Brasil, Gurudev Singh Khalsa. Suas pesquisas aliam ciência e tecnologia à vida emocional e espiritual dos pacientes, que resultam em tratamentos muito bem-sucedidos.
 
-## ReferÃªncias BibliogrÃ¡ficas
+## Referências Bibliográficas
 
-**IRIDOLOGIA - GOOGLE ACADÃŠMICO**
+**IRIDOLOGIA - GOOGLE ACADÊMICO**
 
 <https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=iridologia+terapia+alternativa&btnG&oq=IRIDOLOGIA>
 
-**IRIDOLOGY - GOOGLE ACADÃŠMICO**
+**IRIDOLOGY - GOOGLE ACADÊMICO**
 
 <https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=iridology&btnG=>
 
@@ -103,7 +103,7 @@ estar.Â Â 
 
 <https://pubmed.ncbi.nlm.nih.gov/?term=iridology>
 
-**USP -UNIVERSIDADE DE SÃƒO PAULO**
+**USP -UNIVERSIDADE DE SÃO PAULO**
 
 <https://www5.usp.br/busca/IRIDOLOGIA>
 

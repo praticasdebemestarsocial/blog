@@ -1,165 +1,165 @@
 ---
 layout: post
-title: "O que Ã© a Iridologia? HÃ¡bitos, estilo de vida e estado emocional."
+title: "O que é a Iridologia? Hábitos, estilo de vida e estado emocional."
 date: 2024-04-07T07:11:00.003Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "1- O que Ã© Iridologia?"
+description: "1- O que é Iridologia?"
 image: "https://i.ibb.co/7dyb7WMf/963ab90c7e3d.png"
 ---
 
 
 
-## 1- O que Ã© Iridologia?
+## 1- O que é Iridologia?
 
-A Iridologia Ã© uma tÃ©cnicaÂ que permite avaliar o seu bem estar, apontando
-hÃ¡bitos, estilo de vida e estado emocional que podem estar prejudicando a sua
-saÃºde fÃ­sica e mental, gerandoÂ auto conhecimento e informaÃ§Ãµes de como realizar
+A Iridologia é uma técnica que permite avaliar o seu bem estar, apontando
+hábitos, estilo de vida e estado emocional que podem estar prejudicando a sua
+saúde física e mental, gerando auto conhecimento e informações de como realizar
 melhor um auto cuidado.
 
 
 
-## 2- Como Ã© possÃ­vel observar nos olhos informaÃ§Ãµes do interior do nosso corpo?
+## 2- Como é possível observar nos olhos informações do interior do nosso corpo?
 
-O olho estÃ¡ conectado ao sistema nervoso atravÃ©s doÂ nervo Ã³ptico, que Ã©
-responsÃ¡vel por transmitir os sinais visuais do olho para o cÃ©rebro.Â Â 
+O olho está conectado ao sistema nervoso através do nervo óptico, que é
+responsável por transmitir os sinais visuais do olho para o cérebro.  
 
-ApÃ³s deixar o olho, o nervo Ã³ptico se dirige para o cÃ©rebro e se conecta a uma
-regiÃ£o , localizada noÂ tÃ¡lamo, que fica no centro do cÃ©rebro.Â Â 
+Após deixar o olho, o nervo óptico se dirige para o cérebro e se conecta a uma
+região , localizada no tálamo, que fica no centro do cérebro.  
 
-O tÃ¡lamo Ã© responsÃ¡vel por transmitir os sinais visuais para Ã¡reas especÃ­ficas
-doÂ cÃ³rtex visual,Â que fica no lobo occipital, que Ã© a regiÃ£o do cÃ©rebro
-responsÃ¡vel pelo processamento das informaÃ§Ãµes visuais.
-
-
-
-## 3- Onde estÃ¡ guardada a informaÃ§Ã£o do nosso, nossa memÃ³ria no cÃ©rebro?
-
-OÂ lobo occipitalÂ Ã© o principal centro de processamento visual.Â Â 
-
-Ele estÃ¡ envolvido na determinaÃ§Ã£o de cores, no reconhecimento facial, na
-percepÃ§Ã£o de profundidade, no processamento visuoespacial e atÃ© desempenha um
-papel na formaÃ§Ã£o de memÃ³rias.Â Â 
+O tálamo é responsável por transmitir os sinais visuais para áreas específicas
+do córtex visual, que fica no lobo occipital, que é a região do cérebro
+responsável pelo processamento das informações visuais.
 
 
 
-OÂ tronco cerebralÂ Ã© a parte do cÃ©rebro que se conecta com a medula espinhal, Ã©
-onde ocorre o comeÃ§o daÂ transmissÃ£o de informaÃ§Ãµes das vias neurais entre
-cÃ©rebro e medula espinhal.Â Â 
+## 3- Onde está guardada a informação do nosso, nossa memória no cérebro?
 
-O tronco espinhal tambÃ©m alÃ©m de processar informaÃ§Ãµes sensoriais e regulaÃ§Ã£o de
-funÃ§Ãµes motoras aindaÂ  Ã© responsÃ¡vel pelo controle de vÃ¡rias funÃ§Ãµes vitais
+O lobo occipital é o principal centro de processamento visual.  
+
+Ele está envolvido na determinação de cores, no reconhecimento facial, na
+percepção de profundidade, no processamento visuoespacial e até desempenha um
+papel na formação de memórias.  
+
+
+
+O tronco cerebral é a parte do cérebro que se conecta com a medula espinhal, é
+onde ocorre o começo da transmissão de informações das vias neurais entre
+cérebro e medula espinhal.  
+
+O tronco espinhal também além de processar informações sensoriais e regulação de
+funções motoras ainda  é responsável pelo controle de várias funções vitais
 como:
 
-respiraÃ§Ã£oÂ - pulmÃ£o
+respiração - pulmão
 
-frequÃªncia cardÃ­acaÂ - coraÃ§Ã£o
+frequência cardíaca - coração
 
-pressÃ£o arterialÂ - circulaÃ§Ã£o sanguÃ­nea e rins
+pressão arterial - circulação sanguínea e rins
 
-digestÃ£oÂ - estÃ´mago
-
-
-
-Essas informaÃ§Ãµes sÃ£o sinais nervosos entre o cÃ©rebro e o restante do corpo.Â Â 
-
-A conecÃ§Ã£o entreÂ medula espinhal e tronco cerebralÂ proporciona a transmissÃ£o de
-sinais nervosos entre o cÃ©rebro e o restante do corpo.Â Â 
+digestão - estômago
 
 
 
-A medula espinhal atua comoÂ uma via de mÃ£o dupla de comunicaÃ§Ã£o.
+Essas informações são sinais nervosos entre o cérebro e o restante do corpo.  
 
-Ela transmite informaÃ§Ãµes sensoriais do corpo para o cÃ©rebro
+A conecção entre medula espinhal e tronco cerebral proporciona a transmissão de
+sinais nervosos entre o cérebro e o restante do corpo.  
 
-Envia sinais motores do cÃ©rebro para osÂ mÃºsculos e Ã³rgÃ£os do corpo.Â Â 
 
-"A partir dessas informaÃ§Ãµes podemos deduzir como essas informaÃ§Ãµes orgÃ¢nicas se
-manifestam nos olhos, pois essa via de mÃ£o de processamento de informaÃ§Ãµes
+
+A medula espinhal atua como uma via de mão dupla de comunicação.
+
+Ela transmite informações sensoriais do corpo para o cérebro
+
+Envia sinais motores do cérebro para os músculos e órgãos do corpo.  
+
+"A partir dessas informações podemos deduzir como essas informações orgânicas se
+manifestam nos olhos, pois essa via de mão de processamento de informações
 nervosas e quimicas ocorre em todo corpo."
 
 
 
   
 
-AlÃ©m do mais existe a rede de vasos sanguÃ­neo percorrem todo o corpo.Â Â 
+Além do mais existe a rede de vasos sanguíneo percorrem todo o corpo.  
 
-OÂ sistema circulatÃ³rioÂ Ã© responsÃ¡vel por transportar o sangue que contem
-oxigÃªnio, nutrientes hormÃ´nios e outras substÃ¢ncias e componentes para todo o
-corpo, incluindo os olhos.Â Â 
-
-[
-
-  
-
-Os olhos sÃ£o irrigados por um rede complexa de vasos sanguÃ­neos.Â Â 
+O sistema circulatório é responsável por transportar o sangue que contem
+oxigênio, nutrientes hormônios e outras substâncias e componentes para todo o
+corpo, incluindo os olhos.  
 
 [
 
   
 
-As artÃ©rias fornecem sangue oxigenado e nutrientes aos tecidos oculares.
-
-  
-
-As veias sÃ£o responsÃ¡veis por remover resÃ­duos metabÃ³licos dos tecidos oculares, levando de volta para o sistema circulatÃ³rio para serem eliminados.
+Os olhos são irrigados por um rede complexa de vasos sanguíneos.  
 
 [
 
-## 4- Qual a diferenÃ§a entre a Iridogia e a Medicina Oftalmologia?
+  
 
-A medicina oftalmolÃ³gicaÂ  estuda vÃ¡riasÂ doenÃ§as ocularesÂ como:
+As artérias fornecem sangue oxigenado e nutrientes aos tecidos oculares.
+
+  
+
+As veias são responsáveis por remover resíduos metabólicos dos tecidos oculares, levando de volta para o sistema circulatório para serem eliminados.
+
+[
+
+## 4- Qual a diferença entre a Iridogia e a Medicina Oftalmologia?
+
+A medicina oftalmológica  estuda várias doenças oculares como:
 
 * Catarata;
 * Glaucoma;
 * Conjuntivite;
-* Retinopatia diabÃ©tica;
-* DegeneraÃ§Ã£o macular relacionada Ã  idade.
-* Erros de refraÃ§Ã£o.
+* Retinopatia diabética;
+* Degeneração macular relacionada à idade.
+* Erros de refração.
 
-A Iridologia nÃ£o identifica doenÃ§as, nem relacionadas a doenÃ§as dos olhos nem doenÃ§as sistÃªmicas ou orgÃ¢nicas.
+A Iridologia não identifica doenças, nem relacionadas a doenças dos olhos nem doenças sistêmicas ou orgânicas.
 
-A Iridologia auxilia como identifcar asÂ  melhores formas de fazer um tratamento natural, complementar, que ajude a pessoa a aumentar sua capacidade corporal, melhorando o sistema imunolÃ³gico, fazendo uma depuraÃ§Ã£o do sangue, repondo nutrientes e isso pode ajudar bastante na recuperaÃ§Ã£o da enfermidade que vocÃª jÃ¡ deve estar tratando com seu mÃ©dico.
+A Iridologia auxilia como identifcar as  melhores formas de fazer um tratamento natural, complementar, que ajude a pessoa a aumentar sua capacidade corporal, melhorando o sistema imunológico, fazendo uma depuração do sangue, repondo nutrientes e isso pode ajudar bastante na recuperação da enfermidade que você já deve estar tratando com seu médico.
 
-A Iridologia nÃ£o dÃ¡ nenhum tipo de resultado ouÂ  parÃ¢metro laboratorial ou outro tipo de exame mÃ©dico, ela dÃ¡ informaÃ§Ã£o do seu organismo como um todo que pode direcionar melhor como fazer um tratamento natural mais direcionado para melhorar os sintomas que apresentam no seu organismo.
+A Iridologia não dá nenhum tipo de resultado ou  parâmetro laboratorial ou outro tipo de exame médico, ela dá informação do seu organismo como um todo que pode direcionar melhor como fazer um tratamento natural mais direcionado para melhorar os sintomas que apresentam no seu organismo.
 
-## 5- O mÃ©dico clÃ­nico geral realiza exame de Iridologia?
+## 5- O médico clínico geral realiza exame de Iridologia?
 
-OÂ mÃ©dico clÃ­nico geralÂ sabe reconhecer vÃ¡rias doenÃ§as sistÃªmicas de suas manifestaÃ§Ãµes nos olhos como:
+O médico clínico geral sabe reconhecer várias doenças sistêmicas de suas manifestações nos olhos como:
 
 *diabetes melittus
 
-*hipertensÃ£o arterial
+*hipertensão arterial
 
-*hepatite, cirrose, cÃ¢ncer do fÃ­gado.Â Â 
+*hepatite, cirrose, câncer do fígado.  
 
-*doenÃ§as reumÃ¡ticas, nutricionais, hematÃ³logicas, gastrointesinais, endocrinas
+*doenças reumáticas, nutricionais, hematólogicas, gastrointesinais, endocrinas
 
-Mas o mÃ©dico nÃ£o tem a Iridologia com especialidades mÃ©dicas, apesar de que
-alguns mÃ©dicos vem aprendendo a Iridologia, outros tambÃ©m vem ensinando e muitos
-sinais estudados na Iridologia foram descobertos por mÃ©dicos, mas o conselho de
-medicina nÃ£o considera a Iridologia como uma especialidade mÃ©dica.
+Mas o médico não tem a Iridologia com especialidades médicas, apesar de que
+alguns médicos vem aprendendo a Iridologia, outros também vem ensinando e muitos
+sinais estudados na Iridologia foram descobertos por médicos, mas o conselho de
+medicina não considera a Iridologia como uma especialidade médica.
 
-A Iridologia vem sendo usada como uma especialidade NaturopÃ¡tica ou
-NaturolÃ³gica.Â Â 
+A Iridologia vem sendo usada como uma especialidade Naturopática ou
+Naturológica.  
 
-No brasil jÃ¡ existem algumas faculdades de Iridologia que apesar de serem
-faculdades recentes no Brasil a Naturopatia jÃ¡ existem hÃ¡ seculos em paises como
-a Europa e Estados Unidos.Â Â 
+No brasil já existem algumas faculdades de Iridologia que apesar de serem
+faculdades recentes no Brasil a Naturopatia já existem há seculos em paises como
+a Europa e Estados Unidos.  
 
 [)](https://img1.wsimg.com/isteam/ip/689df44f-72b4-45cd-9fca-981674047173/Iridology%20Graphic.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:400,cg:true)
 
 ## 6- Resumo:
 
-A Iridologia ou a Teleolhologia Ã© uma tÃ©cnica diferente de fazer uma avaliaÃ§Ã£o
-do bem estar humano.Â Â 
+A Iridologia ou a Teleolhologia é uma técnica diferente de fazer uma avaliação
+do bem estar humano.  
 
-Ela jÃ¡ existe hÃ¡ mais de 300 anos de estudos no ocidente e inclusive Ã© estudada
-na Medicina Tradicional Chinesa.Â Â 
+Ela já existe há mais de 300 anos de estudos no ocidente e inclusive é estudada
+na Medicina Tradicional Chinesa.  
 
-Muito embora ainda mereÃ§a ser estudada com mais profundidade e forma mais
-sistemÃ¡tica.
+Muito embora ainda mereça ser estudada com mais profundidade e forma mais
+sistemática.
 
-Ela tem sido usada como uma forma de indicar de que forma hÃ¡bitos alimentares e
-de estilo de vida podem impactar no bem estar e na saÃºde e como a pessoa pode
+Ela tem sido usada como uma forma de indicar de que forma hábitos alimentares e
+de estilo de vida podem impactar no bem estar e na saúde e como a pessoa pode
 utilizar recursos naturais para o seu bem estar e desenvolvimento pessoal.

@@ -1,118 +1,118 @@
 ---
 layout: post
-title: "O que Ã© Iridologia?Ã‰ um diagnÃ³stico?"
+title: "O que é Iridologia?É um diagnóstico?"
 date: 2024-04-11T08:36:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "O que Ã© Iridologia?"
+description: "O que é Iridologia?"
 image: "https://i.ibb.co/WNSBnVfj/37d751baddbf.png"
 ---
 
 
 
-## **O que Ã© Iridologia?**
+## **O que é Iridologia?**
 
-AÂ **Iridologia**, tambÃ©m chamada deÂ **Iris diagnose**Â ouÂ **IridodiagnÃ³stico**Â Ã©
-uma tÃ©cnica da Naturopatia ou Naturologia, utilizada para informar sobre a saÃºde
-sistÃªmica de uma pessoa atravÃ©s da manifestaÃ§Ã£o de cores, texturas e sinais que
+A **Iridologia**, também chamada de **Iris diagnose** ou **Iridodiagnóstico** é
+uma técnica da Naturopatia ou Naturologia, utilizada para informar sobre a saúde
+sistêmica de uma pessoa através da manifestação de cores, texturas e sinais que
 aparecem na iris, na pupila e esclera do olho.
 
 ### 1- Qual a origem da Iridologia?
 
-AÂ **Iridologia**Â tem suas raÃ­zes no sÃ©culo XVII, quando o mÃ©dico alemÃ£o
+A **Iridologia** tem suas raízes no século XVII, quando o médico alemão
 Philippus Meyeus publicou o primeiro trabalho sobre o assunto, intitulado
 "Chiromatica Medica".
 
-Desde entÃ£o, tem havido um interesse crescente por esta prÃ¡tica, para
-fazerÂ **PromoÃ§Ã£o do Bem Estar**, apesar de a ciÃªncia mÃ©dica nÃ£o considerar a
-Iridologia como uma prÃ¡tica mÃ©dica, jÃ¡ existem alguns mÃ©dicos que ensinam essa
-tÃ©cnica e vÃ¡rios profissionais da saÃºde praticam, alÃ©m de nutricionistas ou
-psicÃ³logos, mas a Iridologia Ã© principalmente uma tÃ©cnica utilizada por
-naturÃ³logos ou naturopatas no mundo inteiro.
+Desde então, tem havido um interesse crescente por esta prática, para
+fazer **Promoção do Bem Estar**, apesar de a ciência médica não considerar a
+Iridologia como uma prática médica, já existem alguns médicos que ensinam essa
+técnica e vários profissionais da saúde praticam, além de nutricionistas ou
+psicólogos, mas a Iridologia é principalmente uma técnica utilizada por
+naturólogos ou naturopatas no mundo inteiro.
 
-> HÃ¡ mais de 300 anos profissionais vem catalogando e comprovando clinicamente que
-> que os padrÃµes, cores e outras caracterÃ­sticas do olho contÃªm informaÃ§Ãµes sobre
-> a saÃºde sistÃªmica do paciente.
+> Há mais de 300 anos profissionais vem catalogando e comprovando clinicamente que
+> que os padrões, cores e outras características do olho contêm informações sobre
+> a saúde sistêmica do paciente.
 
 ### 2- Como se realiza o exame da Iridologia?
 
-AtravÃ©s de fotografias que sÃ£o realizadas prÃ³ximo aos olhos do cliente, os
-iridologistas fazem um scaneamento usando os mapas iridolÃ³gicos para observar
-mais de perto sinais que aparecem nos olhos que correspondem aos Ã³rgÃ£os e
-sistemas corporais e apartir daÃ­ fazer uma avaliÃ§Ã£o que pode revelar quais os
-fatores que sÃ£o prejudiciais para a saÃºde da pessoa, principalmente em relaÃ§Ã£o
-aos hÃ¡bitos alimentares e estilo de vida.
+Através de fotografias que são realizadas próximo aos olhos do cliente, os
+iridologistas fazem um scaneamento usando os mapas iridológicos para observar
+mais de perto sinais que aparecem nos olhos que correspondem aos órgãos e
+sistemas corporais e apartir daí fazer uma avalição que pode revelar quais os
+fatores que são prejudiciais para a saúde da pessoa, principalmente em relação
+aos hábitos alimentares e estilo de vida.
 
-TambÃ©m Ã© possivel fazer essa identificaÃ§Ã£o atravÃ©s de lupa ou de equipamentos
-especializados e softwares para realizar essa identificaÃ§Ã£o com mais precisÃ£o.
+Também é possivel fazer essa identificação através de lupa ou de equipamentos
+especializados e softwares para realizar essa identificação com mais precisão.
 
 
 
-### 3- O que significa os sinais que sÃ£o vistos nos olhos?
+### 3- O que significa os sinais que são vistos nos olhos?
 
-AtravÃ©s da observaÃ§Ã£o desses sinais Ã© possÃ­ve identificar fundamentalmente o
-estado os Ã³rgÃ£os segundo esses aspectos:
+Através da observação desses sinais é possíve identificar fundamentalmente o
+estado os órgãos segundo esses aspectos:
 
 * **hiperativos****ou hipoativos;**
 * **inflamados e intoxicados;**
 * **sofrendo stress oxidativo;**
-* **com alteraÃ§Ãµes metabÃ³licas;**
-* **alteraÃ§Ãµes emocionais.**
+* **com alterações metabólicas;**
+* **alterações emocionais.**
 
-AÂ **Iridologia**Â pode passar a informaÃ§Ã£o das suscetibilidades ou tendÃªncias de
-uma pessoa a um conjunto de enfermidades, refletindo problemas mÃ©dicos passados.
+A **Iridologia** pode passar a informação das suscetibilidades ou tendências de
+uma pessoa a um conjunto de enfermidades, refletindo problemas médicos passados.
 
-Essa tÃ©nica pode indicar:
+Essa ténica pode indicar:
 
-* o que pode estÃ¡ afetando a saÃºde da pessoa no momento da consulta,
-* qual hÃ¡bito que prejudica o organismo
-* que emoÃ§Ã£o pode impactar a saÃºdeÂ â€‹â€‹
-* qualÂ [prognÃ³stico](https://iridologianobemestar.blogspot.com/2023/09/como-e-o-prognostico-de-bem-estar-do.html)Â de problemas de saÃºde futuros caso a pessoa nÃ£o melhore seus hÃ¡bitos e estilo de vida
+* o que pode está afetando a saúde da pessoa no momento da consulta,
+* qual hábito que prejudica o organismo
+* que emoção pode impactar a saúde ​​
+* qual [prognóstico](https://iridologianobemestar.blogspot.com/2023/09/como-e-o-prognostico-de-bem-estar-do.html) de problemas de saúde futuros caso a pessoa não melhore seus hábitos e estilo de vida
 
-> Mas aÂ **Iridologia**Â tem se revelado uma excelente ferramenta de apoio
-> aoÂ **desenvolvimento pessoal e monitoramento de mudanÃ§as de hÃ¡bitos**, pois
-> comportamentos frequentes afetam diretamente nossa saÃºde e refletem em sintomas
-> em todo nosso organismo, inclusive nos olhos, como Ã© no caso da mÃ¡ alimentaÃ§Ã£o,
-> a quantidade de Ã¡gua ingerida e o estado emocional.
+> Mas a **Iridologia** tem se revelado uma excelente ferramenta de apoio
+> ao **desenvolvimento pessoal e monitoramento de mudanças de hábitos**, pois
+> comportamentos frequentes afetam diretamente nossa saúde e refletem em sintomas
+> em todo nosso organismo, inclusive nos olhos, como é no caso da má alimentação,
+> a quantidade de água ingerida e o estado emocional.
 
-JÃ¡ existem muitas escolas ao redor do mundo que estudam a Iridologia, fazendo
-parte de grades de ensino da Naturologia ou Naturopatia e tambÃ©m no Brasil temos
-muitos profissionais renomados e escolas reconhecidas nessa Ã¡rea das CiÃªncias
-NaturopÃ¡ticas.
+Já existem muitas escolas ao redor do mundo que estudam a Iridologia, fazendo
+parte de grades de ensino da Naturologia ou Naturopatia e também no Brasil temos
+muitos profissionais renomados e escolas reconhecidas nessa área das Ciências
+Naturopáticas.
 
-### **4- A Iridologia Identifica doenÃ§as atravÃ©s dos olhos?**
+### **4- A Iridologia Identifica doenças através dos olhos?**
 
-Infelizmente preciso lhe alertar que a Iridologia nÃ£o identifica ou diagnostica
-doenÃ§as.
+Infelizmente preciso lhe alertar que a Iridologia não identifica ou diagnostica
+doenças.
 
-Por certo o diagnÃ³stico de doenÃ§as cabe ao profissional mÃ©dico, pois Ã© uma
-questÃ£o muito delicada e envolve vÃ¡rios tipos de exames para que o mÃ©dico possa
-chegar a uma conclusÃ£o.
+Por certo o diagnóstico de doenças cabe ao profissional médico, pois é uma
+questão muito delicada e envolve vários tipos de exames para que o médico possa
+chegar a uma conclusão.
 
-Entretanto a Iridologia Ã© uma prÃ¡tica que se baseia no exame da Ã­ris (parte
+Entretanto a Iridologia é uma prática que se baseia no exame da íris (parte
 colorida do olho) para avaliar a qualitativamente, dando um feedback presuntivo
-de que forma os hÃ¡bitos e estilo de vida estÃ£o impactando aÂ  saÃºde e o bem-estar
+de que forma os hábitos e estilo de vida estão impactando a  saúde e o bem-estar
 da pessoa.
 
-De acordo com a Iridologia, vÃ¡rios hÃ¡bitos podem ser identificados por
-caracterÃ­sticas observadas na na iris e na esclera do olho, que sÃ£o
-respectivamente a parte colorida e a branca, pois muitos hÃ¡bitos
-comoÂ **sedentarismo, falta de sono reparador, mÃ¡ alimentaÃ§Ã£o atÃ© traumas e
-estress**Â podem impactar nosso organismo e isso pode ser observados em sinais
+De acordo com a Iridologia, vários hábitos podem ser identificados por
+características observadas na na iris e na esclera do olho, que são
+respectivamente a parte colorida e a branca, pois muitos hábitos
+como **sedentarismo, falta de sono reparador, má alimentação até traumas e
+estress** podem impactar nosso organismo e isso pode ser observados em sinais
 que aparecem nos olhos, como manchas, linhas, raios ou outras marcas.
 
-Mas nem todo sinal que aparece nos olhos indica algum alteraÃ§Ã£o
-metabÃ³lica-energÃ©tica.Â **Tudo precisa ser bem avaliado juntamente com uma boa
+Mas nem todo sinal que aparece nos olhos indica algum alteração
+metabólica-energética. **Tudo precisa ser bem avaliado juntamente com uma boa
 anamnese.**
 
-> No entanto, esses sinais que aparecem nos olhos sÃ£o indicativos de disfunÃ§Ãµes
-> metabÃ³lico-energÃ©ticas e revelam tendÃªncias que podem ter sua origem nos
-> hÃ¡bitos, alimentaÃ§Ã£o ou stress emocional.
+> No entanto, esses sinais que aparecem nos olhos são indicativos de disfunções
+> metabólico-energéticas e revelam tendências que podem ter sua origem nos
+> hábitos, alimentação ou stress emocional.
 
-EntÃ£o quando o iridologista identifica um sinal importante nos olhos ele
-investiga atravÃ©s da anamnese para descobrir a origem,Â **o fator gerador de
-adoecimento**Â e dÃ¡ orientaÃ§Ãµes ao seu cliente personalizadas deÂ **como melhorar
-a sua performance fÃ­sica e emocional.**
+Então quando o iridologista identifica um sinal importante nos olhos ele
+investiga através da anamnese para descobrir a origem, **o fator gerador de
+adoecimento** e dá orientações ao seu cliente personalizadas de **como melhorar
+a sua performance física e emocional.**
 
-O terapeuta Ã© um profissional que ensina desenvolvimento pessoal e mudanÃ§as de
-hÃ¡bitos para o cliente alcanÃ§ar uma melhor performance fÃ­sica e emocional.
+O terapeuta é um profissional que ensina desenvolvimento pessoal e mudanças de
+hábitos para o cliente alcançar uma melhor performance física e emocional.

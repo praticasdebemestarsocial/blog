@@ -15,141 +15,141 @@ image: "https://i.ibb.co/FbvbHtP2/6092e3666d74.png"
 ## Quem foi Lezaeta Acharan?
 
   
-Manuel Lezaeta AcharÃ¡n foi umÂ foi umÂ naturistaÂ ,Â advogadoÂ ,Â professorÂ eÂ escritorÂ chilenoÂ Â chileno nascido em 4 de julho de 1886 e falecido em 1959.Â 
+Manuel Lezaeta Acharán foi um foi um naturista , advogado , professor e escritor chileno  chileno nascido em 4 de julho de 1886 e falecido em 1959. 
 
-Ele foi um pioneiro da medicina naturista no Chile. Lezaeta AcharÃ¡n era defensor
+Ele foi um pioneiro da medicina naturista no Chile. Lezaeta Acharán era defensor
 de abordagens de cura naturais e acreditava no poder do corpo de se curar por
-meio de mÃ©todos naturais.
+meio de métodos naturais.
 
-Reconhecido como pioneiro da medicina naturista no Chile, defendeu mÃ©todos
-naturais de cura, acreditando no poder intrÃ­nseco do corpo para se recuperar.Â Â 
+Reconhecido como pioneiro da medicina naturista no Chile, defendeu métodos
+naturais de cura, acreditando no poder intrínseco do corpo para se recuperar.  
 
-Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â [ðŸŽ¥ [VÃ­deo
+                                           [🎥 [Vídeo
 incorporado](https://www.youtube.com/embed/rjfDshsHops)](https://www.youtube.com/embed/rjfDshsHops)  
-Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Â 
+                                                                              
 
-## **Qual a contribuiÃ§Ã£o de Lezaeta para a medicina natural?**
+## **Qual a contribuição de Lezaeta para a medicina natural?**
 
-**Manuel Lezaeta AcharÃ¡n**Â nasceu noÂ **Chile, em 4 de julho de 1886**, e faleceu
-emÂ **1959**.Â Â 
+**Manuel Lezaeta Acharán** nasceu no **Chile, em 4 de julho de 1886**, e faleceu
+em **1959**.  
 
-Ele foi umÂ **advogado, professor, escritor e naturista**, sendo reconhecido como
-um dosÂ **pioneiros da medicina natural no Chile**.
+Ele foi um **advogado, professor, escritor e naturista**, sendo reconhecido como
+um dos **pioneiros da medicina natural no Chile**.
 
-Sua maior contribuiÃ§Ã£o foiÂ **a defesa dos mÃ©todos naturais de cura**,
-acreditando que o corpo possui umÂ **poder inato de se regenerar**Â quando estÃ¡ em
-equilÃ­brio com a natureza.
+Sua maior contribuição foi **a defesa dos métodos naturais de cura**,
+acreditando que o corpo possui um **poder inato de se regenerar** quando está em
+equilíbrio com a natureza.
 
-AlÃ©m de seus estudos e publicaÃ§Ãµes, ele fundou aÂ **Sociedade Naturista do
-Chile**, consolidando suas ideias e influenciando geraÃ§Ãµes de praticantes
-daÂ **medicina alternativa e saÃºde holÃ­stica**.Ele Ã© mais conhecido por seus
-escritos e pela fundaÃ§Ã£o da Sociedade Naturista do Chile.Â Â 
+Além de seus estudos e publicações, ele fundou a **Sociedade Naturista do
+Chile**, consolidando suas ideias e influenciando gerações de praticantes
+da **medicina alternativa e saúde holística**.Ele é mais conhecido por seus
+escritos e pela fundação da Sociedade Naturista do Chile.  
 
-Lezaeta AcharÃ¡n desenvolveu a Medicina Ortomolecular, que enfatiza a importÃ¢ncia
-da nutriÃ§Ã£o e dos nutrientes na prevenÃ§Ã£o e tratamento de doenÃ§as.
+Lezaeta Acharán desenvolveu a Medicina Ortomolecular, que enfatiza a importância
+da nutrição e dos nutrientes na prevenção e tratamento de doenças.
 
-Lezaeta AcharÃ¡n deixou um legado significativo na Ã¡rea da medicina natural,
+Lezaeta Acharán deixou um legado significativo na área da medicina natural,
 influenciando muitos praticantes e continuando a ser lembrado por suas
-contribuiÃ§Ãµes Ã  abordagem holÃ­stica da saÃºde.
+contribuições à abordagem holística da saúde.
 
-Â Suas ideias e mÃ©todos ainda sÃ£o estudados e aplicados por profissionais da
-saÃºde natural e medicina alternativa eÂ solidificaram seu legado.Â Â 
+ Suas ideias e métodos ainda são estudados e aplicados por profissionais da
+saúde natural e medicina alternativa e solidificaram seu legado.  
 
-Seus ensinamentos continuam a inspirar profissionais da saÃºde natural e a moldar
-abordagens holÃ­sticas para o bem-estar.
+Seus ensinamentos continuam a inspirar profissionais da saúde natural e a moldar
+abordagens holísticas para o bem-estar.
 
 [
 
-Monumento em homenagem ao professor de saÃºde Manuel Lezaeta AcharÃ¡n
+Monumento em homenagem ao professor de saúde Manuel Lezaeta Acharán
 
 ## Como Lezaeta conheceu a medicina natural?
 
-Em 1899, Manuel Lezaeta ingressou na Faculdade de Medicina da Universidade do Chile, mas sua saÃºde debilitada devido a sÃ­filis e gonorreia o levou a interromper os estudos.
+Em 1899, Manuel Lezaeta ingressou na Faculdade de Medicina da Universidade do Chile, mas sua saúde debilitada devido a sífilis e gonorreia o levou a interromper os estudos.
 
-ApÃ³s tratamentos infrutÃ­feros, conheceu o [padre Tadeo de Wiesent](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-e-o-padre-tadeu-de-wiesent.html), um padre famoso por ser um grande especialista em tratamentos naturais, acabou adotando a hidroterapia e dietoterapia de [Sebastian Kneipp](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-foi-o-padre-sebastian-kneipp.html).
+Após tratamentos infrutíferos, conheceu o [padre Tadeo de Wiesent](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-e-o-padre-tadeu-de-wiesent.html), um padre famoso por ser um grande especialista em tratamentos naturais, acabou adotando a hidroterapia e dietoterapia de [Sebastian Kneipp](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-foi-o-padre-sebastian-kneipp.html).
 
-Surpreendido pela recuperaÃ§Ã£o, abandonou a medicina convencional, dedicando-se Ã  medicina natural.
+Surpreendido pela recuperação, abandonou a medicina convencional, dedicando-se à medicina natural.
 
-Sem retornar Ã  faculdade de medicina, estudou direito e desenvolveu sua doutrina tÃ©rmica da saÃºde.
+Sem retornar à faculdade de medicina, estudou direito e desenvolveu sua doutrina térmica da saúde.
 
-AlÃ©m de suas atividades acadÃªmicas, viajou para difundir sua abordagem pelo Chile e outros paÃ­ses, deixando um legado duradouro.
+Além de suas atividades acadêmicas, viajou para difundir sua abordagem pelo Chile e outros países, deixando um legado duradouro.
 
-A medicina natural proposta por Manuel Lezaeta AcharÃ¡n e continuada por seu filho, [Rafael Lezaeta PÃ©rez-Cotapos](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-e-rafael-lezaeta-perez-cotapos.html), Ã© influenciada pelos ensinamentos do [Padre Tadeo de Wiesent](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-e-o-padre-tadeu-de-wiesent.html), que teve contato com prÃ¡ticas da medicina popular chilena, especialmente as tradicionais dos Mapuche.
+A medicina natural proposta por Manuel Lezaeta Acharán e continuada por seu filho, [Rafael Lezaeta Pérez-Cotapos](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-e-rafael-lezaeta-perez-cotapos.html), é influenciada pelos ensinamentos do [Padre Tadeo de Wiesent](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-e-o-padre-tadeu-de-wiesent.html), que teve contato com práticas da medicina popular chilena, especialmente as tradicionais dos Mapuche.
 
-## O que Ã© a doutrina tÃ©rmica de Lezaeta AcharÃ¡n?
+## O que é a doutrina térmica de Lezaeta Acharán?
 
-A "doutrina tÃ©rmica" destaca a natureza como o melhor mÃ©dico, enfocando na melhoria da saÃºde em vez de combater doenÃ§as.
+A "doutrina térmica" destaca a natureza como o melhor médico, enfocando na melhoria da saúde em vez de combater doenças.
 
-Essa abordagem preconiza a harmonia do ser humano com os ciclos naturais e a restauraÃ§Ã£o do equilÃ­brio tÃ©rmico corporal, mantendo uma temperatura supostamente normal.
+Essa abordagem preconiza a harmonia do ser humano com os ciclos naturais e a restauração do equilíbrio térmico corporal, mantendo uma temperatura supostamente normal.
 
-Lezaeta enfatiza uma alimentaÃ§Ã£o saudÃ¡vel, boa digestÃ£o, respiraÃ§Ã£o normal e desintoxicaÃ§Ã£o pela pele. O equilÃ­brio Ã© entendido como integral, abrangendo saÃºde fÃ­sica e harmonia emocional.
+Lezaeta enfatiza uma alimentação saudável, boa digestão, respiração normal e desintoxicação pela pele. O equilíbrio é entendido como integral, abrangendo saúde física e harmonia emocional.
 
-Suas orientaÃ§Ãµes terapeuticas destacam prÃ¡ticas como respirar ar puro, consumir produtos naturais e manter sobriedade constante.
+Suas orientações terapeuticas destacam práticas como respirar ar puro, consumir produtos naturais e manter sobriedade constante.
 
-# **A Doutrina TÃ©rmica da SaÃºde â€“ O Que Isso Significa?**
+# **A Doutrina Térmica da Saúde – O Que Isso Significa?**
 
-AÂ **Doutrina TÃ©rmica da SaÃºde**, criada porÂ **Lezaeta AcharÃ¡n**, Ã© baseada na
-ideia de queÂ **a natureza Ã© o melhor mÃ©dico**Â e que o foco da saÃºde deve estar
-naÂ **prevenÃ§Ã£o e no equilÃ­brio tÃ©rmico do corpo**, em vez de apenas tratar
-doenÃ§as.
+A **Doutrina Térmica da Saúde**, criada por **Lezaeta Acharán**, é baseada na
+ideia de que **a natureza é o melhor médico** e que o foco da saúde deve estar
+na **prevenção e no equilíbrio térmico do corpo**, em vez de apenas tratar
+doenças.
 
-ðŸŒ±Â **Os princÃ­pios dessa doutrina incluem:**  
-âœ…Â **AlimentaÃ§Ã£o saudÃ¡vel e natural**Â para manter o corpo bem nutrido.  
-âœ…Â **Melhora da digestÃ£o**Â para evitar acÃºmulo de toxinas no organismo.  
-âœ…Â **RespiraÃ§Ã£o correta**Â para oxigenar as cÃ©lulas e fortalecer a imunidade.  
-âœ…Â **DesintoxicaÃ§Ã£o pela pele**, estimulando a eliminaÃ§Ã£o de impurezas.
+🌱 **Os princípios dessa doutrina incluem:**  
+✅ **Alimentação saudável e natural** para manter o corpo bem nutrido.  
+✅ **Melhora da digestão** para evitar acúmulo de toxinas no organismo.  
+✅ **Respiração correta** para oxigenar as células e fortalecer a imunidade.  
+✅ **Desintoxicação pela pele**, estimulando a eliminação de impurezas.
 
-Para Lezaeta,Â **a saÃºde integral nÃ£o depende apenas do corpo fÃ­sico**, mas
-tambÃ©m daÂ **harmonia emocional e do equilÃ­brio energÃ©tico**.
+Para Lezaeta, **a saúde integral não depende apenas do corpo físico**, mas
+também da **harmonia emocional e do equilíbrio energético**.
 
 [
 
 # Medicina Natural Ao Alcance De Todos
 
-# **ðŸ‘ï¸ A Iridologia na Medicina de Lezaeta**
+# **👁️ A Iridologia na Medicina de Lezaeta**
 
-AlÃ©m de sua doutrina tÃ©rmica, Lezaeta tambÃ©m foi um dos grandes divulgadores da
-**Iridologia**, um mÃ©todo que analisa a Ã­ris para identificar **tendÃªncias de
-saÃºde e desequilÃ­brios no organismo**.
+Além de sua doutrina térmica, Lezaeta também foi um dos grandes divulgadores da
+**Iridologia**, um método que analisa a íris para identificar **tendências de
+saúde e desequilíbrios no organismo**.
 
-Ele acreditava que, atravÃ©s da observaÃ§Ã£o da Ã­ris, era possÃ­vel detectar
-**fragilidades orgÃ¢nicas e desequilÃ­brios metabÃ³licos**, permitindo que a pessoa
-fizesse ajustes no seu estilo de vida antes que doenÃ§as se manifestassem.
+Ele acreditava que, através da observação da íris, era possível detectar
+**fragilidades orgânicas e desequilíbrios metabólicos**, permitindo que a pessoa
+fizesse ajustes no seu estilo de vida antes que doenças se manifestassem.
 
-ðŸ’¡ **A Iridologia, combinada com a Doutrina TÃ©rmica da SaÃºde, tornou-se um dos
-pilares do seu mÃ©todo de avaliaÃ§Ã£o e tratamento.**
+💡 **A Iridologia, combinada com a Doutrina Térmica da Saúde, tornou-se um dos
+pilares do seu método de avaliação e tratamento.**
 
 ---
 
-## **ðŸ›ï¸ InstituiÃ§Ãµes Criadas por Manuel Lezaeta**
+## **🏛️ Instituições Criadas por Manuel Lezaeta**
 
-Para expandir sua visÃ£o sobre saÃºde natural, **Lezaeta fundou diversas
-instituiÃ§Ãµes**, promovendo a prÃ¡tica da medicina naturista e ajudando as pessoas
-a adotarem um estilo de vida mais saudÃ¡vel.
+Para expandir sua visão sobre saúde natural, **Lezaeta fundou diversas
+instituições**, promovendo a prática da medicina naturista e ajudando as pessoas
+a adotarem um estilo de vida mais saudável.
 
 Entre suas principais iniciativas, destacam-se:  
-âœ”ï¸ **AssociaÃ§Ã£o de Cultivadores da Vida Natural** â€“ Um grupo de estudos e
+✔️ **Associação de Cultivadores da Vida Natural** – Um grupo de estudos e
 pesquisas sobre medicina natural.  
-âœ”ï¸ **Hogar de Vida Natural** â€“ Um hospital especializado em terapias naturais e
+✔️ **Hogar de Vida Natural** – Um hospital especializado em terapias naturais e
 tratamentos alternativos.  
-âœ”ï¸ **Cooperativa de ServiÃ§os Naturais Villa de Vida** â€“ Criada para oferecer
-suporte Ã queles que buscavam um estilo de vida mais equilibrado.
+✔️ **Cooperativa de Serviços Naturais Villa de Vida** – Criada para oferecer
+suporte àqueles que buscavam um estilo de vida mais equilibrado.
 
-No entanto, com o tempo, algumas dessas instituiÃ§Ãµes se distanciaram da
+No entanto, com o tempo, algumas dessas instituições se distanciaram da
 filosofia original de Lezaeta e tornaram-se mais comerciais, perdendo um pouco
-do espÃ­rito inicial do naturismo tradicional.
+do espírito inicial do naturismo tradicional.
 
 ---
 
-## **ðŸŒŸ ConclusÃ£o â€“ O Legado de Manuel Lezaeta AcharÃ¡n**
+## **🌟 Conclusão – O Legado de Manuel Lezaeta Acharán**
 
-ðŸ“Œ **Lezaeta revolucionou a medicina natural**, criando conceitos que ainda hoje
-influenciam a **naturopatia, iridologia e terapias holÃ­sticas**.  
-ðŸ“Œ **Sua Doutrina TÃ©rmica da SaÃºde** mostrou a importÃ¢ncia da harmonia do corpo
+📌 **Lezaeta revolucionou a medicina natural**, criando conceitos que ainda hoje
+influenciam a **naturopatia, iridologia e terapias holísticas**.  
+📌 **Sua Doutrina Térmica da Saúde** mostrou a importância da harmonia do corpo
 com a natureza.  
-ðŸ“Œ **Seus ensinamentos continuam vivos** em muitos profissionais da saÃºde
-alternativa que seguem seus princÃ­pios atÃ© hoje.
+📌 **Seus ensinamentos continuam vivos** em muitos profissionais da saúde
+alternativa que seguem seus princípios até hoje.
 
-Se vocÃª se interessa por **medicina natural, iridologia e autocuidado**,
-aprender sobre **Lezaeta AcharÃ¡n** pode ser um grande passo para aprofundar seus
+Se você se interessa por **medicina natural, iridologia e autocuidado**,
+aprender sobre **Lezaeta Acharán** pode ser um grande passo para aprofundar seus
 conhecimentos e aplicar suas ideias no dia a dia!

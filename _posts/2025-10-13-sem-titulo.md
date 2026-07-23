@@ -4,39 +4,39 @@ title: "Sem Titulo"
 date: 2025-10-13T07:20:00.003Z
 tags: []
 categories: ["bem-estar"]
-description: "Dr. Jagdeep Singh e a InstitucionalizaÃ§Ã£o da Iridologia na Ãndia"
+description: "Dr. Jagdeep Singh e a Institucionalização da Iridologia na Índia"
 image: "/assets/img/posts/image_-2080845791872036453.jpg"
 ---
 
-#### Dr. Jagdeep Singh e a InstitucionalizaÃ§Ã£o da Iridologia na Ãndia
+#### Dr. Jagdeep Singh e a Institucionalização da Iridologia na Índia
 
   
 
 
-A validaÃ§Ã£o da Iridologia em novos contextos Ã© exemplificada de forma
+A validação da Iridologia em novos contextos é exemplificada de forma
 contundente pela Electrohomoeopathic Research and Development Organization
-(ERDO) na Ãndia, fundada em 2009 pelo Dr. Jagdeep Singh. Com o objetivo de
-padronizar a Electro Homeopatia e outras prÃ¡ticas naturais, a ERDO reconheceu a
-Iridologia como uma ferramenta diagnÃ³stica essencial.
+(ERDO) na Índia, fundada em 2009 pelo Dr. Jagdeep Singh. Com o objetivo de
+padronizar a Electro Homeopatia e outras práticas naturais, a ERDO reconheceu a
+Iridologia como uma ferramenta diagnóstica essencial.
 
   
 
-Um marco em sua trajetÃ³ria foi o convite ao renomado iridologista britÃ¢nico John
+Um marco em sua trajetória foi o convite ao renomado iridologista britânico John
 Andrews em 2011 para ministrar treinamentos intensivos a profissionais indianos.
-Essa iniciativa integrou metodologias clÃ­nicas avanÃ§adas da Iridologia ocidental
-ao sistema de saÃºde complementar indiano, transformando-a em uma ferramenta
-diagnÃ³stica fundamental. O sucesso dessa integraÃ§Ã£o e da busca por rigor
-cientÃ­fico culminou no reconhecimento oficial da ERDO pelo MinistÃ©rio do DHR do
-Governo da Ãndia em 2017, consolidando sua legitimidade como instituiÃ§Ã£o
-educacional credenciada. A organizaÃ§Ã£o estabeleceu um modelo de como uma prÃ¡tica
+Essa iniciativa integrou metodologias clínicas avançadas da Iridologia ocidental
+ao sistema de saúde complementar indiano, transformando-a em uma ferramenta
+diagnóstica fundamental. O sucesso dessa integração e da busca por rigor
+científico culminou no reconhecimento oficial da ERDO pelo Ministério do DHR do
+Governo da Índia em 2017, consolidando sua legitimidade como instituição
+educacional credenciada. A organização estabeleceu um modelo de como uma prática
 complementar pode ser integrada, padronizada e validada dentro de um sistema de
-saÃºde nacional, construindo pontes entre culturas mÃ©dicas e promovendo a
-Iridologia em escala global [â¸Â¹],[â¸Â²].[
+saúde nacional, construindo pontes entre culturas médicas e promovendo a
+Iridologia em escala global [⁸¹],[⁸²].[
 
-### **eferÃªncias BibliogrÃ¡ficas (Adicionadas):**
+### **eferências Bibliográficas (Adicionadas):**
 
-[81] ERDO INDIA. Sobre NÃ³s. DisponÃ­vel em: <https://www.erdoindia.com/> . Acesso
+[81] ERDO INDIA. Sobre Nós. Disponível em: <https://www.erdoindia.com/> . Acesso
 em: 15 out. 2025.
 
-[82] MEHLMAUER, Leonard; SARMIENTO, Nenita. Grand Medicine Eyology. DisponÃ­vel
+[82] MEHLMAUER, Leonard; SARMIENTO, Nenita. Grand Medicine Eyology. Disponível
 em: <https://eyology.com/> . Acesso em: 15 out.

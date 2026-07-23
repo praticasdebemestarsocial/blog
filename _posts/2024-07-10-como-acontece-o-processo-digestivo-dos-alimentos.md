@@ -14,37 +14,37 @@ image: "https://i.ibb.co/0yY0sK47/8f4129e92d15.png"
 
 ## Como acontece o processo digestivo dos alimentos?
 
-OlÃ¡ pessoal! Tudo bem? Sou Silviane SilvÃ©rio, sou naturologa e biomÃ©dica e vou
-fazer uma sÃ©rie de videos para explicar o processo digestivo. vamos entender
-juntos essa mÃ¡gica fascinante chamada digestÃ£o. A digestÃ£o Ã© o processo que
-transforma os alimentos que comemos em energia e nutrientes para as cÃ©lulas do
+Olá pessoal! Tudo bem? Sou Silviane Silvério, sou naturologa e biomédica e vou
+fazer uma série de videos para explicar o processo digestivo. vamos entender
+juntos essa mágica fascinante chamada digestão. A digestão é o processo que
+transforma os alimentos que comemos em energia e nutrientes para as células do
 nosso corpo - quase um poder de alquimia mesmo!
 
-Tudo comeÃ§a na boca, onde a mastigaÃ§Ã£o corta os alimentos em partes menores e a
-saliva inicia a digestÃ£o do amido. Saindo da boca chega ao estÃ´mago, essa panela
-biolÃ³gica, onde os alimentos sÃ£o misturados a Ã¡cidos e enzimas digestivas para
-quebrar proteÃ­nas e outras molÃ©culas grandes.
+Tudo começa na boca, onde a mastigação corta os alimentos em partes menores e a
+saliva inicia a digestão do amido. Saindo da boca chega ao estômago, essa panela
+biológica, onde os alimentos são misturados a ácidos e enzimas digestivas para
+quebrar proteínas e outras moléculas grandes.
 
-Depois nosso amigo pÃ¢ncreas entra em cena, soltando sucos repletos de enzimas
-especializadas como a lipase, que mastiga as gorduras, e a lactase, responsÃ¡vel
-por quebrar a lactose do leite. Nesse caso vocÃª certamente queria ser lactase
-nÃ©?!
+Depois nosso amigo pâncreas entra em cena, soltando sucos repletos de enzimas
+especializadas como a lipase, que mastiga as gorduras, e a lactase, responsável
+por quebrar a lactose do leite. Nesse caso você certamente queria ser lactase
+né?!
 
-Ainda temos a tripsina e outras peptidases que desmontam as proteÃ­nas inteiras
-em pedacinhos menores. A mÃ¡gica da digestÃ£o!
+Ainda temos a tripsina e outras peptidases que desmontam as proteínas inteiras
+em pedacinhos menores. A mágica da digestão!
 
-AlÃ©m de tudo isso tambÃ©m temos as super enzimas produzidas pelas cÃ©lulas
-saudÃ¡veis do intestino delgado, absorvendo os nutrientes para a corrente
-sanguÃ­nea e enviando ao nosso organismo inteiro!
+Além de tudo isso também temos as super enzimas produzidas pelas células
+saudáveis do intestino delgado, absorvendo os nutrientes para a corrente
+sanguínea e enviando ao nosso organismo inteiro!
 
-E depois que parte Ãºtil foi absorvida, no grand finale as bactÃ©rias do intestino
+E depois que parte útil foi absorvida, no grand finale as bactérias do intestino
 grosso quebram os compostos que sobraram, produzindo vitaminas do complexo B e
-outras substÃ¢ncias muito Ãºteis pra gente. NÃ£o Ã© fascinante e maravilhoso esse
+outras substâncias muito úteis pra gente. Não é fascinante e maravilhoso esse
 processo?!"
 
-Se vocÃª quiser receber no seu email um ebook com 3 receitas de sucos para ajudar
-o seu processo digestivo, tem um link aqui na descriÃ§Ã£o onde vocÃª pode acessar a
-postagem do blog e solicitar o seu ebook. Um forte abraÃ§o e atÃ© o prÃ³ximo vÃ­deo.
+Se você quiser receber no seu email um ebook com 3 receitas de sucos para ajudar
+o seu processo digestivo, tem um link aqui na descrição onde você pode acessar a
+postagem do blog e solicitar o seu ebook. Um forte abraço e até o próximo vídeo.
 
-[ðŸŽ¥ [VÃ­deo
+[🎥 [Vídeo
 incorporado](https://www.youtube.com/embed/6ma3xjHOkl0)](https://www.youtube.com/embed/6ma3xjHOkl0)

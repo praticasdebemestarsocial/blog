@@ -10,57 +10,57 @@ image: "https://i.ibb.co/4g8gpfCH/212cdf6ef0ca.png"
 
 
 
-## **College of IRIS: Escola de Iridologia no HemisfÃ©rio Sul**
+## **College of IRIS: Escola de Iridologia no Hemisfério Sul**
 
 [Toni
 Miller](https://tecnologiasdoautoconhecimento.blogspot.com/2025/02/quem-e-toni-miller-e-uma-renomada.html)
-fundou a **College of IRIS**, a Ãºnica escola especializada exclusivamente no
-ensino de **iridologia** no hemisfÃ©rio sul.
+fundou a **College of IRIS**, a única escola especializada exclusivamente no
+ensino de **iridologia** no hemisfério sul.
 
-Sua instituiÃ§Ã£o oferece um programa completo, permitindo que os alunos adquiram
-confianÃ§a e compreensÃ£o profunda da Ã¡rea.
+Sua instituição oferece um programa completo, permitindo que os alunos adquiram
+confiança e compreensão profunda da área.
 
 ### **Destaques da Carreira de Toni Miller**
 
-ðŸ† **Instrutora de Iridologia do Ano do IIPA (2014)**  
-ðŸ† **Iridologista do Ano (2014) â€“ Ãºnica pessoa a ganhar ambos os prÃªmios no mesmo
+🏆 **Instrutora de Iridologia do Ano do IIPA (2014)**  
+🏆 **Iridologista do Ano (2014) – única pessoa a ganhar ambos os prêmios no mesmo
 ano**  
-ðŸ… **Iridology Fellow (2017)**  
-ðŸ“š **Autora do premiado livro â€œIntegrated Iridologyâ€**  
-ðŸŽ“ **Professora e pesquisadora com mais de 40 anos de experiÃªncia**
+🏅 **Iridology Fellow (2017)**  
+📚 **Autora do premiado livro “Integrated Iridology”**  
+🎓 **Professora e pesquisadora com mais de 40 anos de experiência**
 
-Atualmente, Toni Miller oferece cursos online de Iridologia IntegradaÂ®,
-permitindo que alunos do mundo todo estudem no seu prÃ³prio ritmo.
+Atualmente, Toni Miller oferece cursos online de Iridologia Integrada®,
+permitindo que alunos do mundo todo estudem no seu próprio ritmo.
 
-Seu trabalho Ã© amplamente reconhecido por contribuir significativamente para o
-avanÃ§o da iridologia.
+Seu trabalho é amplamente reconhecido por contribuir significativamente para o
+avanço da iridologia.
 
-### **Toni Miller e o MÃ©todo de Iridologia IntegradaÂ®**
+### **Toni Miller e o Método de Iridologia Integrada®**
 
-Toni Miller Ã© uma **naturopata, herbalista mÃ©dica e mestre em Iridologia
-Integrada**, sendo uma das profissionais mais renomadas na Ã¡rea da iridologia
-mundialmente. Sua abordagem inovadora combina diferentes escolas e tradiÃ§Ãµes da
-iridologia, tornando seu mÃ©todo **abrangente e completo**.
+Toni Miller é uma **naturopata, herbalista médica e mestre em Iridologia
+Integrada**, sendo uma das profissionais mais renomadas na área da iridologia
+mundialmente. Sua abordagem inovadora combina diferentes escolas e tradições da
+iridologia, tornando seu método **abrangente e completo**.
 
-### **O que Ã© a Iridologia IntegradaÂ®?**
+### **O que é a Iridologia Integrada®?**
 
-A **Iridologia IntegradaÂ®** desenvolvida por Toni Miller Ã© uma metodologia que
-unifica os principais sistemas iridolÃ³gicos do mundo:  
-âœ” **Modelo Americano**  
-âœ” **Modelo Australiano**  
-âœ” **Modelo Europeu**
+A **Iridologia Integrada®** desenvolvida por Toni Miller é uma metodologia que
+unifica os principais sistemas iridológicos do mundo:  
+✔ **Modelo Americano**  
+✔ **Modelo Australiano**  
+✔ **Modelo Europeu**
 
-Esse sistema Ã© baseado nos estudos de grandes mestres da iridologia e Ã© validado
-por **mais de 37 anos de prÃ¡tica clÃ­nica** contÃ­nua de Toni Miller. O mÃ©todo
-considera nÃ£o apenas os sinais fÃ­sicos da Ã­ris, mas tambÃ©m os **aspectos mentais
-e emocionais** dos indivÃ­duos.
+Esse sistema é baseado nos estudos de grandes mestres da iridologia e é validado
+por **mais de 37 anos de prática clínica** contínua de Toni Miller. O método
+considera não apenas os sinais físicos da íris, mas também os **aspectos mentais
+e emocionais** dos indivíduos.
 
-### ReferÃªncias BibliogrÃ¡ficas:
+### Referências Bibliográficas:
 
-IRIDOLOGY, Integrated.Â **O que Ã© Iridologia Integrada?**Â s/d. DisponÃ­vel em:
+IRIDOLOGY, Integrated. **O que é Iridologia Integrada?** s/d. Disponível em:
 https://www.iridologyonline.com/. Acesso em: 15 fev. 2025.
 
-ASSOCIATION, International Iridology Practitioners.Â **TONI MILLER, ND, DHM, MII,
-CCII, F.Ir., IIPA Board Member**. s/d. DisponÃ­vel em:
+ASSOCIATION, International Iridology Practitioners. **TONI MILLER, ND, DHM, MII,
+CCII, F.Ir., IIPA Board Member**. s/d. Disponível em:
 https://www.iridologyassn.org/certified-iridologist/2017/9/3/toni-miller-nd-dhm-int-irid.
 Acesso em: 15 fev. 2025.

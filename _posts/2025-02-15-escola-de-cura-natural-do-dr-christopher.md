@@ -12,105 +12,105 @@ image: "https://i.ibb.co/rGBbFx60/ccf3e5d10712.png"
 
 ## Escola de Cura Natural do Dr. Christopher
 
-## John Raymond Christopher (1909â€“1983)
+## John Raymond Christopher (1909–1983)
 
-John Raymond Christopher (25 de novembro de 1909 â€“ 6 de fevereiro de 1983) foi
+John Raymond Christopher (25 de novembro de 1909 – 6 de fevereiro de 1983) foi
 um renomado herbalista, naturopata e educador americano.
 
-Ele Ã© amplamente reconhecido por suas contribuiÃ§Ãµes significativas para o campo
-da fitoterapia, incluindo o desenvolvimento de mais de 50 fÃ³rmulas de ervas
-amplamente utilizadas e a fundaÃ§Ã£o da Escola de Cura Natural em Springville,
+Ele é amplamente reconhecido por suas contribuições significativas para o campo
+da fitoterapia, incluindo o desenvolvimento de mais de 50 fórmulas de ervas
+amplamente utilizadas e a fundação da Escola de Cura Natural em Springville,
 Utah.
 
-### Vida pregressa e educaÃ§Ã£o
+### Vida pregressa e educação
 
 Christopher nasceu de pais europeus e passou seus primeiros anos em um orfanato
 em Salt Lake City, Utah.
 
 Mais tarde, ele foi adotado por Leander e Melissa Christopher.
 
-Desde cedo, Christopher enfrentou sÃ©rios desafios de saÃºde, incluindo artrite
-reumatoide avanÃ§ada, endurecimento das artÃ©rias e um caso quase fatal de crupe.
+Desde cedo, Christopher enfrentou sérios desafios de saúde, incluindo artrite
+reumatoide avançada, endurecimento das artérias e um caso quase fatal de crupe.
 
-Apesar dessas dificuldades, ele demonstrou um forte interesse em remÃ©dios
-naturais e um desejo de se tornar um mÃ©dico que curaria as pessoas usando ervas.
+Apesar dessas dificuldades, ele demonstrou um forte interesse em remédios
+naturais e um desejo de se tornar um médico que curaria as pessoas usando ervas.
 
-Em 1945, Christopher serviu no exÃ©rcito em Fort Lewis, onde teve a oportunidade
+Em 1945, Christopher serviu no exército em Fort Lewis, onde teve a oportunidade
 de experimentar ervas.
 
-ApÃ³s seu serviÃ§o militar, ele continuou sua educaÃ§Ã£o no Dominion Herbal College
+Após seu serviço militar, ele continuou sua educação no Dominion Herbal College
 em Vancouver, onde obteve um diploma em Naturopatia.
 
-Ele tambÃ©m estudou no Iowa's Institute of Drugless Therapy e no Los Angeles
+Ele também estudou no Iowa's Institute of Drugless Therapy e no Los Angeles
 Herbal Institute.
 
 ### Carreira
 
-Christopher praticou como mÃ©dico naturopata em vÃ¡rios locais, incluindo Olympia,
+Christopher praticou como médico naturopata em vários locais, incluindo Olympia,
 Washington, Salt Lake City, Utah e Evanston, Wyoming.
 
-Em 1953, ele fundou a **Escola de Cura Natural**, onde comeÃ§ou a compartilhar
-seu conhecimento e experiÃªncia em fitoterapia com outros.
+Em 1953, ele fundou a **Escola de Cura Natural**, onde começou a compartilhar
+seu conhecimento e experiência em fitoterapia com outros.
 
-Em 1979, ele comeÃ§ou a publicar um boletim informativo sobre o uso de ervas para
-cura, que rapidamente ganhou popularidade entre os entusiastas da saÃºde natural.
+Em 1979, ele começou a publicar um boletim informativo sobre o uso de ervas para
+cura, que rapidamente ganhou popularidade entre os entusiastas da saúde natural.
 
-Ao longo de sua carreira, Christopher desenvolveu mais de 50 fÃ³rmulas de ervas,
-que foram amplamente utilizadas para uma variedade de fins de saÃºde. Algumas de
-suas fÃ³rmulas mais conhecidas incluem:
+Ao longo de sua carreira, Christopher desenvolveu mais de 50 fórmulas de ervas,
+que foram amplamente utilizadas para uma variedade de fins de saúde. Algumas de
+suas fórmulas mais conhecidas incluem:
 
 * Tecido e osso completos
-* FÃ³rmula do intestino inferior
-* FÃ³rmula da corrente sanguÃ­nea
-* FÃ³rmula reprodutiva feminina
-* FÃ³rmula imunolÃ³gica de super alho
-* PÃ³ de dentes e gengivas de ervas
-* MudanÃ§a hormonal
+* Fórmula do intestino inferior
+* Fórmula da corrente sanguínea
+* Fórmula reprodutiva feminina
+* Fórmula imunológica de super alho
+* Pó de dentes e gengivas de ervas
+* Mudança hormonal
 
 ### 
 
 ### Legado
 
 O trabalho de Christopher teve um impacto duradouro no campo da fitoterapia.
-Suas fÃ³rmulas e ensinamentos continuam a ser usados â€‹â€‹por herbalistas e
-indivÃ­duos que buscam abordagens naturais para a saÃºde.
+Suas fórmulas e ensinamentos continuam a ser usados ​​por herbalistas e
+indivíduos que buscam abordagens naturais para a saúde.
 
 A Escola de Cura Natural, agora dirigida por seu filho **David Christopher,**
 continua a educar e treinar herbalistas de todo o mundo.
 
-VÃ¡rios herbalistas notÃ¡veis â€‹â€‹estudaram com Christopher, incluindo **Michael
+Vários herbalistas notáveis ​​estudaram com Christopher, incluindo **Michael
 Tierra** e **Peter Jackson-Main.**
 
 ### Livros
 
-Christopher foi um autor prolÃ­fico, escrevendo vÃ¡rios livros sobre fitoterapia e
-saÃºde natural, incluindo:
+Christopher foi um autor prolífico, escrevendo vários livros sobre fitoterapia e
+saúde natural, incluindo:
 
 * Dieta de limpeza de 3 dias e sem muco (ISBN 1-879436-04-3)
 * Tratamento de folha fria (ISBN 1-879436-07-8)
-* Curando os IncurÃ¡veis (ISBN 1-879436-08-6)
-* Guia do Dr. Christopher para a saÃºde do cÃ³lon (ISBN 1-879436-20-5)
-* Every Woman's Herbal (concluÃ­do por sua famÃ­lia apÃ³s sua morte) (ISBN 1-879436-10-8)
-* Herb Syllabus (concluÃ­do por sua famÃ­lia apÃ³s sua morte) (ISBN 1-879436-05-1)
-* Cuidados de saÃºde domiciliares Ã  base de ervas (ISBN 1-879436-03-5)
-* O que Ã© a Palavra de Sabedoria (ISBN 1-879436-05-1)
+* Curando os Incuráveis (ISBN 1-879436-08-6)
+* Guia do Dr. Christopher para a saúde do cólon (ISBN 1-879436-20-5)
+* Every Woman's Herbal (concluído por sua família após sua morte) (ISBN 1-879436-10-8)
+* Herb Syllabus (concluído por sua família após sua morte) (ISBN 1-879436-05-1)
+* Cuidados de saúde domiciliares à base de ervas (ISBN 1-879436-03-5)
+* O que é a Palavra de Sabedoria (ISBN 1-879436-05-1)
 * Boletins informativos (encontrados no CD The Complete Writings of Dr. Christopher) (ISBN 1-879436-25-6)
 * Dieta Regenerativa (ISBN 1-879436-00-0)
 * Escola de Cura Natural (ISBN 1-879436-01-9)
 
-Os livros de Christopher foram traduzidos para vÃ¡rios idiomas e continuam a ser
-uma fonte valiosa de informaÃ§Ãµes para aqueles interessados â€‹â€‹em fitoterapia e
-saÃºde natural.
+Os livros de Christopher foram traduzidos para vários idiomas e continuam a ser
+uma fonte valiosa de informações para aqueles interessados ​​em fitoterapia e
+saúde natural.
 
-### ReferÃªncias BibliogrÃ¡ficas:
+### Referências Bibliográficas:
 
-HERBALISTS, Association Of Master.Â **Dr John R Christopher**. s/d. DisponÃ­vel
+HERBALISTS, Association Of Master. **Dr John R Christopher**. s/d. Disponível
 em: <https://theamh.uk/dr-christopher/>. Acesso em: 15 fev. 2025.
 
-WIKIPEDIA.Â **John Christopher (herbalista)**. s/d. DisponÃ­vel em:
+WIKIPEDIA. **John Christopher (herbalista)**. s/d. Disponível em:
 <https://en.wikipedia.org/wiki/John_Christopher_(herbalist)>. Acesso em: 15 fev.
 2025.
 
-CHRISTOPHER, The School Of Natural Healing Founded In 1953 By Dr. John R..Â **Dr.
-Christopher's School of Natural Healing**. s/d. DisponÃ­vel em:
+CHRISTOPHER, The School Of Natural Healing Founded In 1953 By Dr. John R.. **Dr.
+Christopher's School of Natural Healing**. s/d. Disponível em:
 <https://drchristopher.org/index.html>. Acesso em: 15 fev. 2025.

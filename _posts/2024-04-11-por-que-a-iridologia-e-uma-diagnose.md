@@ -1,113 +1,113 @@
 ---
 layout: post
-title: "Por que a Iridologia Ã© uma diagnose?"
+title: "Por que a Iridologia é uma diagnose?"
 date: 2024-04-11T05:18:00.001Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "HÃ¡ diversos fatores que prejudicam a saÃºde, como hÃ¡bitos inadequados, estresse e"
+description: "Há diversos fatores que prejudicam a saúde, como hábitos inadequados, estresse e"
 image: "https://i.ibb.co/W44txmDw/94f8d6934e27.png"
 ---
 
 
 
-HÃ¡ diversos fatores que prejudicam a saÃºde, como hÃ¡bitos inadequados, estresse e
-mÃ¡ alimentaÃ§Ã£o. Descobrir essas influÃªncias demanda autoconsciÃªncia, exames
-mÃ©dicos e, em alguns casos, abordagens holÃ­sticas, como a iridologia, para
-insights sobre desequilÃ­brios fÃ­sicos e emocionais.
+Há diversos fatores que prejudicam a saúde, como hábitos inadequados, estresse e
+má alimentação. Descobrir essas influências demanda autoconsciência, exames
+médicos e, em alguns casos, abordagens holísticas, como a iridologia, para
+insights sobre desequilíbrios físicos e emocionais.
 
-## 1-Â O que prejudica a saÃºde das pessoas e como descobrir?
+## 1- O que prejudica a saúde das pessoas e como descobrir?
 
-AÂ iridologia Ã© uma diagnose porque nos revela o conhecimento do interior
-orgÃ¢nico.
+A iridologia é uma diagnose porque nos revela o conhecimento do interior
+orgânico.
 
-AtravÃ©s da ciÃªncia podemos observar os fatores condicionantes da homeostase
-orgÃ¢nica.
+Através da ciência podemos observar os fatores condicionantes da homeostase
+orgânica.
 
-A homeostasia Ã© um sistema que promove a autorregulaÃ§Ã£o orgÃ¢nica, entÃ£o podemos
-observar atravÃ©s da Ã­ris os fatores que impedem essa auto regulaÃ§Ã£o.
+A homeostasia é um sistema que promove a autorregulação orgânica, então podemos
+observar através da íris os fatores que impedem essa auto regulação.
 
 Veja esses exemplos:
 
-### 1-Â  O ph do sangue e dos fluidos corporais:
+### 1-  O ph do sangue e dos fluidos corporais:
 
-O ph Ã© um indicador de acidez ou alcalinidadeÂ  que se recolham o nosso corpo
-quando acidez e siva o sangue tambÃ©m que serÃ¡ pobre em oxigÃªnio e isso tambÃ©m
-podemos observar no olho humano essa hipÃ³tese geraÃ§Ã£o sanguÃ­nea o ph ideal varia
-entre r 7,35 a 7,45 essa acidez tambÃ©m pode impedir a absorÃ§Ã£o de minerais como
-potÃ¡ssio magnÃ©sio e cÃ¡lcio a reduÃ§Ã£o de oxigÃªnio no sangue pode causar diversas
-disfunÃ§Ãµes no corpo como anemia fraqueza fadiga ou atÃ© confusÃ£o mentalÂ isso
-tambÃ©m podemos observar a eles.
+O ph é um indicador de acidez ou alcalinidade  que se recolham o nosso corpo
+quando acidez e siva o sangue também que será pobre em oxigênio e isso também
+podemos observar no olho humano essa hipótese geração sanguínea o ph ideal varia
+entre r 7,35 a 7,45 essa acidez também pode impedir a absorção de minerais como
+potássio magnésio e cálcio a redução de oxigênio no sangue pode causar diversas
+disfunções no corpo como anemia fraqueza fadiga ou até confusão mental isso
+também podemos observar a eles.
 
-### 2- A fragilidade dos Ã³rgÃ£os:
+### 2- A fragilidade dos órgãos:
 
-Podemos observar a fragilidade dos Ã³rgÃ£os o acÃºmulo de toxinas como por exemplo
-radicais livres ou lipÃ­dios quem impedem a livre circulaÃ§Ã£o dos aÃ­ vemos a
-dinÃ¢micada circulaÃ§Ã£o do sangue no organismo de um modo geral.
+Podemos observar a fragilidade dos órgãos o acúmulo de toxinas como por exemplo
+radicais livres ou lipídios quem impedem a livre circulação dos aí vemos a
+dinâmicada circulação do sangue no organismo de um modo geral.
 
-### 3- A qualidade da circulaÃ§Ã£o sanguÃ­nea:
+### 3- A qualidade da circulação sanguínea:
 
-TambÃ©m podemos observar como estÃ¡ a circulaÃ§Ã£o do sangue em um determinado Ã³rgÃ£o
+Também podemos observar como está a circulação do sangue em um determinado órgão
 no corpo.
 
-### 4- Hipoatividade ou hiperatividade dos Ã³rgÃ£os:
+### 4- Hipoatividade ou hiperatividade dos órgãos:
 
-Â Podemos observar tambÃ©m a hipÃ³tese de hipoatidade ou a hiperatividade de um
-Ã³rgÃ£o.
+ Podemos observar também a hipótese de hipoatidade ou a hiperatividade de um
+órgão.
 
-### 5- A deficiÃªncia de minerais ou enzimas
+### 5- A deficiência de minerais ou enzimas
 
-Â o teste de minerais.
+ o teste de minerais.
 
-### 6- Os nÃ­veis de stress e atÃ© mesmo o emocional do indivÃ­duo.
+### 6- Os níveis de stress e até mesmo o emocional do indivíduo.
 
 [
 
-## 2- A Iridologia diagnostica doenÃ§as?
+## 2- A Iridologia diagnostica doenças?
 
-NÃ£o a Iridologia nÃ£o diagnostica a doenÃ§a.
+Não a Iridologia não diagnostica a doença.
 
 A Iridologia pode descobrir as possiveis causas do que pode estar enfranquecendo
 a pessoa.
 
-Ã‰ importante diagnosticar que doenÃ§a que a pessoa tem.
+É importante diagnosticar que doença que a pessoa tem.
 
-Mas tambÃ©m Ã© muito importante descobrir o porquÃª que ela adoece, pois atravÃ©s
-dessa descoberta podemos fazer uma prevenÃ§Ã£o, eliminando os fatores geradores de
-doenÃ§as e assim recuperar a saÃºde de uma forma integral.
+Mas também é muito importante descobrir o porquê que ela adoece, pois através
+dessa descoberta podemos fazer uma prevenção, eliminando os fatores geradores de
+doenças e assim recuperar a saúde de uma forma integral.
 
 [
 
   
   
 
-## 3- Quais os fundamentos de que os olhos revelam o interior orgÃ¢nico?
+## 3- Quais os fundamentos de que os olhos revelam o interior orgânico?
 
-AtravÃ©s da embriologia, podemos observar que, quando ocorre a fecundaÃ§Ã£o do
-Ã³vulo, forma-se o embriÃ£o.
+Através da embriologia, podemos observar que, quando ocorre a fecundação do
+óvulo, forma-se o embrião.
 
-A partir de divisÃµes celulares e atÃ© a terceira semana de gestaÃ§Ã£o, ocorre um
-fenÃ´meno chamado morfogÃªnese.
+A partir de divisões celulares e até a terceira semana de gestação, ocorre um
+fenômeno chamado morfogênese.
 
-Ocorre a formaÃ§Ã£o de trÃªs folhetos que, a partir desse estÃ¡gio do embriÃ£o, se
-desenvolverÃ¡ a forma do indivÃ­duo, dando origem aos tecidos, Ã³rgÃ£os e sistemas,
+Ocorre a formação de três folhetos que, a partir desse estágio do embrião, se
+desenvolverá a forma do indivíduo, dando origem aos tecidos, órgãos e sistemas,
 inclusive o biotipo humano.
 
-Para a iridologia, Ã© de importÃ¢ncia estudar o tecido chamado ectoderme.
+Para a iridologia, é de importância estudar o tecido chamado ectoderme.
 
-Esse tecido darÃ¡ origem Ã  formaÃ§Ã£o do sistema nervoso central, da retina, da
-cÃ³rnea e da epiderme e todos os seus anexos, pelos, unhas, glÃ¢ndulas sebÃ¡ceas e
-sudorÃ­paras.
+Esse tecido dará origem à formação do sistema nervoso central, da retina, da
+córnea e da epiderme e todos os seus anexos, pelos, unhas, glândulas sebáceas e
+sudoríparas.
 
-Isso quer dizer que a ectoderme, esse tecido mais externo do embriÃ£o, ele darÃ¡ a
-formaÃ§Ã£o de Ã³rgÃ£os que vÃ£o estar diretamente ligados um com o outro.
+Isso quer dizer que a ectoderme, esse tecido mais externo do embrião, ele dará a
+formação de órgãos que vão estar diretamente ligados um com o outro.
 
-TambÃ©m podemos observar, nesse embriÃ£o, um outro tecido chamado endoderme.
+Também podemos observar, nesse embrião, um outro tecido chamado endoderme.
 
-A endoderme darÃ¡ origem ao sistema gastrointestinal, e na Ãris, vemos refletido
-aqui ao redor da pupila, o estÃ´mago e o intestino, o tubo neural que dÃ¡ origem
-ao cÃ©rebro.
+A endoderme dará origem ao sistema gastrointestinal, e na Íris, vemos refletido
+aqui ao redor da pupila, o estômago e o intestino, o tubo neural que dá origem
+ao cérebro.
 
-Vemos refletido aqui na regiÃ£o superior da Ãris.
+Vemos refletido aqui na região superior da Íris.
 
 [)
 
@@ -115,111 +115,111 @@ Vemos refletido aqui na regiÃ£o superior da Ãris.
 
 ## 4- O que fala a fisiologia que embasa a Iridologia?
 
-AtravÃ©s de um estudo mais aprofundado do sistema nervoso, podemos observar que
-esse sistema ele Ã© formado por neurÃ´nios.
+Através de um estudo mais aprofundado do sistema nervoso, podemos observar que
+esse sistema ele é formado por neurônios.
 
-Eles emitem sinais elÃ©tricos quÃ­micos. Os quÃ­micos sÃ£o os neurotransmissores.
+Eles emitem sinais elétricos químicos. Os químicos são os neurotransmissores.
 
-Eles dÃ£o continuidade aos impulsos nervosos atravÃ©s de uma estimulaÃ§Ã£o que cria
-uma reaÃ§Ã£o no Ã³rgÃ£o ou no mÃºsculo. Mas essa comunicaÃ§Ã£o no corpo ela Ã©
-recÃ­proca.
+Eles dão continuidade aos impulsos nervosos através de uma estimulação que cria
+uma reação no órgão ou no músculo. Mas essa comunicação no corpo ela é
+recíproca.
 
-Ela vem do neurÃ´nio que conduz o impulso nervoso para o corpo e todos os Ã³rgÃ£os.
-Mas essa informaÃ§Ã£o ela vem do corpo para a cÃ©lula nervosa.
+Ela vem do neurônio que conduz o impulso nervoso para o corpo e todos os órgãos.
+Mas essa informação ela vem do corpo para a célula nervosa.
 
-Podemos observar atravÃ©s desse esquema que o corpo estÃ¡ todo conectado atravÃ©s
+Podemos observar através desse esquema que o corpo está todo conectado através
 do sistema nervoso.
 
-Â O cÃ©rebro, juntamente com a hipÃ³fise e o hipotÃ¡lamo, que sÃ£o glÃ¢ndulas do
-sistema nervoso, estÃ£o ligadas ao olho, e ao mesmo tempo, estÃ£o conectadas
-tambÃ©m Ã  coluna vertebral, que por sua vez, possui outras glÃ¢ndulas que estÃ£o
-conectadas a todos os Ã³rgÃ£os do corpo.
+ O cérebro, juntamente com a hipófise e o hipotálamo, que são glândulas do
+sistema nervoso, estão ligadas ao olho, e ao mesmo tempo, estão conectadas
+também à coluna vertebral, que por sua vez, possui outras glândulas que estão
+conectadas a todos os órgãos do corpo.
 
-Aqui, nesse outro esquema, podemos observar que o olho, ele estÃ¡ ligado ao
-sistema nervoso atravÃ©s do nervo Ã³tico. Mesmo nesse ponto, temos o quiasma
-Ã³tico, que Ã© o ponto que liga a hipÃ³fise e o hipotÃ¡lamo, as glÃ¢ndulas do sistema
+Aqui, nesse outro esquema, podemos observar que o olho, ele está ligado ao
+sistema nervoso através do nervo ótico. Mesmo nesse ponto, temos o quiasma
+ótico, que é o ponto que liga a hipófise e o hipotálamo, as glândulas do sistema
 nervoso.
 
 [  
 
 ## O que a medicina chinesa fala dessa reflexologia ocular?
 
-Podemos observar, atravÃ©s da acupuntura, que quando Ã© aplicada uma agulha ou uma
-pressÃ£o com os dedos em determinado ponto do organismo, serÃ¡ dado um comando de
-funcionamento para o Ã³rgÃ£o.
+Podemos observar, através da acupuntura, que quando é aplicada uma agulha ou uma
+pressão com os dedos em determinado ponto do organismo, será dado um comando de
+funcionamento para o órgão.
 
-Â Isso porque essa informaÃ§Ã£o ela viaja atravÃ©s do sistema nervoso, e podemos
-observar essa conexÃ£o atravÃ©s da Ãris.
+ Isso porque essa informação ela viaja através do sistema nervoso, e podemos
+observar essa conexão através da Íris.
 
-AtravÃ©s da medicina chinesa, tambÃ©m podemos encontrar evidÃªncias.
+Através da medicina chinesa, também podemos encontrar evidências.
 
 Eles explicam que dentro do nosso organismo existe uma energia chamada xi.
 
-Essa energia circula por todo o corpo atravÃ©s de canais de energia que
+Essa energia circula por todo o corpo através de canais de energia que
 denominamos meridianos.
 
 Esses meridianos conectam todas as partes do corpo, fornecem xi e ainda possuem
-outra funÃ§Ã£o que Ã© relacionar as funÃ§Ãµes fÃ­sicas, mentais e emocionais. Podemos
-ver atravÃ©s dessas figuras que todo o nosso corpo ele estÃ¡ mapeado atravÃ©s de
-pontos que sÃ£o reflexos nos nossos Ã³rgÃ£os.
+outra função que é relacionar as funções físicas, mentais e emocionais. Podemos
+ver através dessas figuras que todo o nosso corpo ele está mapeado através de
+pontos que são reflexos nos nossos órgãos.
 
-TambÃ©m eles estudam e fazem o mapeamento de vÃ¡rios outros locais do nosso corpo,
-como, por exemplo, a lÃ­ngua. Podemos observar vÃ¡rios sinais na lÃ­ngua que nos
-fornecem indicaÃ§Ãµes de como estÃ¡ os Ã³rgÃ£os internos.
+Também eles estudam e fazem o mapeamento de vários outros locais do nosso corpo,
+como, por exemplo, a língua. Podemos observar vários sinais na língua que nos
+fornecem indicações de como está os órgãos internos.
 
-TambÃ©m observamos um mapa na mÃ£o, no pÃ©, no rosto, e ainda existe outro estudo,
-a pulsologia, que atravÃ©s da observaÃ§Ã£o da pulsaÃ§Ã£o do coraÃ§Ã£o no pulso, pode-se
-saber como Ã© que estÃ¡ a atividade dos Ã³rgÃ£os.
+Também observamos um mapa na mão, no pé, no rosto, e ainda existe outro estudo,
+a pulsologia, que através da observação da pulsação do coração no pulso, pode-se
+saber como é que está a atividade dos órgãos.
 
 [
 
   
 
-## Qual aÂ  importÃ¢ncia de se fazer a iridologia?
+## Qual a  importância de se fazer a iridologia?
 
-A iridologia nos possibilita a capacidade de sempre cuidarmos da nossa saÃºde, do
+A iridologia nos possibilita a capacidade de sempre cuidarmos da nossa saúde, do
 nosso bem-estar.
 
-O terapeuta pode fazer um acompanhamento personalizado e constante atravÃ©s da
-iridologia, porque o nosso corpo estÃ¡ sempre em constante mutaÃ§Ã£o.
+O terapeuta pode fazer um acompanhamento personalizado e constante através da
+iridologia, porque o nosso corpo está sempre em constante mutação.
 
-A questÃ£o de saÃºde ela nÃ£o depende sÃ³ de uma questÃ£o alimentar. Ela tambÃ©m
+A questão de saúde ela não depende só de uma questão alimentar. Ela também
 depende de outros fatores.
 
-Depende das mudanÃ§as da estaÃ§Ã£o, do estresse, de fatores ambientais e atÃ© mesmo
-emocionais. E atravÃ©s da iridologia, podemos fazer um tratamento preventivo de
-maneira que a pessoa nÃ£o venha desenvolver doenÃ§as mais graves.
+Depende das mudanças da estação, do estresse, de fatores ambientais e até mesmo
+emocionais. E através da iridologia, podemos fazer um tratamento preventivo de
+maneira que a pessoa não venha desenvolver doenças mais graves.
 
 E como acontece esse tratamento?
 
-Ele Ã© feito Ã  base da eliminaÃ§Ã£o de substÃ¢ncias xenobiÃ³ticas, que sÃ£o
-substÃ¢ncias que interferem no bom funcionamento dos Ã³rgÃ£os.
+Ele é feito à base da eliminação de substâncias xenobióticas, que são
+substâncias que interferem no bom funcionamento dos órgãos.
 
-TambÃ©m podem interferir na circulaÃ§Ã£o livre do sangue, na oxigenaÃ§Ã£o celular, na
-geraÃ§Ã£o de ATP e na formaÃ§Ã£o de radicais livres.
+Também podem interferir na circulação livre do sangue, na oxigenação celular, na
+geração de ATP e na formação de radicais livres.
 
-TambÃ©m podemos, atravÃ©s desse tratamento, fazer uma harmonizaÃ§Ã£o da nossa
-energia orgÃ¢nica, de bloqueios emocionais, das substÃ¢ncias endÃ³genas que sÃ£o
+Também podemos, através desse tratamento, fazer uma harmonização da nossa
+energia orgânica, de bloqueios emocionais, das substâncias endógenas que são
 produzidas no nosso organismo.
 
-E tambÃ©m, atravÃ©s do pensamento positivo, nÃ³s podemos auxiliar as pessoas numa
-mudanÃ§a no estilo de vida, atravÃ©s de mudanÃ§a dos hÃ¡bitos alimentares, fazendo
-suplementaÃ§Ãµes, e tambÃ©m auxiliar na mudanÃ§a dos hÃ¡bitos diÃ¡rios.
+E também, através do pensamento positivo, nós podemos auxiliar as pessoas numa
+mudança no estilo de vida, através de mudança dos hábitos alimentares, fazendo
+suplementações, e também auxiliar na mudança dos hábitos diários.
 
-[ðŸŽ¥ [VÃ­deo
+[🎥 [Vídeo
 incorporado](https://www.youtube.com/embed/BfqLU8zkld8)](https://www.youtube.com/embed/BfqLU8zkld8)
 
-## A iridologia Ã© autoconhecimento?
+## A iridologia é autoconhecimento?
 
-A doenÃ§a nÃ£o aparece do acaso. O corpo dÃ¡ sinais que precisamos entender. E
-atravÃ©s da iridologia, podemos descobrir esses Ã³rgÃ£os mais frÃ¡geis no nosso
-organismo e tambÃ©m o nosso emocional.
+A doença não aparece do acaso. O corpo dá sinais que precisamos entender. E
+através da iridologia, podemos descobrir esses órgãos mais frágeis no nosso
+organismo e também o nosso emocional.
 
-Quando conhecemos o nosso corpo, nossas emoÃ§Ãµes, nossa personalidade,
-conseguimos desenvolver a auto-observaÃ§Ã£o.
+Quando conhecemos o nosso corpo, nossas emoções, nossa personalidade,
+conseguimos desenvolver a auto-observação.
 
-E atravÃ©s dessa auto-observaÃ§Ã£o, nÃ³s podemos ter mais facilidade de conseguir um
-controle sobre a saÃºde, procurar profissionais que possam auxiliar na prevenÃ§Ã£o
-e ter mais sucesso nas nossas escolhas e na qualidade de vida. EntÃ£o, Ã© de
-extrema importÃ¢ncia a iridologia, porque podemos acompanhar como estÃ¡ o nosso
-interior e atravÃ©s disso sempre prevenir o desenvolvimento de vÃ¡rias doenÃ§as.
+E através dessa auto-observação, nós podemos ter mais facilidade de conseguir um
+controle sobre a saúde, procurar profissionais que possam auxiliar na prevenção
+e ter mais sucesso nas nossas escolhas e na qualidade de vida. Então, é de
+extrema importância a iridologia, porque podemos acompanhar como está o nosso
+interior e através disso sempre prevenir o desenvolvimento de várias doenças.

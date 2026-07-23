@@ -1,69 +1,69 @@
 ---
 layout: post
-title: "A oftalmologia utiliza a Ã­ris para fazer alguma avaliaÃ§Ã£o?"
+title: "A oftalmologia utiliza a íris para fazer alguma avaliação?"
 date: 2025-04-12T06:42:00.002Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
-description: "Vamos ver como a oftalmologia utiliza clinicamente a Ã­ris com base cientÃ­fica, em exames e no diagnÃ³stico de doenÃ§as reais."
+description: "Vamos ver como a oftalmologia utiliza clinicamente a íris com base científica, em exames e no diagnóstico de doenças reais."
 image: "/assets/img/posts/A_oftalmologia_utiliza_a_%C3%ADris_para_fazer_alguma_avalia%C3%A7%C3%A3o.png"
 ---
 
 
 
   
-Â Vamos ver como a **oftalmologia utiliza clinicamente a Ã­ris** com base cientÃ­fica, em exames e no diagnÃ³stico de **doenÃ§as reais**.
+ Vamos ver como a **oftalmologia utiliza clinicamente a íris** com base científica, em exames e no diagnóstico de **doenças reais**.
 
-A Ã­ris pode ser uma janela para identificar **doenÃ§as oculares, sÃ­ndromes
-genÃ©ticas, inflamaÃ§Ãµes e atÃ© sinais neurolÃ³gicos**.
+A íris pode ser uma janela para identificar **doenças oculares, síndromes
+genéticas, inflamações e até sinais neurológicos**.
 
 ---
 
-## **Usos ClÃ­nicos da Ãris na Oftalmologia**
+## **Usos Clínicos da Íris na Oftalmologia**
 
-### 1. **DiagnÃ³stico de DoenÃ§as Oculares**
+### 1. **Diagnóstico de Doenças Oculares**
 
-| DoenÃ§a | DescriÃ§Ã£o | Sinais na Ãris |
+| Doença | Descrição | Sinais na Íris |
 | --- | --- | --- |
-| **Irite / UveÃ­te Anterior** | InflamaÃ§Ã£o da Ã­ris e do corpo ciliar | Ãris perde definiÃ§Ã£o, pode mudar de cor ou apresentar vasos sanguÃ­neos dilatados. |
-| **Atrofia Iriana** | DegeneraÃ§Ã£o das fibras da Ã­ris | Perda de pigmentaÃ§Ã£o e irregularidade na borda da pupila. |
-| **Glaucoma Pigmentar** | Desgaste da Ã­ris libera pigmentos que entopem canais de drenagem do olho | DepÃ³sitos de pigmentos no Ã¢ngulo da cÃ¢mara anterior (visÃ­vel com gonioscopia). |
+| **Irite / Uveíte Anterior** | Inflamação da íris e do corpo ciliar | Íris perde definição, pode mudar de cor ou apresentar vasos sanguíneos dilatados. |
+| **Atrofia Iriana** | Degeneração das fibras da íris | Perda de pigmentação e irregularidade na borda da pupila. |
+| **Glaucoma Pigmentar** | Desgaste da íris libera pigmentos que entopem canais de drenagem do olho | Depósitos de pigmentos no ângulo da câmara anterior (visível com gonioscopia). |
 
 ---
 
-### 2. **SÃ­ndromes GenÃ©ticas e SistÃªmicas**
+### 2. **Síndromes Genéticas e Sistêmicas**
 
-| CondiÃ§Ã£o | Sinais na Ãris | RelaÃ§Ã£o ClÃ­nica |
+| Condição | Sinais na Íris | Relação Clínica |
 | --- | --- | --- |
-| **SÃ­ndrome de Down** | Manchas brancas na Ã­ris (manchas de Brushfield) | Achado comum em bebÃªs com a sÃ­ndrome. |
-| **Aniridia** | AusÃªncia parcial ou total da Ã­ris | Associada a mutaÃ§Ãµes genÃ©ticas e risco de glaucoma, catarata e tumor de Wilms. |
-| **SÃ­ndrome de Horner** | Pupila de tamanho desigual (miotonia), ptose palpebral | Envolve disfunÃ§Ã£o do sistema nervoso simpÃ¡tico. |
+| **Síndrome de Down** | Manchas brancas na íris (manchas de Brushfield) | Achado comum em bebês com a síndrome. |
+| **Aniridia** | Ausência parcial ou total da íris | Associada a mutações genéticas e risco de glaucoma, catarata e tumor de Wilms. |
+| **Síndrome de Horner** | Pupila de tamanho desigual (miotonia), ptose palpebral | Envolve disfunção do sistema nervoso simpático. |
 
 ---
 
-### 3. **Exames que Avaliam a Ãris**
+### 3. **Exames que Avaliam a Íris**
 
-| Exame | O que avalia | UtilizaÃ§Ã£o |
+| Exame | O que avalia | Utilização |
 | --- | --- | --- |
-| **Biomicroscopia com lÃ¢mpada de fenda** | Detalhes da Ã­ris em aumento | Verifica inflamaÃ§Ãµes, lesÃµes, pigmentaÃ§Ã£o. |
-| **Gonioscopia** | Avalia o Ã¢ngulo entre Ã­ris e cÃ³rnea | Importante em diagnÃ³stico de tipos de glaucoma. |
-| **Tomografia de segmento anterior (OCT)** | Imagem detalhada da Ã­ris e estruturas adjacentes | DiagnÃ³stico de glaucoma, distrofias e tumores. |
+| **Biomicroscopia com lâmpada de fenda** | Detalhes da íris em aumento | Verifica inflamações, lesões, pigmentação. |
+| **Gonioscopia** | Avalia o ângulo entre íris e córnea | Importante em diagnóstico de tipos de glaucoma. |
+| **Tomografia de segmento anterior (OCT)** | Imagem detalhada da íris e estruturas adjacentes | Diagnóstico de glaucoma, distrofias e tumores. |
 
 ---
 
-### 4. **Outros Usos ClÃ­nicos**
+### 4. **Outros Usos Clínicos**
 
-* **Tumores da Ã­ris**: melanomas podem surgir ali â€” visÃ­veis como nÃ³dulos
+* **Tumores da íris**: melanomas podem surgir ali — visíveis como nódulos
   pigmentados.
-* **Coloboma de Ã­ris**: defeito congÃªnito com ausÃªncia de parte da Ã­ris (pupila em
+* **Coloboma de íris**: defeito congênito com ausência de parte da íris (pupila em
   formato de chave).
-* **Iridodonesis**: tremor da Ã­ris ao movimento do olho, comum em casos de
-  ausÃªncia do cristalino (afacia).
+* **Iridodonesis**: tremor da íris ao movimento do olho, comum em casos de
+  ausência do cristalino (afacia).
 
 ---
 
-## ConclusÃ£o
+## Conclusão
 
-Na oftalmologia, a Ã­ris **Ã© avaliada como parte anatÃ´mica e funcional do olho**,
-com sinais que refletem **doenÃ§as locais ou neurolÃ³gicas**, mas **nÃ£o Ã© usada
-para avaliar Ã³rgÃ£os internos ou vitalidade geral** como proposto pela
+Na oftalmologia, a íris **é avaliada como parte anatômica e funcional do olho**,
+com sinais que refletem **doenças locais ou neurológicas**, mas **não é usada
+para avaliar órgãos internos ou vitalidade geral** como proposto pela
 iridologia.
