@@ -5,6 +5,7 @@ date: 2026-06-16T17:50:52.606Z
 tags: ["autoconhecimento", "filosofia"]
 categories: ["bem-estar"]
 description: "René Descartes foi um dos maiores filósofos, matemáticos e cientistas da"
+image: "/assets/img/posts/descartes_espiritualidade.jpg"
 ---
 
 René Descartes foi um dos maiores filósofos, matemáticos e cientistas da
