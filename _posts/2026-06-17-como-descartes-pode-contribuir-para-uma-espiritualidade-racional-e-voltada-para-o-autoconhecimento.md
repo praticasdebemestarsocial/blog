@@ -5,7 +5,7 @@ date: 2026-06-17T08:00:00.000Z
 tags: ["autoconhecimento", "psicossomática", "neurociência"]
 categories: ["bem-estar"]
 description: "René Descartes não foi apenas o 'Pai da Filosofia Moderna' ou o mestre da geometria; ele foi o primeiro grande 'hacker' da mente humana. Ao propor o método da Dúvida Radical, Descartes chegou a uma conclusão assustadora e libertadora: os nossos sentidos mentem."
-image: "/assets/img/posts/descartes_espiritualidade.jpg"
+image: "/assets/img/posts/descastes_metodo.jpg"
 ---
 
 ## A Dúvida Metódica de Descartes: Como Desconstruir Ilusões Mentais para Equilibrar o Corpo Físico
