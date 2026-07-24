@@ -5,6 +5,7 @@ date: 2025-11-20T02:09:00.004Z
 tags: ["fundamentos da iridologia"]
 categories: ["bem-estar"]
 description: "A Iridologia Está em Perigo — e a Inteligência Artificial Pode Salvá-la"
+image: /assets/img/posts/iridologia_referencias.jpg
 ---
 
 # A Iridologia Está em Perigo — e a Inteligência Artificial Pode Salvá-la
@@ -240,8 +241,6 @@ Antes da dor.
 Antes da doença.
 
 **Referências Bibliográficas**
-
-![Referências da Iridologia](/assets/img/posts/iridologia_referencias.jpg)
 
 Para aprofundar, consulte: ICRASET 2024 – “Deep Learning Models for Iris-Based
 Prediction of Metabolic Disorders”;
