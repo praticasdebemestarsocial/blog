@@ -39,7 +39,7 @@ Influenciado pelos praticantes europeus, Lust adotou a análise da íris como um
 
 Benedict Lust merece o título de "Pai da Naturopatia" não apenas por cunhar o termo, mas por ter a visão sistêmica de unir a hidroterapia de Kneipp, a filosofia de vida de Just, a sabedoria do Ayurveda e a precisão observacional da iridologia em um único sistema educacional e profissional.
 
-Ele nos ensinou que a cura verdadeira (*Vis Medicatrix Naturae*) exige olhar para o ser humano em sua totalidade. Ao integrar a iridologia ao currículo naturopático, Lust garantiu que o "olhar" continuasse sendo uma das ferramentas mais poderosas para entender as predisposições e a saberdeia interna do corpo.
+Ele nos ensinou que a cura verdadeira (*Vis Medicatrix Naturae*) exige olhar para o ser humano em sua totalidade. Ao integrar a iridologia ao currículo naturopático, Lust garantiu que o "olhar" continuasse sendo uma das ferramentas mais poderosas para entender as predisposições e a sabedoria interna do corpo.
 
 ---
 
