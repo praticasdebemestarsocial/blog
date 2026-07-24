@@ -2,7 +2,7 @@
 layout: post
 title: "O Lado Sombrio do Terceiro Olho: Neurociência, Allan Watts e o Perigo do Despertar Sem Aterramento"
 date: 2026-06-15T03:24:45.656Z
-tags: ["autoconhecimento"]
+tags: ["autoconhecimento", "neurociência"]
 categories: ["bem-estar"]
 description: "O Lado Sombrio do Terceiro Olho: Neurociência, Allan Watts e o Perigo do Despertar Sem Aterramento"
 image: "/assets/img/posts/Gemini_Generated_Image_1qcg441qcg441qcg.png"
