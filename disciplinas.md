@@ -21,5 +21,10 @@ Aqui você encontra a lista das nossas áreas de estudo e disciplinas de aprofun
 * [Hermetismo](/disciplinas/hermetismo/)
 * [Parapsicologia](/disciplinas/parapsicologia/)
 * [Musicoterapia](/disciplinas/musicoterapia/)
+* [A Grande América Ancestral](/disciplinas/a-grande-america-ancestral/)
+* [Cultura Maia](/disciplinas/cultura-maia/)
+* [Cultura dos Povos Indígenas](/disciplinas/cultura-dos-povos-indigenas/)
+* [Xamanismo](/disciplinas/xamanismo/)
+* [Psicodélicos](/disciplinas/psicodelicos/)
 
 *As páginas de conteúdo de cada disciplina estão sendo desenvolvidas.*
