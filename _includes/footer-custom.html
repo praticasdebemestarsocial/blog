@@ -5,10 +5,29 @@
   <a href="{{ '/licenca/' | relative_url }}">Licença</a>
 </div>
 
-<!-- Botão Flutuante do Messenger -->
-<a href="https://m.me/104743868997054" target="_blank" rel="noopener noreferrer" style="position: fixed; bottom: 20px; right: 20px; background-color: #0084FF; color: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 10px rgba(0,0,0,0.3); z-index: 9999; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" title="Fale com a nossa IA no Messenger">
-  <svg width="35" height="35" viewBox="0 0 36 36" fill="white" xmlns="http://www.w3.org/2000/svg">
-    <path d="M18 0C8.059 0 0 7.558 0 16.883C0 22.185 2.68 26.907 6.84 29.954V36L13.111 32.55C14.673 32.99 16.305 33.228 18 33.228C27.941 33.228 36 25.67 36 16.345C36 7.02 27.941 0 18 0ZM20.088 22.091L15.347 17.025L6.113 22.091L16.273 11.272L21.144 16.337L30.248 11.272L20.088 22.091Z"/>
-  </svg>
-</a>
+<!-- Messenger Chat Plugin Code -->
+<div id="fb-root"></div>
+<div id="fb-customer-chat" class="fb-customerchat"></div>
+
+<script>
+  var chatbox = document.getElementById('fb-customer-chat');
+  chatbox.setAttribute("page_id", "104743868997054");
+  chatbox.setAttribute("attribution", "biz_inbox");
+</script>
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v18.0'
+    });
+  };
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/pt_BR/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
 <!-- end custom footer snippets -->
