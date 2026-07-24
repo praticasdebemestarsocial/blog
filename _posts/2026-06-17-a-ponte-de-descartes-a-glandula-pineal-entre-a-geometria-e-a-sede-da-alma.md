@@ -2,7 +2,7 @@
 layout: post
 title: "A Ponte de Descartes: A Glândula Pineal entre a Geometria e a Sede da Alma"
 date: 2026-06-17T00:13:50.215Z
-tags: ["autoconhecimento", "anatomia fisiologia", "filosofia"]
+tags: ["autoconhecimento", "anatomia fisiologia", "filosofia", "neurociência"]
 categories: ["bem-estar"]
 description: "A Ponte de Descartes: A Glândula Pineal entre a Geometria e a Sede da Alma"
 image: "/assets/img/posts/5.png"
