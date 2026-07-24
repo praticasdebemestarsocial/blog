@@ -1,10 +1,11 @@
-﻿---
+---
 layout: post
 title: "Nosso corpo é fragmentado ou unificado?"
 date: 2026-01-04T18:08:00.004Z
-tags: ["medicina tradicional chinesa", "psicanalise hipnoterapia", "psicoespiritualidade"]
+tags: ["medicina tradicional chinesa", "psicanalise hipnoterapia", "psicoespiritualidade", "espiritualidade"]
 categories: ["bem-estar"]
 description: "Corpo, Mente e Alma: o retorno à unidade perdida"
+image: "/assets/img/posts/corpo_fragmentado_unificado.jpg"
 ---
 
 # Corpo, Mente e Alma: o retorno à unidade perdida
