@@ -119,7 +119,11 @@ A citação ABNT completa da postagem discutida neste post está abaixo:
 
 SILVÉRIO, S. S. O Livro Corpus Hippocraticum e a Ligação dos Olhos com a Saúde Física. 2025. Disponível em: . Acesso em: [Insira aqui o dia, mês e ano em que você acessou esta página do blog].
 
-## [🎥 [Vídeo incorporado](https://www.youtube.com/embed/4ZSym9zkLT4)](https://www.youtube.com/embed/4ZSym9zkLT4)
+## 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4ZSym9zkLT4" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 [)
 

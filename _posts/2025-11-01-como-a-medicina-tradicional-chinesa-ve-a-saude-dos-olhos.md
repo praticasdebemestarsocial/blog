@@ -108,7 +108,11 @@ na luminosidade do olhar.
 Cuidar dos olhos, então, não é só lubrificar ou corrigir a visão. É cultivar
 equilíbrio interno, fluidez emocional e harmonia com os ciclos naturais.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/hJEqCii3MOA)](https://www.youtube.com/embed/hJEqCii3MOA)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hJEqCii3MOA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Conclusão**
 

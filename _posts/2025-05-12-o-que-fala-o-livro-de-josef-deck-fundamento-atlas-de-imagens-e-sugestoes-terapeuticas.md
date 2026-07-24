@@ -116,7 +116,11 @@ O trabalho de Deck influenciou não apenas a iridologia na Alemanha, mas também
 em outros países, incluindo o Brasil, onde muitos praticantes adotaram seus
 métodos e princípios.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/OPmOWjCpfQA)](https://www.youtube.com/embed/OPmOWjCpfQA)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OPmOWjCpfQA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 #### Relevância Atual
 

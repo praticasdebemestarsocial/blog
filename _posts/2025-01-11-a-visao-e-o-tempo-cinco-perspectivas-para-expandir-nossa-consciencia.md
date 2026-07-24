@@ -64,4 +64,8 @@ pode influenciar a sua percepção de tempo?
 Então, se prepara, porque nos próximos vídeos vamos explorar cada um desses
 aspectos em detalhes. **Te espero lá!**
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/Sn8rV2Lf7us)](https://www.youtube.com/embed/Sn8rV2Lf7us)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Sn8rV2Lf7us" frameborder="0" allowfullscreen></iframe>
+</div>
+

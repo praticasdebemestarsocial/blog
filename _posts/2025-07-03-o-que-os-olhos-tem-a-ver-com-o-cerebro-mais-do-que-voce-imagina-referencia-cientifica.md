@@ -66,7 +66,11 @@ os sintomas apareçam com força**.
 Imagine poder prever um Alzheimer com mais antecedência, de forma menos
 invasiva, só por meio de exames oculares!
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/ZCVON1pgYpI)](https://www.youtube.com/embed/ZCVON1pgYpI)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZCVON1pgYpI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Conclusão**
 

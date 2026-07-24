@@ -337,7 +337,11 @@ meditar, cultivar um olhar interior, um momento de assentamento, uma higiene
 mental. Não importa se você chama de meditação taoísta, hindu ou mindfulness. O
 que importa é fazer esse movimento."​
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/hJEqCii3MOA)](https://www.youtube.com/embed/hJEqCii3MOA)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hJEqCii3MOA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## A saúde ocular pode contribuir para Prevenção e Autoconhecimento?
 

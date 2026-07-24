@@ -155,7 +155,11 @@ protocolo de ancoragem:
    interferências de baixa frequência perdem a capacidade de se ancorar no seu
    sistema nervoso.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/cUgKR0vX7W8)](https://www.youtube.com/embed/cUgKR0vX7W8)  
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cUgKR0vX7W8" frameborder="0" allowfullscreen></iframe>
+</div>
+  
   
 
 ### Conclusão

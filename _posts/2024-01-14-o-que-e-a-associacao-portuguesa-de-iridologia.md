@@ -95,7 +95,11 @@ promovendo:
   A iridologia pode ser integrada a iniciativas de saúde preventiva, oferecendo
   uma abordagem holística.
 
-### [🎥 [Vídeo incorporado](https://www.youtube.com/embed/xyggkj64G3s)](https://www.youtube.com/embed/xyggkj64G3s)
+### 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/xyggkj64G3s" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ---
 

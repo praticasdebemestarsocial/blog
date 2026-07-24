@@ -159,7 +159,11 @@ A iridologia pode agregar valor e conhecimento, oferecendo insights sobre nossa 
 
 ### The Nature of Birth Order: In the Family Tree
 
-### [🎥 [Vídeo incorporado](https://www.youtube.com/embed/jKw_c_hzes8)](https://www.youtube.com/embed/jKw_c_hzes8)
+### 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jKw_c_hzes8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### **Considerações Finais**
 

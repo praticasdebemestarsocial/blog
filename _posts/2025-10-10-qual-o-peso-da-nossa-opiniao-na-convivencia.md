@@ -100,7 +100,11 @@ realmente importa: conviver com humanidade em um mundo diverso.
 A música “O Sol”, do Jota Quest, captura essa sabedoria com simplicidade
 poética:
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/XgeF0aVNZL0)](https://www.youtube.com/embed/XgeF0aVNZL0)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XgeF0aVNZL0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

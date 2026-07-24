@@ -80,7 +80,11 @@ empurrados para o banco de trás, amordaçados pelo barulho do impulso. Não
 escolhemos o errado porque amamos o erro, mas porque odiamos a dor — e o cérebro
 aprendeu que essa resposta a silencia.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/zZuo8xPuDLU)](https://www.youtube.com/embed/zZuo8xPuDLU)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zZuo8xPuDLU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Conclusão: recuperar a autoria das escolhas**
 

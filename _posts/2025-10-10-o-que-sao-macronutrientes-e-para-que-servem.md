@@ -103,7 +103,11 @@ Boas fontes incluem:
 O segredo está na qualidade e na moderação: evite gorduras trans e
 ultraprocessadas, e priorize as naturais e minimamente processadas.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/A5NF04zaalc)](https://www.youtube.com/embed/A5NF04zaalc)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/A5NF04zaalc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Conclusão**
 

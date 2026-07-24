@@ -140,7 +140,11 @@ convencional.
 
 ---
 
-## [🎥 [Vídeo incorporado](https://www.youtube.com/embed/cYHkIaRrUHU)](https://www.youtube.com/embed/cYHkIaRrUHU)
+## 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cYHkIaRrUHU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## **Reflexões Finais**
 

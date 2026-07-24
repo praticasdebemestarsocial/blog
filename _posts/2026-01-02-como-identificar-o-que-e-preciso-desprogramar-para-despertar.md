@@ -203,7 +203,11 @@ Na medicina integrativa, sabemos:
 > O corpo guarda a memória do condicionamento… e também aponta o caminho da
 > liberdade.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/hiWrWstvmnk)](https://www.youtube.com/embed/hiWrWstvmnk)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hiWrWstvmnk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

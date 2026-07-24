@@ -86,7 +86,11 @@ benefícios e desafios. Veja abaixo os principais:
    a pessoa a esquecer outras áreas importantes da vida, como a saúde física e
    emocional.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/LhjvbWYvG_c)](https://www.youtube.com/embed/LhjvbWYvG_c)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LhjvbWYvG_c" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### 5- Integrando Propósito e Autocuidado para uma Vida Plena
 

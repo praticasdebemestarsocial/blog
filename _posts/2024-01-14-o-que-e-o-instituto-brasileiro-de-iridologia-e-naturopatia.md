@@ -35,7 +35,11 @@ Naturopatia](https://ibrin.org)
 
 ---
 
-### [🎥 [Vídeo incorporado](https://www.youtube.com/embed/FfW4EHdl5l8)](https://www.youtube.com/embed/FfW4EHdl5l8)
+### 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FfW4EHdl5l8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### Qual é o Objetivo dos Cursos do IBRIN?
 

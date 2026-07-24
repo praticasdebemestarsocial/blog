@@ -31,7 +31,11 @@ saúde integrativa e interessados em terapias complementares.
 
 ---
 
-### [🎥 [Vídeo incorporado](https://www.youtube.com/embed/fIZvNOlkV9E)](https://www.youtube.com/embed/fIZvNOlkV9E)
+### 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fIZvNOlkV9E" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### **O Que É Reflexologia?**
 

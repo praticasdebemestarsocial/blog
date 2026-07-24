@@ -96,7 +96,11 @@ Apesar das controvérsias, o Modelo Rayid tem sido adotado por uma ampla gama de
 profissionais, que o utilizam como uma ferramenta complementar para avaliar
 saúde e bem-estar.
 
-## [🎥 [Vídeo incorporado](https://www.youtube.com/embed/tkNsoRtuW6E)](https://www.youtube.com/embed/tkNsoRtuW6E)
+## 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tkNsoRtuW6E" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## Conclusão Denny Johnson transformou a prática da iridologia ao criar o Modelo Rayid , que combina tradições antigas com tecnologia moderna. Seu trabalho expandiu os horizontes da iridologia, permitindo análises mais profundas e detalhadas da saúde física, emocional e energética. Se você deseja aprender mais sobre o Modelo Rayid e suas aplicações, explore os cursos oferecidos pelo Rayid Institute e descubra como essa metodologia pode contribuir para o bem-estar integral. 📌 Já ouviu falar no Modelo Rayid? Deixe seu comentário abaixo e compartilhe sua opinião! Sobre o Autor Se você gostou deste conteúdo e quer conhecer mais sobre meu trabalho, meu currículo Lattes, ORCID e outros certificados estão disponíveis em meu blog. Meu ORCID: https://orcid.org/0000-0001-6311-1195 Sinta-se à vontade para entrar em contato para futuras discussões ou colaborações! Citação ABNT A citação ABNT completa da postagem discutida neste artigo está abaixo: SILVÉRIO, S. S. Quem é Denny Johnson e o que é o Modelo Rayid? . 2025. Disponível em: . Acesso em: [Insira aqui o dia, mês e ano em que você acessou esta página do blog].
 

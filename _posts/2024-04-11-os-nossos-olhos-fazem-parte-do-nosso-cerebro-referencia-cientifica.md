@@ -19,7 +19,11 @@ aqui para trazer para você as novidades sobre as terapias naturais a iridologia
 em pesquisas científicas nessa área que comprovam que os tratamentos naturais
 tem eficácia.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/FwtpnzLfPYk)](https://www.youtube.com/embed/FwtpnzLfPYk)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FwtpnzLfPYk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

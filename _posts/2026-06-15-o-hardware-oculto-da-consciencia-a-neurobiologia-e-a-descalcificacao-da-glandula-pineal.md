@@ -130,7 +130,11 @@ focadas na higiene circadiana:
 
 **O Toque Afetivo e a Fisiologia:** Dentro da neurofisiologia do afeto, observa-se que estímulos cutâneos na região frontal do crânio — como um simples e terno beijo na testa — estimulam mecanorreceptores periféricos que se comunicam com o eixo pineal-pituitária. Esse toque suave induz a liberação imediata de ocitocina e endorfinas, promovendo uma desaceleração do ritmo cardíaco e uma sensação profunda de acolhimento e paz somática. É a biologia validando fisicamente o afeto.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/IwLLGn9JfA0)](https://www.youtube.com/embed/IwLLGn9JfA0)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IwLLGn9JfA0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

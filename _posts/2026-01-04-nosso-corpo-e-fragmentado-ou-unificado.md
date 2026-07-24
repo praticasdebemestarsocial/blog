@@ -242,7 +242,11 @@ solto, os Rins cheios de Jing.
 E a diferença entre um e outro não está na crença, mas na capacidade de sentir —
 e ser transformado pelo que se sente.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/76egZ0o6MvI)](https://www.youtube.com/embed/76egZ0o6MvI)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/76egZ0o6MvI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ---
 

@@ -175,7 +175,11 @@ só resta uma pergunta verdadeira:
 > “O que ressoa em mim — não por medo, não por pertencimento, mas por alinhamento
 > com minha essência?”
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/9OrUeio-uXI)](https://www.youtube.com/embed/9OrUeio-uXI)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9OrUeio-uXI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

@@ -7,7 +7,11 @@ categories: ["bem-estar"]
 description: "🎥 Vídeo incorporado(https://www.youtube.com/embed/9SxKsO-4mdA)(https://www.youtube.com/embed/9SxKsO-4mdA)  CAE e CAS Debaterão Regulamentação da Práti..."
 ---
 
-## [🎥 [Vídeo incorporado](https://www.youtube.com/embed/9SxKsO-4mdA)](https://www.youtube.com/embed/9SxKsO-4mdA)  CAE e CAS Debaterão Regulamentação da Prática de Ayurveda no Brasil
+## 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9SxKsO-4mdA" frameborder="0" allowfullscreen></iframe>
+</div>
+  CAE e CAS Debaterão Regulamentação da Prática de Ayurveda no Brasil
 
 A Comissão de Assuntos Econômicos (CAE) do Senado Federal aprovou, em 14 de maio
 de 2024, a realização de uma audiência pública para discutir o projeto de lei

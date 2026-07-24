@@ -47,7 +47,11 @@ estamos negando nossa própria humanidade. Aceitar o mundo começa com aceitar a
 si mesmo: com suas sombras, limites e contradições. Só então conseguimos olhar
 para o outro com menos julgamento e mais compreensão.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/LQ04Ndk2JMs)](https://www.youtube.com/embed/LQ04Ndk2JMs)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LQ04Ndk2JMs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## 2. O que podemos fazer para cultivar a aceitação?
 
@@ -71,7 +75,11 @@ si mesmo — nessa compreensão suaviza o coração.
 **A aceitação, nesse sentido, é libertadora. Ela não apaga o sofrimento, mas
 impede que ele se multiplique pela resistência.**
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/_66cxWqlSWE)](https://www.youtube.com/embed/_66cxWqlSWE)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_66cxWqlSWE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## 3. “What’s Up?”: um hino à aceitação no meio do caos
 

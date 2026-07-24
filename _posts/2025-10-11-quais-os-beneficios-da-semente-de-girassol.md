@@ -122,7 +122,11 @@ xícaras de água e coe).
 Dica: evite sementes embaladas com sal excessivo ou óleos adicionados — opte por
 versões naturais em granel ou em embalagens herméticas.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/nfldMmcIwGw)](https://www.youtube.com/embed/nfldMmcIwGw)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nfldMmcIwGw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

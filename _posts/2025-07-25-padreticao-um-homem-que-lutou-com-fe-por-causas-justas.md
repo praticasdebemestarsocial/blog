@@ -122,6 +122,10 @@ Luís Marchione, conhecido como Padre Ticão, personalidade que se tornou um mar
 nas conquistas e lutas das comunidades periféricas, além de referência em todo o
 Brasil.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/gc8hkcphpOY)](https://www.youtube.com/embed/gc8hkcphpOY)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gc8hkcphpOY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 Ele deixou seu testemunho de esperança, de fé, e de misericórdia para as pessoas que precisam da Cannabis, as crianças autistas, os idosos com alzeimer e parkinson, as pessoas com convulsões. Ele referiu que dr Lair Ribeiro fala que a cannabis pode ajudar em 200 situações de saúde.

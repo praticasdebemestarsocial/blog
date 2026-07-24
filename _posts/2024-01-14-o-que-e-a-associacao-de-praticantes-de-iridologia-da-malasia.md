@@ -52,7 +52,11 @@ principais objetivos incluem:
 
 ---
 
-### [🎥 [Vídeo incorporado](https://www.youtube.com/embed/3S3oK44JDLU)](https://www.youtube.com/embed/3S3oK44JDLU)
+### 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3S3oK44JDLU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### Como a MIPA Atua?
 

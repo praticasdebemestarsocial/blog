@@ -50,4 +50,8 @@ Com ela é possível entender como os nossos comportamentos afetam a nossa saúd
 
 Espero que tenha gostado e até a próxima meu nome é Silviane Silvério eu sou terapeuta formada em naturologia e biomedicina conte comigo aqui nesse canal dê um like e se inscreva para novas postagens.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/KyMNWW0Hl7g)](https://www.youtube.com/embed/KyMNWW0Hl7g)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KyMNWW0Hl7g" frameborder="0" allowfullscreen></iframe>
+</div>
+

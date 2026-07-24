@@ -7,7 +7,11 @@ categories: ["bem-estar"]
 description: "🎥 Vídeo incorporado(https://www.youtube.com/embed/qoir2goC3JY)(https://www.youtube.com/embed/qoir2goC3JY)"
 ---
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/qoir2goC3JY)](https://www.youtube.com/embed/qoir2goC3JY)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qoir2goC3JY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
  Olá, pessoal! Sejam muito bem-vindos ao canal Iridologia: Tecnologia do Autoconhecimento e Bem-Estar!

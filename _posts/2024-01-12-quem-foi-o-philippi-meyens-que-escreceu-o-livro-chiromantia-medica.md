@@ -102,7 +102,11 @@ A Chiromantia Medica está disponível em uma variedade de bibliotecas e livrari
 
 > O livro "Ciência da Quirologia, A: Uma construção para a medicina" aborda a Quirologia, uma prática baseada na interpretação de sinais presentes em ambas as mãos com o objetivo de obter conhecimento sobre a pessoa. A Quirologia utiliza características como linhas, formato e protuberâncias das mãos para sua análise, sendo essencial uma interpretação considerando as relações entre esses elementos. A obra, ricamente ilustrada e com explicações acessíveis, serve como guia fundamental para quem deseja compreender e praticar a quirologia. Além disso, oferece aprofundamento no assunto, atendendo tanto a iniciantes quanto a profissionais interessados em explorar essa ciência e arte que foi praticada ao longo da história por figuras como Aristóteles, Alexis Carrel e Carl Jung, destacando sua relevância para médicos, cientistas, pensadores e filósofos.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/cGkXU-isTO0)](https://www.youtube.com/embed/cGkXU-isTO0)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cGkXU-isTO0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## 6- Referência Bibliográfica:
 

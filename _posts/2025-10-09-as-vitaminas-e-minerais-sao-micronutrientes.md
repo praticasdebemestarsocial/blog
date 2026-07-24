@@ -88,7 +88,11 @@ Prevenção começa no prato.
 Quando escolhemos alimentos reais, estamos nutrindo não só o corpo, mas também a
 capacidade de autorregulação e resiliência do organismo.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/EpxRtkKN0f0)](https://www.youtube.com/embed/EpxRtkKN0f0)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EpxRtkKN0f0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Reflexão final**
 

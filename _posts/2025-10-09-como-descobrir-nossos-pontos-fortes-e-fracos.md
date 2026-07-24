@@ -93,7 +93,11 @@ passar a vida nos dedicando ao que fazemos de pior.”
 
 — Donald O. Clifton
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/h27ekhxQI-A)](https://www.youtube.com/embed/h27ekhxQI-A)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/h27ekhxQI-A" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

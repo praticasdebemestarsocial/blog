@@ -8,7 +8,11 @@ description: "🎥 Vídeo incorporado(https://www.youtube.com/embed/v9NCemdCG0)(
 image: "https://i.ibb.co/fVkXNJ37/ceb083542220.png"
 ---
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/_v9NCemdCG0)](https://www.youtube.com/embed/_v9NCemdCG0)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_v9NCemdCG0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## Quem é a terapeuta naturopata e biomédica?
 

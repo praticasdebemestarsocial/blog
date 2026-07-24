@@ -78,4 +78,8 @@ bases de fundamentação científica,  para que se fundamente melhor a metodolo
  e os estudos e que se possa esclarecer o verdadeiro  potencial da Iridologia no
 bem estar humano.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/mPT6YvR7TRA)](https://www.youtube.com/embed/mPT6YvR7TRA)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mPT6YvR7TRA" frameborder="0" allowfullscreen></iframe>
+</div>
+

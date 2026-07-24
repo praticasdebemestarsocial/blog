@@ -31,7 +31,11 @@ encontrar equilíbrio entre lutar por melhorias e aproveitar os momentos de
 descanso. É uma reflexão profunda sobre como podemos contribuir para transformar
 a realidade ao nosso redor.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/7UcYf1O0uVU)](https://www.youtube.com/embed/7UcYf1O0uVU)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7UcYf1O0uVU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## Como a música "Acorda pra Vida" nos inspira a pensar na educação?
 

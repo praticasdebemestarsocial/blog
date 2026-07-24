@@ -138,7 +138,11 @@ ancoragem somática:
    sutil zumbido intermitente do sistema nervoso. Você está expandindo a sua
    atenção para o espectro invisível da sua presença.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/xbegShoxLEU)](https://www.youtube.com/embed/xbegShoxLEU)  
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/xbegShoxLEU" frameborder="0" allowfullscreen></iframe>
+</div>
+  
   
 
 ### Conclusão

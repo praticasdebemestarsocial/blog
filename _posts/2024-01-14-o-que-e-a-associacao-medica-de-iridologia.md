@@ -47,7 +47,11 @@ que acreditam no potencial da iridologia como uma ferramenta complementar para:
 
 ---
 
-### [🎥 [Vídeo incorporado](https://www.youtube.com/embed/hfZ4VJZfWtI)](https://www.youtube.com/embed/hfZ4VJZfWtI)
+### 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hfZ4VJZfWtI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### O Que a AMB Iridologia Oferece?
 

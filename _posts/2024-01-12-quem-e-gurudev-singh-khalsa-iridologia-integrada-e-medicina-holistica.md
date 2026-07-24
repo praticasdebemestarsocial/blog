@@ -75,7 +75,11 @@ atendimento mais humano e conectado às necessidades de cada paciente.
 
 ---
 
-### [🎥 [Vídeo incorporado](https://www.youtube.com/embed/n-GluizggBg)](https://www.youtube.com/embed/n-GluizggBg)
+### 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/n-GluizggBg" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## Sobre o Livro "Iridologia Integrada"
 
@@ -117,7 +121,11 @@ indivíduo como um sistema integrado de mente, corpo e espírito.
 **✔****Dor Referida**: Uma lesão em uma área do corpo pode causar desconforto em outra parte devido à interconexão entre tecidos e sistemas.  
 **✔****Acupuntura**: A acupuntura, que atua em pontos específicos conectados a outros sistemas corporais, é outro exemplo de como a abordagem holográfica pode ser usada para tratar diferentes condições de saúde.
 
-### [🎥 [Vídeo incorporado](https://www.youtube.com/embed/9ruwnviNqF0)](https://www.youtube.com/embed/9ruwnviNqF0)
+### 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9ruwnviNqF0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ---
 

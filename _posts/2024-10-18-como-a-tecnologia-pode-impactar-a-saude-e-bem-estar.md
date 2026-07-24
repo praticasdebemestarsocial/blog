@@ -58,4 +58,8 @@ Durante a pandemia de COVID-19, observamos que as pessoas com comorbidades, ou s
 
 É essencial que, como sociedade, estejamos mais atentos à nossa saúde, não apenas com foco na equilÃ­brio, mas também na prevenção e na qualidade de vida. Cuide de si, adote hábitos saudáveis e busque sempre o equilíbrio entre corpo e mente. Se você gostou desse conteúdo, deixe seu like, compartilhe com quem precisa ouvir isso e se inscreva no canal para mais dicas de autoconhecimento e bem-estar. Nos vemos no próximo vídeo!
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/jDl3VmuAlog)](https://www.youtube.com/embed/jDl3VmuAlog)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jDl3VmuAlog" frameborder="0" allowfullscreen></iframe>
+</div>
+

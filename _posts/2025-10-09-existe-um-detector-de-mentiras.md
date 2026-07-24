@@ -95,7 +95,11 @@ quânticos… mas em viver como seres humanos quânticos:
 
 inteiros, presentes, verdadeiros.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/3fMdNeR1IjE)](https://www.youtube.com/embed/3fMdNeR1IjE)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3fMdNeR1IjE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
   

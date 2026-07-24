@@ -98,7 +98,11 @@ sistematização da iridologia como ferramenta científica e terapêutica. Seus
 livros são amplamente utilizados por naturopatas, iridologistas, médicos e
 terapeutas em todo o mundo.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/OPmOWjCpfQA)](https://www.youtube.com/embed/OPmOWjCpfQA)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OPmOWjCpfQA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

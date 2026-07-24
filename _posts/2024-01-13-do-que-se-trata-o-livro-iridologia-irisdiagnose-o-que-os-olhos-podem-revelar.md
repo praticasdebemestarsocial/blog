@@ -21,7 +21,11 @@ description: "Iridologia-Irisdiagnose: O Que os Olhos Podem Revelar? Autora: Sil
 
 ### A Importância da Iridologia na Medicina Integrativa
 
-## A Iridologia, abordada com profundidade pelo Dr. Battello, oferece uma visão única sobre o estado de saúde dos indivíduos. Ela se baseia no princípio de que a íris pode revelar informações importantes sobre o organismo, desde aspectos físicos até predisposições genéticas e energéticas.  Essa análise holística é especialmente útil para tratamentos preventivos, ajudando os profissionais de saúde a compreenderem melhor as necessidades dos pacientes e oferecerem orientações de estilo de vida e nutrição mais adequadas. [🎥 [Vídeo incorporado](https://www.youtube.com/embed/zNzC35jna9w)](https://www.youtube.com/embed/zNzC35jna9w)
+## A Iridologia, abordada com profundidade pelo Dr. Battello, oferece uma visão única sobre o estado de saúde dos indivíduos. Ela se baseia no princípio de que a íris pode revelar informações importantes sobre o organismo, desde aspectos físicos até predisposições genéticas e energéticas.  Essa análise holística é especialmente útil para tratamentos preventivos, ajudando os profissionais de saúde a compreenderem melhor as necessidades dos pacientes e oferecerem orientações de estilo de vida e nutrição mais adequadas. 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zNzC35jna9w" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### Um Olhar Holístico para a Saúde
 

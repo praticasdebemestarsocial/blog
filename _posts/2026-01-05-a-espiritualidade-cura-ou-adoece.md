@@ -165,7 +165,11 @@ mas clareza notável, graças a uma fé que as conecta à vida, não à ilusão.
 > A mente floresce onde a alma se sente livre para ser inteira.  
 > Não onde é obrigada a ser “iluminada”.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/iR2P7urfRb8)](https://www.youtube.com/embed/iR2P7urfRb8)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iR2P7urfRb8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ---
 

@@ -146,7 +146,11 @@ e satisfatória.
 
 ---
 
-### **[🎥 [Vídeo incorporado](https://www.youtube.com/embed/qobUPDIXmuQ)](https://www.youtube.com/embed/qobUPDIXmuQ)**
+### **
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qobUPDIXmuQ" frameborder="0" allowfullscreen></iframe>
+</div>
+**
 
 ### Considerações Finais: Uma Jornada de Descoberta e Autoconhecimento
 

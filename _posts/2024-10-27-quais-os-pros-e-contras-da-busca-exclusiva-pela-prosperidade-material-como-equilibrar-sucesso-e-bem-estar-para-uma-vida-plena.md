@@ -60,7 +60,11 @@ internos e bem-estar.
 * **Conecte-se com o Agora**: Praticar a atenção plena ajuda a equilibrar o foco no sucesso material e o presente.
 * **Valorize Relacionamentos**: Dedique tempo aos relacionamentos, reconhecendo que o sucesso é construído com a colaboração de outras pessoas.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/YQyEA8kUDDs)](https://www.youtube.com/embed/YQyEA8kUDDs)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YQyEA8kUDDs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### **Conclusão:**
 

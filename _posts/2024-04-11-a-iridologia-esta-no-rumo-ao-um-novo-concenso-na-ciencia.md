@@ -63,7 +63,11 @@ biometria da iris que revelam que a avaliação orgânica realizada através do
 mapas da iridologia tem cerca de 90% de chances de acerto, que pode ser
 considerado uma chance muito alta para quem trabalha com avaliação do paciente.
 
-## [🎥 [Vídeo incorporado](https://www.youtube.com/embed/yss02leKTVw)](https://www.youtube.com/embed/yss02leKTVw)
+## 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yss02leKTVw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## O que é consenso científico?
 

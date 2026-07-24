@@ -138,7 +138,11 @@ como compartilhamos informações.
 Essas figuras, juntamente com inovações como a biotecnologia, a robótica e as
 energias renováveis, estão moldando o futuro da nossa sociedade.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/sOA2JyxtGw0)](https://www.youtube.com/embed/sOA2JyxtGw0)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sOA2JyxtGw0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Conclusão**
 

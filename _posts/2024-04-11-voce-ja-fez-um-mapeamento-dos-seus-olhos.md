@@ -32,4 +32,8 @@ Além disso, a iridologia possibilita cuidar do seu lado emocional, observando o
 
 Com o uso de várias terapias naturais, é possível realizar uma prevenção eficaz para a sua saúde.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/BOZnLhbYYR8)](https://www.youtube.com/embed/BOZnLhbYYR8)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BOZnLhbYYR8" frameborder="0" allowfullscreen></iframe>
+</div>
+

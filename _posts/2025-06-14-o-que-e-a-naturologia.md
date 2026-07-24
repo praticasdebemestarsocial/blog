@@ -98,7 +98,11 @@ O naturólogo pode atuar em:
 
 **☀**A formação inclui disciplinas em anatomia, fisiologia, patologia, psicologia, terapias naturais, práticas integrativas, filosofia da saúde e ética.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/4l2FkquvYlk)](https://www.youtube.com/embed/4l2FkquvYlk)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4l2FkquvYlk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

@@ -92,7 +92,11 @@ Mas já apresentam resultados animadores com mais de 90% de eficácia relacionad
 com um diagnóstico de insuficência cardiáca, que é um distúrbio do sistema
 circulário.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/vUukfKGWNUE)](https://www.youtube.com/embed/vUukfKGWNUE)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vUukfKGWNUE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

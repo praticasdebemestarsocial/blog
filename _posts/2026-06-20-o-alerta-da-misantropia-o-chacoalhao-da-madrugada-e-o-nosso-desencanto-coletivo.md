@@ -161,7 +161,11 @@ misantropia ou arrogância social; visto por dentro, contudo, trata-se de pura
 autopreservação, um luto consciente pelo que estamos fazendo com o planeta e a
 busca por manter a alma intacta.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/B0T5fqdVGRM)](https://www.youtube.com/embed/B0T5fqdVGRM)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/B0T5fqdVGRM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

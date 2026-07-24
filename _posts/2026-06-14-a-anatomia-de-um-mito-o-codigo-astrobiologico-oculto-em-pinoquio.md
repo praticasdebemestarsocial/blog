@@ -146,7 +146,11 @@ mapa de autoconhecimento:
 * **A Transformação:** Deixar de ser "madeira cega" (mecanicismo) para se tornar
   "matéria consciente" através da soberania da própria atenção e respiração.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/UQtBwjzNCwg)](https://www.youtube.com/embed/UQtBwjzNCwg)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UQtBwjzNCwg" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### Conclusão
 

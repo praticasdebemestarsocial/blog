@@ -102,7 +102,11 @@ naturais, nutricionistas e naturopatas em todo o mundo.
 
 ---
 
-### [🎥 [Vídeo incorporado](https://www.youtube.com/embed/Z76hbKBaeFY)](https://www.youtube.com/embed/Z76hbKBaeFY)
+### 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Z76hbKBaeFY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### **Conclusão**
 

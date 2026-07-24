@@ -59,7 +59,11 @@ O arrependimento, portanto, é parte natural do processo de aprendizagem humana.
 Ele nos mostra onde erramos — não para nos punir, mas para nos guiar com mais
 sabedoria no futuro.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/t_O5q9Iq3-M)](https://www.youtube.com/embed/t_O5q9Iq3-M)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/t_O5q9Iq3-M" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 
@@ -97,7 +101,11 @@ Muitas vezes, levamos a vida demais a sério. Exigimos perfeição de nós mesmo
 dos outros. Mas a vida é feita de tentativas, quedas e recomeços. Aceitar a
 imperfeição é o primeiro passo para a paz interior.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/aIo6Ew6y-is)](https://www.youtube.com/embed/aIo6Ew6y-is)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aIo6Ew6y-is" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## 3. “Epitáfio”: Uma Canção que EquilÃ­brio o Arrependimento
 

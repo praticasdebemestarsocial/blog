@@ -113,7 +113,11 @@ sanguíneos dos olhos poderiam indicar problemas sistêmicos.
 Seu trabalho sobre a circulação ajudou a entender como doenças vasculares afetam
 os olhos.
 
-**[🎥 [Vídeo incorporado](https://www.youtube.com/embed/lm5ndPuJvmI)](https://www.youtube.com/embed/lm5ndPuJvmI)**
+**
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lm5ndPuJvmI" frameborder="0" allowfullscreen></iframe>
+</div>
+**
 
  **Conclusão Final:**
 

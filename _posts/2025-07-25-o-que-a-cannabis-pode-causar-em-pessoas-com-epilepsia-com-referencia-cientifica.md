@@ -222,4 +222,8 @@ Gostou deste artigo? Compartilhe suas reflexões ou dúvidas nos comentários
 abaixo. Vamos juntos explorar o universo da cannabis medicinal e seus
 benefícios!
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/vwn_7M3yGvY)](https://www.youtube.com/embed/vwn_7M3yGvY)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vwn_7M3yGvY" frameborder="0" allowfullscreen></iframe>
+</div>
+

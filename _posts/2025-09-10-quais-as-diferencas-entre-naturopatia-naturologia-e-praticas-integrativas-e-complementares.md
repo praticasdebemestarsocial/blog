@@ -91,7 +91,11 @@ Atuação:
 São usadas no SUS, clínicas públicas e privadas, além de consultórios
 individuais.
 
-                                           [🎥 [Vídeo incorporado](https://www.youtube.com/embed/4l2FkquvYlk)](https://www.youtube.com/embed/4l2FkquvYlk)  
+                                           
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4l2FkquvYlk" frameborder="0" allowfullscreen></iframe>
+</div>
+  
   
 
 **Conclusão**  

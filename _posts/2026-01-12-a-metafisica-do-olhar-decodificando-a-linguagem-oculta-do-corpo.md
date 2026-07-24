@@ -317,7 +317,11 @@ a pupila recupera seu ritmo.
 porque autoconhecimento nunca termina.  
 Mas você sai com as ferramentas para seguir sozinho(a).
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/UislgFUOSW8)](https://www.youtube.com/embed/UislgFUOSW8)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UislgFUOSW8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

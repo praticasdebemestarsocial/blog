@@ -91,7 +91,11 @@ claros e pigmentações nas zonas da íris associadas à hipófise, adrenais, ma
 iridologistas como possíveis indicadores de processos inflamatórios ou
 degenerativos em curso.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/Ys2gPKM8iQ0)](https://www.youtube.com/embed/Ys2gPKM8iQ0)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ys2gPKM8iQ0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 [)
 

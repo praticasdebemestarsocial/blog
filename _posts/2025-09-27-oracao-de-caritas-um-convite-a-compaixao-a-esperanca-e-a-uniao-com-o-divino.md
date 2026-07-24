@@ -102,7 +102,11 @@ busca ler os sinais do corpo como mensagens da alma. Assim como a íris revela
 tendências constitucionais, a oração revela tendências do coração: o desejo de
 amar, de servir, de crescer.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/9d7CFE2t8Jc)](https://www.youtube.com/embed/9d7CFE2t8Jc)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9d7CFE2t8Jc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

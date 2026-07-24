@@ -52,7 +52,11 @@ altos padrões internacionais.
 
 ---
 
-### [🎥 [Vídeo incorporado](https://www.youtube.com/embed/_IpboD3SG4w)](https://www.youtube.com/embed/_IpboD3SG4w)
+### 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_IpboD3SG4w" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### 3. Reconhecimento dos Profissionais Credenciados pela IIPA
 

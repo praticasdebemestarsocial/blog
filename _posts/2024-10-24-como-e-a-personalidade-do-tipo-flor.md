@@ -167,7 +167,11 @@ O biotipo Flor compartilha semelhanças com outros sistemas de personalidade:
 * **Eneagrama**: No Eneagrama, o tipo Flor é similar ao **Tipo 9 - O Pacificador**, que busca paz e evita conflitos.
 * **DISC**: O tipo Flor é comparável ao **Tipo Influente**, caracterizado por sua sociabilidade e busca por um ambiente harmonioso.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/HUirNt-6ePU)](https://www.youtube.com/embed/HUirNt-6ePU)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/HUirNt-6ePU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ---
 

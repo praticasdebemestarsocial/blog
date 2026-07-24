@@ -201,7 +201,11 @@ a energia por trás da oração.
 Seu discernimento era um olhar que lia as entrelinhas da alma,  
 não as regras da aparência.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/ir7lM5tL_bs)](https://www.youtube.com/embed/ir7lM5tL_bs)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ir7lM5tL_bs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
   

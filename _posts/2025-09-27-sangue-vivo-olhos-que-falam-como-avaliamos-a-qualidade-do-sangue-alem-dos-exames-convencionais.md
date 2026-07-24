@@ -153,7 +153,11 @@ Será uma oportunidade única para profissionais das Práticas Integrativas e
 Complementares (PICS) aprofundarem seus conhecimentos com rigor técnico e visão
 humanista.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/cckmnkEzXTY)](https://www.youtube.com/embed/cckmnkEzXTY)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cckmnkEzXTY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## Conclusão: Entre o Laboratório e o Olhar
 

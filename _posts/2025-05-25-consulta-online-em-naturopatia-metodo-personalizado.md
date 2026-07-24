@@ -8,7 +8,11 @@ description: "🎥 Vídeo incorporado(https://www.youtube.com/embed/ukn2c9ijMhk)
 image: "/assets/img/posts/QUERO%20AGENDAR%20AGORA.%20VAGAS%20LIMITADAS%E2%80%9D,.gif"
 ---
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/ukn2c9ijMhk)](https://www.youtube.com/embed/ukn2c9ijMhk)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ukn2c9ijMhk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

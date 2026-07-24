@@ -131,7 +131,11 @@ forma confortável, relaxe os ombros e respire naturalmente:
 Se você percebeu qualquer alteração sutil na temperatura, tônus muscular ou
 ritmo mental, seu corpo respondeu imediatamente ao comando da sua atenção.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/nT83KGlnAyM)](https://www.youtube.com/embed/nT83KGlnAyM)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nT83KGlnAyM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

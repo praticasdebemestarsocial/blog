@@ -107,7 +107,11 @@ Acreditar que dias melhores virão é parte essencial do otimismo. Ao confiar qu
 você tem o poder de mudar e crescer, fica mais fácil enfrentar desafios com
 resiliência.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/nCQDlAia1dE)](https://www.youtube.com/embed/nCQDlAia1dE)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nCQDlAia1dE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## 4. Qual música nos faz refletir sobre a importância de sermos otimistas?
 

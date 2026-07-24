@@ -98,7 +98,11 @@ mas também o estado de saúde interna do corpo.
 
 ---
 
-### [🎥 [Vídeo incorporado](https://www.youtube.com/embed/UBAxUm-FXBs)](https://www.youtube.com/embed/UBAxUm-FXBs)
+### 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UBAxUm-FXBs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## Conclusão: A Importância da Conexão Olho-Órgão
 

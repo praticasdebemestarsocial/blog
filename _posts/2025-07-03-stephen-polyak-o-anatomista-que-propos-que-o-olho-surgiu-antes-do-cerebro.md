@@ -83,7 +83,11 @@ A visão de Polyak de que o olho é um órgão central na organização do corpo
 sido usada por diversos praticantes de abordagens holísticas para fundamentar
 técnicas de leitura corporal.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/7vYg_VV2fVw)](https://www.youtube.com/embed/7vYg_VV2fVw)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7vYg_VV2fVw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Conclusão:**
 

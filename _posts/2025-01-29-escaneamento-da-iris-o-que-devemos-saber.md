@@ -24,6 +24,10 @@ Nem tudo deve ser feito por causa do dinheiro. Às vezes, o que parece uma oport
 
 Se você gostou desse vídeo e achou essas informações úteis, deixa aqui o seu like! Compartilhe esse conteúdo com amigos e familiares que precisam estar cientes sobre esse tema. E não se esqueça de se inscrever no canal para continuar recebendo conteúdos sobre iridologia, ciência e autoconhecimento. Juntos, podemos promover conhecimento e consciência!
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/t7qj2AhabvI)](https://www.youtube.com/embed/t7qj2AhabvI)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/t7qj2AhabvI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 Espero que tenham gostado! Até o próximo vídeo. 🌟

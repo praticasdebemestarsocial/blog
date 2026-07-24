@@ -122,7 +122,11 @@ Cesse o som e permaneça em silêncio absoluto por alguns instantes. Foque a sua
 atenção no centro do cérebro, observando a sutil desaceleração do ruído mental e
 a indução ao relaxamento profundo.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/6VpkA-I4MGg)](https://www.youtube.com/embed/6VpkA-I4MGg)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6VpkA-I4MGg" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

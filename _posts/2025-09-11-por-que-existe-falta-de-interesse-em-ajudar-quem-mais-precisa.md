@@ -134,7 +134,11 @@ carentes para ter contato direto com suas realidades.
 Uma mudança de mentalidade pode ocorrer quando as pessoas despertam para a
 consciência coletiva e reconhecem que todos somos parte de uma mesma sociedade.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/3df2t7LK5kI)](https://www.youtube.com/embed/3df2t7LK5kI)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3df2t7LK5kI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## 5. Qual música pode nos fazer refletir sobre as desigualdades sociais?
 

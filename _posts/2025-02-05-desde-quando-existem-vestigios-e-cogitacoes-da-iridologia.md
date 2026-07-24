@@ -81,7 +81,11 @@ humano.
 
 * O estudo foi expandido por pesquisadores como **[Bernard Jensen](https://tecnologiasdoautoconhecimento.blogspot.com/2024/07/quem-foi-bernad-jensen.html)** nos EUA, que criou mapas da íris associando áreas específicas do olho a partes do corpo.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/kL7W5Ds2Oio)](https://www.youtube.com/embed/kL7W5Ds2Oio)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kL7W5Ds2Oio" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ### **Conclusão**
 

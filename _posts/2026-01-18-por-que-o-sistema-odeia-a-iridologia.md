@@ -185,7 +185,11 @@ E isso não é culpa delas.
 É fruto de um sistema que criminalizou a sensibilidade  
 e medicalizou a dor existencial.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/9gm5UogrYOk)](https://www.youtube.com/embed/9gm5UogrYOk)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9gm5UogrYOk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
   

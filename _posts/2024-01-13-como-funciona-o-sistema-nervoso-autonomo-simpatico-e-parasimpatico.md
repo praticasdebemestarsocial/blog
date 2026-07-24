@@ -92,7 +92,11 @@ A íris, a parte colorida dos olhos, pode refletir o estado do sistema nervoso a
 
 Esses sinais, embora subjetivos, oferecem pistas valiosas sobre o estado emocional e físico de uma pessoa, especialmente quando analisados por profissionais treinados em iridologia.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/fYhhpEMAaVU)](https://www.youtube.com/embed/fYhhpEMAaVU)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fYhhpEMAaVU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Conclusão**
 

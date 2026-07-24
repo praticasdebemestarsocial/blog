@@ -99,7 +99,11 @@ Dose sugerida: 1 a 2 colheres de sopa por dia (15–30 g).
 Beba água: as fibras precisam de líquido para funcionar — senão, podem causar
 prisão de ventre.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/IyUiRI3izTQ)](https://www.youtube.com/embed/IyUiRI3izTQ)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IyUiRI3izTQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

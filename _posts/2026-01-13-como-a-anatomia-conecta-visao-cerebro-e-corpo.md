@@ -170,7 +170,11 @@ Pode ter sido seu cérebro enviando um sinal.
 Compartilhe sua experiência nos comentários.  
 Sua história pode ajudar outros a entenderem seu próprio corpo.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/gpoWDSCn4ic)](https://www.youtube.com/embed/gpoWDSCn4ic)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gpoWDSCn4ic" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ---
 

@@ -146,7 +146,11 @@ consciência, escolhendo reagir com sabedoria, e não apenas por impulso.
 E mais do que isso: você se conecta com uma parte mais profunda e sábia de si
 mesmo(a).
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/e_tH3J7PfKY)](https://www.youtube.com/embed/e_tH3J7PfKY)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/e_tH3J7PfKY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Conclusão:**
 

@@ -45,7 +45,11 @@ Profissionais de práticas integrativas não usam a iridologia para diagnosticar
 
 Com a IA, esse acompanhamento pode se tornar mais objetivo, mensurável e comparável ao longo do tempo.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/Fyh-E50d_OI)](https://www.youtube.com/embed/Fyh-E50d_OI)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Fyh-E50d_OI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

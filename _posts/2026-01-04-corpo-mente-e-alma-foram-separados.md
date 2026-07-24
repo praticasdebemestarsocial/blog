@@ -461,4 +461,8 @@ E isso — e só isso — é a vida eterna.
 
 a vida não é medida em anos, mas em profundidade de coração. 🌿
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/76egZ0o6MvI)](https://www.youtube.com/embed/76egZ0o6MvI)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/76egZ0o6MvI" frameborder="0" allowfullscreen></iframe>
+</div>
+

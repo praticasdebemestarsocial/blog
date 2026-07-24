@@ -99,7 +99,11 @@ Além disso, os pesquisadores do estudo ICRASET desenvolveram um aplicativo
 protótipo que permite carregar uma imagem da íris e receber uma análise
 preliminar de risco — um passo importante rumo à democratização da prevenção.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/qPRUYrO_lCI)](https://www.youtube.com/embed/qPRUYrO_lCI)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qPRUYrO_lCI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

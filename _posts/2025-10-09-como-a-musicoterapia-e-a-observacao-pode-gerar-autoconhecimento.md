@@ -35,7 +35,11 @@ Para ilustrar essa ideia, vamos nos inspirar na trajetória do cantor e
 compositor **Chico César**. A história por trás de sua icônica música **"Mama
 África"** é um testemunho vivo do poder da observação.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/wfUBQwFkc8w)](https://www.youtube.com/embed/wfUBQwFkc8w)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wfUBQwFkc8w" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
   
@@ -62,7 +66,11 @@ Na **musicoterapia**, trabalhamos exatamente essa ponte: da observação do mund
 externo à escuta atenta do nosso mundo interno. A música, em suas diversas
 formas, torna-se um espelho e um guia para o **autoconhecimento**.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/lsU1F0y6dUU)](https://www.youtube.com/embed/lsU1F0y6dUU)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lsU1F0y6dUU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
   

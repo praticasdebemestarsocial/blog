@@ -101,7 +101,11 @@ assistida fazem toda a diferença, a iridologia pode se tornar um aliado poderos
 na construção do histórico clínico do paciente — assim como um estetoscópio, uma
 fita métrica ou um glicosímetro.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/7LJl9P3NzZg)](https://www.youtube.com/embed/7LJl9P3NzZg)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7LJl9P3NzZg" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

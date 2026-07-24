@@ -109,7 +109,11 @@ organismo.
 Essa visão complementa a iridologia, pois reforça a relevância do olho como
 centro de reflexos corporais e emocionais.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/WAz0J50w28A)](https://www.youtube.com/embed/WAz0J50w28A)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WAz0J50w28A" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

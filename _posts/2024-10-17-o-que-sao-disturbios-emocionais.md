@@ -44,7 +44,11 @@ Você já se sentiu emocionalmente abalado? Isso é mais comum do que você imag
 
 Na visão holística, muitos fatores podem desencadear distúrbios emocionais: desequilíbrios na alimentação, excesso de responsabilidades, falta de autocuidado, traumas do passado não resolvidos, além de questões energéticas. Por isso, é importante olhar para o todo – observar os sinais do corpo, os pensamentos e as emoções, e buscar harmonizá-los com práticas terapêuticas.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/DeZa-Tbv1TA)](https://www.youtube.com/embed/DeZa-Tbv1TA)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DeZa-Tbv1TA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## 🎬 Por que é importante tanto o cuidado médico como o complementar?
 

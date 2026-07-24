@@ -141,7 +141,11 @@ para nossa saúde com mais gentileza, consciência e responsabilidade.
 Não como algo a ser corrigido, mas como algo a ser cultivado — dia a dia,
 respiração a respiração.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/9Uosr4uNAGw)](https://www.youtube.com/embed/9Uosr4uNAGw)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9Uosr4uNAGw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

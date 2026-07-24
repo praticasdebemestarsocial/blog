@@ -162,7 +162,11 @@ relevante tanto para a teologia quanto para a psicologia da religião,
 especialmente ao integrar dimensões mental, espiritual e teológica — e que é
 necessário aprofundar essa interface em futuras pesquisas  
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/Qp-pUAKYRJs)](https://www.youtube.com/embed/Qp-pUAKYRJs)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Qp-pUAKYRJs" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Conclusão**
 

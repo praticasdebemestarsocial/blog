@@ -54,7 +54,11 @@ Estuda juntamente com exames clínicos médicos para confirmação das suas desc
 
 Estão somando conhecimento juntamente com o trabalho do Dr. Leonard suas habilidades e experiências para a organização de todo esse estudo. Ele tem em San Diego, na Califórnia, uma escola de ol diagnosis e é autor de vários livros.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/WNCBor3Ocxk)](https://www.youtube.com/embed/WNCBor3Ocxk)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WNCBor3Ocxk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## O que podemos saber através da Iridologia?
 

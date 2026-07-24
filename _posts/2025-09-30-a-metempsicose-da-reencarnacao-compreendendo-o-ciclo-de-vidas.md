@@ -112,7 +112,11 @@ Busca por Crescimento: Use a ideia de evolução espiritual como motivação par
 buscar autoconhecimento, praticar gratidão e investir em seu desenvolvimento
 pessoal.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/8qYruHxMoNc)](https://www.youtube.com/embed/8qYruHxMoNc)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8qYruHxMoNc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 
 

@@ -75,7 +75,11 @@ A endoderme, outro tecido embrionário, dará origem ao sistema gastrointestinal
 
 Além disso, a pulsologia, língua, mãos, pés e rosto também fornecem sinais reflexos sobre o estado interno do corpo.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/u2AziObOQro)](https://www.youtube.com/embed/u2AziObOQro)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/u2AziObOQro" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## Como é um atendimento com Iridologia?
 

@@ -130,7 +130,11 @@ autorregular o sistema nervoso autônomo das pessoas situadas nas proximidades.
 > sinalizando que a regulação somática e a proteção energética do indivíduo
 > demandam repouso e fortalecimento.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/xbegShoxLEU)](https://www.youtube.com/embed/xbegShoxLEU)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/xbegShoxLEU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

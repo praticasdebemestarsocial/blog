@@ -8,7 +8,11 @@ description: "🎥 Vídeo incorporado(https://www.youtube.com/embed/78eUim4Wwy8)
 image: "/assets/img/posts/image_7279994027571011507.jpg"
 ---
 
-# [🎥 [Vídeo incorporado](https://www.youtube.com/embed/78eUim4Wwy8)](https://www.youtube.com/embed/78eUim4Wwy8) Huanarpo Macho: Uma Erva Ancestral do Peru a Serviço da Vitalidade Masculina
+# 
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/78eUim4Wwy8" frameborder="0" allowfullscreen></iframe>
+</div>
+ Huanarpo Macho: Uma Erva Ancestral do Peru a Serviço da Vitalidade Masculina
 
 6 de novembro de 2025 | Leitura estimada: 5 minutos
 

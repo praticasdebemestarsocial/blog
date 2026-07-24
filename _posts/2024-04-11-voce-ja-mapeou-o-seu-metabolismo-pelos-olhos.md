@@ -45,4 +45,8 @@ Todo nosso corpo está interconectado através dos vasos sanguíneos e do sistem
 
 O nervo ótico leva essa informação até os nossos olhos proporcionando a possibilidade de vermos em tempo real onde o nosso corpo está fragilizado e precisando de uma suplementação direcionada.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/zxlRnpOb27I)](https://www.youtube.com/embed/zxlRnpOb27I)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zxlRnpOb27I" frameborder="0" allowfullscreen></iframe>
+</div>
+

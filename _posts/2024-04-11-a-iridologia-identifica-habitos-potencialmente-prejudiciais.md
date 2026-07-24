@@ -53,7 +53,11 @@ Essa pesquisa resultou na criação de mapas da íris e da esclera do olho.
 
 O corpo é uma máquina humana extremamente avançada, onde a ciência humana ainda não compreende muitos processos físico-químicos do organismo e não oferece equilÃ­brio para a maioria das doenças crônicas e degenerativas.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/Qk2rjnHf4V8)](https://www.youtube.com/embed/Qk2rjnHf4V8)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Qk2rjnHf4V8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## Qual a importância da Iridologia?
 

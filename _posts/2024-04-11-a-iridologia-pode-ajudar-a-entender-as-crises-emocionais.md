@@ -118,7 +118,11 @@ como cultivar melhores hábitos alimentares  
 👉Você pode aprender comigo a reconhecer quais  são os sinais que o seu corpo
 pode dar de que está avisando que você precisa se cuidar mais.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/yIKTfUwDXL4)](https://www.youtube.com/embed/yIKTfUwDXL4)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yIKTfUwDXL4" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 Lembre-se que  é importante  fazer exames médicos para conseguir alcançar o melhor Bem Estar.
 

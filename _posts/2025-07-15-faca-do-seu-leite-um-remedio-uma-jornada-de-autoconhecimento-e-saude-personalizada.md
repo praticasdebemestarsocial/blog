@@ -102,7 +102,11 @@ investindo em um conhecimento valioso que pode mudar sua vida para sempre.
 Escolha hoje mesmo dar esse passo rumo à saúde personalizada. Transforme não
 apenas sua dieta, mas sua conexão com seu próprio corpo. A escolha é sua.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/92S_BBMwT18)](https://www.youtube.com/embed/92S_BBMwT18)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/92S_BBMwT18" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

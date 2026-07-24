@@ -192,7 +192,11 @@ Porque só quem abraça sua sombra
 pode caminhar na luz  
 sem medo de se perder nela.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/mFuDIfju2-0)](https://www.youtube.com/embed/mFuDIfju2-0)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mFuDIfju2-0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ---
 

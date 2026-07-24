@@ -18,4 +18,8 @@ Além disso, o exame da íris pode mapear seu organismo, identificando pontos fo
 
 Com essas informações, é possível planejar mudanças em hábitos alimentares e estilo de vida, adaptando-se ao seu biotipo e promovendo sua saúde.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/Hj9sbLyl_1U)](https://www.youtube.com/embed/Hj9sbLyl_1U)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Hj9sbLyl_1U" frameborder="0" allowfullscreen></iframe>
+</div>
+

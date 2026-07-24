@@ -153,7 +153,11 @@ curiosidade e cuidado.
 E quando essa observação é aliada à ciência, à nutrição, ao movimento e à
 consciência emocional, os resultados são transformadores.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/ZJgWkfpOGYA)](https://www.youtube.com/embed/ZJgWkfpOGYA)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJgWkfpOGYA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## Evento de Destaque: Congresso Brasileiro de Iridologia 2025
 

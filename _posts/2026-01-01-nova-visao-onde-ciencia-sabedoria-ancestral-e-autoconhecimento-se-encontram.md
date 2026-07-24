@@ -93,7 +93,11 @@ Mas, acima de tudo, vamos cultivar algo essencial:
 > para viver com autonomia terapêutica e espiritual —  
 > e pensar por nós mesmos.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/-0M8DlcOFXY)](https://www.youtube.com/embed/-0M8DlcOFXY)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-0M8DlcOFXY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 

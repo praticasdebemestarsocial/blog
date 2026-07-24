@@ -159,7 +159,11 @@ Embora ambos possam ser seguros se bem vedados, o vidro é preferível:
 
 👉Se optar por plástico, escolha embalagens opacas, herméticas e longe do calor — e consuma rapidamente.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/iuL-H-dS9l4)](https://www.youtube.com/embed/iuL-H-dS9l4)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iuL-H-dS9l4" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ## 5. Cuidado com os “falsos saudáveis”
 

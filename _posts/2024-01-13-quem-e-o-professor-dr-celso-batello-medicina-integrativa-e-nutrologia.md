@@ -82,7 +82,11 @@ Avançada pela Associação Brasileira de Acupuntura entre 1980 e 1982.
 
   
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/4EzjnJi1K1Q)](https://www.youtube.com/embed/4EzjnJi1K1Q)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4EzjnJi1K1Q" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 Em sua trajetória educacional, Celso Batello fez cursos de Iridologia, Nutrição
 e EquilÃ­brio Integrada, ministrados pelo renomado Dr. Bernard Jensen, incluindo o

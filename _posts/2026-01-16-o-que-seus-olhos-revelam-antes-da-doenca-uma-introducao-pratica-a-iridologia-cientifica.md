@@ -200,7 +200,11 @@ Três fatores revelam seu Grau de Resistência Constitucional:
    — Retas = força;  
    — Onduladas ou com “lacunas” = pontos de fragilidade.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/FfHvMi2Fn2w)](https://www.youtube.com/embed/FfHvMi2Fn2w)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FfHvMi2Fn2w" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 ---
 

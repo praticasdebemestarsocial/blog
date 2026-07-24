@@ -152,7 +152,11 @@ manifestações demandam investigação diagnóstica convencional e você nunca 
 substituir o acompanhamento médico ou psicológico especializado por abordagens
 integrativas.
 
-[🎥 [Vídeo incorporado](https://www.youtube.com/embed/x6o2FA2WAW0)](https://www.youtube.com/embed/x6o2FA2WAW0)
+
+<div class="video-container" style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/x6o2FA2WAW0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
   
 
