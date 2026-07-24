@@ -2,7 +2,7 @@
 layout: post
 title: "O Alerta da Misantropia: O Chacoalhão da Madrugada e o Nosso Desencanto Coletivo"
 date: 2026-06-20T22:02:02.871Z
-tags: ["autoconhecimento"]
+tags: ["autoconhecimento", "neurociência"]
 categories: ["bem-estar"]
 description: "O Alerta da Misantropia: O Chacoalhão da Madrugada e o Nosso Desencanto Coletivo"
 image: "/assets/img/posts/2.png"
