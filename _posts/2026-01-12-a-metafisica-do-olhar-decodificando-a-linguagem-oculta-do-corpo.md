@@ -5,7 +5,7 @@ date: 2026-01-12T18:57:00.007Z
 tags: ["metafísica", "iridologia"]
 categories: ["bem-estar"]
 description: "A Metafísica do Olhar: Decodificando a Linguagem Oculta do Corpo"
-image: "/assets/img/posts/educacao_espiritualidade_lucidez.jpg"
+image: "/assets/img/posts/iridologia_metafisica.jpeg"
 ---
 
 

@@ -5,6 +5,7 @@ date: 2026-01-07T04:02:00Z
 tags: []
 categories: ["bem-estar"]
 description: "Educação e Espiritualidade: o caminho da lucidez, da liberdade e da integridade"
+image: "/assets/img/posts/educacao_espiritualidade_lucidez.jpg"
 ---
 
 Educação e Espiritualidade: o caminho da lucidez, da liberdade e da integridade
