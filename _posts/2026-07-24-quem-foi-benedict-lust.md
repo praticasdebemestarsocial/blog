@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quem Foi Benedict Lust? O \"Pai da Naturopatia\" e a Integração da Iridologia"
+title: 'Quem Foi Benedict Lust? O "Pai da Naturopatia" e a Integração da Iridologia'
 date: 2026-07-24T14:00:00.000Z
 tags: ["Benedict Lust", "história da naturopatia", "iridologia", "hidroterapia", "saúde integrativa", "Vis Medicatrix Naturae", "medicina natural", "holismo"]
 categories: ["bem-estar"]
