@@ -1,10 +1,11 @@
-﻿---
+---
 layout: post
 title: "A Anatomia Oculta do Ouvido: : O Zumbido como Antena e a Fisiologia da Frequência Interna"
 date: 2026-06-14T18:17:47.628Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "A Anatomia Oculta do Ouvido: O Zumbido como Antena e a Fisiologia da Frequência Interna"
+image: "/assets/img/posts/anatomia_oculta_ouvido.jpg"
 ---
 
 ## A Anatomia Oculta do Ouvido: O Zumbido como Antena e a Fisiologia da Frequência Interna
