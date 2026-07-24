@@ -141,6 +141,7 @@ Se você vê a iridologia como uma ferramenta fascinante de avaliação holísti
 * American Academy of Ophthalmology – Posicionamento sobre iridologia
 * Scielo e PubMed – Artigos sobre métodos diagnósticos complementares
 * MAIKONG Iridology Research – Estudos e aplicações tecnológicas modernas
+* Iridology Chart (Iriscope) – [https://iriscope.org/pt/iridology-chart](https://iriscope.org/pt/iridology-chart)
 
 Quer pesquisar as referências acadêmicas e o histórico das minhas investigações em saúde integrativa? Acesse o meu currículo Lattes e ORCID:
 🔗 [ORCID](https://orcid.org/0000-0001-6311-1195)
