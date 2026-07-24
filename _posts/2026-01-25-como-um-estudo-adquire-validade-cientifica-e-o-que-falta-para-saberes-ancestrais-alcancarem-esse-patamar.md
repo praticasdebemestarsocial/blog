@@ -2,7 +2,7 @@
 layout: post
 title: "Como um Estudo Adquire Validade Científica — e o que falta para saberes ancestrais alcançarem esse patamar?"
 date: 2026-01-25T00:01:00.001Z
-tags: ["ciência e espiritualidade"]
+tags: ["ciência e espiritualidade", "iridologia", "referência científica"]
 categories: ["bem-estar"]
 description: "Como um Estudo Adquire Validade Científica — e o que falta para saberes"
 ---
