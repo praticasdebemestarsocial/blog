@@ -2,7 +2,7 @@
 layout: post
 title: "O Olho de Hórus e a Física da Pineal: Neuroanatomia Ancestral e Arqueoacústica"
 date: 2026-06-15T00:10:15.034Z
-tags: ["autoconhecimento"]
+tags: ["autoconhecimento", "neurociência"]
 categories: ["bem-estar"]
 description: "O Olho de Hórus e a Física da Pineal: Neuroanatomia Ancestral e Arqueoacústica"
 image: "/assets/img/posts/horus_pineal.jpg"
