@@ -2,14 +2,14 @@
 layout: post
 title: "A Ciência Oculta da Civilização Maia: O que a Modernidade Esqueceu?"
 date: 2026-06-29 20:53:42 +0000
-tags: [civilização maia, povosoriginários]
+tags: [civilização maia, povosoriginários, grande america ancestral, Cultura Maia]
 categories: []
 description: "Por séculos, o olhar ocidental e eurocêntrico confinou as civilizações antigas das Américas a duas prateleiras redutivas: ou eram vistas através do ro"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwmSw9asl_aXi9VGiXiHfJoYzA5n2I2_78sbmBQhCyKcogDej2zGwL2UwfYRTf_tAo-T5bx2OHtEv7AP37WPpX77ZbjfhM_ZPU5AmftJLZSAEUZU5NeR14-Tc-jotqHqfM_RAxY0eWyOTW3s3uJWasoNaerbUGIrFD2woRiReT3fq86wYwAf6DoSEEdV2Z/s1408/civilizacao_maia.png"
 math: false
 mermaid: false
 comments: true
 ---
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwmSw9asl_aXi9VGiXiHfJoYzA5n2I2_78sbmBQhCyKcogDej2zGwL2UwfYRTf_tAo-T5bx2OHtEv7AP37WPpX77ZbjfhM_ZPU5AmftJLZSAEUZU5NeR14-Tc-jotqHqfM_RAxY0eWyOTW3s3uJWasoNaerbUGIrFD2woRiReT3fq86wYwAf6DoSEEdV2Z/w501-h274/civilizacao_maia.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwmSw9asl_aXi9VGiXiHfJoYzA5n2I2_78sbmBQhCyKcogDej2zGwL2UwfYRTf_tAo-T5bx2OHtEv7AP37WPpX77ZbjfhM_ZPU5AmftJLZSAEUZU5NeR14-Tc-jotqHqfM_RAxY0eWyOTW3s3uJWasoNaerbUGIrFD2woRiReT3fq86wYwAf6DoSEEdV2Z/s1408/civilizacao_maia.png)
 
   
 
