@@ -1,12 +1,13 @@
-﻿---
+---
 layout: page
-title: PsicodÃ©licos
+title: Psicodélicos
 permalink: /disciplinas/psicodelicos/
 ---
-Aqui vocÃª encontra todas as postagens sobre **PsicodÃ©licos**.
+
+Aqui você encontra todas as postagens sobre **Psicodélicos**.
 
 <div class="entries-list">
-{% assign search_term = "PsicodÃ©licos" | downcase %}
+{% assign search_term = "Psicodélicos" | downcase %}
 {% assign posts = "" | split: "" %}
 
 {% for post in site.posts %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **PsicodÃ©licos**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "PsicodÃ©licos". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Psicodélicos". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

@@ -1,12 +1,13 @@
-﻿---
+---
 layout: page
-title: A Grande AmÃ©rica Ancestral
+title: A Grande América Ancestral
 permalink: /disciplinas/a-grande-america-ancestral/
 ---
-Aqui vocÃª encontra todas as postagens sobre **A Grande AmÃ©rica Ancestral**.
+
+Aqui você encontra todas as postagens sobre **A Grande América Ancestral**.
 
 <div class="entries-list">
-{% assign search_term = "A Grande AmÃ©rica Ancestral" | downcase %}
+{% assign search_term = "A Grande América Ancestral" | downcase %}
 {% assign posts = "" | split: "" %}
 
 {% for post in site.posts %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **A Grande AmÃ©rica Ancestral**
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "A Grande AmÃ©rica Ancestral". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "A Grande América Ancestral". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

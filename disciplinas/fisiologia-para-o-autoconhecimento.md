@@ -1,9 +1,10 @@
-﻿---
+---
 layout: page
 title: Fisiologia para o autoconhecimento
 permalink: /disciplinas/fisiologia-para-o-autoconhecimento/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Fisiologia para o autoconhecimento**.
+
+Aqui você encontra todas as postagens sobre **Fisiologia para o autoconhecimento**.
 
 <div class="entries-list">
 {% assign search_term = "Fisiologia para o autoconhecimento" | downcase %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Fisiologia para o autoconhecime
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Fisiologia para o autoconhecimento". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Fisiologia para o autoconhecimento". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

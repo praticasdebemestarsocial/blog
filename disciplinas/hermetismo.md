@@ -1,9 +1,10 @@
-﻿---
+---
 layout: page
 title: Hermetismo
 permalink: /disciplinas/hermetismo/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Hermetismo**.
+
+Aqui você encontra todas as postagens sobre **Hermetismo**.
 
 <div class="entries-list">
 {% assign search_term = "Hermetismo" | downcase %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Hermetismo**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Hermetismo". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Hermetismo". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

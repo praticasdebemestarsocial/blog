@@ -1,9 +1,10 @@
-﻿---
+---
 layout: page
 title: Fitoterapia
 permalink: /disciplinas/fitoterapia/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Fitoterapia**.
+
+Aqui você encontra todas as postagens sobre **Fitoterapia**.
 
 <div class="entries-list">
 {% assign search_term = "Fitoterapia" | downcase %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Fitoterapia**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Fitoterapia". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Fitoterapia". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

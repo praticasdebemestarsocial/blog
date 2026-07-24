@@ -1,9 +1,10 @@
-﻿---
+---
 layout: page
 title: Musicoterapia
 permalink: /disciplinas/musicoterapia/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Musicoterapia**.
+
+Aqui você encontra todas as postagens sobre **Musicoterapia**.
 
 <div class="entries-list">
 {% assign search_term = "Musicoterapia" | downcase %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Musicoterapia**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Musicoterapia". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Musicoterapia". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

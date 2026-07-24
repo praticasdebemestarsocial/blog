@@ -1,9 +1,10 @@
-﻿---
+---
 layout: page
 title: Medicina Tradicional Chinesa
 permalink: /disciplinas/medicina-tradicional-chinesa/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Medicina Tradicional Chinesa**.
+
+Aqui você encontra todas as postagens sobre **Medicina Tradicional Chinesa**.
 
 <div class="entries-list">
 {% assign search_term = "Medicina Tradicional Chinesa" | downcase %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Medicina Tradicional Chinesa**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Medicina Tradicional Chinesa". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Medicina Tradicional Chinesa". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

@@ -1,12 +1,13 @@
-﻿---
+---
 layout: page
-title: MetafÃ­sica
+title: Metafísica
 permalink: /disciplinas/metafisica/
 ---
-Aqui vocÃª encontra todas as postagens sobre **MetafÃ­sica**.
+
+Aqui você encontra todas as postagens sobre **Metafísica**.
 
 <div class="entries-list">
-{% assign search_term = "MetafÃ­sica" | downcase %}
+{% assign search_term = "Metafísica" | downcase %}
 {% assign posts = "" | split: "" %}
 
 {% for post in site.posts %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **MetafÃ­sica**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "MetafÃ­sica". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Metafísica". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

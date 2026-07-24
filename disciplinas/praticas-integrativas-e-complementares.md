@@ -1,12 +1,13 @@
-﻿---
+---
 layout: page
-title: PrÃ¡ticas Integrativas e Complementares
+title: Práticas Integrativas e Complementares
 permalink: /disciplinas/praticas-integrativas-e-complementares/
 ---
-Aqui vocÃª encontra todas as postagens sobre **PrÃ¡ticas Integrativas e Complementares**.
+
+Aqui você encontra todas as postagens sobre **Práticas Integrativas e Complementares**.
 
 <div class="entries-list">
-{% assign search_term = "PrÃ¡ticas Integrativas e Complementares" | downcase %}
+{% assign search_term = "Práticas Integrativas e Complementares" | downcase %}
 {% assign posts = "" | split: "" %}
 
 {% for post in site.posts %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **PrÃ¡ticas Integrativas e Comp
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "PrÃ¡ticas Integrativas e Complementares". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Práticas Integrativas e Complementares". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

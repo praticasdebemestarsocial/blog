@@ -1,9 +1,10 @@
-﻿---
+---
 layout: page
 title: Cultura Maia
 permalink: /disciplinas/cultura-maia/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Cultura Maia**.
+
+Aqui você encontra todas as postagens sobre **Cultura Maia**.
 
 <div class="entries-list">
 {% assign search_term = "Cultura Maia" | downcase %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Cultura Maia**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Cultura Maia". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Cultura Maia". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

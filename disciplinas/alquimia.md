@@ -1,9 +1,10 @@
-﻿---
+---
 layout: page
 title: Alquimia
 permalink: /disciplinas/alquimia/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Alquimia**.
+
+Aqui você encontra todas as postagens sobre **Alquimia**.
 
 <div class="entries-list">
 {% assign search_term = "Alquimia" | downcase %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Alquimia**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Alquimia". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Alquimia". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

@@ -1,12 +1,13 @@
-﻿---
+---
 layout: page
-title: Cultura dos Povos IndÃ­genas
+title: Cultura dos Povos Indígenas
 permalink: /disciplinas/cultura-dos-povos-indigenas/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Cultura dos Povos IndÃ­genas**.
+
+Aqui você encontra todas as postagens sobre **Cultura dos Povos Indígenas**.
 
 <div class="entries-list">
-{% assign search_term = "Cultura dos Povos IndÃ­genas" | downcase %}
+{% assign search_term = "Cultura dos Povos Indígenas" | downcase %}
 {% assign posts = "" | split: "" %}
 
 {% for post in site.posts %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Cultura dos Povos IndÃ­genas*
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Cultura dos Povos IndÃ­genas". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Cultura dos Povos Indígenas". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

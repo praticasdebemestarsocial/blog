@@ -1,9 +1,10 @@
-﻿---
+---
 layout: page
 title: Filosofia Antiga
 permalink: /disciplinas/filosofia-antiga/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Filosofia Antiga**.
+
+Aqui você encontra todas as postagens sobre **Filosofia Antiga**.
 
 <div class="entries-list">
 {% assign search_term = "Filosofia Antiga" | downcase %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Filosofia Antiga**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Filosofia Antiga". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Filosofia Antiga". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

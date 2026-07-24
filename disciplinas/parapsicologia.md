@@ -1,9 +1,10 @@
-﻿---
+---
 layout: page
 title: Parapsicologia
 permalink: /disciplinas/parapsicologia/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Parapsicologia**.
+
+Aqui você encontra todas as postagens sobre **Parapsicologia**.
 
 <div class="entries-list">
 {% assign search_term = "Parapsicologia" | downcase %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Parapsicologia**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Parapsicologia". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Parapsicologia". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

@@ -1,9 +1,10 @@
-﻿---
+---
 layout: page
 title: Dietoterapia
 permalink: /disciplinas/dietoterapia/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Dietoterapia**.
+
+Aqui você encontra todas as postagens sobre **Dietoterapia**.
 
 <div class="entries-list">
 {% assign search_term = "Dietoterapia" | downcase %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Dietoterapia**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Dietoterapia". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Dietoterapia". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

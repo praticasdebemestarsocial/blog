@@ -1,9 +1,10 @@
-﻿---
+---
 layout: page
 title: Xamanismo
 permalink: /disciplinas/xamanismo/
 ---
-Aqui vocÃª encontra todas as postagens sobre **Xamanismo**.
+
+Aqui você encontra todas as postagens sobre **Xamanismo**.
 
 <div class="entries-list">
 {% assign search_term = "Xamanismo" | downcase %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **Xamanismo**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "Xamanismo". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Xamanismo". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

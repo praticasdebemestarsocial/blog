@@ -1,12 +1,13 @@
-﻿---
+---
 layout: page
-title: NeurociÃªncia e PNL
+title: Neurociência e PNL
 permalink: /disciplinas/neurociencia-e-pnl/
 ---
-Aqui vocÃª encontra todas as postagens sobre **NeurociÃªncia e PNL**.
+
+Aqui você encontra todas as postagens sobre **Neurociência e PNL**.
 
 <div class="entries-list">
-{% assign search_term = "NeurociÃªncia e PNL" | downcase %}
+{% assign search_term = "Neurociência e PNL" | downcase %}
 {% assign posts = "" | split: "" %}
 
 {% for post in site.posts %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **NeurociÃªncia e PNL**.
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "NeurociÃªncia e PNL". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Neurociência e PNL". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>

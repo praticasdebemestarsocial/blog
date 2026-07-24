@@ -1,12 +1,13 @@
-﻿---
+---
 layout: page
-title: PsicanÃ¡lise e Hipnoterapia
+title: Psicanálise e Hipnoterapia
 permalink: /disciplinas/psicanalise-e-hipnoterapia/
 ---
-Aqui vocÃª encontra todas as postagens sobre **PsicanÃ¡lise e Hipnoterapia**.
+
+Aqui você encontra todas as postagens sobre **Psicanálise e Hipnoterapia**.
 
 <div class="entries-list">
-{% assign search_term = "PsicanÃ¡lise e Hipnoterapia" | downcase %}
+{% assign search_term = "Psicanálise e Hipnoterapia" | downcase %}
 {% assign posts = "" | split: "" %}
 
 {% for post in site.posts %}
@@ -22,6 +23,6 @@ Aqui vocÃª encontra todas as postagens sobre **PsicanÃ¡lise e Hipnoterapia**
     {% include entry.html %}
   {% endfor %}
 {% else %}
-  <p><em>Ainda nÃ£o hÃ¡ postagens classificadas exatamente como "PsicanÃ¡lise e Hipnoterapia". Explore a busca geral do blog!</em></p>
+  <p><em>Ainda não há postagens classificadas exatamente como "Psicanálise e Hipnoterapia". Explore a busca geral do blog!</em></p>
 {% endif %}
 </div>
