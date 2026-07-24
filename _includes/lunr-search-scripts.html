@@ -78,45 +78,50 @@
 
     searchInput.on('focus', initSearch);
 
+    var debounceTimer;
     searchInput.on('keyup', function () {
       if (!idx || typeof store === 'undefined') return;
 
-      var resultdiv = $('#results');
-      var query = $(this).val().toLowerCase();
-      
-      if (query.trim() === '') {
-        resultdiv.empty();
-        return;
-      }
-
-      var result = idx.query(function (q) {
-        query.split(lunr.tokenizer.separator).forEach(function (term) {
-          q.term(term, { boost: 100 });
-          if (query.lastIndexOf(" ") != query.length - 1) {
-            q.term(term, { usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 });
-          }
-          if (term != "") {
-            q.term(term, { usePipeline: false, editDistance: 1, boost: 1 });
-          }
-        });
-      });
+      var self = this;
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(function() {
+        var resultdiv = $('#results');
+        var query = $(self).val().toLowerCase();
         
-      resultdiv.empty();
-      resultdiv.prepend('<p class="results__found">' + result.length + ' {{ site.data.text[site.locale].results_found | default: "Result(s) found" }}</p>');
-      
-      for (var item in result) {
-        var ref = result[item].ref;
-        var searchitem =
-          '<article class="entry" style="margin-bottom: 15px; padding: 10px; border: 1px solid #eee; border-radius: 5px;">' +
-            '<h3 class="entry-title" style="margin-top: 0; margin-bottom: 5px; font-size: 1.1em;">' +
-              '<a href="' + store[ref].url + '">' + store[ref].title + '</a>' +
-            '</h3>' +
-            '<div class="entry-excerpt" style="font-size: 0.9em; color: #555;">' +
-              '<p style="margin: 0;">' + store[ref].excerpt.split(" ").splice(0, 20).join(" ") + '...</p>' +
-            '</div>' +
-          '</article>';
-        resultdiv.append(searchitem);
-      }
+        if (query.trim() === '') {
+          resultdiv.empty();
+          return;
+        }
+
+        var result = idx.query(function (q) {
+          query.split(lunr.tokenizer.separator).forEach(function (term) {
+            q.term(term, { boost: 100 });
+            if (query.lastIndexOf(" ") != query.length - 1) {
+              q.term(term, { usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 });
+            }
+            if (term != "") {
+              q.term(term, { usePipeline: false, editDistance: 1, boost: 1 });
+            }
+          });
+        });
+          
+        resultdiv.empty();
+        resultdiv.prepend('<p class="results__found">' + result.length + ' {{ site.data.text[site.locale].results_found | default: "Result(s) found" }}</p>');
+        
+        for (var item in result) {
+          var ref = result[item].ref;
+          var searchitem =
+            '<article class="entry" style="margin-bottom: 15px; padding: 10px; border: 1px solid #eee; border-radius: 5px;">' +
+              '<h3 class="entry-title" style="margin-top: 0; margin-bottom: 5px; font-size: 1.1em;">' +
+                '<a href="' + store[ref].url + '">' + store[ref].title + '</a>' +
+              '</h3>' +
+              '<div class="entry-excerpt" style="font-size: 0.9em; color: #555;">' +
+                '<p style="margin: 0;">' + store[ref].excerpt.split(" ").splice(0, 20).join(" ") + '...</p>' +
+              '</div>' +
+            '</article>';
+          resultdiv.append(searchitem);
+        }
+      }, 300); // 300ms debounce
     });
 
     var urlParams = new URLSearchParams(window.location.search);
