@@ -5,7 +5,7 @@ date: 2026-06-15T02:27:43.434Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "O Hardware Oculto da Consciência: A Neurobiologia e a Descalcificação da Glândula Pineal"
-image: "/assets/img/posts/pineal.png"
+image: "/assets/img/posts/hardware_consciencia.jpg"
 ---
 
 
