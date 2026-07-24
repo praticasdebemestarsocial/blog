@@ -1,14 +1,13 @@
-﻿---
+---
 layout: post
 title: "Por que o sistema odeia a iridologia?"
 date: 2026-01-18T16:51:00.005Z
-tags: ["fundamentos da iridologia"]
+tags: ["fundamentos da iridologia", "iridologia"]
 categories: ["bem-estar"]
 description: ""
 image: "/assets/img/posts/image_-5531320576854291652.jpg"
 ---
 
-![iridologia](/assets/img/posts/image_-5531320576854291652.jpg "irisdiagnose")
 
   
  O Sistema Odeia a Iridologia — e tudo o que devolve o poder ao ser humano
