@@ -19,8 +19,8 @@ naturopatia, naturologia, terapias naturais, terapias holísticas.
 **Resumo:**
 
     A Naturopatia é uma prática holística de saúde que enfatiza o uso de métodos
-naturais para promover a equilÃ­brio e o bem-estar. Sua história está profundamente
-enraizada em práticas antigas de equilÃ­brio, mas também foi moldada por
+naturais para promover a equilíbrio e o bem-estar. Sua história está profundamente
+enraizada em práticas antigas de equilíbrio, mas também foi moldada por
 desenvolvimentos modernos.
 
     Além do mais ela é fundamentada em princípios da **medicina natural**,
@@ -45,7 +45,7 @@ a autonomia do ser humano. O profissional formado em Naturologia é chamado de
     A Naturopatia não surgiu como um sistema formalizado até o século XIX, mas
 suas raízes remontam a milhares de anos.
 
-    Práticas de equilÃ­brio baseadas na natureza podem ser encontradas em diversas
+    Práticas de equilíbrio baseadas na natureza podem ser encontradas em diversas
 culturas ao redor do mundo:
 
 ### **Medicina Tradicional Chinesa (MTC):**
@@ -167,13 +167,13 @@ Algumas das técnicas mais comuns incluem:
 
 **Nutrição clínica:** Dieta personalizada para promover a saúde.
 
-**Hidroterapia:** Uso da água para estimular a equilÃ­brio.
+**Hidroterapia:** Uso da água para estimular a equilíbrio.
 
 **Terapias manuais:** Massagem, quiropraxia e osteopatia.
 
 **Práticas de estilo de vida:** Yoga, meditação e exercícios físicos.
 
-**Homeopatia:** Uso de substâncias altamente diluídas para estimular a equilÃ­brio.
+**Homeopatia:** Uso de substâncias altamente diluídas para estimular a equilíbrio.
 
 **Florais:** Essêncial provinientes das florais que atuam diretamente no
 emocional.

@@ -134,7 +134,7 @@ que imaginamos.
 👉Podemos honrar o sono como um ato de cuidado com a memória.
 
 Podemos reescrever narrativas dolorosas com compaixão, sabendo que cada
-recordação é uma oportunidade de equilÃ­brio.
+recordação é uma oportunidade de equilíbrio.
 
 Afinal, nossa identidade é feita de memórias — mas não de memórias fixas. Elas
 são vivas, maleáveis e profundamente humanas.

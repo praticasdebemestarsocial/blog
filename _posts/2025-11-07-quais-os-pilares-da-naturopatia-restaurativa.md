@@ -30,7 +30,7 @@ humanizada da saúde.
 
 Mais do que evitar efeitos colaterais, este princípio convida o profissional a
 escolher as intervenções mais suaves, menos invasivas e mais alinhadas com a
-fisiologia natural do corpo. Significa respeitar o tempo de equilÃ­brio, evitar
+fisiologia natural do corpo. Significa respeitar o tempo de equilíbrio, evitar
 supressões sintomáticas e priorizar terapias que fortalecem, em vez de
 substituir, os mecanismos vitais.
 
@@ -38,7 +38,7 @@ substituir, os mecanismos vitais.
 
 Aqui reside o coração da naturopatia: a crença de que o corpo possui uma
 inteligência inata de autocura. O papel do terapeuta não é “equilibrar”, mas remover
-obstáculos à equilÃ­brio e criar as condições ideais — nutricionais, emocionais,
+obstáculos à equilíbrio e criar as condições ideais — nutricionais, emocionais,
 ambientais — para que essa força vital (vis medicatrix) possa se expressar
 plenamente.
 
@@ -60,7 +60,7 @@ o órgão doente.
 ### 5. Médico como professor (Docere)
 
 A palavra “doutor” vem do latim docere, que significa ensinar. O naturopata não
-detém o poder da equilÃ­brio — ele empodera o paciente com conhecimento, ferramentas e
+detém o poder da equilíbrio — ele empodera o paciente com conhecimento, ferramentas e
 consciência para que este se torne o principal agente de sua própria saúde.
 Aqui, a consulta vira um espaço de educação em saúde.
 
@@ -109,7 +109,7 @@ local, mas sempre fiéis aos seus princípios:
 
 👉Medicina Tradicional Chinesa e acupuntura
 
-👉Hidroterapia (“equilÃ­brio pela água”)
+👉Hidroterapia (“equilíbrio pela água”)
 
 👉Aconselhamento em estilo de vida
 

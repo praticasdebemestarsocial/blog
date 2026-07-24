@@ -16,7 +16,7 @@ Data: 5 de abril de 2025
 Tempo médio de leitura: 8 minutos
 
 Palavras-chave:Oração de Cáritas, espiritualidade, compaixão, autoconhecimento,
-equilÃ­brio interior, fé, humanização na saúde    
+equilíbrio interior, fé, humanização na saúde    
 
 **Resumo:**
 
@@ -66,11 +66,11 @@ Ela nos convida a:
 
 - Ver Deus não como juiz, mas como Pai compassivo
 
-- Buscar não apenas equilÃ­brio, mas transformação interior
+- Buscar não apenas equilíbrio, mas transformação interior
 
 No contexto da saúde integrativa, essa oração tem um papel poderoso.
 Profissionais que atuam com reeducação assistida, acompanhamento de doenças
-crônicas ou cuidados paliativos sabem que a equilÃ­brio nem sempre é biológica — muitas
+crônicas ou cuidados paliativos sabem que a equilíbrio nem sempre é biológica — muitas
 vezes é emocional, espiritual, simbólica.
 
 Aqui, a Oração de Cáritas se torna uma ferramenta de humanização. Quando

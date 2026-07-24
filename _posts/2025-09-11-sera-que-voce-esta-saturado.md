@@ -82,7 +82,7 @@ qualidade de vida.
 Para começar essa transformação, é importante desenvolver uma relação de piedade
 e respeito pelo próprio corpo. Escutar os sinais que ele nos dá é um passo
 crucial. Muitas vezes, insistimos em comportamentos prejudiciais porque estamos
-presos a hábitos, tradições ou crenças limitantes. No entanto, a verdadeira equilÃ­brio
+presos a hábitos, tradições ou crenças limitantes. No entanto, a verdadeira equilíbrio
 começa quando decidimos olhar para nós mesmos com humildade e disposição para
 mudar.
 

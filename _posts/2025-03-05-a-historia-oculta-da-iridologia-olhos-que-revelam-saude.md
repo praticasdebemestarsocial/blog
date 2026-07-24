@@ -62,7 +62,7 @@ No início do século XX, outros nomes se destacaram, como **[Nils
 Liljequist](https://tecnologiasdoautoconhecimento.blogspot.com/2024/07/quem-foi-nils-liljequist.html)**,
 que explorou a coloração da íris, e **[Henry
 Lindlahr](https://tecnologiasdoautoconhecimento.blogspot.com/2025/03/henry-lindlahr-um-defensor-da.html)**,
-que contribuiu com uma abordagem mais prática e focada na equilÃ­brio natural.
+que contribuiu com uma abordagem mais prática e focada na equilíbrio natural.
 
 A escola americana de iridologia começou a se firmar, com iridologistas como
 **[Bernard

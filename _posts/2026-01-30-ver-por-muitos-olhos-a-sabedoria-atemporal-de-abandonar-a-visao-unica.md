@@ -18,7 +18,7 @@ Palavras-chave: múltiplas perspectivas, sabedoria ancestral, Heráclito, Lao-Ts
 
 Resumo
 
-Muitas pessoas, em praticamente todas as épocas e culturas, falaram da mesma verdade: ver a vida por vários ângulos é o caminho da sabedoria, da equilÃ­brio e da ampliação da consciência. Neste artigo, traço uma linha contínua do tempo — da Antiguidade à física quântica — para mostrar que essa não é uma ideia moderna, mas um princípio universal.
+Muitas pessoas, em praticamente todas as épocas e culturas, falaram da mesma verdade: ver a vida por vários ângulos é o caminho da sabedoria, da equilíbrio e da ampliação da consciência. Neste artigo, traço uma linha contínua do tempo — da Antiguidade à física quântica — para mostrar que essa não é uma ideia moderna, mas um princípio universal.
 
 Descubra como Heráclito, Lao-Tsé, Buda, Platão, Paracelso, Jung e até a ciência contemporânea convergem no mesmo ensinamento: a verdadeira compreensão nasce quando abandonamos a visão única.
 
@@ -30,7 +30,7 @@ Muitas pessoas, em praticamente todas as épocas e culturas,
 falaram explicitamente sobre a importância de ver a vida e os problemas por vários ângulos.
 
 O mais interessante?  
-Essa ideia sempre aparece associada à sabedoria, à equilÃ­brio e à ampliação da consciência.
+Essa ideia sempre aparece associada à sabedoria, à equilíbrio e à ampliação da consciência.
 
 Não é modismo.  
 É um princípio universal, tecido na própria trama da existência.
@@ -152,7 +152,7 @@ Um sintoma só se transforma quando é visto:
 — dos sonhos,  
 — dos mitos.
 
-➡️ A equilÃ­brio acontece na interseção dos ângulos.
+➡️ A equilíbrio acontece na interseção dos ângulos.
 
 ---
 

@@ -21,7 +21,7 @@ iridologia
 
 **Resumo**
 
-A Medicina Tradicional Chinesa (MTC) ensina que a verdadeira arte da equilÃ­brio está
+A Medicina Tradicional Chinesa (MTC) ensina que a verdadeira arte da equilíbrio está
 em prevenir — não em reagir. Um antigo provérbio chinês resume essa visão:
 “Esperar ter sede para cavar um poço é tarde demais.”
 

@@ -30,7 +30,7 @@ Ela pode ser adaptada às crenças individuais e não depende de vinculação a 
 religião específica.
 
 A prática busca fortalecer a conexão com o divino (ou Força-Pai da Criação),
-proporcionando conforto, equilÃ­brio interior e equilíbrio.
+proporcionando conforto, equilíbrio interior e equilíbrio.
 
 Ideal para quem deseja transformar pensamentos, sentimentos e ações por meio de
 práticas espirituais inclusivas.
@@ -42,7 +42,7 @@ práticas espirituais inclusivas.
 A rezaterapia é uma abordagem que integra a dimensão espiritual ao processo
 terapêutico. Ela pode ser entendida como uma prática que utiliza orações,
 meditações, mantras ou rituais religiosos para ajudar os indivíduos a lidarem
-com questões emocionais, encontrar conforto espiritual e promover a equilÃ­brio
+com questões emocionais, encontrar conforto espiritual e promover a equilíbrio
 interior.
 
 Essa prática não se limita a uma única tradição religiosa. Pelo contrário, ela
@@ -185,7 +185,7 @@ Se você está interessado em explorar essa prática, inscreva-se em nossa playl
 de rezaterapia, onde compartilhamos orações de diversas culturas e tradições.
 
 Deixe seu like, acompanhe nossas postagens e junte-se a nós nessa jornada de
-equilÃ­brio e crescimento espiritual.
+equilíbrio e crescimento espiritual.
 
 **Referências Bibliográficas**:
 

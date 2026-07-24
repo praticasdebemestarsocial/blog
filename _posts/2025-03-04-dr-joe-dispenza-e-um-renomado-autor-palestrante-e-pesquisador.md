@@ -24,7 +24,7 @@ doutorado em quiropraxia em 1985.
 
 Desde cedo, ele demonstrou um profundo interesse pelas ciências da saúde e pelo
 funcionamento da mente humana. Sua formação em quiropraxia o levou a explorar
-como a mente e o corpo interagem, especialmente em relação à equilÃ­brio e ao
+como a mente e o corpo interagem, especialmente em relação à equilíbrio e ao
 bem-estar.
 
 A notoriedade de Dispenza começou a crescer após sua participação no
@@ -53,10 +53,10 @@ Neste trabalho, ele investiga a capacidade do corpo humano de se equilibrar atra
 do poder da mente e da intenção. O livro apresenta estudos de caso e técnicas
 que demonstram como a crença e a mentalidade podem influenciar a saúde.
 
-**“A EquilÃ­brio Quântica”:**
+**“A Equilíbrio Quântica”:**
 
 Neste livro, Dispenza explora a interseção entre ciência e espiritualidade,
-apresentando uma abordagem holística para a equilÃ­brio.
+apresentando uma abordagem holística para a equilíbrio.
 
 Ele enfatiza como a compreensão da física quântica pode ajudar as pessoas a se
 conectarem com seu verdadeiro potencial.
@@ -86,7 +86,7 @@ sua saúde, bem-estar e qualidade de vida.
 Suas ideias inspiraram muitos a se tornarem agentes de mudança em suas próprias
 vidas e na vida dos outros. Com uma abordagem que une ciência e espiritualidade,
 Dispenza continua a ser uma voz influente no campo do desenvolvimento pessoal e
-da equilÃ­brio.
+da equilíbrio.
 
 ### Conclusão
 

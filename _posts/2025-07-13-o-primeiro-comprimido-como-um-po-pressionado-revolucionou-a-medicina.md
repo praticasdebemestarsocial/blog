@@ -90,7 +90,7 @@ medicação até hoje (Fonte: Lucidarium ).
 ## Um Olhar Integrativo: Conectando Tradição e Ciência
 
 Embora os comprimidos tenham transformado a medicina moderna, é importante
-lembrar que eles não substituem completamente as práticas tradicionais de equilÃ­brio.
+lembrar que eles não substituem completamente as práticas tradicionais de equilíbrio.
 
 A medicina integrativa e complementar busca unir o melhor das abordagens
 convencionais e alternativas, reconhecendo que o corpo humano é um sistema
@@ -109,7 +109,7 @@ Hoje, os comprimidos continuam evoluindo. Tecnologias como liberação controlad
 de princípios ativos e nanotecnologia estão sendo incorporadas para tornar os
 medicamentos ainda mais eficientes e personalizados.
 
-No entanto, a medicina integrativa nos lembra que a equilÃ­brio vai além do físico: ela
+No entanto, a medicina integrativa nos lembra que a equilíbrio vai além do físico: ela
 envolve mente, corpo e espírito.
 
 Ao refletirmos sobre a jornada desde os antigos remédios naturais até os
@@ -126,7 +126,7 @@ eficiente transformou a forma como cuidamos da saúde.
 
 No entanto, a verdadeira revolução está em integrar o conhecimento científico
 com as práticas tradicionais, promovendo uma abordagem mais completa e humana da
-equilÃ­brio.
+equilíbrio.
 
 Da próxima vez que tomar um comprimido, lembre-se de sua incrível história e do
 impacto que ele teve na vida de milhões de pessoas ao redor do mundo.

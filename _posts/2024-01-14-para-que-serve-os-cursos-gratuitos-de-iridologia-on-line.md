@@ -25,7 +25,7 @@ curso gratuito de iridologia:
 
 * Conhecimento sobre a estrutura e a função da íris: Os cursos de iridologia geralmente cobrem os fundamentos da anatomia e fisiologia da íris. Isso pode ajudar as pessoas a entender melhor como a íris pode ser usada para diagnosticar problemas de saúde.
 * Conhecimento sobre as técnicas de avaliação iridológica: Os cursos de iridologia ensinam as pessoas a realizar uma avaliação iridológica. Isso inclui aprender a identificar as diferentes características da íris que podem indicar problemas de saúde.
-* Conhecimento sobre as aplicações da iridologia: Os cursos de iridologia discutem as diferentes maneiras como a iridologia pode ser usada para promover a saúde e o bem-estar. Isso inclui aprender sobre como a iridologia pode ser usada para diagnosticar problemas de saúde, prevenir doenças e promover a equilÃ­brio.
+* Conhecimento sobre as aplicações da iridologia: Os cursos de iridologia discutem as diferentes maneiras como a iridologia pode ser usada para promover a saúde e o bem-estar. Isso inclui aprender sobre como a iridologia pode ser usada para diagnosticar problemas de saúde, prevenir doenças e promover a equilíbrio.
 
 ## 3- Uma pessoa que faz um curso gratuito de Iridologia deve buscar um curso pago de Iridologia?
 

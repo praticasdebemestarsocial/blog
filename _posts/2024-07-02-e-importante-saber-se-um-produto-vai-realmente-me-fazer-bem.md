@@ -41,7 +41,7 @@ levar ao agravamento da situação, transferindo o problema de um órgão para o
 ou mascarando uma condição subjacente que permanece latente no organismo.
 
 Certos alimentos ou remédios podem mascarar os sintomas, criando a ilusão de
-equilÃ­brio. No entanto, em pouco tempo, surgem novos problemas, muitas vezes ainda
+equilíbrio. No entanto, em pouco tempo, surgem novos problemas, muitas vezes ainda
 mais graves que os iniciais.
 
 ## O Que Influencia o Efeito de um Produto no Organismo?
@@ -88,7 +88,7 @@ Com o volume excessivo de informações disponíveis, especialmente para quem n�
 tem conhecimento aprofundado sobre saúde, é comum que as pessoas se sintam
 perdidas, sem saber em quem confiar ou o que realmente seguir.
 
-## Descobrir a Causa do Problema: O Caminho para a EquilÃ­brio
+## Descobrir a Causa do Problema: O Caminho para a Equilíbrio
 
 Para promover uma recuperação eficaz, é essencial identificar a raiz do
 problema. Ao compreender a origem do desequilíbrio, torna-se possível harmonizar

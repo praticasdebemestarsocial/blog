@@ -31,7 +31,7 @@ Freud acreditava que muitos dos nossos problemas emocionais eram resultado de
 experiências reprimidas e desejos não realizados.
 
 Assim, a psicanálise visa trazer esses conteúdos à consciência, permitindo que
-sejam confrontados e trabalhados, promovendo a equilÃ­brio e a transformação.
+sejam confrontados e trabalhados, promovendo a equilíbrio e a transformação.
 
 ### A Hipnose: Um Estado Alterado de Consciência
 
@@ -84,7 +84,7 @@ Por exemplo, um terapeuta pode usar a hipnose para ajudar um paciente a acessar
 um trauma específico, e em seguida, aplicar técnicas psicanalíticas para
 entender o significado e as implicações desse trauma na vida do paciente.
 
-Essa abordagem combinada pode intensificar o processo de equilÃ­brio e promover
+Essa abordagem combinada pode intensificar o processo de equilíbrio e promover
 mudanças duradouras.
 
 ### Conclusão
@@ -98,4 +98,4 @@ enfrentem seus medos e transformem suas vidas.
 
 Se você está considerando a terapia, a combinação da psicanálise e da hipnose
 pode ser uma opção valiosa a ser explorada, proporcionando um caminho mais
-profundo e significativo para o autoconhecimento e a equilÃ­brio.
+profundo e significativo para o autoconhecimento e a equilíbrio.

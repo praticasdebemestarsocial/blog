@@ -106,7 +106,7 @@ da lógica reducionista e adotar uma abordagem mais ampla, ética e humana.
 
 Seus manuais e artigos — muitos publicados em coletâneas sobre terapias
 integrativas — oferecem clareza, rigor e sensibilidade. Ela não promove a
-iridologia como “equilÃ­brio milagrosa”, mas como um caminho de escuta e prevenção.
+iridologia como “equilíbrio milagrosa”, mas como um caminho de escuta e prevenção.
 
 **Conclusão**
 

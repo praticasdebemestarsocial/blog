@@ -116,7 +116,7 @@ Acender uma vela pode ser:
 👉simplesmente respirar com intenção.
 
 Na visão oriental, a ação consciente — por menor que seja — já é uma forma de
-equilÃ­brio.
+equilíbrio.
 
 Porque a luz não precisa ser grande. Só precisa existir.
 

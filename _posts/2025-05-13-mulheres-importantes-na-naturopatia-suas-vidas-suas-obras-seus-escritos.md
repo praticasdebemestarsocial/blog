@@ -43,7 +43,7 @@ Kerckhoff resgata a biografia e as contribuições de figuras notáveis como:
 * **Maria Treben** – autora do famoso “Saúde pela Farmácia de Deus” (*Gesundheit
   aus der Apotheke Gottes*), obra fundamental da fitoterapia popular.
 * **Anna Fischer-Dückelmann** – médica que escreveu sobre saúde da mulher e
-  práticas naturais de equilÃ­brio.
+  práticas naturais de equilíbrio.
 * **Emma Kunz** – sensitiva e pesquisadora suíça conhecida por seus métodos de
   diagnóstico energético e uso de radiestesia.
 

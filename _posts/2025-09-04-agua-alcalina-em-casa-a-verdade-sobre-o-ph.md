@@ -37,7 +37,7 @@ ligeiramente alcalino pode ajudar a neutralizar o excesso de acidez no corpo,
 causado por dietas ricas em alimentos processados, estresse e poluição.
 
 Porém, é importante esclarecer que os benefícios da água alcalina estão
-relacionados ao bem-estar e não devem ser confundidos com equilÃ­brios médicas.
+relacionados ao bem-estar e não devem ser confundidos com equilíbrios médicas.
 
 Estudos ainda são limitados, mas muitos usuários relatam melhorias na
 hidratação, redução de refluxos e uma sensação geral de leveza após adotá-la.

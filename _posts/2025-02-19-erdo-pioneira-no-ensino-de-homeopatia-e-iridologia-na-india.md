@@ -99,7 +99,7 @@ Seu legado vai além da Índia: é um modelo de como práticas complementares po
 se tornar parte integral do sistema de saúde global, com rigor científico e
 humanismo. Como disse o Dr. Jagdeep Singh:
 
-“A equilÃ­brio não está apenas no remédio, mas na conexão entre o observador, o
+“A equilíbrio não está apenas no remédio, mas na conexão entre o observador, o
 observado e o universo.”  
 
 **Referências Bibliográficas**

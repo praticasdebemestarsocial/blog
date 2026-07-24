@@ -48,7 +48,7 @@ entre corpo, mente e espírito.
 
 ### 5. Curiosidade sobre Terapias Naturais:
 
-Indivíduos interessados em métodos naturais de equilÃ­brio, incluindo terapias florais,
+Indivíduos interessados em métodos naturais de equilíbrio, incluindo terapias florais,
 aromaterapia e outras práticas holísticas frequentemente associadas à
 iridologia.
 

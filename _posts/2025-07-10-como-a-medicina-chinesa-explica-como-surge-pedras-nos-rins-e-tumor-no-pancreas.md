@@ -170,7 +170,7 @@ qualificado.
 
 Eles podem oferecer diagnósticos personalizados e tratamentos que combinam
 acupuntura, fitoterapia e mudanças dietéticas para promover o equilíbrio e a
-equilÃ­brio.
+equilíbrio.
 
 **Referências:**
 

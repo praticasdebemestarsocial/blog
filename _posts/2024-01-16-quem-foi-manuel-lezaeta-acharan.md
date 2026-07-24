@@ -18,11 +18,11 @@ image: "https://i.ibb.co/FbvbHtP2/6092e3666d74.png"
 Manuel Lezaeta Acharán foi um foi um naturista , advogado , professor e escritor chileno  chileno nascido em 4 de julho de 1886 e falecido em 1959. 
 
 Ele foi um pioneiro da medicina naturista no Chile. Lezaeta Acharán era defensor
-de abordagens de equilÃ­brio naturais e acreditava no poder do corpo de se equilibrar por
+de abordagens de equilíbrio naturais e acreditava no poder do corpo de se equilibrar por
 meio de métodos naturais.
 
 Reconhecido como pioneiro da medicina naturista no Chile, defendeu métodos
-naturais de equilÃ­brio, acreditando no poder intrínseco do corpo para se recuperar.  
+naturais de equilíbrio, acreditando no poder intrínseco do corpo para se recuperar.  
 
                                            [🎥 [Vídeo
 incorporado](https://www.youtube.com/embed/rjfDshsHops)](https://www.youtube.com/embed/rjfDshsHops)  
@@ -36,7 +36,7 @@ em **1959**.  
 Ele foi um **advogado, professor, escritor e naturista**, sendo reconhecido como
 um dos **pioneiros da medicina natural no Chile**.
 
-Sua maior contribuição foi **a defesa dos métodos naturais de equilÃ­brio**,
+Sua maior contribuição foi **a defesa dos métodos naturais de equilíbrio**,
 acreditando que o corpo possui um **poder inato de se regenerar** quando está em
 equilíbrio com a natureza.
 

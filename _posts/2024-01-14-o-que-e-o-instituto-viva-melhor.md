@@ -14,13 +14,13 @@ O Instituto Viva Melhor foi fundado em 2014 com a missão de difundir o
 conhecimento da naturopatia integrativa e iridologia no Brasil e no mundo.  
 
 Acreditamos que essas sejam as ciências do futuro que irão proporcionar a
-verdadeira equilÃ­brio em um mundo cada vez mais doente e que buscam cada vez mais uma
+verdadeira equilíbrio em um mundo cada vez mais doente e que buscam cada vez mais uma
 melhor qualidade de vida.
 
 O Instituto Viva Melhor é uma escola de excelência que oferece educação de alta
 qualidade para profissionais de saúde que desejam se tornar especialistas em
 naturopatia integrativa e iridologia. A Formação Master é uma excelente
-oportunidade para profissionais que desejam levar a verdadeira equilÃ­brio para as
+oportunidade para profissionais que desejam levar a verdadeira equilíbrio para as
 pessoas.
 
 ## 2- O que oferece o  Instituto Viva Melhor?

@@ -115,7 +115,7 @@ consciência.**
 | --- | --- | --- |
 | Base | Teosofia, Alice Bailey, Esoterismo Ocidental | Pode ser uma fusão entre tradições ancestrais, psicologia arquetípica, naturopatia, medicina vibracional |
 | Linguagem | Mais técnica e ligada a escolas esotéricas específicas | Pode ser poética, sensorial, intuitiva e mais acessível |
-| Foco terapêutico | Transcendência e serviço espiritual | Autoconhecimento, equilÃ­brio emocional, integração e conexão com a natureza |
+| Foco terapêutico | Transcendência e serviço espiritual | Autoconhecimento, equilíbrio emocional, integração e conexão com a natureza |
 | Ferramentas | Astrologia esotérica, 7 raios, chakras, corpos sutis | Pode incluir florais, fitoterapia, iridologia, oráculos, contos, ritualística, meditações, entre outros |
 
 ### ✍️ Em resumo:

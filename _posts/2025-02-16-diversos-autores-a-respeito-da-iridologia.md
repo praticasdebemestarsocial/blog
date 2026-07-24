@@ -309,7 +309,7 @@ iridologia:
    * Um dos pioneiros americanos da iridologia no início do século XX.
 7. Frederick W. Collins, MD
 
-   * Médico americano que contribuiu para a prática da iridologia no contexto da equilÃ­brio natural.
+   * Médico americano que contribuiu para a prática da iridologia no contexto da equilíbrio natural.
 8. Henry Lindlahr, MD
 
    * Autor do livro *"Iridiagnosis And Other Diagnostic Methods"* (1919). Foi um defensor da iridologia como crítica às práticas médicas convencionais.

@@ -61,7 +61,7 @@ espiritual e física, examinando a íris para diagnosticar a saúde do paciente.
 
 Por fim, o curso de Terapia Holística Integral integra diferentes abordagens
 terapêuticas para promover o bem-estar holístico, considerando os benefícios da
-saúde natural, equilÃ­brio emocional e espiritualidade.
+saúde natural, equilíbrio emocional e espiritualidade.
 
 A BIU adapta seus programas de ensino superior à distância às necessidades e ao
 currículo de cada aluno, oferecendo uma educação personalizada e de qualidade.

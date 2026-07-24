@@ -14,7 +14,7 @@ image: "https://i.ibb.co/xqhbN2yc/da19e141b172.png"
 
 ## 🌿 Enciclopédia da Medicina Natural: Seu Guia Definitivo para Saúde Integral
 
-Você já imaginou ter acesso a um guia completo que revela os segredos da equilÃ­brio
+Você já imaginou ter acesso a um guia completo que revela os segredos da equilíbrio
 natural?
 
 A Enciclopédia da Medicina Natural , do renomado especialista Marcílio F. da
@@ -33,7 +33,7 @@ Aprenda a decifrar sinais na íris que indicam desequilíbrios orgânicos.
 
 Entenda como predisposições genéticas e hábitos de vida se refletem na saúde.
 
-#### 2. Homeopatia: EquilÃ­brio Suave e Personalizada
+#### 2. Homeopatia: Equilíbrio Suave e Personalizada
 
 💊 Princípios revolucionários :
 

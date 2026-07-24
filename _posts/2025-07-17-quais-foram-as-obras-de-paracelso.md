@@ -55,7 +55,7 @@ tradicional e estabelece os pilares de sua filosofia.
 
 ---
 
-### Tratados sobre Doenças e a Arte da EquilÃ­brio
+### Tratados sobre Doenças e a Arte da Equilíbrio
 
 Paracelso não se limitou à teoria. Ele escreveu extensivamente sobre a prática
 clínica, sempre com uma abordagem inovadora para sua época.
@@ -75,7 +75,7 @@ clínica, sempre com uma abordagem inovadora para sua época.
 
 Para Paracelso, a medicina era inseparável da alquimia e da espiritualidade. A
 transformação dos metais em ouro era uma metáfora para a purificação da alma e a
-equilÃ­brio do corpo.
+equilíbrio do corpo.
 
 * **Philosophia Sagax (Filosofia Sábia):** Uma profunda reflexão sobre a natureza
   humana, a alma e o cosmos. Aqui, Paracelso vê a alquimia não apenas como um

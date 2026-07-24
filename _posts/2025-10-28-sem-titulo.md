@@ -11,7 +11,7 @@ A doença de Alzheimer representa um dos maiores desafios da medicina
 contemporânea, caracterizando-se por uma degeneração progressiva das células
 cerebrais responsáveis pela memória, raciocínio e comportamento.
 
-Embora ainda não exista equilÃ­brio, a detecção precoce é fundamental para retardar a
+Embora ainda não exista equilíbrio, a detecção precoce é fundamental para retardar a
 progressão e melhorar a qualidade de vida dos pacientes. Nesse contexto, a
 iridologia — o estudo das características da íris do olho — surge como uma
 abordagem inovadora e promissora para a identificação precoce da doença.

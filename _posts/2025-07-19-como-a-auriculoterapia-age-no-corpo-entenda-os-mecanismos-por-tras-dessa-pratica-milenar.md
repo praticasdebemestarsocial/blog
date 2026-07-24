@@ -27,7 +27,7 @@ específicos na orelha para promover benefícios físicos, emocionais e mentais.
 
 Mas como exatamente ela age no corpo? Neste artigo, exploraremos os mecanismos
 fisiológicos e bioquímicos envolvidos, desde a ativação do sistema nervoso até a
-liberação de substâncias químicas que promovem equilÃ­brio e bem-estar.
+liberação de substâncias químicas que promovem equilíbrio e bem-estar.
 
 **Desenvolvimento**
 
@@ -132,7 +132,7 @@ reduzir o estresse e promover bem-estar físico, emocional e mental.
 Se você está considerando experimentar a auriculoterapia, procure um
 profissional qualificado para garantir que o tratamento seja seguro e eficaz.
 Lembre-se de que o corpo humano é um sistema interconectado, e a auriculoterapia
-pode ser uma ferramenta poderosa para desbloquear seu potencial de equilÃ­brio e
+pode ser uma ferramenta poderosa para desbloquear seu potencial de equilíbrio e
 harmonia.
 
 **Referências Bibliográficas**

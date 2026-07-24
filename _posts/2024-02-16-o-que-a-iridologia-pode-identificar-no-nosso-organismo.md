@@ -62,7 +62,7 @@ verificar aquilo que estou falando.
 
     O corpo é uma máquina humana extremamente avançada hoje a ciência humana
 ainda não consegue entender muitos processos físico-químicos do organismo e nem
-oferece equilÃ­brio para a maioria das doenças crônico degenerativas.
+oferece equilíbrio para a maioria das doenças crônico degenerativas.
 
   
 

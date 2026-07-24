@@ -107,7 +107,7 @@ imperfeição é o primeiro passo para a paz interior.
 </div>
 
 
-## 3. “Epitáfio”: Uma Canção que EquilÃ­brio o Arrependimento
+## 3. “Epitáfio”: Uma Canção que Equilíbrio o Arrependimento
 
 A música “Epitáfio”, dos Titãs, é um verdadeiro hino à aceitação do passado. Sua
 letra simples e profunda nos convida a refletir sobre o que realmente importa:

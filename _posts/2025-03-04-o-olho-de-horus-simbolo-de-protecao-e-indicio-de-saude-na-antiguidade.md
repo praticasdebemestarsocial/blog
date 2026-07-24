@@ -61,7 +61,7 @@ Mas, com a ajuda de Thoth, deus da magia, eles são curados.
 O olho foi posteriormente restaurado por **Thoth, o deus da sabedoria e da
 escrita**.
 
-Essa história não apenas simboliza a recuperação e a equilÃ­brio, mas também estabelece
+Essa história não apenas simboliza a recuperação e a equilíbrio, mas também estabelece
 o Olho de Hórus como um emblema de proteção e saúde.
 
 Hórus, em agradecimento a Thoth, oferece o olho como amuleto a Osíris, seu pai,

@@ -35,7 +35,7 @@ europeia após a tradução de seus trabalhos para o latim no século XII.
 **Práticas Populares e Religiosas :** Na ausência de médicos formados, grande
 parte da população recorria a curandeiros, parteiras, ervanários e práticas
 religiosas. A Igreja desempenhou um papel central, promovendo orações, rituais e
-peregrinações como formas de equilÃ­brio.
+peregrinações como formas de equilíbrio.
 
 **As práticas incluíam:**
 
@@ -120,7 +120,7 @@ Teoria dos quatro humores, com ênfase na anatomia e fisiologia (Galenismo).
 Cirurgia, uso de ervas, saúde pública (aquedutos, banhos), práticas populares.
 
 **Papel da Religião:** Forte influência da Igreja; orações e rituais como formas
-de equilÃ­brio.
+de equilíbrio.
 
 Religião pagã inicialmente (Asclépio); cristianismo no final do Império.
 

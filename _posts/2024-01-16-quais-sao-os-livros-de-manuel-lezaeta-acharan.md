@@ -70,19 +70,19 @@ Esse livro continua sendo uma referência para aqueles que buscam uma abordagem
 
 ## **Sobre o Livro "La Medicina del Padre Tadeo"**
 
-O Padre Tadeo, um visionário e pioneiro no campo da ciência da equilÃ­brio natural sem medicamentos, foi o professor de Lezaeta Acharan, na arte dos tratamentos naturais. É explicado nesse livro  quais plantas medicinais e quais metologias com a água foram conhecidas por serem usadas e suas aplicações como agentes de equilÃ­brio.
+O Padre Tadeo, um visionário e pioneiro no campo da ciência da equilíbrio natural sem medicamentos, foi o professor de Lezaeta Acharan, na arte dos tratamentos naturais. É explicado nesse livro  quais plantas medicinais e quais metologias com a água foram conhecidas por serem usadas e suas aplicações como agentes de equilíbrio.
 
 A terapia do lendário religioso continua sendo uma alternativa eficaz e de baixo custo, pois busca eliminar o uso de medicamentos e equilibrar a temperatura corporal, único meio adequado para restabelecer a normalidade, ou seja, a saúde.
 
 **"La Medicina del Padre Tadeo"** é um livro que detalha os **ensinamentos do
-Padre Tadeo de Wiesent**, um dos maiores especialistas em **equilÃ­brio natural sem
+Padre Tadeo de Wiesent**, um dos maiores especialistas em **equilíbrio natural sem
 medicamentos**.
 
 O **Padre Tadeo foi o professor de Manuel Lezaeta Acharán** e teve grande
 influência na criação da **Doutrina Térmica da Saúde**.
 
 O livro explica em detalhes:  
-✅ **O uso das plantas medicinais** como agentes naturais de equilÃ­brio.  
+✅ **O uso das plantas medicinais** como agentes naturais de equilíbrio.  
 ✅ **Terapias com água (hidroterapia)** para equilibrar a temperatura corporal.  
 ✅ **Como eliminar o uso de medicamentos convencionais** e fortalecer o
 organismo.  
@@ -111,7 +111,7 @@ O livro ensina **técnicas práticas**, incluindo:
 metabolismo.
 
 Essa abordagem continua sendo **uma alternativa eficaz e acessível**, promovendo
-a **equilÃ­brio natural sem efeitos colaterais**.
+a **equilíbrio natural sem efeitos colaterais**.
 
 ## **O Legado de Manuel Lezaeta Acharán**
 

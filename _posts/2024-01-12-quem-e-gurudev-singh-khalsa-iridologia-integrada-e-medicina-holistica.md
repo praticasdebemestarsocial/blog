@@ -92,7 +92,7 @@ descrição detalhada das características observadas na íris que podem estar
 associadas a diversas condições de saúde.
 
 Além deste livro, Khalsa é autor de outras obras sobre **medicina holística**,
-como **"O Poder da EquilÃ­brio Holística"** e **"Alimentação Holística"**,
+como **"O Poder da Equilíbrio Holística"** e **"Alimentação Holística"**,
 consolidando-se como uma referência em temas de saúde integrativa e bem-estar.
 
 Ele também atua como palestrante e professor, compartilhando sua experiência e

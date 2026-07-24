@@ -137,7 +137,7 @@ Livros como "IL Cronorichio" ajudam a entender sua própria íris e emoções.
 
 A Iridologia Psicoemocional é uma ferramenta de transformação que nos convida a
 olhar para dentro. Assim como Carl Jung explorava a psique através de símbolos,
-ela usa a íris para revelar caminhos de equilÃ­brio.
+ela usa a íris para revelar caminhos de equilíbrio.
 
 ### Pergunta para reflexão :
 

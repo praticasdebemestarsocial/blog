@@ -41,27 +41,27 @@ Kuhne foi um discípulo de
 e foi influenciado pelas suas ideias sobre a importância da água para a saúde.  
 
 Kuhne desenvolveu a sua própria teoria sobre a hidroterapia, que ele chamou de
-"ciência da equilÃ­brio".  
+"ciência da equilíbrio".  
 
 Ele acreditava que a água podia ser usada para estimular o sistema imunológico,
-eliminar toxinas e promover a equilÃ­brio.
+eliminar toxinas e promover a equilíbrio.
 
 [Kneipp](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-foi-o-padre-sebastian-kneipp.html)
 foi um padre católico que se tornou um dos mais conhecidos defensores da
 hidroterapia no mundo.  
 
-Ele desenvolveu um sistema de equilÃ­brio que combinava a hidroterapia com outros
+Ele desenvolveu um sistema de equilíbrio que combinava a hidroterapia com outros
 métodos naturais, como a dieta saudável, a fitoterapia e a massagem.
 
 As ideias de Kuhne e
 [Kneipp](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-foi-o-padre-sebastian-kneipp.html)
 tiveram uma grande influência no desenvolvimento da medicina naturista. Os seus
-sistemas de equilÃ­brio continuam a ser praticados hoje em dia por milhares de pessoas
+sistemas de equilíbrio continuam a ser praticados hoje em dia por milhares de pessoas
 em todo o mundo.
 
 Aqui estão alguns pontos específicos de ligação entre os dois médicos:
 
-* Ambos acreditavam na importância da água para a saúde. Kuhne desenvolveu a sua própria teoria sobre a hidroterapia, enquanto [Kneipp](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-foi-o-padre-sebastian-kneipp.html) desenvolveu um sistema de equilÃ­brio que combinava a hidroterapia com outros métodos naturais.
+* Ambos acreditavam na importância da água para a saúde. Kuhne desenvolveu a sua própria teoria sobre a hidroterapia, enquanto [Kneipp](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/01/quem-foi-o-padre-sebastian-kneipp.html) desenvolveu um sistema de equilíbrio que combinava a hidroterapia com outros métodos naturais.
 
 * Ambos eram defensores da medicina natural. Eles acreditavam que as terapias naturais podiam ser usadas para prevenir e tratar doenças de forma eficaz.
 

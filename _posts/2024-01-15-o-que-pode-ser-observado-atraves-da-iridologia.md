@@ -112,7 +112,7 @@ específicos.
 ✔**Medicina tradicional chinesa:** Para entender fluxos de energia (Qi) e
 desequilíbrios nos meridianos.
 
-✔**Naturopatia:** Para promover equilÃ­brio natural e prevenção através de práticas
+✔**Naturopatia:** Para promover equilíbrio natural e prevenção através de práticas
 holísticas.
 
 Quando combinada com essas disciplinas, a iridologia se torna uma ferramenta

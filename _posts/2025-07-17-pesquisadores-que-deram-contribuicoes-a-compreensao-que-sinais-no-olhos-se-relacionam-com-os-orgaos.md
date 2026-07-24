@@ -50,7 +50,7 @@ incapacidade do organismo de se autocurar.
 
 Hildegarda lançou as bases para a ideia de que os olhos podem refletir o estado
 interno do corpo, a tendência a vida ou a morte e os humores internos conectando
-suas observações com práticas de equilÃ­brio naturais e holísticas.
+suas observações com práticas de equilíbrio naturais e holísticas.
 
 ## [2. **Alcmeão de Crotona (séc. V a.C.)**](https://tecnologiasdoautoconhecimento.blogspot.com/2025/03/alcmeao-de-crotona-contribuiu-para-o.html)
 

@@ -240,7 +240,7 @@ compartilhe com alguém que também está cansado de repetir o que não sente.
 E se deseja seguir nesse caminho de desprogramação consciente,  
 junte-se à nossa comunidade no YouTube — Mapas do Autoconhecimento.
 
-🌿 Lembre-se: a verdadeira equilÃ­brio começa quando deixamos de confundir
+🌿 Lembre-se: a verdadeira equilíbrio começa quando deixamos de confundir
 condicionamento com identidade — e passamos a habitar a nós mesmos com liberdade
 e responsabilidade.
 

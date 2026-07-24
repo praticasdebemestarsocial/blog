@@ -85,7 +85,7 @@ pesquisa séria sem misturas doutrinárias.
 ## 🎯 Aplicações da Parapsicologia em Nossa Vida
 
 A parapsicologia vai além de explicar fenômenos estranhos. Ela conecta
-autoconhecimento com equilÃ­brio emocional, equilíbrio mental e expansão de
+autoconhecimento com equilíbrio emocional, equilíbrio mental e expansão de
 consciência.
 
 Ao dominar técnicas como **hipnose clínica e reprogramação mental**, o indivíduo

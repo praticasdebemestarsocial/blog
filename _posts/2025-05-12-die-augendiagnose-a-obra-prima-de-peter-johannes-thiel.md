@@ -38,7 +38,7 @@ clínico de anéis, pigmentos e alterações do estroma.
 
 Mas sua produção intelectual não se encerrou aí. Peter Johannes Thiel também
 escreveu ***Die Odopathie***, uma obra que aborda os fundamentos terapêuticos
-naturais e a energia vital como instrumento de equilÃ­brio, além de publicar o ***Das
+naturais e a energia vital como instrumento de equilíbrio, além de publicar o ***Das
 kleine Rezeptbuch der Odopathie***, um manual com prescrições práticas dentro
 dessa abordagem energética e natural.
 

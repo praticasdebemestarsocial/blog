@@ -111,7 +111,7 @@ Prática: Crie seu próprio sistema de classificação
 
 ### Módulo 6: O Corpo do Agente Psi — Ação Paranormal sobre o Próprio Organismo
 
-✔Autossugestão e equilÃ­brio psicossomática
+✔Autossugestão e equilíbrio psicossomática
 
 ✔Bio-PK: influência da mente sobre batimentos, temperatura, cicatrização
 
@@ -131,7 +131,7 @@ Prática: Crie seu próprio sistema de classificação
 
 ✔Experimentos com plantas (Backster) revisitados
 
-✔Grupos de equilÃ­brio à distância
+✔Grupos de equilíbrio à distância
 
 ✔O campo coletivo de consciência
 

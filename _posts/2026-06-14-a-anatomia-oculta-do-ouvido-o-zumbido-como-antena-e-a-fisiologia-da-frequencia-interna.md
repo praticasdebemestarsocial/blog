@@ -176,7 +176,7 @@ a nossa saúde e evolução.
 *Este artigo foi elaborado com propósitos exclusivamente informativos,
 educativos e de divulgação de conceitos de saúde integrativa, sob a autoria de
 profissional Biomédica Naturopata. O fenômeno do zumbido e as práticas somáticas
-de atenção auditiva apresentadas não possuem caráter de diagnóstico, equilÃ­brio ou
+de atenção auditiva apresentadas não possuem caráter de diagnóstico, equilíbrio ou
 tratamento médico. É de extrema importância ressaltar que o zumbido crônico ou
 persistente pode ser sintoma de condições de saúde subjacentes (como perda
 auditiva, disfunções cardiovasculares ou alterações neurológicas). Em caso de

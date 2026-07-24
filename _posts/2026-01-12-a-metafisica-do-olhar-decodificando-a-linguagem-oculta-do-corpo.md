@@ -329,7 +329,7 @@ Mas você sai com as ferramentas para seguir sozinho(a).
 
 Conclusão
 
-Este caminho não promete equilÃ­brio mágica.  
+Este caminho não promete equilíbrio mágica.  
 Promete clareza.
 
 Você entra com medo:

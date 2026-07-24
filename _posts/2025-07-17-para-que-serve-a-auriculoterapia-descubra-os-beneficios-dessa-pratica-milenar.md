@@ -124,7 +124,7 @@ tratamentos convencionais.
 
 Além disso, a auriculoterapia pode ser combinada com outras práticas
 terapêuticas, como psicoterapia, fisioterapia e medicina funcional,
-proporcionando uma experiência de equilÃ­brio mais completa e personalizada.
+proporcionando uma experiência de equilíbrio mais completa e personalizada.
 
 **Conclusão**
 
@@ -136,7 +136,7 @@ ferramenta valiosa em sua jornada de autocuidado.
 Se você está interessado em experimentar a auriculoterapia, procure um
 profissional qualificado para garantir segurança e eficácia. Lembre-se de que o
 corpo humano é um sistema complexo e interconectado, e a auriculoterapia pode
-ser uma chave para desbloquear seu potencial de equilÃ­brio e bem-estar.
+ser uma chave para desbloquear seu potencial de equilíbrio e bem-estar.
 
 **Referências Bibliográficas**
 

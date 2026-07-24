@@ -91,7 +91,7 @@ Há algo profundamente humano em sua busca por compreender como nossas emoções
 
 * **Deepak Chopra** – médico e escritor que une medicina, espiritualidade e
   psicologia.
-* **Louise Hay** – autora que abordou o poder da mente e das emoções na equilÃ­brio do
+* **Louise Hay** – autora que abordou o poder da mente e das emoções na equilíbrio do
   corpo.
 * **Clarissa Pinkola Estés** – psicóloga junguiana, autora de *Mulheres que Correm
   com os Lobos*, que une mitologia, narrativa arquetípica e psicologia profunda.

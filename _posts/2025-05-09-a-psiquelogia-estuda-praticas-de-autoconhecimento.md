@@ -47,7 +47,7 @@ antigos, espiritualidade, natureza, símbolos e consciência profunda.
    autoconhecimento.
 4. **Integração dos corpos** – Psicológico, emocional, energético, físico e
    espiritual.
-5. **Processo de individuação e ascensão** – Um caminho de equilÃ­brio, maturidade
+5. **Processo de individuação e ascensão** – Um caminho de equilíbrio, maturidade
    espiritual e consciência ampliada.
 
 ---

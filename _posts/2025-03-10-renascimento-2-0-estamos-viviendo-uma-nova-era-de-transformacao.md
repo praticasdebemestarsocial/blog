@@ -90,7 +90,7 @@ responsabilidade , algo que o Renascimento não enfrentou.
 
 Saúde Pública :
 
-Enquanto o Renascimento tinha Asclépio como símbolo de equilÃ­brio, hoje lutamos por
+Enquanto o Renascimento tinha Asclépio como símbolo de equilíbrio, hoje lutamos por
 sistemas de saúde que integrem medicina convencional e alternativa (como defende
 o SINTE-MT no Brasil).
 

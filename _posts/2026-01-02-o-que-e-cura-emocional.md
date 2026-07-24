@@ -1,32 +1,32 @@
 ﻿---
 layout: post
-title: "O que é equilÃ­brio emocional?"
+title: "O que é equilíbrio emocional?"
 date: 2026-01-02T03:30:00.005Z
 tags: ["medicina tradicional chinesa", "psicanalise hipnoterapia"]
 categories: ["bem-estar"]
-description: "O Que É EquilÃ­brio Emocional? Uma Ponte Entre Jung e a Medicina Chinesa"
+description: "O Que É Equilíbrio Emocional? Uma Ponte Entre Jung e a Medicina Chinesa"
 image: "/assets/img/posts/sabedoria%20ancestral%20e%20tecnologia.jpg"
 ---
 
 
 
   
-O Que É EquilÃ­brio Emocional? Uma Ponte Entre Jung e a Medicina Chinesa
+O Que É Equilíbrio Emocional? Uma Ponte Entre Jung e a Medicina Chinesa
 
 Autora: Silviane Silvério  
 Data: 5 de dezembro de 2025  
 Tempo médio de leitura: 9 minutos
 
-Palavras-chave: equilÃ­brio emocional, psicologia analítica, Carl Gustav Jung, Medicina
+Palavras-chave: equilíbrio emocional, psicologia analítica, Carl Gustav Jung, Medicina
 Tradicional Chinesa, sombra, Qi, emoções, integração psíquica, saúde
 integrativa, autoconhecimento
 
 Resumo
 
-EquilÃ­brio emocional não é apagar o passado, nem “superar” a dor como se fosse um
+Equilíbrio emocional não é apagar o passado, nem “superar” a dor como se fosse um
 defeito a ser corrigido. É transformar nossa relação com as feridas. Neste
 artigo, exploramos duas visões profundas e complementares: a de Carl Gustav
-Jung, que vê a equilÃ­brio como um processo de individuação e integração da sombra, e a
+Jung, que vê a equilíbrio como um processo de individuação e integração da sombra, e a
 da Medicina Tradicional Chinesa, que entende as emoções como manifestações do
 fluxo energético (Qi) ligadas diretamente aos órgãos. Juntas, elas nos convidam
 a escutar o corpo, a alma e o inconsciente — não para eliminar o sofrimento, mas
@@ -36,7 +36,7 @@ para torná-lo caminho.
 
 Desenvolvimento
 
-EquilÃ­brio emocional não é apagar o passado.  
+Equilíbrio emocional não é apagar o passado.  
 Não é fingir que a dor nunca existiu.  
 Não é “superar” como quem salta um obstáculo para nunca mais olhar para trás.
 
@@ -51,14 +51,14 @@ informações preciosas sobre:
 * valores esquecidos,
 * partes de nós que clamam por reconhecimento.
 
-A equilÃ­brio emocional começa no momento em que paramos de lutar contra o que sentimos
+A equilíbrio emocional começa no momento em que paramos de lutar contra o que sentimos
 e passamos a escutar o que aquilo quer nos dizer.
 
 Ela não acontece apenas nas palavras de uma sessão de terapia.  
 Ela vive no corpo: nas tensões nos ombros, na insônia crônica, nos padrões
 repetitivos de relacionamento, nos sonhos que insistem em voltar.
 
-Por isso, a equilÃ­brio verdadeira exige uma escuta integrada:  
+Por isso, a equilíbrio verdadeira exige uma escuta integrada:  
 da mente,  
 do corpo,  
 da alma,  
@@ -66,7 +66,7 @@ e do campo relacional e transgeracional em que estamos inseridos.
 
 ---
 
-### EquilÃ­brio emocional como coragem existencial
+### Equilíbrio emocional como coragem existencial
 
 Equilibrar emocionalmente é um ato de coragem.  
 É assumir a responsabilidade por nossa história —  
@@ -85,7 +85,7 @@ Elas nos convocam:
 Ela não busca um estado permanente de paz —  
 mas a capacidade de atravessar o caos interno com lucidez e autocompaixão.
 
-Por isso, a equilÃ­brio emocional nunca é individualista.  
+Por isso, a equilíbrio emocional nunca é individualista.  
 Muitas de nossas dores nasceram em relação — e só podem ser curadas em relação.  
 Ela nos liga aos outros, ao coletivo, ao sagrado, ao sentido — àquilo que nos
 transcende.
@@ -96,9 +96,9 @@ mas como um território vivo a ser conhecido, respeitado e integrado.
 
 ---
 
-### A visão de Carl Gustav Jung: equilÃ­brio como individuação
+### A visão de Carl Gustav Jung: equilíbrio como individuação
 
-Para Carl Gustav Jung, a equilÃ­brio emocional não é a eliminação do sofrimento, mas um
+Para Carl Gustav Jung, a equilíbrio emocional não é a eliminação do sofrimento, mas um
 processo de integração psíquica — um movimento contínuo em direção à totalidade
 do ser, que ele chamou de individuação.
 
@@ -108,7 +108,7 @@ São manifestações da psique tentando se comunicar.
 Quando ignoradas, reprimidas ou negadas, elas não desaparecem.  
 Retornam como sintomas, somatizações, repetições ou crises existenciais.
 
-A equilÃ­brio emocional, portanto, começa quando:
+A equilíbrio emocional, portanto, começa quando:
 
 ✅ Escutamos o que o inconsciente quer nos mostrar através dos afetos;  
 ✅ Damos espaço simbólico ao que foi excluído da consciência — as chamadas
@@ -116,7 +116,7 @@ A equilÃ­brio emocional, portanto, começa quando:
 ✅ Reconhecemos que o sofrimento pode ser um chamado para o crescimento, não
 apenas um acidente a ser consertado.
 
-#### Três pilares junguianos da equilÃ­brio emocional:
+#### Três pilares junguianos da equilíbrio emocional:
 
 1. Integração da sombra  
    A “sombra” é o conjunto de partes de nós que rejeitamos: agressividade, desejo, inveja, fragilidade.  
@@ -127,12 +127,12 @@ apenas um acidente a ser consertado.
 
 2. Diálogo com o inconsciente  
    Sonhos, fantasias, sintomas e crises são mensagens simbólicas do Self — o centro organizador da psique.  
-   A equilÃ­brio vem pelo entendimento simbólico, não pela repressão:  
+   A equilíbrio vem pelo entendimento simbólico, não pela repressão:  
    — Por que essa emoção surge agora?  
    — Que arquétipo está sendo ativado? (ex: o Ferido, o Órfão, o Guerreiro)  
    — Que aspecto de mim mesmo está pedindo atenção?
 3. Individuação: tornar-se quem se é  
-   A equilÃ­brio emocional é parte do caminho de tornar-se psiquicamente inteiro, reconciliando opostos: razão/emoção, masculino/feminino, espírito/matéria.  
+   A equilíbrio emocional é parte do caminho de tornar-se psiquicamente inteiro, reconciliando opostos: razão/emoção, masculino/feminino, espírito/matéria.  
    Não se trata de perfeição — mas de autenticidade.
 
 > *“Não sou o que me aconteceu, sou o que escolho me tornar.”* — C.G. Jung
@@ -171,7 +171,7 @@ Conclusão
 Jung e a Medicina Chinesa, embora nascidos em culturas distintas, convergem em
 um ponto essencial:
 
-> A equilÃ­brio emocional não é sobre eliminar a dor — é sobre transformá-la em
+> A equilíbrio emocional não é sobre eliminar a dor — é sobre transformá-la em
 > sabedoria.
 
 Para Jung, isso acontece pela integração da sombra e do inconsciente.  

@@ -134,7 +134,7 @@ de gota viva
 
 👉Estimular o autoconhecimento e a responsabilização pela saúde
 
-Essa abordagem é especialmente valiosa em casos crônicos, onde a equilÃ­brio passa por
+Essa abordagem é especialmente valiosa em casos crônicos, onde a equilíbrio passa por
 reeducação assistida, não apenas por medicamentos.
 
 ## Evento de Destaque: Congresso Brasileiro de Iridologia 2025

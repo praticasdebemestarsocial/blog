@@ -139,6 +139,6 @@ Compreender a diferença entre sintomas físicos, metabólicos e emocionais/ment
 Na Medicina Tradicional Chinesa, cada sintoma é uma oportunidade de autocuidado
 e transformação. Ao reconhecer os sinais do elemento Água – seja na forma de dor
 física, desequilíbrio metabólico ou perturbação emocional –, podemos trilhar o
-caminho da equilÃ­brio e da harmonia.
+caminho da equilíbrio e da harmonia.
 
 Lembre-se: seu corpo sempre fala. A questão é: você está pronto para ouvir?

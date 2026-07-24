@@ -93,7 +93,7 @@ representa uma **tradição feminina pouco reconhecida, mas profundamente
 significativa**, na história da medicina natural europeia.
 
 Em tempos de grande resistência às práticas integrativas, elas abriram caminhos
-com base em observação cuidadosa, experimentação prática e dedicação à equilÃ­brio.
+com base em observação cuidadosa, experimentação prática e dedicação à equilíbrio.
 
 A **iridologia constitucional**, hoje amplamente utilizada por naturopatas e
 iridologistas em diversas partes do mundo, deve muito à sua visão holística, que
@@ -111,7 +111,7 @@ todo**.
 Magdalene faleceu em **3 de janeiro de 1925**, mas seu legado permanece vivo nas
 escolas de iridologia, nos medicamentos naturais produzidos até hoje pela
 empresa Madaus, e em cada terapeuta que, ao olhar uma íris, reconhece ali não
-apenas sinais de doença, mas **uma história única e um caminho de equilÃ­brio**.
+apenas sinais de doença, mas **uma história única e um caminho de equilíbrio**.
 
 ### Referências Bibliográficas:
 

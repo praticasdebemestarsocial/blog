@@ -51,10 +51,10 @@ científica, promovendo uma abordagem integral para a saúde.
 
 #### Autoconhecimento como Ferramenta Terapêutica :
 
-Chopra enfatiza que o caminho para a equilÃ­brio começa com o entendimento profundo de
+Chopra enfatiza que o caminho para a equilíbrio começa com o entendimento profundo de
 si mesmo.
 
-#### Popularização da EquilÃ­brio Quântica :
+#### Popularização da Equilíbrio Quântica :
 
 Seus conceitos revolucionários sobre física quântica e saúde inspiraram milhões
 a explorarem novas formas de bem-estar.
@@ -71,7 +71,7 @@ consciência.
 **Corpo Sem Idade, Mente Sem Fronteiras :** Um guia para transcender limitações
 físicas e mentais.
 
-**Quantum Healing :** Uma introdução à conexão entre energia, pensamento e equilÃ­brio.
+**Quantum Healing :** Uma introdução à conexão entre energia, pensamento e equilíbrio.
 
 ### Controvérsias e Desafios
 
@@ -83,7 +83,7 @@ tradicional. Suas ideias foram criticadas por:
 * Abordagens que pareciam desafiar os pilares da medicina convencional.
 
 No entanto, suas ideias continuam a ganhar espaço, especialmente à medida que
-novas pesquisas validam a importância da mente no processo de equilÃ­brio.
+novas pesquisas validam a importância da mente no processo de equilíbrio.
 
 ### Legado e Impacto
 
@@ -123,7 +123,7 @@ Sua maior contribuição talvez seja ter mostrado que:
 
 **Saúde vai além dos sintomas físicos :** Ela engloba mente, emoções e espírito.
 
-**Consciência é fundamental para a equilÃ­brio :** Nossos pensamentos e emoções têm
+**Consciência é fundamental para a equilíbrio :** Nossos pensamentos e emoções têm
 poder transformador.
 
 **Cada indivíduo é protagonista de sua própria saúde :** Somos capazes de criar
@@ -163,7 +163,7 @@ equilibrar.
 
 ### Convite à Reflexão
 
-"A verdadeira equilÃ­brio acontece quando reconectamos com nossa essência mais
+"A verdadeira equilíbrio acontece quando reconectamos com nossa essência mais
 profunda." – Inspirado em Deepak Chopra
 
 Sua Jornada Começa Aqui!
@@ -177,4 +177,4 @@ Sua Jornada Começa Aqui!
 Importante : As ideias de Chopra e a iridologia são complementares e não
 substituem o acompanhamento médico tradicional.
 
-Sua jornada de autoconhecimento e equilÃ­brio começa agora! 🌈✨
+Sua jornada de autoconhecimento e equilíbrio começa agora! 🌈✨

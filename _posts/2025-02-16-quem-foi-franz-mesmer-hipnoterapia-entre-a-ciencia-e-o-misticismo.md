@@ -65,7 +65,7 @@ Segundo ele:
 👉Doenças surgiam quando esses fluxos estavam bloqueados ou desequilibrados.
 
 Através de técnicas como a imposição das mãos ou o uso de imãs, era possível
-restabelecer o fluxo energético e promover a equilÃ­brio.
+restabelecer o fluxo energético e promover a equilíbrio.
 
 Embora a teoria carecesse de base científica sólida, ela atraiu muitos
 seguidores, especialmente em Paris, onde Mesmer abriu consultórios e realizou
@@ -121,7 +121,7 @@ Medicina Alopática: Focada no uso de medicamentos e intervenções que produzia
 efeitos contrários aos sintomas.
 
 Homeopatia: Desenvolvida por Samuel Hahnemann, baseava-se na ideia de que
-"semelhante equilÃ­brio semelhante."
+"semelhante equilíbrio semelhante."
 
 Fisiologia e Anatomia: Avanços no conhecimento anatômico começaram a substituir
 explicações místicas por abordagens mais científicas.

@@ -244,7 +244,7 @@ junte-se à nossa comunidade no YouTube — Mapas do Autoconhecimento.
 
 🌿 Lembre-se: o discernimento não substitui o cuidado profissional —  
 mas, aliado à ciência, à ética e à sabedoria ancestral,  
-pode ser um dos mais poderosos caminhos de equilÃ­brio,  
+pode ser um dos mais poderosos caminhos de equilíbrio,  
 porque nos devolve a autonomia do olhar.
 
 ---

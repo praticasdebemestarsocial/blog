@@ -131,7 +131,7 @@ acaba criando uma espiritualidade de fachada:
 — toda luz, mas sem raiz;  
 — toda doçura, mas sem verdade.
 
-Essa espiritualidade não equilÃ­brio — aliena.  
+Essa espiritualidade não equilíbrio — aliena.  
 Não liberta — paralisa.
 
 ---
@@ -211,7 +211,7 @@ se sua “paz” depende de manter aparências…
 não com julgamento,  
 mas com compaixão investigativa.
 
-Porque a equilÃ­brio não está em ser “mais luz”.  
+Porque a equilíbrio não está em ser “mais luz”.  
 Está em ser mais inteiro(a).
 
 Se esta reflexão ressoou com você,  
@@ -223,7 +223,7 @@ junte-se à nossa comunidade no YouTube — Mapas do Autoconhecimento.
 🌿 Lembre-se: nenhuma prática substitui o cuidado médico ou psicológico ou
 religioso.  
 Mas a  espiritualidade deve ser uma aliada à ciência e à ética, pode ser um dos
-caminhos mais poderosos de equilÃ­brio, autonomia e liberdade.
+caminhos mais poderosos de equilíbrio, autonomia e liberdade.
 
 ---
 

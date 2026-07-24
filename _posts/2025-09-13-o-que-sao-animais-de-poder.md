@@ -32,7 +32,7 @@ Os animais de poder são figuras centrais nas tradições espirituais e xamânic
 representando guias, protetores ou mensageiros que acompanham os seres humanos
 em sua jornada espiritual. Eles são vistos como manifestações de qualidades
 específicas, como coragem, sabedoria ou paciência, e podem oferecer orientação,
-proteção e equilÃ­brio. Este artigo explora o conceito de animais de poder, sua origem
+proteção e equilíbrio. Este artigo explora o conceito de animais de poder, sua origem
 cultural, seus significados simbólicos e como as pessoas podem se conectar com
 esses guias espirituais.
 
@@ -83,7 +83,7 @@ variam de acordo com a cultura e a tradição. Alguns exemplos incluem:
 Lobo: Representa lealdade, instinto e trabalho em grupo. O lobo é frequentemente
 associado à liderança compassiva e à habilidade de seguir a intuição.
 
-Urso: Símbolo de força, proteção e introspecção. O urso está conectado à equilÃ­brio
+Urso: Símbolo de força, proteção e introspecção. O urso está conectado à equilíbrio
 emocional e à capacidade de enfrentar desafios com coragem.
 
 Águia: Representa visão clara, elevação espiritual e liberdade. A águia é vista
@@ -143,7 +143,7 @@ Conclusão
 Os animais de poder são muito mais do que símbolos ou figuras míticas; eles são
 guias espirituais que nos ajudam a compreender nossa jornada de vida e a nos
 conectar com o sagrado. Ao reconhecer e honrar esses aliados, abrimos portas
-para o autoconhecimento, a equilÃ­brio e a transformação.
+para o autoconhecimento, a equilíbrio e a transformação.
 
 Se você sente curiosidade sobre os animais de poder, experimente incorporar
 práticas simples em sua rotina, como meditação ou observação da natureza. Quem

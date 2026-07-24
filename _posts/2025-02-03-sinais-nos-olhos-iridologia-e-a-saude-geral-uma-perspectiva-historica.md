@@ -82,7 +82,7 @@ nível de pensamento filosófico que ainda não é totalmente compreendido.
 #### O **Olho de Hórus:**mitologia, a saúde e a visão holística
 
  O **Olho de Hórus, também conhecido como Udyat**é um exemplo marcante símbolo
-egípcio que representa a equilÃ­brio e a proteção.
+egípcio que representa a equilíbrio e a proteção.
 
 Esse símbolo tem um significado profundo e, de certa forma, pode ser relacionado
 à ideia de que os olhos refletem nosso estado físico e energético.
@@ -92,7 +92,7 @@ representa uma conexão entre a mitologia, a saúde e a visão holística do cor
 humano no Egito Antigo.
 
 Além disso, a cultura egípcia reforçava essa conexão por meio do **símbolo do
-Olho de Hórus**, que representa **equilÃ­brio, proteção e equilíbrio**, uma ideia
+Olho de Hórus**, que representa **equilíbrio, proteção e equilíbrio**, uma ideia
 semelhante à da iridologia moderna.
 
 Dois deles se destacam:
@@ -106,7 +106,7 @@ entre problemas digestivos e alterações oculares.
 
 Enquanto os papiros focam em diagnósticos e tratamentos médicos, o Olho de Hórus
 transcende o campo médico, sendo um símbolo cultural e espiritual que
-influenciou práticas de equilÃ­brio e proteção ao longo da história.
+influenciou práticas de equilíbrio e proteção ao longo da história.
 
 Esses feitos impressionantes do Antigo Egito demonstram que eles tinham um
 conhecimento avançado em várias disciplinas, algumas das quais ainda estão sendo

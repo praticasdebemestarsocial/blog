@@ -71,7 +71,7 @@ história. A **medicina grega**, por exemplo, trouxe contribuições valiosas:
 * **Epítome de Medicina (séc. IV d.C.)**, de Oribasius – Explora a **relação entre a circulação sanguínea e a saúde ocular**.
 
 Além disso, a cultura egípcia reforçava essa conexão por meio do **símbolo do
-Olho de Hórus**, que representa **equilÃ­brio, proteção e equilíbrio**, uma ideia
+Olho de Hórus**, que representa **equilíbrio, proteção e equilíbrio**, uma ideia
 semelhante à da iridologia moderna.
 
 Leonardo da Vinci também refletiu sobre essa relação ao afirmar:

@@ -30,7 +30,7 @@ Neste artigo, percorremos uma linha contínua de sabedoria, desde Heráclito e o
 Tao Te Ching até a física quântica e a psicologia junguiana, revelando um
 princípio universal: a verdadeira sabedoria nasce quando abandonamos a visão
 única e aprendemos a olhar com mais olhos. Descubra por que essa postura não é
-relativismo — mas maturidade espiritual, ética e equilÃ­brio.
+relativismo — mas maturidade espiritual, ética e equilíbrio.
 
 ---
 
@@ -61,7 +61,7 @@ Muitas pessoas, em praticamente todas as épocas e culturas,
 falaram explicitamente sobre a importância de ver a vida por vários ângulos.
 
 O mais interessante é que essa ideia sempre aparece associada à sabedoria, à
-equilÃ­brio e à ampliação da consciência.  
+equilíbrio e à ampliação da consciência.  
 Não é modismo.  
 É um princípio universal,  
 tecido na própria trama da existência.
@@ -178,7 +178,7 @@ Um sintoma só se transforma quando é visto:
 — dos sonhos,  
 — dos mitos.
 
-A equilÃ­brio acontece na interseção dos ângulos.
+A equilíbrio acontece na interseção dos ângulos.
 
 ---
 
@@ -234,7 +234,7 @@ E, se sentir vontade, escreva sua resposta na descrição.
 Porque nomear o que evitamos  
 é o primeiro passo para integrá-lo.
 
-E é nessa integração que a equilÃ­brio começa.
+E é nessa integração que a equilíbrio começa.
 
 ---
 

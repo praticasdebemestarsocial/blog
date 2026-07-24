@@ -50,7 +50,7 @@ mas ao mesmo tempo, complexa e profunda.
 E é justamente essa profundidade que o sistema pune.  
 Porque ele valoriza o superficial.  
 Lucra com a impulsividade, com a ansiedade,  
-e marginaliza quem oferece equilÃ­brio verdadeira.
+e marginaliza quem oferece equilíbrio verdadeira.
 
 Exige diplomas…  
 mas depois ignora quem os tem —  
@@ -199,7 +199,7 @@ Conclusão
 
 O mundo não está doente por acaso.  
 Foi programado para temer a profundidade.  
-Para confundir equilÃ­brio com fraqueza,  
+Para confundir equilíbrio com fraqueza,  
 clareza com arrogância,  
 autonomia com rebeldia.
 

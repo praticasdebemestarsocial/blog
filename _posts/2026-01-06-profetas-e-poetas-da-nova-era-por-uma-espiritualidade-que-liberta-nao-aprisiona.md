@@ -125,7 +125,7 @@ por recusar que o encontro com o divino se tornasse transação.
 
 Hoje, esse mesmo grito ecoaria contra:  
 — igrejas que lucram com a fé,  
-— terapeutas que cobram pela equilÃ­brio mas negam a dignidade,  
+— terapeutas que cobram pela equilíbrio mas negam a dignidade,  
 — sistemas que transformam seres humanos em métricas, engajamento, conteúdo.
 
 ---

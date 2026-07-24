@@ -50,7 +50,7 @@ Antiguidade, eles eram vistos não apenas como órgãos de visão, mas também c
 manifestações do estado espiritual e físico.
 
 Um exemplo marcante é o Olho de Hórus , símbolo da cultura egípcia associado à
-proteção, equilÃ­brio e poder. Esse ícone reforça a ideia de que os olhos podem
+proteção, equilíbrio e poder. Esse ícone reforça a ideia de que os olhos podem
 refletir tanto a saúde física quanto a espiritual.
 
 A famosa citação de Leonardo da Vinci — "Os olhos são as janelas da alma" — ecoa

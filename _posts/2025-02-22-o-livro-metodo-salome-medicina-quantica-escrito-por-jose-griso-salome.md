@@ -39,7 +39,7 @@ relação com a saúde.
 entender como partículas subatômicas e campos energéticos afetam o corpo humano.
 
 **Abordagem Holística :** Consideração de todos os aspectos do ser humano
-(físico, emocional, mental e espiritual) no processo de equilÃ­brio.
+(físico, emocional, mental e espiritual) no processo de equilíbrio.
 
 ### 2. Diagnóstico Energético
 
@@ -97,7 +97,7 @@ A intenção e a consciência do indivíduo podem influenciar diretamente seu es
 de saúde, alterando o comportamento das partículas subatômicas.
 
 Essa perspectiva reforça a importância da participação ativa do paciente no
-processo de equilÃ­brio, enfatizando o papel da mente e das emoções na saúde.
+processo de equilíbrio, enfatizando o papel da mente e das emoções na saúde.
 
 ### 5. Contribuições do Livro
 
@@ -147,7 +147,7 @@ O livro "Método Salomé: Medicina Quântica" é uma obra revolucionária que ex
 os horizontes da medicina tradicional ao incorporar conceitos avançados da
 física quântica e práticas holísticas.
 
-Ele oferece uma nova perspectiva sobre saúde e equilÃ­brio, destacando a importância do
+Ele oferece uma nova perspectiva sobre saúde e equilíbrio, destacando a importância do
 equilíbrio energético e da integração mente-corpo-espírito.
 
 Para aqueles interessados em medicina alternativa, terapias vibracionais e

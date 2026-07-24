@@ -98,7 +98,7 @@ espiritualidade.
 **Princípios :** O ser humano é visto como uma unidade de corpo, alma e
 espírito. As doenças são entendidas como oportunidades de crescimento
 espiritual. Enfatiza o papel das forças vitais e da individualidade no processo
-de equilÃ­brio.
+de equilíbrio.
 
 **Práticas :** Uso de medicamentos antroposóficos (baseados em plantas, minerais
 e metais).
@@ -125,11 +125,11 @@ como uma rede de órgãos interligados.
 embalsamamento.
 
 Observação de sinais nos olhos e outros órgãos para diagnóstico. Ritualísticas e
-invocações espirituais para equilÃ­brio.
+invocações espirituais para equilíbrio.
 
 **Diferencial :** Integração de conhecimentos anatômicos com práticas
 espirituais e mágicas. Símbolos como o Olho de Hórus representam proteção e
-equilÃ­brio.
+equilíbrio.
 
 Influenciou sistemas médicos posteriores, como a medicina grega.
 
@@ -297,7 +297,7 @@ espiritualistas.
 **Princípios :** Baseia-se na ideia de que doenças têm origens espirituais ou
 emocionais e podem ser curadas por intervenções espirituais.
 
-**Práticas :** Cerimônias de equilÃ­brio, orações, meditação guiada, rituais e trabalho
+**Práticas :** Cerimônias de equilíbrio, orações, meditação guiada, rituais e trabalho
 com guias espirituais.
 
 **Diferencial :** Muitas vezes combinada com outras formas de medicina

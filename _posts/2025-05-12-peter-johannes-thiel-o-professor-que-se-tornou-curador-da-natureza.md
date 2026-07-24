@@ -27,7 +27,7 @@ Embora cumprisse suas funções como educador com responsabilidade, Thiel logo
 percebeu que sua verdadeira vocação não estava entre lousas e salas de aula.
 Sonhava, desde a juventude, em ser escritor — sonho que não conseguiu realizar
 naquele momento. No entanto, encontrou outro caminho que o encantaria para
-sempre: o estudo da equilÃ­brio natural.
+sempre: o estudo da equilíbrio natural.
 
 ## O que mais influenciou o trabalho de Johannes Thiel?
 
@@ -70,7 +70,7 @@ Washington** — embora não pudesse usá-lo oficialmente na Prússia.
 
 No ano seguinte, em 1926, mudou-se para **Bad-Schandau**, na Saxônia, onde
 fundou a **Villa Thiel**, uma grande casa que se tornou centro de convivência,
-ensino e equilÃ­brio.
+ensino e equilíbrio.
 
 
 

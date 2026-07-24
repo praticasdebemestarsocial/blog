@@ -28,7 +28,7 @@ Vicente Priessnitz (1799–1851) foi um naturopata da atual República Tcheca, c
 
 Apesar das críticas e perseguições enfrentadas em sua época, Priessnitz fundou o primeiro centro de hidroterapia em Jeseník, na Silésia austríaca, onde tratou milhares de pacientes.
 
-Seu legado permanece vivo na naturopatia moderna e em abordagens terapêuticas que utilizam a água como recurso de equilÃ­brio.
+Seu legado permanece vivo na naturopatia moderna e em abordagens terapêuticas que utilizam a água como recurso de equilíbrio.
 
 **Desenvolvimento:**
 
@@ -92,6 +92,6 @@ O legado de Priessnitz serve como um lembrete de que soluções simples, como o 
 
 **Referências Bibliográficas:**
 
-COTAPOS, Rafael Lezaeta Pérez. A saúde pela natureza: a vida natural traz a equilÃ­brio para todos os males. Santiago do Chile: Hemus, 2024. 406 p.
+COTAPOS, Rafael Lezaeta Pérez. A saúde pela natureza: a vida natural traz a equilíbrio para todos os males. Santiago do Chile: Hemus, 2024. 406 p.
 
 WIKIPÉDIA. Vicente Priessnitz. s/d. Disponível em: https://en.wikipedia.org/wiki/Vincenz_Priessnitz . Acesso em: 03 fev. 2025.

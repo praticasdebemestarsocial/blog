@@ -158,7 +158,7 @@ Ela nos lembra que a prevenção não é uma técnica, mas um modo de estar no m
 
 Não se trata de negar a medicina convencional, mas de ampliá-la.
 
-Não se trata de buscar equilÃ­brios mágicas, mas de reconectar-se com os ritmos
+Não se trata de buscar equilíbrios mágicas, mas de reconectar-se com os ritmos
 naturais da vida.
 
 E é a partir dessa visão — integrada, ancestral e profundamente humana — que

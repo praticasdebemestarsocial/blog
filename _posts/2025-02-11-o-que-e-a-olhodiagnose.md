@@ -178,7 +178,7 @@ Estímulos sensoriais ativam o **eixo HPA**, liberando hormônios como os **este
 
 **Mas para que tudo isso funcione, é fundamental que a pessoa adote mudanças no
 estilo de vida,** **ervas, suplementos e tratamentos naturais**, mas a
-**participação ativa da pessoa no processo de purificação e equilÃ­brio é essencial
+**participação ativa da pessoa no processo de purificação e equilíbrio é essencial
 para o sucesso.**
 
 Um caso muito interessante para se compreender um pouco mais da esclerologia é a

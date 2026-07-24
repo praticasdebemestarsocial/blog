@@ -4,10 +4,10 @@ title: "Como a naturopatia é uma sabedoria ancestral?"
 date: 2025-11-07T06:19:00.002Z
 tags: ["naturopatia"]
 categories: ["bem-estar"]
-description: "As Raízes da Naturopatia: Um Chamado à Unidade, à Sabedoria Ancestral e à EquilÃ­brio Consciente"
+description: "As Raízes da Naturopatia: Um Chamado à Unidade, à Sabedoria Ancestral e à Equilíbrio Consciente"
 ---
 
-## As Raízes da Naturopatia: Um Chamado à Unidade, à Sabedoria Ancestral e à EquilÃ­brio Consciente
+## As Raízes da Naturopatia: Um Chamado à Unidade, à Sabedoria Ancestral e à Equilíbrio Consciente
 
 Por Silviane Silvério
 
@@ -97,7 +97,7 @@ escuta e respeito pela natureza humana.
 O fato de que, do Canadá à Índia, da Nova Zelândia à Alemanha, naturopatas
 compartilham esses mesmos pilares, mostra que não se trata de uma moda, mas de
 uma sabedoria universal — codificada agora em um documento global, mas viva há
-milênios nas práticas de equilÃ­brio da humanidade.
+milênios nas práticas de equilíbrio da humanidade.
 
 ## Conexão com a saúde integrativa e o autoconhecimento
 
@@ -112,7 +112,7 @@ A naturopatia, nesse sentido, é um guardião dessa linguagem. Ela nos lembra qu
 
 ✔A educação em saúde liberta mais do que qualquer pílula;
 
-✔A equilÃ­brio verdadeira envolve transformação de hábitos, crenças e relações.
+✔A equilíbrio verdadeira envolve transformação de hábitos, crenças e relações.
 
 ✔Um convite à prática consciente
 

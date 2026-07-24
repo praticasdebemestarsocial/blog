@@ -53,7 +53,7 @@ Em 1953, ele fundou a **Escola de Cura Natural**, onde começou a compartilhar
 seu conhecimento e experiência em fitoterapia com outros.
 
 Em 1979, ele começou a publicar um boletim informativo sobre o uso de ervas para
-equilÃ­brio, que rapidamente ganhou popularidade entre os entusiastas da saúde natural.
+equilíbrio, que rapidamente ganhou popularidade entre os entusiastas da saúde natural.
 
 Ao longo de sua carreira, Christopher desenvolveu mais de 50 fórmulas de ervas,
 que foram amplamente utilizadas para uma variedade de fins de saúde. Algumas de

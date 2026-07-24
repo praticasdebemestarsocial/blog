@@ -74,7 +74,7 @@ nossos objetivos.
 “Você é o Placebo”: Um livro que discute a capacidade do corpo de equilibrar a si
 mesmo através do poder da mente e da intenção.
 
-“A EquilÃ­brio Quântica”: Uma obra que investiga a interseção entre a ciência da equilÃ­brio e
+“A Equilíbrio Quântica”: Uma obra que investiga a interseção entre a ciência da equilíbrio e
 a espiritualidade, oferecendo insights sobre como podemos utilizar essas
 práticas para melhorar nossa saúde.
 

@@ -32,7 +32,7 @@ Salim Khan destacou como Angela possuía a incrível habilidade de fazer cada
 pessoa se sentir especial e valorizada.
 
 Seu dom de ouvir, refletir e encontrar soluções harmoniosas para desafios
-organizacionais e pessoais era um verdadeiro bálsamo de equilÃ­brio na medicina
+organizacionais e pessoais era um verdadeiro bálsamo de equilíbrio na medicina
 complementar e alternativa.
 
 ---

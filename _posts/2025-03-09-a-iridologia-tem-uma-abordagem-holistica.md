@@ -78,7 +78,7 @@ laboratorial).
 exames ou tratamentos prescritos por profissionais licenciados.
 
 **Ética e responsabilidade :** Terapeutas devem ser claros sobre as limitações
-da prática, evitando promessas de equilÃ­brio.
+da prática, evitando promessas de equilíbrio.
 
 ### Citação do Dr. Celso Batello :
 

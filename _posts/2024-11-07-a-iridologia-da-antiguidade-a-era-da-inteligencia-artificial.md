@@ -26,7 +26,7 @@ revelam sobre a relação entre **olhos e saúde**.
 ## Os Olhos na Antiguidade: Símbolos de Saúde e Proteção
 
 No antigo Egito, por exemplo, o **"Olho de Hórus"** era um símbolo de proteção e
-equilÃ­brio, representando o poder dos olhos para revelar informações sobre a saúde.
+equilíbrio, representando o poder dos olhos para revelar informações sobre a saúde.
 
 Esse símbolo permanece como um ícone da Iridologia, destacando o valor dos olhos
 como uma “janela” para a saúde geral e para o próprio espírito.

@@ -16,7 +16,7 @@ Farida Sharan é uma renomada especialista em iridologia, naturopatia e medicina
 holística.
 
 Ela é fundadora da School of Natural Medicine International, onde ensina
-iridologia integrada com outras práticas de equilÃ­brio natural, como herbologia,
+iridologia integrada com outras práticas de equilíbrio natural, como herbologia,
 nutrição e terapias energéticas.
 
 Farida Sharan é conhecida por sua abordagem profunda e holística da iridologia,
@@ -35,12 +35,12 @@ como um método de diagnóstico e autoconhecimento, combinando sua experiência 
 ### 📖 "Herbal Medicine"
 
 Outro livro importante, onde ela ensina sobre o uso de ervas medicinais para
-promover a equilÃ­brio natural.
+promover a equilíbrio natural.
 
 ### 📖 "Naturopathy & Iridology"
 
 Livro onde Farida combina iridologia com naturopatia, mostrando como ambas podem
-ser usadas juntas para um diagnóstico mais completo e um plano de equilÃ­brio
+ser usadas juntas para um diagnóstico mais completo e um plano de equilíbrio
 personalizado.
 
 Referências e Fontes sobre Farida Sharan

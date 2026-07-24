@@ -155,7 +155,7 @@ vivências de forma segura e saudável.
 *Este conteúdo possui caráter estritamente educativo e de divulgação científica,
 produzido por profissional Biomédica Naturopata. As sensações e exercícios
 somáticos descritos refletem estados de atenção plena e sensibilidade
-integrativa, não configurando diagnóstico ou promessa de equilÃ­brio. Nenhuma prática
+integrativa, não configurando diagnóstico ou promessa de equilíbrio. Nenhuma prática
 de expansão de consciência substitui o acompanhamento médico, psiquiátrico ou
 psicológico. Caso você apresente dores físicas persistentes, cefaleias
 constantes, quadros de angústia severa ou distúrbios do sono, interrompa as

@@ -60,7 +60,7 @@ desequilíbrios de saúde e tratar essas causas por meio de métodos naturais.
 Um dos pilares da Naturopatia é a desintoxicação do organismo , eliminando
 toxinas acumuladas que podem comprometer o funcionamento do corpo. Técnicas como
 hidroterapia, fitoterapia, nutrição funcional e suplementação natural são
-amplamente utilizadas para restaurar o equilíbrio interno e promover a equilÃ­brio.
+amplamente utilizadas para restaurar o equilíbrio interno e promover a equilíbrio.
 
 Os naturopatas são treinados para investigar fatores como alimentação
 inadequada, estresse crônico, poluição ambiental e disfunções metabólicas que
@@ -76,7 +76,7 @@ Vamos explorar essas diferenças para esclarecer suas características únicas:
 ### Definição:
 
 A Naturopatia é uma abordagem médica holística que utiliza métodos naturais para
-promover a equilÃ­brio e o bem-estar. Ela se baseia em princípios como a força curativa
+promover a equilíbrio e o bem-estar. Ela se baseia em princípios como a força curativa
 da natureza e o tratamento do corpo, mente e espírito como um sistema integrado.
 
 ### Características principais:
@@ -93,7 +93,7 @@ convencional, mas usando métodos naturais.
 **Formação dos profissionais:** Nos países onde a Naturopatia é reconhecida
 (como EUA, Canadá e Austrália), os naturopatas geralmente possuem formação
 acadêmica específica, com currículos que incluem anatomia, fisiologia, patologia
-e técnicas naturais de equilÃ­brio.
+e técnicas naturais de equilíbrio.
 
 **Regulamentação:** Em alguns países, como os EUA e Canadá, os naturopatas podem
 ser licenciados para praticar como profissionais de saúde primários, com

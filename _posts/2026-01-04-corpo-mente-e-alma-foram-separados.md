@@ -97,7 +97,7 @@ Como Jung dizia:
 “Até que você torne consciente o incon, inconsciente, ele dirigirá sua vida — e
 você o chamará de destino.”
 
-A equilÃ­brio, então, não é controlar, mas compreender.
+A equilíbrio, então, não é controlar, mas compreender.
 
 Não é eliminar a emoção, mas decifrar seu símbolo.
 
@@ -190,7 +190,7 @@ O ser humano não é uma máquina.
 
 É um sistema vivo, inteligente, autorregulável — quando ouvido com respeito.
 
-## 🌿 A equilÃ­brio está no retorno à unidade
+## 🌿 A equilíbrio está no retorno à unidade
 
 A saída não é rejeitar a ciência — mas transcendê-la com sabedoria.
 
@@ -210,7 +210,7 @@ Onde:
 
 — as doenças sejam lidas como chamados de transformação,
 
-— e a equilÃ­brio seja entendida como retorno à totalidade.
+— e a equilíbrio seja entendida como retorno à totalidade.
 
 Porque não somos peças quebradas de uma máquina.
 
@@ -243,7 +243,7 @@ O resultado?
 
 — Incapacidade de sentir conexão — com os outros, com a vida, com o sagrado.
 
-Yeshua via isso com igual clareza — mas com palavras de equilÃ­brio relacional:
+Yeshua via isso com igual clareza — mas com palavras de equilíbrio relacional:
 
 “Se, ao apresentar sua oferta no altar, você se lembrar de que seu irmão tem
 algo contra você, deixe ali sua oferta diante do altar e vá primeiro
@@ -300,10 +300,10 @@ flui livremente — o que exige:
 
 — acolher o medo (Rins).
 
-Yeshua curava o coração. A MTC equilÃ­brio o Qi. Ambos curam o mesmo território: a alma
+Yeshua curava o coração. A MTC equilíbrio o Qi. Ambos curam o mesmo território: a alma
 em relação.
 
-## 🌱 Em síntese: equilÃ­brio como fluxo
+## 🌱 Em síntese: equilíbrio como fluxo
 
 Yeshua dizia: “Perdoe para que seu coração esteja leve.”
 
@@ -324,7 +324,7 @@ E essa liberdade — ética em Yeshua, energética na MTC —
 
 - ou um diálogo simbólico entre Yeshua e um sábio taoísta.
 
-Estamos revelando a unidade profunda entre as tradições de equilÃ­brio — onde o coração
+Estamos revelando a unidade profunda entre as tradições de equilíbrio — onde o coração
 espiritual e o coração fisiológico são, enfim, um só. e com uma profundidade que
 toca o núcleo da mensagem de Yeshuae da visão energética da Medicina Tradicional
 Chinesa.
@@ -421,7 +421,7 @@ A morte espiritual é o Shen apagado.
 E a diferença entre um e outro não está na crença, mas na capacidade de sentir —
 e ser transformado pelo que se sente.
 
-🌿 A equilÃ­brio? Reacender o Qi do Coração
+🌿 A equilíbrio? Reacender o Qi do Coração
 
 Yeshua oferecia encontros restauradores:
 

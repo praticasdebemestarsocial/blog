@@ -69,7 +69,7 @@ I - Módulo - Iridologia Orgânica I
 
   - Lesão em "asa de borboleta"
 
-2. Sinais de equilÃ­brio Leis de EquilÃ­brio
+2. Sinais de equilíbrio Leis de Equilíbrio
 
 3. Vídeo Dr. Gauer
 
@@ -217,7 +217,7 @@ I - Módulo - Iridologia Orgânica I
 
 1. Outras visões em Iridologia - (Aulas com Professores Convidados)
 
-2. Iridologia e outros - Sistemas Holísticos de EquilÃ­brio
+2. Iridologia e outros - Sistemas Holísticos de Equilíbrio
 
  IX - Módulo - Rayid IV
 

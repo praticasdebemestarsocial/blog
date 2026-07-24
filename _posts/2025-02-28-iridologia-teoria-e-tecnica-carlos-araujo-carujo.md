@@ -43,7 +43,7 @@ sistema forte ou fraco, tanto fisicamente quanto energeticamente.
 fase **aguda, subaguda, crônica ou degenerativa**.  
 ✅ **Observar deficiências nutricionais** – Reconhecendo sinais que podem indicar
 **falta de vitaminas e minerais**, muitas vezes causadas por uma má alimentação.  
-✅ **Encaminhar para a equilÃ­brio natural** – Usando as informações da íris para
+✅ **Encaminhar para a equilíbrio natural** – Usando as informações da íris para
 sugerir **abordagens terapêuticas naturais** e personalizadas.
 
 ---

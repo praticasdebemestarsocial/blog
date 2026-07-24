@@ -51,7 +51,7 @@ Essa pesquisa resultou na criação de mapas da íris e da esclera do olho.
 
 [Há muitos livros, estudos e pesquisas científicas publicados sobre o tema.](https://tecnologiasdoautoconhecimento.blogspot.com/search/label/livros%20da%20iridologia)
 
-O corpo é uma máquina humana extremamente avançada, onde a ciência humana ainda não compreende muitos processos físico-químicos do organismo e não oferece equilÃ­brio para a maioria das doenças crônicas e degenerativas.
+O corpo é uma máquina humana extremamente avançada, onde a ciência humana ainda não compreende muitos processos físico-químicos do organismo e não oferece equilíbrio para a maioria das doenças crônicas e degenerativas.
 
 
 <div class="video-container" style="text-align: center; margin: 20px 0;">

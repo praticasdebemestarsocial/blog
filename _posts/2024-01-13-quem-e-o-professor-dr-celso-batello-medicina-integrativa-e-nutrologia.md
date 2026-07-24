@@ -89,7 +89,7 @@ Avançada pela Associação Brasileira de Acupuntura entre 1980 e 1982.
 
 
 Em sua trajetória educacional, Celso Batello fez cursos de Iridologia, Nutrição
-e EquilÃ­brio Integrada, ministrados pelo renomado Dr. Bernard Jensen, incluindo o
+e Equilíbrio Integrada, ministrados pelo renomado Dr. Bernard Jensen, incluindo o
 Curso Básico de Iridologia no I Congresso Brasileiro de Iridologia. Ele também
 participou de cursos sobre Nutrição para Saúde Perfeita, Filosofia, Técnicas
 Analíticas e Prática de Iridologia, promovidos pelo Humanities Research Hidden

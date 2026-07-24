@@ -21,7 +21,7 @@ O avanço da tecnologia dos remédios farmacêuticos e das vacinas trouxe uma ex
 
 ## 🎬 01:03 - O Tempo de Vida Prolongado e a Qualidade de Vida
 
-Por outro lado, esse prolongamento do tempo de vida nem sempre tem proporcionado uma melhor qualidade de vida. Muitas pessoas, embora vivam mais, sofrem com doenças crônicas que não têm equilÃ­brio, apenas controle. A medicina, nesses casos, acaba se concentrando na administração da doença, sem necessariamente valorizar a capacidade do paciente de viver com mais qualidade.  
+Por outro lado, esse prolongamento do tempo de vida nem sempre tem proporcionado uma melhor qualidade de vida. Muitas pessoas, embora vivam mais, sofrem com doenças crônicas que não têm equilíbrio, apenas controle. A medicina, nesses casos, acaba se concentrando na administração da doença, sem necessariamente valorizar a capacidade do paciente de viver com mais qualidade.  
   
 
 ## 🎬 02:03 - A Mudança no Perfil das Doenças
@@ -56,7 +56,7 @@ Durante a pandemia de COVID-19, observamos que as pessoas com comorbidades, ou s
 
 ## 🎬 06:45 - Conclusão: Um Olhar para o Futuro da Saúde
 
-É essencial que, como sociedade, estejamos mais atentos à nossa saúde, não apenas com foco na equilÃ­brio, mas também na prevenção e na qualidade de vida. Cuide de si, adote hábitos saudáveis e busque sempre o equilíbrio entre corpo e mente. Se você gostou desse conteúdo, deixe seu like, compartilhe com quem precisa ouvir isso e se inscreva no canal para mais dicas de autoconhecimento e bem-estar. Nos vemos no próximo vídeo!
+É essencial que, como sociedade, estejamos mais atentos à nossa saúde, não apenas com foco na equilíbrio, mas também na prevenção e na qualidade de vida. Cuide de si, adote hábitos saudáveis e busque sempre o equilíbrio entre corpo e mente. Se você gostou desse conteúdo, deixe seu like, compartilhe com quem precisa ouvir isso e se inscreva no canal para mais dicas de autoconhecimento e bem-estar. Nos vemos no próximo vídeo!
 
 
 <div class="video-container" style="text-align: center; margin: 20px 0;">

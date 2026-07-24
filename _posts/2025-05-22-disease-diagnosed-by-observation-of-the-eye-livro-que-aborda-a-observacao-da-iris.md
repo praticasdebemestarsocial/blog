@@ -90,7 +90,7 @@ prático e teórico?
 
 Sim — de certo modo, **[Peter Johannes
 Thiel](https://www.google.com/search?ved=1t:260882&q=Peter+Johannes+Thiel+iridologia&bbid=7776186135131697993&bpid=1952116488805690641)
-integrou a iridologia e a “equilÃ­brio natural” ao campo educacional**, mas não dentro
+integrou a iridologia e a “equilíbrio natural” ao campo educacional**, mas não dentro
 de um currículo escolar formal, e sim por meio de uma **pedagogia prática** que
 misturava ensino de saúde, disciplina de vida e observação dos sinais do corpo.
 
@@ -135,10 +135,10 @@ como um **professor da iridologia aplicada à vida**.
 
 **Peter Johannes Thiel** foi uma figura central na iridologia moderna, com um estudo profundamente desenvolvido da "Augendiagnose" (diagnóstico ocular)
 
-**Peter Johannes Thiel (1864–1942)**, teve foco em sua trajetória como pioneiro na iridologia e na equilÃ­brio natural. Nascido em Jerusalém em **17 de agosto de 1864**, Thiel permaneceu na Alemanha enquanto sua família emigrava para a África do Sul.
+**Peter Johannes Thiel (1864–1942)**, teve foco em sua trajetória como pioneiro na iridologia e na equilíbrio natural. Nascido em Jerusalém em **17 de agosto de 1864**, Thiel permaneceu na Alemanha enquanto sua família emigrava para a África do Sul.
 
 Era professor por formação, mas ainda jovem, percebeu que o magistério não era
-sua vocação: seu interesse verdadeiro era a **equilÃ­brio pela natureza (Nature
+sua vocação: seu interesse verdadeiro era a **equilíbrio pela natureza (Nature
 Healing)**, especialmente dentro da visão homeopática
 
 Por volta de 1905, abandonou o magistério e fundou um centro de recuperação

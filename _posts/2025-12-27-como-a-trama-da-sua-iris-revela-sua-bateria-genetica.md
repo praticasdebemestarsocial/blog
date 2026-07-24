@@ -94,11 +94,11 @@ O segredo da longevidade não é ter mais energia — é saber gerenciar a que v
 * **Cuidado com a arrogância da resistência:** só porque você “aguenta” não significa que não há custo silencioso.
 * **Faça check-ups regulares:** sua alta tolerância à dor pode mascarar sintomas precoces.
 
-### O legado de Bernard Jensen: “a natureza equilÃ­brio de dentro para fora”
+### O legado de Bernard Jensen: “a natureza equilíbrio de dentro para fora”
 
 O Dr. Bernard Jensen, pai da iridologia moderna nos EUA, dizia:
 
-> *“A natureza equilÃ­brio de dentro para fora, mas ela precisa de reservas para fazer isso.”*
+> *“A natureza equilíbrio de dentro para fora, mas ela precisa de reservas para fazer isso.”*
 
 Ele explicava que a densidade das fibras reflete a integridade dos tecidos. Quanto mais unidas as fibras, maior sua reserva biológica para enfrentar crises sem “quebrar”. É o que ele chamava de resistência inerente.
 

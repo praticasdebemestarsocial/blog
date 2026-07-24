@@ -32,7 +32,7 @@ Abordagens como a psicologia transpessoal, holística, integral e transcendental
 oferecem diferentes perspectivas para explorar essas conexões.
 
 Este artigo explora como esses conceitos se relacionam e como podem ser
-aplicados na prática clínica para promover equilÃ­brio, crescimento e realização
+aplicados na prática clínica para promover equilíbrio, crescimento e realização
 pessoal.
 
 Desenvolvimento:
@@ -68,7 +68,7 @@ Trabalho com crises espirituais ou "crises de transformação" que envolvem
 questionamentos sobre o sentido da existência.
 
 Integração de crenças culturais e religiosas no processo terapêutico para
-promover equilÃ­brio e crescimento pessoal.
+promover equilíbrio e crescimento pessoal.
 
 ## 2. Psicologia Holística: O Ser Humano como um Todo
 
@@ -84,7 +84,7 @@ Crenças e Cultura: Reconhece que as crenças individuais e culturais influencia
 diretamente a saúde mental e o senso de propósito.
 
 Misticismo e Espiritualidade: Incorpora práticas espirituais e místicas como
-parte do processo de equilÃ­brio.
+parte do processo de equilíbrio.
 
 Abordagens Complementares: Utiliza técnicas como mindfulness, terapias
 energéticas, nutrição e exercícios físicos para promover equilíbrio.
@@ -175,7 +175,7 @@ Fontes de Significado: As crenças proporcionam um senso de propósito e direç�
 essenciais para o bem-estar psicológico.
 
 Conexão com o Sagrado: O misticismo oferece uma via para experiências que
-transcendem o ego, promovendo equilÃ­brio e transformação.
+transcendem o ego, promovendo equilíbrio e transformação.
 
 Integração Holística: Ao reconhecer o papel das crenças e do misticismo, a
 psicologia pode oferecer abordagens mais completas e respeitosas às diferenças
@@ -194,7 +194,7 @@ humana.
 
 Seja através da exploração de estados alterados de consciência, da aplicação de
 práticas espirituais ou da consideração de crenças culturais, essas psicologias
-ampliadas permitem que os indivíduos encontrem caminhos para a equilÃ­brio, o
+ampliadas permitem que os indivíduos encontrem caminhos para a equilíbrio, o
 crescimento e a realização pessoal.
 
 **Referências Bibliográficas:**

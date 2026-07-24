@@ -86,7 +86,7 @@ seu valor como instrumento de prevenção e autoconhecimento corporal .
 
 Além de seu trabalho com plantas medicinais e produtos naturais, Alfred Vogel
 deixou como legado uma maneira de pensar a saúde: preventiva, natural e empática
-. Ele acreditava que cada pessoa tinha o potencial de equilÃ­brio dentro de si,
+. Ele acreditava que cada pessoa tinha o potencial de equilíbrio dentro de si,
 bastando condições adequadas e conhecimento correto para ativá-lo.
 
 Sua defesa da iridologia como parte válida do arsenal diagnóstico mostra sua

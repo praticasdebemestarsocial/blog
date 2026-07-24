@@ -103,7 +103,7 @@ Recomendar métodos de desintoxicação natural para eliminar toxinas do corpo.
 
 **6. Homeopatia:**
 
-A homeopatia é uma prática que envolve o uso de substâncias altamente diluídas para estimular a capacidade de equilÃ­brio do corpo. O Naturopata Iridologista pode recomendar remédios homeopáticos com base na análise da íris.
+A homeopatia é uma prática que envolve o uso de substâncias altamente diluídas para estimular a capacidade de equilíbrio do corpo. O Naturopata Iridologista pode recomendar remédios homeopáticos com base na análise da íris.
 
 **7. Técnicas de Relaxamento:**
 

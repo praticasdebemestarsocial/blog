@@ -37,7 +37,7 @@ rejeitadas pela comunidade científica.
 
 Autor e palestrante conhecido por suas ideias sobre medicina mente-corpo e
 espiritualidade. Embora tenha uma grande base de seguidores, muitos de seus
-conceitos, especialmente relacionados à equilÃ­brio quântica e à medicina alternativa,
+conceitos, especialmente relacionados à equilíbrio quântica e à medicina alternativa,
 são considerados pseudocientíficos por muitos na comunidade científica.
 
 ### [4. Rupert Sheldrake:](https://iridologiatecnologiaautoconhecimento.blogspot.com/2024/04/quem-e-o-autor-rupert-sheldrake.html)

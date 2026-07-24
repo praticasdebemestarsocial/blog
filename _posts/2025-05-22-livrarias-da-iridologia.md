@@ -134,10 +134,10 @@ https://books.google.com.br/books?hl=pt-BR&lr=lang_es|lang_en|lang_pt&id=2bgYEQA
 Jackson, Adam J. *Iridologia: Um Guia para Análise da Íris e Cuidados
 Preventivos em Saúde.* Boston: Charles B. Tuttle, 1993.
 
-Jensen, Bernard. *Iridologia: Ciência e Prática nas Artes de EquilÃ­brio* , Vol. II.
+Jensen, Bernard. *Iridologia: Ciência e Prática nas Artes de Equilíbrio* , Vol. II.
 Escondido, CA: B. Jensen, 1982.
 
-Jensen, Bernard. *Iridologia: Ciência e Prática nas Artes de EquilÃ­brio* , Vol. II.
+Jensen, Bernard. *Iridologia: Ciência e Prática nas Artes de Equilíbrio* , Vol. II.
 Escondido, CA: B. Jensen, 1982.
 
 Jackson, Adam J. *Iridology: A Guide to Iris Analysis and Preventive Health

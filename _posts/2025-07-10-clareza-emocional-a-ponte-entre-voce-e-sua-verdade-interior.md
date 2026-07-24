@@ -106,7 +106,7 @@ ajudar a encontrar paz e autoconhecimento.
 
 Não lute contra suas emoções. Elas são mensagens do seu interior. Aprenda a
 acolhê-las como aliadas, e não como inimigas. Isso fortalece sua resiliência e
-promove equilÃ­brio emocional.
+promove equilíbrio emocional.
 
 ## 📚Inspiração de grandes mestres
 

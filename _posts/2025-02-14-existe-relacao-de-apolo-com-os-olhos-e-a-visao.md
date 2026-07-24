@@ -11,7 +11,7 @@ description: "Existe Relação de Apolo com os Olhos e a Visão?"
 
 ## Existe Relação de Apolo com os Olhos e a Visão?
 
-Apolo, o deus grego da luz, da equilÃ­brio e da profecia, tem uma forte relação
+Apolo, o deus grego da luz, da equilíbrio e da profecia, tem uma forte relação
 simbólica com os olhos e a visão. Essa conexão pode ser observada em diferentes
 aspectos da mitologia grega e da história da medicina.
 
@@ -39,7 +39,7 @@ clarividência e à percepção além dos sentidos físicos.
 
 #### 3. Apolo Como Deus da Cura e da Medicina
 
-Apolo também era um deus da medicina e da equilÃ­brio, sendo pai de Asclépio
+Apolo também era um deus da medicina e da equilíbrio, sendo pai de Asclépio
 (Esculápio), o deus da medicina. A visão, como um dos sentidos mais importantes,
 era frequentemente associada à saúde e à vitalidade.
 
@@ -63,7 +63,7 @@ e a mente, algo que também é explorado na iridologia e na medicina holística.
 Conclusão
 
 A relação de Apolo com os olhos e a visão vai além do aspecto físico, englobando
-também a clareza mental, a intuição e a equilÃ­brio. Como deus da luz, da profecia e da
+também a clareza mental, a intuição e a equilíbrio. Como deus da luz, da profecia e da
 medicina, ele simboliza tanto a visão externa (sentido da visão) quanto a visão
 interna (autoconhecimento e percepção espiritual).
 
