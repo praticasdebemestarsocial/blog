@@ -1,0 +1,181 @@
+---
+layout: post
+title: "🌱Quais as propriedades do barbatimão?com referência científica."
+date: 2023-07-06 05:19:00 +0000
+tags: [produto natural, higiene intima feminina, verrugas vaginais, parasitas, plantas medicinais, assepsia vaginal, hemorróidas, barbatimão, candidiase, referência científica, hpv]
+categories: []
+description: "O chá de barbatimão é uma bebida tradicional na medicina popular brasileira, feita a partir da casca da árvore de mesmo nome. O barbatimão ajuda pr"
+math: false
+mermaid: false
+comments: true
+---
+  
+ **Conteúdo do artigo:**
+
+* [📃1- Quais as propriedades do barbatimão?](#secao1)
+* [📃2- Quais as principais indicações do barbatimão?](#secao2)
+* [📃3- Quais as principais aplicações do barbatimão?](#secao3)
+* [📃4- O barbatimão pode provocar efeitos colaterais?](#secao4)
+* [📃5- O barbatimão possui contra-indicações?](#secao5)
+* [📃6- Quais os sinais e sintomas que a pessoa tem alergia ao barbatimão?](#secao6)
+* [📃7- Quais as formas de usar o barbatimão?](#secao7)
+* [📃8- Como fazer o chá de barbatimão?](#secao8)
+* [📃9- O que dizem as pesquisas científicas a respeito do barbatimão?](#secao9)
+* [📃10- Referências Bibliográficas: ✔Artigo baseado em evidências científicas](#secao10)
+
+## 1-Quais as propriedades do barbatimão?
+
+O chá de barbatimão é uma bebida tradicional na medicina popular brasileira, feita a partir da casca da árvore de mesmo nome. 
+
+ O barbatimão ajuda principalmente na cicatrização de vários tipos de lesões, úlceras e feridas. 
+
+ Num artigo de revisão bibliográfica publicado numa revista de uma Universidade Federal revela que o barbatimão é uma planta cheia de propriedades medicinais e apresenta uma atividade antibacteriana contra o Staphylococcus Aureus. 
+
+ Ela é antifúngica e pode ajudar no combate ao crescimento da Candida Albicans. 
+
+Apresenta também uma capacidade anticancerígena, inibidora de certos efeitos enzimáticos e biológicos da mordida de serpentes peçonhentas e combate microorganismos da cárie dental. 
+
+Ela possui também ação sobre parasitas como o Tripanosoma Cruzi e a Leishmania Amazonensis. 
+
+Essa casca auxiliar de forma complementar ao tratamento médico a combater a infecção pelo vírus HPV e Herpes e prevenir o câncer de colo de útero, pois ela é rica em taninos, como epigalocatequina, epicatequina e galocatequina, que possuem ação antiviral e cicatrizante. 
+
+No caso do HPV, causa uma desidratação nas células infectadas pelo vírus, e promove a eliminação do vírus e o reaparecimento das verrugas. 
+
+No caso da Herpes genital, pode ajudar na cicatrização das feridas provocadas pelo vírus. 
+
+E como ela não possui atividade genotóxica, revela que a utilização parece ser segura, e com potencial farmacológico.
+
+## 2- Quais as principais indicações do barbatimão?
+
+O barbatimão é uma planta nativa do cerrado, que possui propriedades adstringentes, cicatrizantes, anti-inflamatórias e antimicrobianas. 
+
+ Ela contém substâncias na sua composição que podem ajudar de forma complementar nos seguintes casos: 
+
+* Tratar feridas, úlceras, queimaduras e inflamações na pele, pois ajuda a acelerar a cicatrização e a prevenir infecções;
+* Alívio da dor;
+* Controle da glicemia;
+* Prevenir cáries e gengivites;
+* Tratar candidíase e corrimentos vaginais;
+* Reduzir o inchaço e a retenção de líquidos;
+* Combater problemas gastrointestinais como gastrite, dor de estômago e diarreia;
+* Aliviar problemas respiratórios como tosse, dor de garganta e sinusite;
+
+## 3- Quais as principais aplicações do barbatimão?
+
+O barbatimão age especialmente na pele como antifúngico e antibacteriano: 
+
+Combater infecções vaginais, como candidíase e tricomoníase, pois tem ação antifúngica e antibacteriana. 
+
+O chá pode ser usado como banho de assento ou ducha vaginal. 
+
+Aliviar os sintomas de hemorróidas, como dor, inchaço e sangramento, pois reduz a inflamação e o sangramento das veias anais. 
+
+Controlar o sangramento menstrual excessivo, pois tem efeito hemostático e vasoconstritor. 
+
+O chá pode ser tomado ou aplicado na região genital com um pano embebido. 
+
+Prevenir o câncer de colo de útero, pois tem ação antioxidante e anticancerígena. 
+
+O chá pode ser usado como ducha vaginal ou ingerido regularmente.
+
+Lembrando que é importante de consultar um profissional da saúde especializado em plantas medicinais para saber qual a melhor forma de você fazer uso de produtos naturais.
+
+## 4- O barbatimão pode provocar efeitos colaterais?
+
+O barbatimão pode provocar efeitos colaterais e precisa ficar atento para caso ocorra, procure seu médico prescritor ou fitoterapeuta que recomendou o uso da planta. 
+
+Pois cada organismo tem suas características e sensibilidade. 
+
+No caso do barbatimão deve evitar o uso excessivo e prolongado pois pode ocorrer os seguintes sintomas: 
+
+* Ressecamento da mucosa vaginal, se usado em excesso ou por tempo prolongado.
+* Irritação na pele ou nos olhos, se entrar em contato direto com essas áreas.
+* Hipersensibilidade ou alergia, se houver sensibilidade individual à planta.
+
+## 5- O barbatimão possui contra indicações?
+
+O chá de barbatimão é considerado seguro e bem tolerado pela maioria das pessoas, mas pode causar alguns efeitos colaterais. 
+
+Por isso, é recomendado consultar um médico antes de usar o chá de barbatimão, especialmente se estiver grávida, amamentando ou tomando algum medicamento. 
+
+O chá também não deve substituir o tratamento médico adequado para as condições citadas acima. 
+
+O barbatimão também tem algumas contraindicações que devem ser respeitadas. 
+
+O barbatimão não deve ser usado: - **por mulheres grávidas ou em amamentação, pois pode causar aborto ou prejudicar o desenvolvimento do bebê.**
+
+Além disso, também está contraindicado: - **para pacientes com problemas graves no estômago, como úlceras ou câncer no estômago , pois pode irritar a mucosa gástrica e piorar os sintomas.**
+
+Outra contraindicação do barbatimão é: 
+
+- para pessoas que têm alergia à planta ou a algum dos seus componentes. 
+
+Se ocorrer alguns desses sintomas é preciso suspender o uso imediatamente e procurar ajuda médica ou do profissional que recomendou o uso da planta.
+
+## 6- Quais os sinais e sintomas que a pessoa tem alergia ao barbatimão?
+
+Uma pessoa que esteja fazendo uso de barbatimão e apresente os seguintes sintomas pode estar relacionado ao uso da planta e deve procurar atendimento profissional de saúde. coceira, vermelhidão, inchaço, dificuldade respiratória.
+
+## 7- Quais as formas de usar o barbatimão?
+
+O barbatimão pode ser usado de diferentes formas, dependendo do objetivo e da parte da planta utilizada. 
+
+O barbatimão pode ser usado na forma de: chá, cápsulas, banhos de assento pomadas. 
+
+Vai depender da necessidade e do tipo de problema de saúde. 
+
+Mas deve ser sempre usado de forma complementar aos tratamentos médicos. 
+
+### **Usado sob a forma de chá:**
+
+O chá de barbatimão é a forma mais comum de uso e costuma ser feito com a casca da planta. 
+
+### **Usado sob a forma de cápsulas, tintura ou extratos:**
+
+O barbatimão também pode ser encontrado em forma de tintura ou extrato seco. 
+
+Os extratos ou chás podem ser usados para fazer compressas e lavagens locais. 
+
+Essas formas são mais concentradas e devem ser diluídas em água antes de usar. 
+
+As cápsulas ou extrato seco deve ser recomendadas por profissionais da saúde que vão realizar uma acompanhamento e orientações a respeito do uso. 
+
+### **Usado sob a forma de gargarejo:**
+
+O barbatimão também pode ser usado como gargarejo para aliviar a dor de garganta 
+
+### **Usado sob a forma de banho de assento:**
+
+ Como banho de assento costuma ser usado para combater a candidíase, para ajudar a cicatrizar as feridas da herpes e evitar o aparecimento de hpv ou combater ferimentos. 
+
+### **Usado sob a forma de pomada, creme ou sabonete:**
+
+Outra forma de usar o barbatimão é em forma de pomada, creme ou sabonete, que podem ser comprados em farmácias de manipulação ou lojas de produtos naturais. Esses produtos podem ser aplicados sobre a pele  
+
+O barbatimão é uma planta medicinal muito útil para a saúde, mas deve ser usado com cuidado e orientação profissional. Antes de usar o barbatimão, consulte um médico ou um fitoterapeuta para saber a dose adequada, a forma de uso e os possíveis efeitos colaterais.
+
+## 8- Como fazer o chá de barbatimão?
+
+Ferver uma colher de sopa de casca de barbatimão em um litro de água por cerca de 10 minutos. Depois, coar e beber até três xícaras por dia. O chá pode ser tomado até três vezes ao dia ou usado externamente conforme a necessidade.
+
+## 9- O que dizem as pesquisas científicas a respeito do barbatimão?
+
+Existem algumas pesquisas a respeito da planta de barbatimão, mas vou citar aqui uma que achei interessante, pois a cicatrização de feridas em pessoas com diabetes é bem demorada e muitas vezes leva a complicações e até mesmo a necrose de membros do paciente. 
+
+Um estudo científico publicado a respeito do uso de barbatimão para cicatrização de feridas diabéticas foi realizado para avaliar a ação cicatrizante do extrato bruto do barbatimão em ratos diabéticos e seu conteúdo químico. 
+
+Eles trataram as feridas dos ratos com gel contendo 1% de extrato eles puderam observar que o extrato bruto estimulou principalmente a migração celular e a proliferação de queratinócitos no início do tratamento, além de estimular a substituição das fibras colágenas tipo III por fibras colágenas tipo I aos 10 e 14 dias. 
+
+Ainda observaram que o extrato permeou pela pele até a derme, onde foi encontrado o extrato bruto. 
+
+ O barbatimão agiu reparando o tecido das feridas dos ratos diabéticos por estimular a produção de fibras colágenas no local da ferida. 
+
+ E ainda concluíram que o efeito cicatrizante do extrato de barbatimão em feridas diabéticas são provavelmente devidas à presença de proantocianidinas.
+
+  
+
+## 10- Referências Bibliográficas:
+
+1- FERREIRA, ÉRICA C. AS PROPRIEDADES MEDICINAIS E BIOQUÍMICAS DA PLANTA STRYPHNODENDRON ADSTRINGENS “BARBATIMÃO”. Biológicas & Saúde, v. 3, n. 11, 26 dez. 2013. 
+
+ 2- PINTO, Sandra; BUENO, Fernanda; PANIZZON, Gean; MORAIS, Gutierrez; SANTOS, Paulo dos; BAESSO, Mauro; LEITE-MELLO, Eneri; MELLO, João de. Stryphnodendron adstringens: clarifying wound healing in streptozotocin-induced diabetic rats. Planta Medica, [S.L.], v. 81, n. 12/13, p. 1090-1096, 28 jul. 2015. Georg Thieme Verlag KG. http://dx.doi.org/10.1055/s-0035-1546209. Disponível em: https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0035-1546209. Acesso em: 13 jul. 2023.
