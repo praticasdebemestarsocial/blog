@@ -2,7 +2,7 @@
 layout: post
 title: "Quem Está no Comando? O diálogo entre cérebro consciente, inconsciente e os olhos que revelam tudo"
 date: 2026-01-14T07:28:00.004Z
-tags: ["anatomia fisiologia"]
+tags: ["anatomia fisiologia", "iridologia"]
 categories: ["bem-estar"]
 description: "Quem Está no Comando? O diálogo entre cérebro consciente, inconsciente e os olhos que revelam tudo"
 image: "/assets/img/posts/CRIE%20VARIA%C3%87%C3%95ES%20VERDES.jpg"
