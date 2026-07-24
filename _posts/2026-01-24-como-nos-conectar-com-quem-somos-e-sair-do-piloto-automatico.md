@@ -5,7 +5,7 @@ date: 2026-01-24T23:39:00.001Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "Como nos Conectar com Quem Somos — e Sair do Piloto Automático"
-image: "/assets/img/posts/Screenshot_15.png"
+image: "/assets/img/posts/sair_piloto_automatico.jpg"
 ---
 
 
