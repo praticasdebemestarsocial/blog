@@ -1,10 +1,11 @@
-﻿---
+---
 layout: post
 title: "Corpo, Mente e Alma Foram Separados?"
 date: 2026-01-04T18:07:00.007Z
-tags: ["medicina tradicional chinesa", "autoconhecimento", "psicoespiritualidade"]
+tags: ["medicina tradicional chinesa", "autoconhecimento", "psicoespiritualidade", "espiritualidade"]
 categories: ["bem-estar"]
 description: "O Ser Humano Fragmentado: Quando o Corpo, a Mente e a Alma Foram Separados"
+image: "/assets/img/posts/corpo_mente_alma.jpg"
 ---
 
 # O Ser Humano Fragmentado: Quando o Corpo, a Mente e a Alma Foram Separados
