@@ -2,7 +2,7 @@
 layout: post
 title: "Quer entender não só o que está errado no corpo — mas por que está errado?"
 date: 2026-01-25T05:16:00Z
-tags: []
+tags: ["iridologia"]
 categories: ["bem-estar"]
 description: "iridologia, irisdiagnose, olhodiagnose, olhologia, análise da íris, análise"
 image: "/assets/img/posts/iridologia_detox.jpg"

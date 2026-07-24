@@ -2,7 +2,7 @@
 layout: post
 title: "Ver por Muitos Olhos: a sabedoria atemporal de abandonar a visão única"
 date: 2026-01-30T04:01:00.004Z
-tags: ["filosofia"]
+tags: ["filosofia", "filosofia antiga"]
 categories: ["bem-estar"]
 description: "Ver por Muitos Olhos: a sabedoria atemporal de abandonar a visão única"
 image: "/assets/img/posts/olhos_visao_ver.jpg"
