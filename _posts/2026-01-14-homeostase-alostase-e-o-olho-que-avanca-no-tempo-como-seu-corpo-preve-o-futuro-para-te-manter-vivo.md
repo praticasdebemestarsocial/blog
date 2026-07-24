@@ -2,7 +2,7 @@
 layout: post
 title: "Homeostase, Alostase e o Olho que Avança no Tempo: como seu corpo prevê o futuro para te manter vivo"
 date: 2026-01-14T10:34:00.004Z
-tags: ["filosofia", "anatomia fisiologia"]
+tags: ["filosofia", "anatomia fisiologia", "iridologia"]
 categories: ["bem-estar"]
 description: ""
 image: "/assets/img/posts/image_-2810491378980035803.jpg"

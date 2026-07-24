@@ -2,13 +2,11 @@
 layout: post
 title: "O Que Seus Olhos Revelam Antes da Doença: uma introdução prática à iridologia científica"
 date: 2026-01-16T05:00:00.006Z
-tags: ["fundamentos da iridologia"]
+tags: ["fundamentos da iridologia", "iridologia"]
 categories: ["bem-estar"]
 description: "O Que Seus Olhos Revelam Antes da Doença: uma introdução prática à iridologia científica"
 image: "/assets/img/posts/iridologia_irisdiagnose.jpg"
 ---
-
-![iridologia_irisdiagnose](/assets/img/posts/iridologia_irisdiagnose.jpg "iridologia_irisdiagnose")
 
   
 
