@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
-title: "A Espiritualidade EquilÃ­brio ou Adoece?"
+title: "A Espiritualidade Cura ou Adoece?"
 date: 2026-01-05T20:56:00.004Z
-tags: ["anatomia fisiologia", "medicina tradicional chinesa", "psicoespiritualidade"]
+tags: ["anatomia fisiologia", "medicina tradicional chinesa", "psicoespiritualidade", "espiritualidade"]
 categories: ["bem-estar"]
 description: ""
 image: "/assets/img/posts/image_-3028826403635955478.jpg"
@@ -23,7 +23,7 @@ psiconeuroimunologia, autoconhecimento
 
 Resumo
 
-A espiritualidade, por si só, não é nem equilÃ­brio nem veneno. O que determina seu
+A espiritualidade, por si só, não é nem cura nem veneno. O que determina seu
 efeito sobre a mente — memória, atenção, julgamento, clareza — é como ela é
 vivida: como caminho de integração, liberdade e sentido… ou como mecanismo de
 fuga, controle e repressão.  
@@ -37,7 +37,7 @@ inteiros, lúcidos e capazes de amar com os dois pés na terra.
 
 Desenvolvimento
 
-A espiritualidade, por si só, não é nem equilÃ­brio nem veneno.
+A espiritualidade, por si só, não é nem cura nem veneno.
 
 O que determina seu efeito sobre a mente — memória, atenção, julgamento, clareza
 —  
@@ -56,7 +56,7 @@ a forma como vivemos a fé molda nosso cérebro.
 
 ---
 
-### 🌱 Espiritualidade que equilÃ­brio: a via da lucidez
+### 🌱 Espiritualidade que cura: a via da lucidez
 
 Quando a espiritualidade acolhe a totalidade humana — com suas dores, dúvidas,
 desejos e sombras —,  
@@ -177,8 +177,8 @@ Conclusão
 
 Como dizia Jung — ecoando o próprio Yeshua:
 
-> *“A espiritualidade que não toca a carne não equilÃ­brio.  
-> A fé que não questiona não transforma.”*
+> *"A espiritualidade que não toca a carne não cura.  
+> A fé que não questiona não transforma."*
 
 Yeshua, com suas palavras ou seus silêncios, sempre apontou para o mesmo:  
 a verdadeira espiritualidade não nos afasta do mundo —  
@@ -195,7 +195,7 @@ sem se perder nela.
 Se esta reflexão ressoou com você,  
 compartilhe com alguém que também sente que a espiritualidade deve libertar —
 não aprisionar.  
-E se deseja trilhar um caminho de clareza, integridade e equilÃ­brio cognitiva,  
+E se deseja trilhar um caminho de clareza, integridade e cura cognitiva,  
 junte-se à nossa comunidade no YouTube — Mapas do Autoconhecimento.
 
 🌿 Lembre-se: a espiritualidade consciente, aliada à ciência e à ética,  

@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: "Como o discernimento pode ajudar a escolher com lucidez?"
 date: 2026-01-06T04:58:00.009Z
-tags: ["psicoespiritualidade"]
+tags: ["psicoespiritualidade", "espiritualidade"]
 categories: ["bem-estar"]
 description: ""
 image: "/assets/img/posts/image_6878473824944298430.jpg"

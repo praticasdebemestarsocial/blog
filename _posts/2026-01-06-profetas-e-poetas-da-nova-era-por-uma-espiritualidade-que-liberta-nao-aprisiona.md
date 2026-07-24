@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: "Profetas e Poetas da Nova Era: por uma espiritualidade que liberta, não aprisiona"
 date: 2026-01-06T17:55:00.001Z
-tags: ["psicoespiritualidade"]
+tags: ["psicoespiritualidade", "espiritualidade", "medicina tradicional chinesa"]
 categories: ["bem-estar"]
 description: ""
 image: "/assets/img/posts/image_-2306058718766213314.jpg"
