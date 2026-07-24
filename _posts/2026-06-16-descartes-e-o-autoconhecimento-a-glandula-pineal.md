@@ -2,7 +2,7 @@
 layout: post
 title: "Descartes e o Autoconhecimento: A Glândula Pineal como Ponte entre a Razão e a Espiritualidade"
 date: 2026-06-16T17:50:52.606Z
-tags: ["autoconhecimento", "filosofia", "René Descartes", "dualismo cartesiano", "glândula pineal", "espiritualidade racional", "neurobiologia", "saúde integrativa"]
+tags: ["autoconhecimento", "filosofia", "René Descartes", "dualismo cartesiano", "glândula pineal", "espiritualidade racional", "neurobiologia", "saúde integrativa", "neurociência", "espiritualidade"]
 categories: ["bem-estar"]
 description: "René Descartes, amplamente considerado o 'Pai da Filosofia Moderna' e fundador do racionalismo, revolucionou a ciência ao propor a razão e a matemática como ferramentas definitivas para compreender o universo."
 image: "/assets/img/posts/descartes_espiritualidade.jpg"
