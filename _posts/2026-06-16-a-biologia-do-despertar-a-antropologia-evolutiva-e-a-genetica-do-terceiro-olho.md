@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Biologia do Despertar: A Antropologia Evolutiva e a Genética do 'Terceiro Olho"
+title: "A Biologia do Despertar: A Antropologia Evolutiva e a Genética do 'Terceiro Olho'"
 date: 2026-06-16T05:43:50.783Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
