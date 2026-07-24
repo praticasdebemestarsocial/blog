@@ -5,7 +5,7 @@ date: 2026-06-14T21:53:39.619Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: ""
-image: "/assets/img/posts/image_-6351940975212017412.jpg"
+image: "/assets/img/posts/anatomia_invisivel.jpg"
 ---
 
 
