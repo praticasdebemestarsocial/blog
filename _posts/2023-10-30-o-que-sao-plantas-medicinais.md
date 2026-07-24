@@ -2,7 +2,7 @@
 layout: post
 title: "O que são plantas medicinais?"
 date: 2023-10-30 01:08:00 +0000
-tags: ["cur", "nutricional", "minerais", "naturopatia", "fitoterapeuta", "fitoterapia", "nutrição", "ervanário", "Naturologia", "plantasmedicinais", "vitaminas", "trofoterapia", "alimentaçãonatural", "suplementos", "ervas", "dieta", "Naturopatia/Naturologia/TerapiasNaturais"]
+tags: [cur, nutricional, minerais, naturopatia, fitoterapeuta, fitoterapia, nutrição, ervanário, Naturologia, plantasmedicinais, vitaminas, trofoterapia, alimentaçãonatural, suplementos, ervas, dieta]
 categories: []
 description: ""
 math: false
