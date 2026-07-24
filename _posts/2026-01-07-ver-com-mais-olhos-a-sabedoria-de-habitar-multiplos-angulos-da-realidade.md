@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: "Ver com Mais Olhos: a sabedoria de habitar múltiplos ângulos da realidade"
 date: 2026-01-07T02:03:00.001Z
-tags: ["psicoespiritualidade"]
+tags: ["psicoespiritualidade", "filosofia antiga"]
 categories: ["bem-estar"]
 description: "Ver com Mais Olhos: a sabedoria de habitar múltiplos ângulos da realidade"
 image: "/assets/img/posts/a%20realidade%20tecnologica%20do%20senhor%20s%C3%A1bio.jpg"

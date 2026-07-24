@@ -2,7 +2,7 @@
 layout: post
 title: "Quem é o “Profeta Shen”? Um chamado para reconhecer o arquétipo dentro de você"
 date: 2026-01-07T01:24:00.006Z
-tags: ["psicoespiritualidade"]
+tags: ["psicoespiritualidade", "espiritualidade", "medicina tradicional chinesa"]
 categories: ["bem-estar"]
 description: "Quem é o “Profeta Shen”? Um chamado para reconhecer o arquétipo dentro de você"
 ---
