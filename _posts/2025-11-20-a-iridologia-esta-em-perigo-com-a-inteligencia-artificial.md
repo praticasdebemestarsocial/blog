@@ -241,6 +241,8 @@ Antes da doença.
 
 **Referências Bibliográficas**
 
+![Referências da Iridologia](/assets/img/posts/iridologia_referencias.jpg)
+
 Para aprofundar, consulte: ICRASET 2024 – “Deep Learning Models for Iris-Based
 Prediction of Metabolic Disorders”;
 
