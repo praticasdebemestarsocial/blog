@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
-title: "A Doutrina do Medo: como reconhecer — e libertar-se — da espiritualidade que aprisiona"
+title: "A Doutrina do Medo: como reconhecer e libertar-se da espiritualidade que aprisiona"
 date: 2026-01-07T03:47:00.002Z
-tags: ["psicoespiritualidade"]
+tags: ["psicoespiritualidade", "espiritualidade"]
 categories: ["bem-estar"]
 description: ""
 image: "/assets/img/posts/image_107467803764582899.jpg"
@@ -12,7 +12,7 @@ image: "/assets/img/posts/image_107467803764582899.jpg"
 
   
   
-A Doutrina do Medo: como reconhecer — e libertar-se — da espiritualidade que aprisiona
+A Doutrina do Medo: como reconhecer e libertar-se da espiritualidade que aprisiona
 
 Autora: Silviane Silvério  
 Data: 16 de dezembro de 2025  
@@ -185,7 +185,7 @@ Só você, com coragem e autoconhecimento, pode decifrá-lo.
 
 ---
 
-### A equilÃ­brio está na multiplicidade dos saberes
+### O equilíbrio está na multiplicidade dos saberes
 
 A doutrina do medo prospera onde há falta de múltiplos ângulos.
 
@@ -248,7 +248,7 @@ a coragem de:
 É sobre entender que ninguém detém a verdade,  
 mas todos podem participar de sua descoberta contínua.
 
-Por isso, a equilÃ­brio da doutrina do medo  
+Por isso, o equilíbrio da doutrina do medo  
 começa com um gesto simples, mas revolucionário:
 
 > voltar a confiar em si mesmo.
