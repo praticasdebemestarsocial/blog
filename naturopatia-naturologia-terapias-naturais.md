@@ -7,7 +7,7 @@ permalink: /naturopatia-naturologia-terapias-naturais/
 Aqui você encontra todos os nossos artigos relacionados à **Naturopatia**, **Naturologia** e **Terapias Naturais**.
 
 <div class="entries-list">
-  {% for post in site.tags["Naturopatia/Naturologia/TerapiasNaturais"] %}
+  {% for entry in site.tags["Naturopatia/Naturologia/TerapiasNaturais"] %}
     {% include entry.html %}
   {% endfor %}
 </div>
