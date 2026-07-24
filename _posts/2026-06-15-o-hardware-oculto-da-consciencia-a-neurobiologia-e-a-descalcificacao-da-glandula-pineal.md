@@ -59,9 +59,13 @@ alta resolução, depara-se com um fato científico fascinante: a pineal é comp
 por células neuroepiteliais que compartilham uma homologia estrutural
 surpreendente com os **bastonetes fotorreceptores da retina**.
 
-[Estímulo Luminoso / Campo Eletromagnético] │ ▼ [Retina / Olhos Físicos] │
-(Trato Retinohipotatâmico) │ ▼ [ GLÂNDULA PINEAL ] ───> Possui células
-fotorreceptoras homólogas! │ ▼ [Modulação de Melatonina / Ritmo Circadiano]
+> ☀️ **[Estímulo Luminoso / Campo Eletromagnético]** 
+> ⬇️
+> 👁️ **[Retina / Olhos Físicos]**
+> *⬇️ (Trato Retinohipotalâmico)*
+> 🧠 **[GLÂNDULA PINEAL]** ➔ *Possui células fotorreceptoras homólogas!*
+> ⬇️
+> 💤 **[Modulação de Melatonina / Ritmo Circadiano]**
 
 Dotada de conexões indiretas com as vias ópticas, a pineal funciona em diversas
 espécies como um autêntico órgão sensorial profundo, sensível a variações
