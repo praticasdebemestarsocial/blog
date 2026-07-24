@@ -2,7 +2,7 @@
 layout: post
 title: "A Filosofia Genuinamente Brasileira: A Sabedoria Ancestral que Sempre Esteve Aqui"
 date: 2026-07-24T00:00:00-03:00
-tags: ["filosofia indígena brasileira", "descolonização do pensamento", "cosmocentrismo", "bem-viver", "xamanismo", "sabedoria ancestral", "espiritualidade integrativa", "pluriepistemiologia"]
+tags: ["filosofia indígena brasileira", "descolonização do pensamento", "cosmocentrismo", "bem-viver", "xamanismo", "sabedoria ancestral", "espiritualidade integrativa", "pluriepistemiologia", "psicoespiritualidade", "grande america ancestral", "cultura dos povos indigenas"]
 categories: []
 description: "Antes de Cabral, já havia filosofia. Antes dos livros, já havia sabedoria. Antes das universidades, já havia mestres."
 image: "/assets/img/posts/filosofia_brasileira.jpg"
