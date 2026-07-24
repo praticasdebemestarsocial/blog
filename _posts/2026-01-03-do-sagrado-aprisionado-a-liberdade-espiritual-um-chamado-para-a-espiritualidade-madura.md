@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: "Do Sagrado Aprisionado à Liberdade Espiritual: um chamado para a espiritualidade madura"
 date: 2026-01-03T04:14:00.005Z
-tags: ["filosofia", "ciência e espiritualidade"]
+tags: ["filosofia", "ciência e espiritualidade", "espiritualidade", "autoconhecimento"]
 categories: ["bem-estar"]
 description: "Do Sagrado Aprisionado à Liberdade Espiritual: um chamado para a espiritualidade madura"
 image: "/assets/img/posts/Liberdade%20Espiritual.jpg"
