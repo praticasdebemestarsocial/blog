@@ -1,10 +1,11 @@
-﻿---
+---
 layout: post
 title: "Sinais do Despertar Somático: A Ciência e a Tradição por Trás da Percepção Expandida"
 date: 2026-06-13T17:01:35.902Z
 tags: ["autoconhecimento"]
 categories: ["bem-estar"]
 description: "Sinais do Despertar Somático: A Ciência e a Tradição por Trás da Percepção Expandida"
+image: "/assets/img/posts/despertar_somatico.jpg"
 ---
 
 ## Sinais do Despertar Somático: A Ciência e a Tradição por Trás da Percepção Expandida
