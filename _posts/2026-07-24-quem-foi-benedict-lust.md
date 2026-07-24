@@ -23,7 +23,7 @@ Benedict Lust foi o médico alemão-americano responsável por formalizar e cons
 
 ## Desenvolvimento
 
-### O Início de uma Jornada de Cura
+### O Início de uma Jornada de recuperação
 Nascido em Michelbach, Baden, na Alemanha, Benedict Lust (1872–1945) teve sua vida transformada ainda jovem por uma grave doença. Foi tratado pelo Padre Sebastian Kneipp, pioneiro europeu das terapias naturais e famoso defensor do sistema de equilíbrio pela água (hidroterapia). A experiência foi tão transformadora que, em 1892, Lust mudou-se para os Estados Unidos como representante oficial de Kneipp, com a missão de difundir esses métodos de cuidados naturais.
 
 ### A Formalização da Naturopatia nos EUA
@@ -35,7 +35,7 @@ Em 1896, iniciou sua carreira prática abrindo um centro de saúde e uma loja de
 * Estabeleceu resorts de saúde conhecidos como Yungborn em Nova Jersey e na Flórida, que serviram como campus de inverno para sua escola por décadas.
 
 ### A Fusão de Saberes: Do Kneipp ao Ayurveda
-Lust era um visionário que entendia a saúde de forma verdadeiramente global. Discípulo do naturopata alemão Adolf Just, Lust traduziu em 1903 a obra Kehrt zur Natur zurück! para o inglês (Return to Nature), popularizando os conceitos de vida e cura naturais.
+Lust era um visionário que entendia a saúde de forma verdadeiramente global. Discípulo do naturopata alemão Adolf Just, Lust traduziu em 1903 a obra Kehrt zur Natur zurück! para o inglês (Return to Nature), popularizando os conceitos de vida e cuidados naturais.
 
 Mas sua visão ia além da Europa. Lust foi fundamental para introduzir conceitos indianos de Ayurveda e Yoga ao público americano. Sua revista, Nature’s Path, publicada a partir de 1918, contou com a colaboração de figuras como Paramahansa Yogananda na década de 1920, criando uma ponte rara e valiosa entre o Oriente e o Ocidente no campo da saúde integrativa.
 
