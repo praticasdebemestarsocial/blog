@@ -2,7 +2,7 @@
 layout: post
 title: "Iridologia: O Que a Ciência Diz Sobre a Leitura da Íris e Seus Limites"
 date: 2026-07-24T12:30:00.000Z
-tags: ["iridologia", "diagnóstico pela íris", "saúde integrativa", "medicina complementar", "avaliação constitucional", "naturopatia", "evidência científica", "holismo"]
+tags: ["iridologia", "diagnóstico pela íris", "saúde integrativa", "medicina complementar", "avaliação constitucional", "naturopatia", "evidência científica", "holismo", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: ["bem-estar"]
 description: "Neste artigo, exploramos o que a ciência realmente diz sobre a iridologia, equilibrando curiosidade com pensamento crítico."
 image: "/assets/img/posts/iridologia_leitura_iris.jpg"

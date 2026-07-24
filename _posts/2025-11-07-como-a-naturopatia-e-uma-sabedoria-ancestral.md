@@ -2,7 +2,7 @@
 layout: post
 title: "Como a naturopatia é uma sabedoria ancestral?"
 date: 2025-11-07T06:19:00.002Z
-tags: ["naturopatia"]
+tags: ["naturopatia", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: ["bem-estar"]
 description: "As Raízes da Naturopatia: Um Chamado à Unidade, à Sabedoria Ancestral e à Equilíbrio Consciente"
 ---

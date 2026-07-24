@@ -2,7 +2,7 @@
 layout: post
 title: "Ciência e Natureza em Sintonia: A Abordagem Integrativa contra o Esgotamento Moderno e a Inflamação Crônica"
 date: 2026-03-15T14:30:00.002Z
-tags: ["desintoxicação natural", "saúde integrativa", "inflamação crônica", "homeostase", "naturopatia", "estresse oxidativo", "vitalidade", "autocuidado", "dietoterapia", "fitoterapia"]
+tags: ["desintoxicação natural", "saúde integrativa", "inflamação crônica", "homeostase", "naturopatia", "estresse oxidativo", "vitalidade", "autocuidado", "dietoterapia", "fitoterapia", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: ["bem-estar"]
 description: "A sensação de acúmulo de toxinas, inflamação crônica e acidez corporal tem levado muitas pessoas a buscar formas naturais de limpar o organismo."
 image: "/assets/img/posts/acumulos_desintoxicacao.jpg"

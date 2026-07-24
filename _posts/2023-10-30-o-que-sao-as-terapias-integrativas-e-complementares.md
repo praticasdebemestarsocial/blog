@@ -2,7 +2,7 @@
 layout: post
 title: "🧘O que são as Terapias Integrativas e Complementares?"
 date: 2023-10-30 00:39:00 +0000
-tags: [terapiasintegrativasecomplementares, bemestar, naturopatia, cursosead, ead, blog, Naturologia, cursoonline, cursoadistância, TerapiasHolísticas, medicinatradicionalchinesa, ensinoadistância, mtc]
+tags: ["terapiasintegrativasecomplementares", "bemestar", "naturopatia", "cursosead", "ead", "blog", "Naturologia", "cursoonline", "cursoadistância", "TerapiasHolísticas", "medicinatradicionalchinesa", "ensinoadistância", "mtc", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: []
 description: "As Terapias Integrativas e Complementares, muitas vezes referidas como Terapias Complementares e Alternativas (TCA), são uma variedade de abordagens t"
 math: false

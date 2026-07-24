@@ -2,7 +2,7 @@
 layout: post
 title: "Quais os pilares da naturopatia restaurativa?"
 date: 2025-11-07T06:33:00.002Z
-tags: ["naturopatia"]
+tags: ["naturopatia", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: ["bem-estar"]
 description: "Os Sete Pilares da Naturopatia: Uma Medicina que Ensina, Respeita e Restaura"
 ---

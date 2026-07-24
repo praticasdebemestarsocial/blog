@@ -2,7 +2,7 @@
 layout: post
 title: "Quais as doenças que os profissionais de nutridieta tratam?"
 date: 2024-01-25 06:59:00 +0000
-tags: [nutricionista, doençasdigestivas, problemasgastrointestinal, naturopata, naturologo, nutriterapeuta, blog, nutrologo, cursoonline, alimentação, dieta]
+tags: ["nutricionista", "doençasdigestivas", "problemasgastrointestinal", "naturopata", "naturologo", "nutriterapeuta", "blog", "nutrologo", "cursoonline", "alimentação", "dieta", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: []
 description: "Nesta jornada, exploraremos as nuances dessas profissões, destacando suas diferenças, contribuições individuais e como, em conjunto, oferecem abordage"
 math: false

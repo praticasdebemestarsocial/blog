@@ -2,7 +2,7 @@
 layout: post
 title: "👩🏻‍⚕️Como é o prognóstico de Bem Estar do Terapeuta Naturopata?"
 date: 2023-11-05 01:19:00 +0000
-tags: [terapeutanaturalista, praticasintegrativasecomplementares, naturopata, naturologo, terapeutanaturista, blog]
+tags: ["terapeutanaturalista", "praticasintegrativasecomplementares", "naturopata", "naturologo", "terapeutanaturista", "blog", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: []
 description: "O prognóstico de terapias naturais fornecido por um naturopata geralmente se refere às expectativas e 
 resultados esperados do tratamento natural ou h"

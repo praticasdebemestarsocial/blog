@@ -2,7 +2,7 @@
 layout: post
 title: "🥦O que é Detox?"
 date: 2023-10-16 02:50:00 +0000
-tags: [limpezadofígado, naturopatia, ead, detox, Naturologia, cursoonline, desintoxicação, cursoadistância, cursoead, fitness, limpezadointestino, ensinoadistância, depuração, dieta]
+tags: ["limpezadofígado", "naturopatia", "ead", "detox", "Naturologia", "cursoonline", "desintoxicação", "cursoadistância", "cursoead", "fitness", "limpezadointestino", "ensinoadistância", "depuração", "dieta", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: []
 description: "Detox é uma palavra que é frequentemente usada para se referir a um processo de desintoxicação ou limpeza do corpo."
 math: false

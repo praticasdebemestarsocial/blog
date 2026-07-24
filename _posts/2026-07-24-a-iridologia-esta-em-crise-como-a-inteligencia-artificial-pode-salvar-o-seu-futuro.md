@@ -2,7 +2,7 @@
 layout: post
 title: "A Iridologia Está em Crise? Como a Inteligência Artificial (IA) Pode Salvar o Seu Futuro"
 date: 2026-07-24T12:00:00.000Z
-tags: ["iridologia", "inteligência artificial", "saúde integrativa", "visão computacional", "deep learning", "medicina preventiva", "naturopatia", "diagnóstico complementar"]
+tags: ["iridologia", "inteligência artificial", "saúde integrativa", "visão computacional", "deep learning", "medicina preventiva", "naturopatia", "diagnóstico complementar", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: ["bem-estar"]
 description: "O futuro da iridologia como a conhecemos está por um fio. Se nada mudar, essa prática milenar pode desaparecer."
 image: "/assets/img/posts/iridologia_crise.jpg"

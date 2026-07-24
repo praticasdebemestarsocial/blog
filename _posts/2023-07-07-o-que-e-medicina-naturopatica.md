@@ -2,7 +2,7 @@
 layout: post
 title: "👩🏻‍⚕️O que é Medicina Naturopática?"
 date: 2023-07-07 07:39:00 +0000
-tags: [terapiaholística, mudançanadieta, suplementosnutricionais, naturopatia, ebookbemestar, terapiasnaturais, blog, medicinaholística, Naturologia]
+tags: ["terapiaholística", "mudançanadieta", "suplementosnutricionais", "naturopatia", "ebookbemestar", "terapiasnaturais", "blog", "medicinaholística", "Naturologia", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: []
 description: "A Medicina Naturopática é uma abordagem de cuidados de saúde que enfatiza o uso de Terapias Naturais e não invasivas para tratar o paciente como um to"
 math: false

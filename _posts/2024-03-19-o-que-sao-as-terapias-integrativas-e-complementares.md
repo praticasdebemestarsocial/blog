@@ -2,7 +2,7 @@
 layout: post
 title: "O que são as terapias integrativas e complementares?"
 date: 2024-03-19 09:36:00 +0000
-tags: [curso on line, naturopatia, terapias integrativas e complementares, práticas integrativas e complementares, terapias naturais, Naturologia]
+tags: ["curso on line", "naturopatia", "terapias integrativas e complementares", "práticas integrativas e complementares", "terapias naturais", "Naturologia", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: []
 description: "Uma abordagem holística da saúde considera o indivíduo como um todo, integrando mente, corpo e espírito."
 math: false

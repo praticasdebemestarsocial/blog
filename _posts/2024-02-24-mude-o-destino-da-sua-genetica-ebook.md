@@ -2,7 +2,7 @@
 layout: post
 title: "Mude o destino da sua genética. Ebook"
 date: 2024-02-24 00:05:00 +0000
-tags: [Nutriterapia, naturopatia, ebookdietoterapia, nutrição, dietoterapia, dieta, Naturologia]
+tags: ["Nutriterapia", "naturopatia", "ebookdietoterapia", "nutrição", "dietoterapia", "dieta", "Naturologia", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: []
 description: "\"Change Your Genetic Destiny\" apresenta a abordagem revolucionária do Dr. Peter J. D'Adamo para a dieta, vinculando-a ao tipo sanguíneo e aos seis tip"
 math: false

@@ -2,7 +2,7 @@
 layout: post
 title: "👩🏻‍⚕️Quais os maiores naturopatas americanos?Ebook"
 date: 2023-07-05 12:55:00 +0000
-tags: [naturopatia, naturopata, terapias integrativas e complementares, naturologo, blog, terapias naturais, terapeuta naturalista, ebook terapias complementares, terapeuta naturista, Naturologia]
+tags: ["naturopatia", "naturopata", "terapias integrativas e complementares", "naturologo", "blog", "terapias naturais", "terapeuta naturalista", "ebook terapias complementares", "terapeuta naturista", "Naturologia", "Naturopatia/Naturologia/TerapiasNaturais"]
 categories: []
 description: "Muitas pessoas ainda não conhecem a profissão de naturopata ou naturólogo, mas é uma das profissões que mais se destacam na sociedade, como agentes de"
 math: false
