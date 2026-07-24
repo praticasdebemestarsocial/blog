@@ -2,7 +2,7 @@
 layout: post
 title: "O Tesouro Oculto da Abóbora: As Sementes como Aliadas da Vitalidade e da Saúde Sistêmica"
 date: 2026-07-23T08:00:00.000Z
-tags: ["sementes de abóbora", "nutrição funcional", "saúde cardiovascular", "zinco", "proteína vegetal", "regulação glicêmica", "naturopatia", "saúde integrativa"]
+tags: ["sementes de abóbora", "nutrição funcional", "saúde cardiovascular", "zinco", "proteína vegetal", "regulação glicêmica", "naturopatia", "saúde integrativa", "fitoterapia", "dietoterapia", "plantas medicinais"]
 categories: ["bem-estar"]
 description: "Pequenas na forma, mas gigantescas em impacto, as sementes de abóbora são uma potência de nutrientes essenciais que oferecem benefícios sistêmicos profundos."
 image: "/assets/img/posts/abobora.jpg"
