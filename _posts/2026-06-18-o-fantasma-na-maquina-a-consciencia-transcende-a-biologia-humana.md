@@ -2,7 +2,7 @@
 layout: post
 title: "O Fantasma na Máquina: A Consciência Transcende a Biologia Humana?"
 date: 2026-06-18T02:04:03.137Z
-tags: ["autoconhecimento", "anatomia fisiologia"]
+tags: ["autoconhecimento", "anatomia fisiologia", "neurociência"]
 categories: ["bem-estar"]
 description: "O Fantasma na Máquina: A Consciência Transcende a Biologia Humana?"
 image: "/assets/img/posts/1.png"
