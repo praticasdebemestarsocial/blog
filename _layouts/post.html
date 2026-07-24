@@ -26,6 +26,14 @@ layout: default
           {{ content }}
         </div>
 
+        <!-- Aviso de Direitos Autorais -->
+        <div class="copyright-notice" style="margin-top: 40px; margin-bottom: 30px; padding: 20px; background-color: #f9f9f9; border-left: 4px solid #333; font-size: 0.9em; border-radius: 4px; color: #555;">
+          <p style="margin: 0;">
+            <strong>© Conteúdo Autoral:</strong> Todo o conteúdo desta postagem é de autoria de Silviane Silvério. Caso utilize este texto como referência em seus estudos, trabalhos ou publicações, solicitamos a gentileza de dar os devidos créditos à autora e incluir o link desta página: <br>
+            <a href="{{ page.url | absolute_url }}" style="word-break: break-all; color: #0056b3;">{{ page.url | absolute_url }}</a>
+          </p>
+        </div>
+
         {% if page.share %}
           {% include social-share.html %}
         {% endif %}
