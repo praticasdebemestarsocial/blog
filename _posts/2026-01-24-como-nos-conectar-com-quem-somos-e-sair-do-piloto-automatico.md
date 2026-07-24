@@ -2,7 +2,7 @@
 layout: post
 title: "Como nos Conectar com Quem Somos — e Sair do Piloto Automático"
 date: 2026-01-24T23:39:00.001Z
-tags: ["autoconhecimento"]
+tags: ["autoconhecimento", "iridologia"]
 categories: ["bem-estar"]
 description: "Como nos Conectar com Quem Somos — e Sair do Piloto Automático"
 image: "/assets/img/posts/sair_piloto_automatico.jpg"
